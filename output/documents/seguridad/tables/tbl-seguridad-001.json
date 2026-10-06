@@ -1,0 +1,31 @@
+{
+  "id": "tbl-seguridad-001",
+  "page": 11,
+  "section_id": "sec-seguridad-011",
+  "caption": "Clasificación de los gases en la lámina de cilindros",
+  "headers": [
+    "Grupo",
+    "Gases"
+  ],
+  "rows": [
+    [
+      "Combustibles",
+      "Acetileno. Propano. Gas natural."
+    ],
+    [
+      "Gases inertes",
+      "Nitrógeno. Argón. Helio."
+    ],
+    [
+      "Comburentes",
+      "Oxígeno."
+    ],
+    [
+      "Gases activos",
+      "CO2"
+    ]
+  ],
+  "notes": "En la lámina los cuatro grupos van en dos columnas. El texto es el de la diapositiva; la disposición se confirmó visualmente.",
+  "source": "visual",
+  "confidence": "high"
+}

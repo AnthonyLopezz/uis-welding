@@ -1,0 +1,1591 @@
+Quiero que construyas una **plataforma web interactiva de aprendizaje** utilizando como fuente de conocimiento los datos extraídos y estructurados de los PDFs disponibles en el proyecto.
+
+La finalidad NO es crear un simple visor de documentos.
+
+Quiero transformar todo el contenido extraído en una **experiencia de estudio interactiva**, donde el usuario pueda aprender los temas progresivamente, consultar imágenes, responder preguntas, revisar errores y medir su progreso.
+
+La interfaz debe ser sencilla, limpia, moderna y responsive, inspirada visualmente en la identidad institucional de la **Universidad Industrial de Santander (UIS), Colombia**, sin copiar literalmente su sitio web.
+
+---
+
+# 1. Objetivo de la aplicación
+
+La aplicación debe permitir al usuario:
+
+* explorar todos los temas disponibles
+* estudiar por categorías
+* estudiar por temas
+* leer contenido estructurado
+* visualizar imágenes asociadas al contenido
+* consultar tablas
+* responder preguntas durante el estudio
+* recibir retroalimentación inmediata
+* repetir preguntas incorrectas
+* marcar temas como completados
+* visualizar su progreso
+* identificar temas débiles
+* continuar donde dejó el estudio
+* realizar sesiones de repaso
+* realizar evaluaciones
+* buscar contenido
+* navegar fácilmente entre temas
+
+La experiencia debe sentirse más como una **plataforma educativa interactiva** que como una biblioteca de PDFs.
+
+---
+
+# 2. Analiza primero los datos existentes
+
+Antes de comenzar a desarrollar:
+
+1. Inspecciona todo el proyecto.
+2. Identifica dónde están los JSON/datos estructurados provenientes de los PDFs.
+3. Analiza su estructura real.
+4. Identifica:
+
+   * documentos
+   * categorías
+   * subcategorías
+   * temas
+   * secciones
+   * imágenes
+   * tablas
+   * enlaces
+   * metadatos
+5. No asumas una estructura que no exista.
+6. Adapta el frontend a los datos reales.
+
+Si la estructura de datos necesita pequeñas transformaciones para ser consumida correctamente por el frontend, implementa una capa de normalización.
+
+No modifiques arbitrariamente los datos originales.
+
+---
+
+# 3. Stack
+
+Si el proyecto ya tiene un stack definido, respétalo.
+
+Si debes comenzar desde cero, utiliza preferiblemente:
+
+* React
+* TypeScript
+* Vite
+* CSS moderno o Tailwind CSS
+* React Router para navegación
+* Lucide Icons o una librería de iconos equivalente
+* LocalStorage para persistencia local del progreso
+
+Evita introducir dependencias innecesarias.
+
+La aplicación debe poder ejecutarse fácilmente con:
+
+```bash
+npm install
+npm run dev
+```
+
+y debe tener:
+
+```bash
+npm run build
+```
+
+funcionando correctamente.
+
+---
+
+# 4. Diseño visual
+
+Quiero un diseño inspirado en la **UIS — Universidad Industrial de Santander**.
+
+Características:
+
+* institucional
+* académico
+* limpio
+* sobrio
+* moderno
+* buena jerarquía visual
+* mucho espacio en blanco
+* tarjetas limpias
+* tipografía legible
+* navegación clara
+
+Puedes tomar como referencia conceptual:
+
+* identidad universitaria
+* ambientes académicos
+* facultades
+* campus
+* investigación
+* aprendizaje
+
+Pero NO copies literalmente el sitio web de la UIS.
+
+Debe sentirse como una aplicación educativa moderna con inspiración institucional.
+
+---
+
+# 5. Paleta visual
+
+Utiliza una paleta basada en tonos institucionales sobrios:
+
+* verde institucional como color principal
+* blanco
+* gris muy claro
+* gris oscuro
+* tonos neutros
+* un color secundario para estados de progreso
+
+No abuses del color.
+
+El verde debe utilizarse principalmente para:
+
+* botones principales
+* progreso
+* estados activos
+* enlaces importantes
+* indicadores positivos
+
+---
+
+# 6. Responsive design
+
+La aplicación debe funcionar correctamente en:
+
+* desktop
+* laptop
+* tablet
+* móvil
+
+No quiero simplemente una versión desktop que "se reduzca".
+
+Diseña realmente para mobile-first.
+
+En móvil:
+
+* sidebar transformada en menú
+* navegación simplificada
+* tarjetas apiladas
+* preguntas fáciles de responder con el pulgar
+* imágenes adaptativas
+* tablas con scroll horizontal cuando sea necesario
+* botones suficientemente grandes
+* textos legibles
+
+---
+
+# 7. Arquitectura de la aplicación
+
+Crea como mínimo las siguientes vistas:
+
+```text
+/
+├── Dashboard
+├── Categorías
+├── Categoría/:id
+├── Tema/:id
+├── Estudiar/:id
+├── Pregunta/:id
+├── Repaso
+├── Evaluación
+├── Progreso
+└── Buscar
+```
+
+---
+
+# 8. Dashboard
+
+La página principal debe mostrar:
+
+### Header
+
+* logo/nombre de la plataforma
+* buscador
+* botón de progreso
+* menú de usuario/preferencias
+
+### Resumen
+
+Por ejemplo:
+
+```text
+Buenos días
+
+Continúa aprendiendo
+
+[ Tema actual ]
+[ Continuar estudiando → ]
+
+--------------------------------
+
+Tu progreso
+
+████████████░░░░ 72%
+
+24 temas completados
+8 temas pendientes
+12 preguntas dominadas
+```
+
+### Categorías
+
+Mostrar tarjetas:
+
+```text
+📚 Categoría
+
+Nombre
+12 temas
+65% completado
+
+[Continuar]
+```
+
+### Continuar estudiando
+
+Recordar automáticamente el último tema visitado.
+
+### Temas que necesitas reforzar
+
+Mostrar temas donde el usuario:
+
+* tuvo respuestas incorrectas
+* tiene bajo progreso
+* no ha estudiado recientemente
+
+---
+
+# 9. Explorador de contenidos
+
+Crear una página para explorar todos los contenidos.
+
+Debe permitir:
+
+* buscar
+* filtrar por categoría
+* filtrar por subcategoría
+* ordenar
+* mostrar progreso
+* mostrar dificultad
+
+Ejemplo:
+
+```text
+Todos los temas
+
+[ 🔎 Buscar temas... ]
+
+Filtros:
+[Todas] [Categoría 1] [Categoría 2]
+
+--------------------------------
+
+Tema
+Categoría
+Descripción
+
+██████░░░░ 60%
+
+[Estudiar]
+```
+
+---
+
+# 10. Página de tema
+
+Esta es una de las partes más importantes.
+
+Debe presentar el contenido de manera pedagógica.
+
+Estructura:
+
+```text
+← Volver
+
+Categoría
+
+# Nombre del tema
+
+Descripción
+
+Progreso
+██████░░░░ 60%
+
+[ Comenzar estudio ]
+
+--------------------------------
+
+Contenido
+
+## Introducción
+
+Texto...
+
+## Conceptos principales
+
+Texto...
+
+[Imagen]
+
+Descripción de imagen
+
+## Características
+
+• Punto
+• Punto
+• Punto
+
+## Ejemplo
+
+...
+
+## Tabla
+
+...
+
+--------------------------------
+
+¿Listo para comprobar lo aprendido?
+
+[Responder preguntas]
+```
+
+No mostrar todo como un bloque enorme de texto.
+
+Divide el contenido en pequeñas unidades visuales.
+
+---
+
+# 11. Imágenes
+
+Las imágenes extraídas de los PDFs son parte fundamental del aprendizaje.
+
+Cada imagen debe:
+
+* tener visualización responsive
+* tener caption
+* tener alt text
+* poder ampliarse
+* mostrar contexto
+* estar vinculada con el tema correspondiente
+
+Implementa un lightbox/modal para ampliar imágenes.
+
+Cuando una imagen contenga información importante, puedes presentar:
+
+```text
+┌──────────────────────────────┐
+│                              │
+│          IMAGEN              │
+│                              │
+└──────────────────────────────┘
+
+Descripción
+
+💡 ¿Qué debes observar?
+
+Explicación relacionada con la imagen.
+```
+
+---
+
+# 12. Aprendizaje interactivo
+
+No quiero que el usuario simplemente lea.
+
+Mientras estudia, introduce pequeñas interacciones.
+
+Después de determinadas secciones:
+
+```text
+┌─────────────────────────────────┐
+│ Comprueba lo que aprendiste     │
+│                                 │
+│ ¿Cuál de estas afirmaciones     │
+│ es correcta?                    │
+│                                 │
+│ ○ A                             │
+│ ○ B                             │
+│ ○ C                             │
+│ ○ D                             │
+│                                 │
+│ [Comprobar respuesta]           │
+└─────────────────────────────────┘
+```
+
+Después de responder:
+
+### Correcta
+
+Mostrar:
+
+```text
+✓ ¡Correcto!
+
+Muy bien.
+
+La respuesta correcta es B porque...
+
+[Continuar]
+```
+
+### Incorrecta
+
+Mostrar:
+
+```text
+✕ No exactamente.
+
+La respuesta correcta es B.
+
+¿Por qué?
+
+...
+
+[Volver a estudiar esta parte]
+[Continuar]
+```
+
+---
+
+# 13. Sistema de preguntas
+
+Genera preguntas utilizando exclusivamente el contenido de los datos extraídos.
+
+NO inventes conocimientos externos.
+
+Tipos de preguntas:
+
+### Selección múltiple
+
+```text
+¿Cuál es...?
+
+○ A
+○ B
+○ C
+○ D
+```
+
+### Verdadero / falso
+
+```text
+La afirmación X es correcta.
+
+[Verdadero] [Falso]
+```
+
+### Relacionar conceptos
+
+Cuando los datos permitan hacerlo.
+
+### Identificación mediante imagen
+
+Cuando una imagen sea apropiada:
+
+```text
+Observa la imagen.
+
+¿Qué representa?
+
+[ A ]
+[ B ]
+[ C ]
+[ D ]
+```
+
+### Pregunta basada en tabla
+
+Utilizar los datos de las tablas extraídas.
+
+---
+
+# 14. Calidad de las preguntas
+
+Las preguntas deben evaluar comprensión, no solamente memoria literal.
+
+Prioridad:
+
+1. comprensión
+2. aplicación
+3. identificación
+4. relación entre conceptos
+5. memoria
+
+Cada pregunta debe tener:
+
+```ts
+{
+  id: string;
+  topicId: string;
+  type: "multiple-choice" | "true-false" | "image" | "matching";
+  question: string;
+  options?: string[];
+  correctAnswer: string;
+  explanation: string;
+  difficulty: "easy" | "medium" | "hard";
+  sourcePage?: number;
+}
+```
+
+La pregunta debe poder rastrearse hasta el contenido que la originó.
+
+---
+
+# 15. Sistema de progreso
+
+Implementa progreso local utilizando LocalStorage.
+
+Guardar como mínimo:
+
+* temas iniciados
+* temas completados
+* porcentaje de progreso
+* preguntas respondidas
+* respuestas correctas
+* respuestas incorrectas
+* porcentaje de acierto
+* última fecha de estudio
+* último tema visitado
+* preguntas que requieren repaso
+
+Ejemplo:
+
+```ts
+{
+  topicId: "topic-001",
+  progress: 75,
+  completed: false,
+  questionsAnswered: 12,
+  correctAnswers: 9,
+  incorrectAnswers: 3,
+  lastStudied: "2026-10-06"
+}
+```
+
+---
+
+# 16. Sistema de repaso
+
+Crear una sección:
+
+```text
+Repaso
+
+Tienes 8 conceptos para reforzar.
+
+[Comenzar repaso]
+```
+
+Las preguntas deben priorizar:
+
+1. errores recientes
+2. temas con bajo porcentaje de acierto
+3. temas no estudiados recientemente
+4. contenido importante aún no dominado
+
+---
+
+# 17. Evaluaciones
+
+Permitir iniciar una evaluación por:
+
+* categoría
+* tema
+* conjunto de temas
+* todo el contenido
+
+Ejemplo:
+
+```text
+Evaluación
+
+20 preguntas
+Tiempo estimado: 15 min
+
+Dificultad:
+● Fácil
+● Media
+● Difícil
+
+[Comenzar evaluación]
+```
+
+Al finalizar:
+
+```text
+Resultado
+
+17 / 20
+
+85%
+
+████████████████░░░░
+
+✓ Dominaste la mayoría de los conceptos.
+
+Debes reforzar:
+
+- Tema A
+- Tema C
+
+[Revisar errores]
+[Volver al inicio]
+```
+
+---
+
+# 18. Gamificación ligera
+
+No quiero una aplicación infantil.
+
+Puedes utilizar elementos sutiles:
+
+* racha de estudio
+* porcentaje de dominio
+* temas completados
+* preguntas dominadas
+* progreso general
+
+Evita:
+
+* exceso de badges
+* animaciones innecesarias
+* sonidos
+* colores infantiles
+
+Debe sentirse académico.
+
+---
+
+# 19. Navegación durante el estudio
+
+Durante una sesión:
+
+```text
+Tema
+
+────────────────────────────
+
+Contenido 1
+Contenido 2
+Contenido 3
+
+────────────────────────────
+
+Pregunta 4 / 10
+
+...
+
+[← Anterior]        [Siguiente →]
+```
+
+Mostrar siempre:
+
+* progreso
+* ubicación
+* número de pregunta
+* posibilidad de volver
+
+Evitar que el usuario se pierda.
+
+---
+
+# 20. Búsqueda
+
+Implementa búsqueda global.
+
+Debe encontrar:
+
+* títulos
+* categorías
+* contenido
+* tags
+* conceptos
+* captions de imágenes
+
+Mostrar resultados agrupados:
+
+```text
+Resultados para "concepto"
+
+Temas
+────────────
+
+Tema A
+
+Tema B
+
+Contenido
+────────────
+
+...
+```
+
+---
+
+# 21. Accesibilidad
+
+La aplicación debe cumplir buenas prácticas de accesibilidad.
+
+Implementa:
+
+* HTML semántico
+* `alt`
+* labels
+* navegación mediante teclado
+* foco visible
+* contraste suficiente
+* botones accesibles
+* estados claros
+* soporte para lectores de pantalla
+
+No dependas exclusivamente del color para comunicar estados.
+
+---
+
+# 22. Componentización
+
+Construye componentes reutilizables.
+
+Por ejemplo:
+
+```text
+components/
+├── Header
+├── Sidebar
+├── MobileMenu
+├── ProgressBar
+├── TopicCard
+├── CategoryCard
+├── StudySection
+├── ImageViewer
+├── ImageLightbox
+├── TableViewer
+├── QuestionCard
+├── AnswerOption
+├── FeedbackPanel
+├── QuizProgress
+├── SearchBar
+├── EmptyState
+└── LoadingState
+```
+
+No hagas una única página gigantesca.
+
+---
+
+# 23. Arquitectura de datos
+
+Crea una capa separada para acceder a los datos.
+
+Por ejemplo:
+
+```text
+src/
+├── data/
+├── services/
+├── hooks/
+├── components/
+├── pages/
+├── types/
+├── utils/
+└── store/
+```
+
+El frontend no debería estar acoplado directamente a archivos JSON específicos.
+
+Crear funciones como:
+
+```ts
+getDocuments()
+getCategories()
+getTopics()
+getTopicById(id)
+getQuestionsByTopic(id)
+searchContent(query)
+getProgress()
+saveProgress()
+```
+
+---
+
+# 24. Estado de la aplicación
+
+Centraliza el estado relacionado con:
+
+* progreso
+* sesión de estudio
+* preguntas
+* respuestas
+* preferencias
+
+No dupliques estados innecesariamente.
+
+---
+
+# 25. Persistencia
+
+Inicialmente NO necesito backend.
+
+Utiliza:
+
+```text
+LocalStorage
+```
+
+para persistir:
+
+* progreso
+* preguntas respondidas
+* configuración
+* último tema
+
+Pero diseña la arquitectura de forma que posteriormente pueda reemplazarse LocalStorage por una API REST.
+
+No acoples toda la aplicación a LocalStorage.
+
+---
+
+# 26. Animaciones
+
+Utiliza animaciones muy sutiles:
+
+* transición de progreso
+* hover
+* aparición de tarjetas
+* feedback de respuesta
+* navegación
+
+No utilizar animaciones excesivas.
+
+La prioridad es:
+
+**velocidad + claridad + experiencia académica.**
+
+---
+
+# 27. Estados de UI
+
+Implementa correctamente:
+
+* loading
+* error
+* empty state
+* contenido no encontrado
+* búsqueda sin resultados
+* imagen no disponible
+* documento sin preguntas
+* categoría vacía
+
+Nunca dejes pantallas completamente blancas.
+
+---
+
+# 28. Manejo de errores
+
+Si un dato proveniente del PDF está incompleto:
+
+```text
+Información no disponible
+```
+
+No muestres:
+
+```text
+undefined
+null
+NaN
+```
+
+El frontend debe manejar contenido imperfecto.
+
+---
+
+# 29. Performance
+
+Optimiza:
+
+* imágenes
+* renderizado
+* listas
+* búsqueda
+* carga inicial
+
+Utiliza lazy loading cuando tenga sentido.
+
+No cargues todas las imágenes pesadas de todos los PDFs al iniciar la aplicación.
+
+---
+
+# 30. UX
+
+La regla principal es:
+
+> El usuario siempre debe saber qué está estudiando, cuánto ha avanzado y qué debería hacer después.
+
+Cada pantalla debe tener una acción principal clara.
+
+Ejemplo:
+
+```text
+Estás estudiando:
+Fundamentos
+
+Progreso:
+65%
+
+Siguiente:
+Concepto X
+
+[Continuar estudiando]
+```
+
+---
+
+# 31. Página de progreso
+
+Crear dashboard detallado:
+
+```text
+Mi progreso
+
+Progreso general
+██████████████░░ 72%
+
+Categorías
+
+Categoría A     90%
+Categoría B     64%
+Categoría C     32%
+
+--------------------------------
+
+Preguntas
+
+Respondidas: 120
+Correctas: 96
+Precisión: 80%
+
+--------------------------------
+
+Temas por reforzar
+
+Tema A
+Tema C
+Tema F
+```
+
+---
+
+# 32. Tema visual
+
+Mantén una estética coherente:
+
+```text
+┌─────────────────────────────────────────┐
+│ UIS Learning                             │
+├──────────────┬──────────────────────────┤
+│              │                          │
+│ Dashboard    │   Contenido              │
+│ Categorías   │                          │
+│ Explorar     │   Tema                   │
+│ Repaso       │                          │
+│ Progreso     │   ───────────────        │
+│              │                          │
+│              │   Texto                  │
+│              │                          │
+│              │   Imagen                 │
+│              │                          │
+│              │   Pregunta               │
+│              │                          │
+└──────────────┴──────────────────────────┘
+```
+
+En móvil:
+
+```text
+┌──────────────────────┐
+│ ☰   UIS Learning 🔎 │
+├──────────────────────┤
+│                      │
+│ Tema                 │
+│                      │
+│ Contenido            │
+│                      │
+│ Imagen               │
+│                      │
+│ Pregunta             │
+│                      │
+└──────────────────────┘
+```
+
+---
+
+# 33. No hacer
+
+NO quiero:
+
+* un visor de PDF disfrazado de página web
+* enormes bloques de texto
+* diseño excesivamente colorido
+* animaciones exageradas
+* interfaces tipo videojuego infantil
+* información inventada
+* preguntas que no provengan del contenido
+* componentes duplicados
+* código monolítico
+* estilos inconsistentes
+* páginas que no funcionen en móvil
+* placeholders permanentes
+
+---
+
+# 34. Flujo ideal del usuario
+
+El flujo principal debería ser:
+
+```text
+Dashboard
+   ↓
+Categoría
+   ↓
+Tema
+   ↓
+Contenido
+   ↓
+Imagen / ejemplo / tabla
+   ↓
+Pregunta
+   ↓
+Respuesta
+   ↓
+Feedback
+   ↓
+Siguiente contenido
+   ↓
+Más preguntas
+   ↓
+Tema completado
+   ↓
+Progreso actualizado
+   ↓
+Repaso
+```
+
+---
+
+# 35. Entregables
+
+Quiero que implementes realmente la aplicación, no solamente que me entregues una propuesta.
+
+Al finalizar:
+
+1. La aplicación debe compilar.
+2. `npm run build` debe funcionar.
+3. Todas las rutas deben funcionar.
+4. Los datos reales de los PDFs deben estar conectados.
+5. Las imágenes deben mostrarse correctamente.
+6. Las preguntas deben funcionar.
+7. El progreso debe persistir.
+8. La búsqueda debe funcionar.
+9. La aplicación debe ser responsive.
+10. No debe haber errores de TypeScript.
+11. No debe haber errores importantes en consola.
+
+---
+
+# 36. Verificación final
+
+Antes de terminar ejecuta:
+
+```bash
+npm install
+npm run build
+```
+
+y, si existe:
+
+```bash
+npm run lint
+```
+
+Corrige todos los errores relevantes.
+
+Después revisa manualmente:
+
+* Desktop
+* Tablet
+* Mobile
+* Dashboard
+* búsqueda
+* navegación
+* estudio
+* preguntas
+* imágenes
+* progreso
+* repaso
+* evaluación
+
+---
+
+# 37. Principio final
+
+Construye esto pensando como:
+
+**diseñador UX + desarrollador frontend + diseñador instruccional.**
+
+Los PDFs son solamente la fuente de conocimiento.
+
+El producto final debe transformar ese conocimiento en una experiencia donde el usuario pueda:
+
+**explorar → estudiar → visualizar → responder → recibir feedback → repetir → dominar → medir su progreso.**
+
+Prioriza siempre:
+
+**claridad > cantidad de elementos**
+
+**usabilidad > efectos visuales**
+
+**contenido > decoración**
+
+**experiencia de aprendizaje > apariencia de PDF**
+
+**responsive > desktop solamente**
+
+Al finalizar, explícame brevemente:
+
+* qué arquitectura implementaste
+* qué componentes principales creaste
+* cómo consumes los datos de los PDFs
+* cómo funciona el sistema de preguntas
+* cómo funciona el progreso
+* cómo funciona el repaso
+* cómo funciona la búsqueda
+* qué queda preparado para conectar posteriormente con un backend/API
+## 38. Despliegue en Netlify
+
+La aplicación debe estar preparada específicamente para desplegarse en **Netlify** como una aplicación frontend estática.
+
+El objetivo es que después de ejecutar:
+
+```bash
+npm run build
+```
+
+Netlify pueda desplegar directamente el resultado sin necesidad de un servidor Node.js permanente.
+
+### Configuración esperada
+
+Si utilizas Vite, configura:
+
+```text
+Build command:
+npm run build
+
+Publish directory:
+dist
+```
+
+No dependas de funcionalidades exclusivas de un servidor local.
+
+---
+
+## 39. React Router en Netlify
+
+La aplicación utilizará rutas del frontend como:
+
+```text
+/
+ /categorias
+ /categoria/:id
+ /tema/:id
+ /estudiar/:id
+ /repaso
+ /evaluacion
+ /progreso
+ /buscar
+```
+
+Configura correctamente Netlify para que las rutas de React funcionen incluso cuando el usuario acceda directamente a una URL.
+
+Crea:
+
+```text
+public/_redirects
+```
+
+con:
+
+```text
+/* /index.html 200
+```
+
+De esta forma una URL como:
+
+```text
+https://mi-app.netlify.app/tema/fundamentos
+```
+
+debe funcionar incluso después de recargar la página.
+
+---
+
+## 40. Assets
+
+Todos los recursos estáticos deben funcionar correctamente en producción.
+
+Organiza los recursos de forma clara:
+
+```text
+public/
+├── images/
+├── icons/
+└── data/
+```
+
+o utiliza una estructura equivalente compatible con Vite.
+
+Evita referencias absolutas que funcionen únicamente en localhost.
+
+No utilices rutas como:
+
+```text
+C:\Users\...
+```
+
+ni:
+
+```text
+http://localhost:...
+```
+
+en el código final.
+
+---
+
+## 41. Datos de los PDFs
+
+Los datos extraídos de los PDFs deben poder consumirse directamente desde el frontend desplegado en Netlify.
+
+Si los JSON son estáticos, pueden almacenarse como assets públicos:
+
+```text
+public/data/
+├── index.json
+├── categories.json
+├── tags.json
+└── documents/
+```
+
+El frontend deberá consumirlos mediante `fetch`, por ejemplo:
+
+```ts
+fetch("/data/index.json")
+```
+
+No dependas de rutas locales del sistema de archivos.
+
+---
+
+## 42. Imágenes
+
+Las imágenes extraídas deben ser accesibles desde producción.
+
+Por ejemplo:
+
+```text
+public/
+└── images/
+    ├── documento-001/
+    │   ├── portada.webp
+    │   ├── imagen-01.webp
+    │   └── imagen-02.webp
+```
+
+Y deben consumirse mediante rutas compatibles con Netlify:
+
+```text
+/images/documento-001/portada.webp
+```
+
+Optimiza las imágenes para web.
+
+No cargues imágenes gigantes innecesariamente.
+
+---
+
+## 43. Variables de entorno
+
+Si la aplicación necesita variables de entorno, utiliza variables compatibles con Vite:
+
+```text
+VITE_...
+```
+
+Ejemplo:
+
+```text
+VITE_APP_NAME
+VITE_API_URL
+```
+
+Nunca hardcodees:
+
+* API keys
+* tokens
+* credenciales
+* secretos
+
+en el frontend.
+
+Recuerda que cualquier variable `VITE_*` termina siendo visible para el navegador, por lo que **NO debe contener secretos**.
+
+Si actualmente no existe backend, evita agregar variables innecesarias.
+
+---
+
+## 44. Sin backend obligatorio
+
+La primera versión debe funcionar completamente como frontend estático.
+
+Debe ser posible:
+
+```text
+PDFs
+ ↓
+JSON estructurado
+ ↓
+React
+ ↓
+Netlify
+```
+
+El progreso del usuario puede almacenarse inicialmente mediante:
+
+```text
+localStorage
+```
+
+Esto permite que la aplicación funcione sin una base de datos.
+
+Sin embargo, estructura el código de forma que posteriormente sea sencillo reemplazar:
+
+```ts
+LocalStorageProgressRepository
+```
+
+por algo como:
+
+```ts
+ApiProgressRepository
+```
+
+sin tener que reescribir toda la aplicación.
+
+---
+
+## 45. Netlify Functions
+
+NO utilices Netlify Functions salvo que sean realmente necesarias.
+
+La primera versión debe intentar ser completamente estática.
+
+Si alguna funcionalidad requiere backend, primero evalúa si puede resolverse mediante:
+
+* archivos JSON
+* LocalStorage
+* lógica del frontend
+
+Solo utiliza Functions si existe una necesidad real.
+
+---
+
+## 46. Compatibilidad con producción
+
+Antes de terminar, prueba que:
+
+```bash
+npm run build
+```
+
+genere:
+
+```text
+dist/
+```
+
+y que dentro de `dist` estén incluidos:
+
+* `index.html`
+* JavaScript
+* CSS
+* imágenes
+* JSON
+* `_redirects` o la configuración equivalente
+
+Verifica especialmente que las rutas de:
+
+```text
+/data
+/images
+```
+
+funcionen después del build.
+
+---
+
+## 47. Configuración netlify.toml
+
+Si es conveniente, crea:
+
+```text
+netlify.toml
+```
+
+con una configuración equivalente a:
+
+```toml
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+```
+
+No dupliques configuraciones innecesariamente entre `netlify.toml` y `_redirects`. Elige una estrategia coherente.
+
+---
+
+## 48. Optimización para Netlify
+
+Optimiza la aplicación para que:
+
+* tenga una carga inicial rápida
+* utilice lazy loading cuando sea apropiado
+* no cargue todos los documentos inmediatamente
+* no cargue todas las imágenes al inicio
+* utilice code splitting cuando sea conveniente
+* comprima/optimice imágenes
+* evite dependencias innecesarias
+
+La página inicial debe cargar únicamente la información necesaria para mostrar el Dashboard.
+
+---
+
+## 49. SEO
+
+Aunque sea una SPA, prepara correctamente:
+
+```html
+<title>
+<meta name="description">
+<meta name="viewport">
+<meta property="og:title">
+<meta property="og:description">
+```
+
+Cuando sea posible, actualiza dinámicamente el título y metadata según el tema actual.
+
+Ejemplo:
+
+```text
+UIS Learning — Fundamentos
+```
+
+---
+
+## 50. PWA — opcional
+
+Evalúa si tiene sentido convertir la aplicación en una PWA.
+
+Si lo haces, debe ser una implementación sencilla y funcional.
+
+Permitir eventualmente:
+
+* instalación en dispositivo
+* cache de recursos
+* acceso rápido
+
+Pero NO sacrifiques estabilidad por implementar PWA.
+
+Si agrega complejidad innecesaria, omítelo.
+
+---
+
+## 51. Checklist antes de entregar
+
+Antes de finalizar, verifica:
+
+### Desarrollo
+
+```bash
+npm run build
+```
+
+debe terminar correctamente.
+
+### Producción
+
+Verifica:
+
+* `/`
+* `/categorias`
+* `/tema/:id`
+* `/estudiar/:id`
+* `/repaso`
+* `/progreso`
+* `/buscar`
+
+### Assets
+
+Verifica:
+
+* imágenes
+* JSON
+* iconos
+* fuentes
+
+### Responsive
+
+Verifica:
+
+* 360px
+* 768px
+* 1024px
+* 1440px+
+
+### Netlify
+
+La aplicación debe poder desplegarse con:
+
+```text
+Build command: npm run build
+Publish directory: dist
+```
+
+sin configuración adicional compleja.
+
+---
+
+## 52. Entrega final
+
+Cuando termines, proporciona:
+
+1. Estructura final del proyecto.
+2. Comando de desarrollo.
+3. Comando de build.
+4. Configuración necesaria de Netlify.
+5. Variables de entorno necesarias, si existen.
+6. Explicación de dónde están los datos de los PDFs.
+7. Explicación de cómo se cargan las imágenes.
+8. Explicación de cómo funciona LocalStorage.
+9. Confirmación de que las rutas funcionan directamente en producción.
+10. Cualquier limitación conocida.
+
+La aplicación debe quedar lista para conectar el repositorio con Netlify y desplegarla.

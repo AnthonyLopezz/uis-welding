@@ -1,0 +1,511 @@
+[
+  {
+    "id": "gmaw-q01",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-004",
+    "sourcePage": 4,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cómo designa la AWS a la soldadura de arco metálico con protección de gas?",
+    "options": [
+      "GMAW (gas metal arc welding)",
+      "SMAW",
+      "OFW",
+      "FCAW"
+    ],
+    "correctAnswer": "GMAW (gas metal arc welding)",
+    "explanation": "La AWS designa este procedimiento como GMAW, gas metal arc welding."
+  },
+  {
+    "id": "gmaw-q02",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-006",
+    "sourcePage": 6,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Con qué otros nombres se conoce comúnmente GMAW?",
+    "options": [
+      "MIG o soldadura con alimentación de alambre",
+      "Soldadura con varilla",
+      "Soldadura por llama",
+      "Soldadura de fragua"
+    ],
+    "correctAnswer": "MIG o soldadura con alimentación de alambre",
+    "explanation": "También se la llama MIG (gas inerte) o soldadura con alimentación de alambre, y sus máquinas se denominan alimentadores de alambre. «Con varilla» es un nombre de SMAW."
+  },
+  {
+    "id": "gmaw-q03",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-003",
+    "sourcePage": 3,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué porcentaje de los materiales de aporte que se usan en el mundo consumen los procesos con alimentación de alambre?",
+    "options": [
+      "Más del 70%",
+      "Cerca del 10%",
+      "Alrededor del 30%",
+      "Exactamente el 50%"
+    ],
+    "correctAnswer": "Más del 70%",
+    "explanation": "Consumen más del 70% de los materiales de aporte del mundo, y el porcentaje sigue subiendo, gracias a su mayor productividad."
+  },
+  {
+    "id": "gmaw-q04",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-011",
+    "sourcePage": 11,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Al oprimir el gatillo de la pistola GMAW, ¿qué tres cosas ocurren?",
+    "options": [
+      "Pasa la corriente, el alimentador empuja el alambre y se abre la válvula del gas de protección",
+      "Se enciende una llama, se abre el oxígeno y se calienta la varilla",
+      "Se cambia el electrodo, se limpia la escoria y se enciende el arco",
+      "Se activa el enfriador, se cierra el gas y se detiene el alambre"
+    ],
+    "correctAnswer": "Pasa la corriente, el alimentador empuja el alambre y se abre la válvula del gas de protección",
+    "explanation": "El gatillo deja pasar la corriente, el mecanismo alimentador empuja el alambre por la pistola hasta la punta de contacto y se abre la válvula de solenoide del gas de protección."
+  },
+  {
+    "id": "gmaw-q05",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-011",
+    "sourcePage": 11,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿De qué protege el gas de protección al charco de soldadura?",
+    "options": [
+      "Del oxígeno y el nitrógeno de la atmósfera",
+      "Del agua de refrigeración",
+      "De la escoria del electrodo",
+      "Del calor del arco"
+    ],
+    "correctAnswer": "Del oxígeno y el nitrógeno de la atmósfera",
+    "explanation": "El gas cubre el electrodo y el charco para impedir que el oxígeno y el nitrógeno atmosféricos lo contaminen."
+  },
+  {
+    "id": "gmaw-q06",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Para qué sirve el enfriador de agua en un equipo GMAW?",
+    "options": [
+      "Para que la pistola no se queme al trabajar continuamente con amperaje alto",
+      "Para enfriar el charco y acelerar la solidificación",
+      "Para limpiar la escoria",
+      "Para reducir el voltaje de la red"
+    ],
+    "correctAnswer": "Para que la pistola no se queme al trabajar continuamente con amperaje alto",
+    "explanation": "Con uso continuo a amperaje alto la pistola se calienta tanto que puede quemarse; el enfriador hace circular agua fría por la boquilla."
+  },
+  {
+    "id": "gmaw-q07",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-019",
+    "sourcePage": 19,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué GMAW tiene menos discontinuidades y mayor tasa de deposición que SMAW?",
+    "options": [
+      "Porque el electrodo es un alambre continuo y se evita parar y reiniciar para cambiar varillas",
+      "Porque usa corriente alterna",
+      "Porque el electrodo tiene un revestimiento más grueso",
+      "Porque solo se usa en posición plana"
+    ],
+    "correctAnswer": "Porque el electrodo es un alambre continuo y se evita parar y reiniciar para cambiar varillas",
+    "explanation": "El alambre continuo elimina el ciclo de inicios y paradas de SMAW: menos discontinuidades, mayor deposición y cordones largos sin interrupciones."
+  },
+  {
+    "id": "gmaw-q08",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-020",
+    "sourcePage": 20,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "Con GMAW se pueden soldar láminas muy delgadas, de calibre 24 (0,023 pulgadas).",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Verdadero",
+    "explanation": "Entre las ventajas de GMAW está poder soldar láminas muy delgadas, de calibre 24 (0,5842 mm)."
+  },
+  {
+    "id": "gmaw-q09",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-023",
+    "sourcePage": 23,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Debes soldar a la intemperie en un día con viento. ¿Qué limitación de GMAW debes tener en cuenta?",
+    "options": [
+      "Su uso a la intemperie se limita a días despejados y sin viento",
+      "No puede soldar en ninguna posición fuera de la plana",
+      "Produce demasiada escoria",
+      "No puede soldar acero al carbono"
+    ],
+    "correctAnswer": "Su uso a la intemperie se limita a días despejados y sin viento",
+    "explanation": "El viento dispersa el gas de protección; por eso GMAW a la intemperie se limita a días despejados y sin viento. En esa situación SMAW se ve menos afectado."
+  },
+  {
+    "id": "gmaw-q10",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-029",
+    "sourcePage": 29,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué tipo de corriente y polaridad se usa SIEMPRE en GMAW?",
+    "options": [
+      "Corriente continua, electrodo en positivo",
+      "Corriente continua, electrodo en negativo",
+      "Corriente alterna",
+      "Depende del gas"
+    ],
+    "correctAnswer": "Corriente continua, electrodo en positivo",
+    "explanation": "La unidad indica que en GMAW siempre se usa corriente continua con el electrodo en positivo (DCEP / DCRP)."
+  },
+  {
+    "id": "gmaw-q11",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-029",
+    "sourcePage": 29,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿Por qué GMAW usa corriente continua con el electrodo en positivo?",
+    "options": [
+      "Porque la transferencia de metal lleva iones positivos, que deben viajar del polo positivo al negativo",
+      "Porque así se gasta menos gas",
+      "Porque la corriente alterna derrite la pistola",
+      "Porque el electrodo positivo produce más escoria protectora"
+    ],
+    "correctAnswer": "Porque la transferencia de metal lleva iones positivos, que deben viajar del polo positivo al negativo",
+    "explanation": "La transferencia de metal lleva iones con carga positiva, que deben ir de un polo positivo a uno negativo; eso solo se logra con el electrodo en positivo."
+  },
+  {
+    "id": "gmaw-q12",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-027",
+    "sourcePage": 27,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Si aumentas la velocidad de alimentación del alambre, ¿qué ocurre?",
+    "options": [
+      "Aumentan el amperaje, la profundidad y el ancho de la soldadura, la deposición y el tamaño del cordón",
+      "Disminuyen el amperaje y la penetración",
+      "Solo cambia el color del cordón",
+      "Se apaga el arco por falta de gas"
+    ],
+    "correctAnswer": "Aumentan el amperaje, la profundidad y el ancho de la soldadura, la deposición y el tamaño del cordón",
+    "explanation": "La tasa de alimentación determina la corriente: a más alimentación, más amperaje, y con ello más profundidad, ancho, deposición y tamaño del cordón."
+  },
+  {
+    "id": "gmaw-q13",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-031",
+    "sourcePage": 31,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Con todas las demás variables constantes, ¿con qué velocidad de avance se logra la mayor penetración?",
+    "options": [
+      "Con una velocidad intermedia",
+      "Con la velocidad más alta posible",
+      "Con la velocidad más baja posible",
+      "La velocidad no influye"
+    ],
+    "correctAnswer": "Con una velocidad intermedia",
+    "explanation": "La mayor penetración se logra con una velocidad intermedia; si es demasiado alta, la penetración es insuficiente."
+  },
+  {
+    "id": "gmaw-q14",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-035",
+    "sourcePage": 35,
+    "imageId": "img-gmaw-014",
+    "type": "image",
+    "difficulty": "hard",
+    "question": "Compara las dos técnicas. ¿Qué resultado da la soldadura inversa o con ángulo de arrastre?",
+    "options": [
+      "Penetración profunda y cordón alto y estrecho",
+      "Penetración superficial y cordón bajo y ancho",
+      "Cordón con mucha escoria",
+      "No hay diferencia con la técnica directa"
+    ],
+    "correctAnswer": "Penetración profunda y cordón alto y estrecho",
+    "explanation": "El diagrama muestra que el arrastre (técnica inversa) da penetración profunda y cordón alto y estrecho, mientras que el empuje (técnica directa) da penetración superficial y cordón bajo y ancho."
+  },
+  {
+    "id": "gmaw-q15",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-033",
+    "sourcePage": 33,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "En soldadura plana con técnica inversa, ¿con qué inclinación respecto a la perpendicular se logra la máxima penetración?",
+    "options": [
+      "25°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "correctAnswer": "25°",
+    "explanation": "La unidad indica que, en soldadura plana con técnica inversa, la máxima penetración ocurre con una inclinación de 25° respecto a la perpendicular."
+  },
+  {
+    "id": "gmaw-q16",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-041",
+    "sourcePage": 41,
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Relaciona cada modo de transferencia de metal con su característica.",
+    "pairs": [
+      {
+        "left": "Cortocircuito",
+        "right": "Corriente baja y electrodos de poco diámetro"
+      },
+      {
+        "left": "Globular",
+        "right": "Entre cortocircuito y rocío; produce algunas salpicaduras"
+      },
+      {
+        "left": "Rocío",
+        "right": "Alta deposición, sin salpicaduras y excelente penetración"
+      },
+      {
+        "left": "Rocío pulsado",
+        "right": "Igual que el rocío, pero en todas las posiciones"
+      }
+    ],
+    "explanation": "La tabla de modos de transferencia los describe así: cortocircuito con corriente baja y alambre fino; globular entre cortocircuito y rocío; rocío con alta deposición sin salpicaduras; rocío pulsado como el rocío pero en todas las posiciones."
+  },
+  {
+    "id": "gmaw-q17",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-040",
+    "sourcePage": 40,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cuál de estos factores determina el tipo de transferencia de metal?",
+    "options": [
+      "El gas de protección",
+      "El color del carrete",
+      "La marca de la careta",
+      "El largo de la manguera de agua"
+    ],
+    "correctAnswer": "El gas de protección",
+    "explanation": "Lo determinan la magnitud y el tipo de corriente, el diámetro, la composición y la protuberancia del electrodo, y el gas de protección."
+  },
+  {
+    "id": "gmaw-q18",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-036",
+    "sourcePage": 36,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué en posición vertical se suele usar electrodo de 0,045 pulgadas o menos?",
+    "options": [
+      "Porque forma un charco más pequeño y más fácil de controlar",
+      "Porque gasta menos gas",
+      "Porque permite usar corriente alterna",
+      "Porque produce más escoria"
+    ],
+    "correctAnswer": "Porque forma un charco más pequeño y más fácil de controlar",
+    "explanation": "En vertical el charco tiende a escurrir; un electrodo de 0,045\" (1,1 mm) o menos produce un charco más pequeño y controlable."
+  },
+  {
+    "id": "gmaw-q19",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-046",
+    "sourcePage": 46,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué el argón protege la soldadura mejor que el helio?",
+    "options": [
+      "Porque es unas diez veces más pesado",
+      "Porque conduce mejor el calor",
+      "Porque es reactivo",
+      "Porque es más barato"
+    ],
+    "correctAnswer": "Porque es unas diez veces más pesado",
+    "explanation": "El argón es el gas más usado por su baja conductividad térmica y porque, al ser unas diez veces más pesado que el helio, cubre mejor la soldadura."
+  },
+  {
+    "id": "gmaw-q20",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-046",
+    "sourcePage": 46,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Vas a soldar piezas gruesas de cobre, que disipan el calor muy rápido. ¿Qué gas inerte es más adecuado?",
+    "options": [
+      "Helio",
+      "Argón",
+      "CO2",
+      "Nitrógeno"
+    ],
+    "correctAnswer": "Helio",
+    "explanation": "El helio conduce bien el calor del arco a la soldadura; se usa cuando se necesita mucho calor, como en piezas gruesas o al soldar cobre y aluminio, que remueven el calor rápidamente."
+  },
+  {
+    "id": "gmaw-q21",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-047",
+    "sourcePage": 47,
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada gas reactivo con su efecto o uso en GMAW.",
+    "pairs": [
+      {
+        "left": "CO2",
+        "right": "Mejor transferencia, menos salpicaduras y arco más estable"
+      },
+      {
+        "left": "H2",
+        "right": "En pequeñas concentraciones remueve el óxido ligero"
+      },
+      {
+        "left": "N2",
+        "right": "Se usa en la soldadura del cobre"
+      }
+    ],
+    "explanation": "CO2 mejora la transferencia y la estabilidad del arco (el O2 tiene características similares); H2 en pequeñas dosis elimina óxido ligero; N2 se usa al soldar cobre."
+  },
+  {
+    "id": "gmaw-q22",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-037",
+    "sourcePage": 37,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Si usas un electrodo de mayor diámetro, ¿qué pasa con la corriente mínima que necesita un proceso de transferencia?",
+    "options": [
+      "Aumenta",
+      "Disminuye",
+      "No cambia",
+      "Se vuelve cero"
+    ],
+    "correctAnswer": "Aumenta",
+    "explanation": "Cuanto más grande es el diámetro del electrodo, más alto es el mínimo de corriente necesario para un determinado proceso de transferencia de metal."
+  },
+  {
+    "id": "gmaw-q23",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-057",
+    "sourcePage": 57,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué requieren las piezas de más de 3/8 de pulgada (10 mm) para soldarse con GMAW?",
+    "options": [
+      "Preparación previa y varias pasadas",
+      "Nada: se sueldan sin preparación en una pasada",
+      "Cambiar a corriente alterna",
+      "No se pueden soldar con GMAW"
+    ],
+    "correctAnswer": "Preparación previa y varias pasadas",
+    "explanation": "Hasta 3/16\" se suelda sin preparación; de 0,062\" a 3/8\", en una pasada con preparación; por encima de 3/8\" se necesita preparación y varias pasadas, sin límite de grosor."
+  },
+  {
+    "id": "gmaw-q24",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-021",
+    "sourcePage": 21,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "GMAW produce abundante escoria que debe retirarse antes de pintar.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "explanation": "Bien ajustado, GMAW produce pocas salpicaduras y prácticamente nada de escoria; muchos fabricantes pintan encima con poca o ninguna preparación."
+  },
+  {
+    "id": "gmaw-x01",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-025",
+    "sourcePage": 25,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "La unidad dice que en GMAW «la polaridad es DCRP». ¿A qué equivale?",
+    "options": [
+      "Corriente continua, electrodo en positivo (DCEP)",
+      "Corriente continua, electrodo en negativo (DCEN)",
+      "Corriente alterna",
+      "Corriente constante"
+    ],
+    "correctAnswer": "Corriente continua, electrodo en positivo (DCEP)",
+    "explanation": "DCRP es corriente continua de polaridad inversa (reverse). En SMAW (lámina 29) se explica que DCEP reemplaza a ese nombre. Coincide con la lámina 29 de GMAW: siempre electrodo en positivo."
+  },
+  {
+    "id": "gmaw-x02",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-032",
+    "sourcePage": 32,
+    "type": "image",
+    "difficulty": "expert",
+    "imageId": "img-gmaw-012",
+    "question": "¿Qué es la protuberancia (extensión) del electrodo?",
+    "options": [
+      "El tramo de alambre no fundido entre el tubo de contacto y la punta del alambre",
+      "La distancia entre la boquilla y la pieza",
+      "La longitud del arco",
+      "La distancia entre el tubo de contacto y la pieza"
+    ],
+    "correctAnswer": "El tramo de alambre no fundido entre el tubo de contacto y la punta del alambre",
+    "explanation": "El diagrama rotula cuatro medidas parecidas. La extensión es solo el alambre sin fundir que sobresale del tubo de contacto; la longitud del arco y las distancias a la pieza son otras cotas."
+  },
+  {
+    "id": "gmaw-x03",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-033",
+    "sourcePage": 33,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "En soldadura DIRECTA (pistola inclinada hacia el avance), ¿qué resultado se obtiene?",
+    "options": [
+      "Menos penetración y una soldadura más ancha y delgada",
+      "Máxima penetración con 25° de inclinación",
+      "Penetración profunda y cordón alto y estrecho",
+      "No influye en la penetración"
+    ],
+    "correctAnswer": "Menos penetración y una soldadura más ancha y delgada",
+    "explanation": "Trampa: los 25° y la penetración profunda corresponden a la técnica INVERSA (arrastre). La directa (empuje) da menos penetración y un cordón ancho y delgado."
+  },
+  {
+    "id": "gmaw-x04",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-057",
+    "sourcePage": 57,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Qué espesores se pueden soldar con GMAW SIN ninguna preparación?",
+    "options": [
+      "De 0,005\" a 3/16\" (0,13 a 4,8 mm)",
+      "Hasta 3/8\"",
+      "Solo más de 3/8\"",
+      "Cualquier espesor"
+    ],
+    "correctAnswer": "De 0,005\" a 3/16\" (0,13 a 4,8 mm)",
+    "explanation": "Hay tres rangos con cifras parecidas: sin preparación de 0,005\" a 3/16\"; de 0,062\" a 3/8\" en una pasada pero CON preparación; más de 3/8\" con preparación y varias pasadas."
+  },
+  {
+    "id": "gmaw-x05",
+    "topicId": "gmaw",
+    "sectionId": "sec-gmaw-019",
+    "sourcePage": 19,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "Según la unidad, GMAW es el único método con electrodo consumible que permite…",
+    "options": [
+      "Soldar todas las aleaciones comerciales",
+      "Soldar sin gas de protección",
+      "Soldar sin fuente de poder",
+      "Soldar con corriente alterna"
+    ],
+    "correctAnswer": "Soldar todas las aleaciones comerciales",
+    "explanation": "La primera ventaja de la lámina 19 dice: «Es el único método con electrodo consumible con el que se pueden soldar todas las aleaciones comerciales». Los demás distractores contradicen el proceso."
+  }
+]

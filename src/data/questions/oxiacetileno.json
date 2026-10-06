@@ -1,0 +1,445 @@
+[
+  {
+    "id": "oxi-q01",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-003",
+    "sourcePage": 3,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué sigla usa la American Welding Society para la soldadura con gas combustible y oxígeno?",
+    "options": [
+      "OFW",
+      "SMAW",
+      "GMAW",
+      "PQR"
+    ],
+    "correctAnswer": "OFW",
+    "explanation": "La AWS usa la sigla OFW (oxyfuel welding) para este proceso."
+  },
+  {
+    "id": "oxi-q02",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-003",
+    "sourcePage": 3,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Hoy la soldadura con acetileno se usa poco. ¿Por qué sigue siendo una herramienta esencial?",
+    "options": [
+      "Por su bajo costo, su versatilidad y lo fácil que es transportarla",
+      "Porque es el proceso más rápido para piezas gruesas",
+      "Porque no requiere ninguna medida de seguridad",
+      "Porque es el único proceso que suelda acero"
+    ],
+    "correctAnswer": "Por su bajo costo, su versatilidad y lo fácil que es transportarla",
+    "explanation": "Aunque hoy se restringe a ciertas especialidades, su bajo costo, versatilidad y facilidad de transporte la mantienen como herramienta esencial."
+  },
+  {
+    "id": "oxi-q03",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-007",
+    "sourcePage": 7,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Con oxígeno y acetileno en proporciones apropiadas, ¿qué temperatura alcanza la llama en la punta del soplete?",
+    "options": [
+      "3100 °C",
+      "3300 °C",
+      "1500 °C",
+      "600 °C"
+    ],
+    "correctAnswer": "3100 °C",
+    "explanation": "La mezcla adecuada en la cámara de mezclado del soplete produce una llama de unos 3100 °C en la punta. Los 3300 °C corresponden al arco de SMAW."
+  },
+  {
+    "id": "oxi-q04",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-007",
+    "sourcePage": 7,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "En el procedimiento, ¿qué ocurre justo después de que la llama funde los bordes de los metales base?",
+    "options": [
+      "Se forma un charco común al que, en algunos casos, se añade material de aporte con una varilla",
+      "Se aplica presión con un martillo hasta unir las piezas",
+      "Se forma un arco eléctrico entre las piezas",
+      "Se vierte metal fundido en un molde de arena"
+    ],
+    "correctAnswer": "Se forma un charco común al que, en algunos casos, se añade material de aporte con una varilla",
+    "explanation": "La llama funde los bordes en un charco común; a veces se agrega aporte con una varilla, y al enfriarse el charco los metales quedan fusionados en uno solo."
+  },
+  {
+    "id": "oxi-q05",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Cuál de estas es una ventaja de la soldadura oxiacetilénica?",
+    "options": [
+      "No requiere fuente de poder externa",
+      "Es el proceso más económico para piezas gruesas",
+      "Deposita más metal por minuto que los demás procesos",
+      "No necesita equipo de protección"
+    ],
+    "correctAnswer": "No requiere fuente de poder externa",
+    "explanation": "Sus ventajas son el bajo costo, el transporte fácil, el control del calor y del charco, el control del cordón y no necesitar fuente de poder externa. Para piezas gruesas y en velocidad de deposición pierde frente a otros procesos."
+  },
+  {
+    "id": "oxi-q06",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-013",
+    "sourcePage": 13,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Cómo son las roscas para montar los reguladores en los cilindros?",
+    "options": [
+      "Derecha en el cilindro de oxígeno e izquierda en el de acetileno",
+      "Izquierda en el de oxígeno y derecha en el de acetileno",
+      "Derecha en ambos cilindros",
+      "Izquierda en ambos cilindros"
+    ],
+    "correctAnswer": "Derecha en el cilindro de oxígeno e izquierda en el de acetileno",
+    "explanation": "Las roscas del cilindro de oxígeno son derechas y las del acetileno izquierdas, para que no se pueda montar un regulador en el cilindro equivocado."
+  },
+  {
+    "id": "oxi-q07",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-015",
+    "sourcePage": 15,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Al abrir los cilindros, ¿cuánto se recomienda girar como máximo la válvula del acetileno?",
+    "options": [
+      "No más de giro y medio",
+      "Hasta el tope superior",
+      "1/16 de vuelta",
+      "Tres vueltas completas"
+    ],
+    "correctAnswer": "No más de giro y medio",
+    "explanation": "La válvula de oxígeno se abre lentamente hasta el tope, pero la del acetileno se abre gradualmente, no más de giro y medio."
+  },
+  {
+    "id": "oxi-q08",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-016",
+    "sourcePage": 16,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué nunca se debe ajustar el regulador de acetileno a más de 15 lb/pulg²?",
+    "options": [
+      "Porque podría producirse una disociación explosiva del gas",
+      "Porque la llama se apagaría",
+      "Porque se desperdicia oxígeno",
+      "Porque el manómetro se descalibra"
+    ],
+    "correctAnswer": "Porque podría producirse una disociación explosiva del gas",
+    "explanation": "Por encima de 15 lb/pulg² el acetileno puede sufrir una disociación explosiva; por eso es un límite de seguridad."
+  },
+  {
+    "id": "oxi-q09",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-017",
+    "sourcePage": 17,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cómo se comprueba que el sistema no tenga fugas?",
+    "options": [
+      "Aplicando agua y jabón en las conexiones: las burbujas indican fugas",
+      "Acercando una llama a cada conexión",
+      "Oliendo las mangueras",
+      "Abriendo todas las válvulas al máximo"
+    ],
+    "correctAnswer": "Aplicando agua y jabón en las conexiones: las burbujas indican fugas",
+    "explanation": "Se aplica agua con jabón en las conexiones del cilindro al regulador y en las mangueras; si aparecen burbujas, hay fuga. Nunca se usa una llama."
+  },
+  {
+    "id": "oxi-q10",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-012",
+    "sourcePage": 12,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué válvulas deben estar instaladas para evitar que los gases retrocedan por las mangueras?",
+    "options": [
+      "Válvulas check o antirretorno",
+      "Válvulas de alivio de agua",
+      "Válvulas de mariposa",
+      "Válvulas solenoides"
+    ],
+    "correctAnswer": "Válvulas check o antirretorno",
+    "explanation": "Entre los preparativos de seguridad está asegurarse de que estén instaladas las válvulas check o antirretorno."
+  },
+  {
+    "id": "oxi-q11",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-019",
+    "sourcePage": 19,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Encendiste el soplete solo con acetileno y ves una llama anaranjada. ¿Cómo obtienes una llama neutra?",
+    "options": [
+      "Abriendo lentamente el oxígeno hasta que el cono interno blanco tenga un contorno bien definido",
+      "Cerrando el acetileno hasta que la llama se vuelva azul",
+      "Abriendo más el acetileno hasta que salga humo negro",
+      "Aumentando el regulador de acetileno a 20 lb/pulg²"
+    ],
+    "correctAnswer": "Abriendo lentamente el oxígeno hasta que el cono interno blanco tenga un contorno bien definido",
+    "explanation": "Al añadir oxígeno, la llama se vuelve púrpura y más pequeña y aparece un cono blanco; con más oxígeno el cono deja de tener bordes aserrados y queda bien definido: esa es la llama neutra."
+  },
+  {
+    "id": "oxi-q12",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-001",
+    "sourcePage": 1,
+    "imageId": "img-oxiacetileno-003",
+    "type": "image",
+    "difficulty": "easy",
+    "question": "Observa las tres llamas del soplete. ¿Qué tipos de llama se comparan?",
+    "options": [
+      "Carburante, neutra y oxidante",
+      "Primaria, secundaria y terciaria",
+      "Fría, tibia y caliente",
+      "Propano, MAPP e hidrógeno"
+    ],
+    "correctAnswer": "Carburante, neutra y oxidante",
+    "explanation": "La imagen compara la llama carburante, la neutra y la oxidante, cada una con sus zonas de color."
+  },
+  {
+    "id": "oxi-q13",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-023",
+    "sourcePage": 23,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Según la ecuación de la llama neutra (C2H2 + 2,5 O2), ¿en qué proporción se combinan acetileno y oxígeno?",
+    "options": [
+      "1 parte de acetileno por 2,5 de oxígeno",
+      "1 parte de acetileno por 1 de oxígeno",
+      "2 partes de acetileno por 1 de oxígeno",
+      "1 parte de acetileno por 5 de oxígeno"
+    ],
+    "correctAnswer": "1 parte de acetileno por 2,5 de oxígeno",
+    "explanation": "La ecuación indica que una parte de acetileno se combina con dos y media de oxígeno para producir una llama neutra."
+  },
+  {
+    "id": "oxi-q14",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-028",
+    "sourcePage": 28,
+    "tableId": "tbl-oxiacetileno-001",
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Según la tabla de metales de aporte, ¿qué varilla tiene la mayor resistencia mínima a la tracción?",
+    "options": [
+      "R100",
+      "R65",
+      "R60",
+      "R45"
+    ],
+    "correctAnswer": "R100",
+    "explanation": "La R100 tiene 100 mil lb/pulg² de resistencia mínima a la tracción, frente a 65 de la R65 y 60 de la R60."
+  },
+  {
+    "id": "oxi-q15",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-028",
+    "sourcePage": 28,
+    "tableId": "tbl-oxiacetileno-001",
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "En la tabla de metales de aporte, al pasar de R60 a R100, ¿qué ocurre con el estiramiento mínimo?",
+    "options": [
+      "Disminuye, de 20% a 14%",
+      "Aumenta, de 14% a 20%",
+      "Se mantiene en 16%",
+      "La tabla no da ese dato"
+    ],
+    "correctAnswer": "Disminuye, de 20% a 14%",
+    "explanation": "La resistencia sube (60 → 65 → 100) mientras el estiramiento mínimo baja (20% → 16% → 14%): las varillas más resistentes son menos dúctiles."
+  },
+  {
+    "id": "oxi-q16",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-027",
+    "sourcePage": 27,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué indica la letra R antes del número de una varilla de aporte (por ejemplo, R60)?",
+    "options": [
+      "Que no fluye electricidad a través de la varilla al soldar",
+      "Que la varilla está revestida de fundente",
+      "Que es resistente a la corrosión",
+      "Que es de uso exclusivo en reparación"
+    ],
+    "correctAnswer": "Que no fluye electricidad a través de la varilla al soldar",
+    "explanation": "La R que precede al número indica que no fluye electricidad por la varilla durante el soldado, a diferencia de los electrodos."
+  },
+  {
+    "id": "oxi-q17",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-031",
+    "sourcePage": 31,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué es el gas MAPP?",
+    "options": [
+      "El nombre comercial de una mezcla de metilacetileno (C3H4) y propano (C3H8)",
+      "Oxígeno puro comprimido",
+      "Una mezcla de argón y helio",
+      "Hidrógeno con trazas de nitrógeno"
+    ],
+    "correctAnswer": "El nombre comercial de una mezcla de metilacetileno (C3H4) y propano (C3H8)",
+    "explanation": "MAPP es el nombre comercial de la mezcla de metilacetileno y propano; se usa para cortar, calentar, soldar y metalizar."
+  },
+  {
+    "id": "oxi-q18",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-032",
+    "sourcePage": 32,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué el propano y el gas natural casi solo se usan para calentar o cortar?",
+    "options": [
+      "Por su temperatura relativamente baja y sus llamas de bajo poder calorífico",
+      "Porque son más caros que el acetileno",
+      "Porque producen una llama sin color",
+      "Porque no se pueden almacenar en cilindros"
+    ],
+    "correctAnswer": "Por su temperatura relativamente baja y sus llamas de bajo poder calorífico",
+    "explanation": "La unidad indica que por su relativa baja temperatura y bajo poder calorífico, el propano y el gas natural raramente se usan para algo distinto de calentar o cortar."
+  },
+  {
+    "id": "oxi-q19",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-034",
+    "sourcePage": 34,
+    "type": "true-false",
+    "difficulty": "medium",
+    "question": "El hidrógeno produce una llama con combustión primaria y secundaria, igual que los gases de hidrocarburo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "explanation": "El hidrógeno produce solo una combustión primaria (y una llama sin color), a diferencia de los hidrocarburos, que tienen combustión primaria y secundaria."
+  },
+  {
+    "id": "oxi-q20",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-036",
+    "sourcePage": 36,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "En un mantenimiento debes unir hojas delgadas y tubos de diámetro pequeño. ¿Es apropiado el oxiacetileno?",
+    "options": [
+      "Sí: es apropiado para hojas delgadas, tuberías de diámetro pequeño y trabajos de reparación",
+      "No: solo sirve para piezas gruesas",
+      "No: solo sirve para cortar",
+      "Solo si las piezas son de aluminio"
+    ],
+    "correctAnswer": "Sí: es apropiado para hojas delgadas, tuberías de diámetro pequeño y trabajos de reparación",
+    "explanation": "Es más apropiado para hojas delgadas, tuberías y tubos de diámetro pequeño, y para reparación y mantenimiento con un mismo equipo."
+  },
+  {
+    "id": "oxi-q21",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-037",
+    "sourcePage": 37,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "Soldar piezas gruesas con oxiacetileno es más económico que hacerlo por arco.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "explanation": "La soldadura de piezas gruesas con acetileno no resulta económica frente a otras técnicas, como la soldadura por arco."
+  },
+  {
+    "id": "oxi-q22",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-033",
+    "sourcePage": 33,
+    "imageId": "img-oxiacetileno-025",
+    "type": "image",
+    "difficulty": "medium",
+    "question": "Según la tabla comparativa de combustibles, ¿cuál tiene la temperatura de llama neutra más alta?",
+    "options": [
+      "Acetileno",
+      "Gas MAPP",
+      "Propano",
+      "Gas natural"
+    ],
+    "correctAnswer": "Acetileno",
+    "explanation": "El acetileno alcanza 5.589 °F (3.087 °C), más que el MAPP (5.301 °F), el propileno (5.193 °F), el gas natural (4.600 °F) y el propano (4.579 °F)."
+  },
+  {
+    "id": "oxi-x01",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-015",
+    "sourcePage": 15,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Qué presiones deben marcar los manómetros de alta al abrir los cilindros?",
+    "options": [
+      "Unas 225 lb/pulg² en acetileno y unas 2250 lb/pulg² en oxígeno",
+      "Unas 2250 lb/pulg² en acetileno y unas 225 lb/pulg² en oxígeno",
+      "15 lb/pulg² en ambos",
+      "6 lb/pulg² en ambos"
+    ],
+    "correctAnswer": "Unas 225 lb/pulg² en acetileno y unas 2250 lb/pulg² en oxígeno",
+    "explanation": "Trampa de valores intercambiados: el oxígeno se almacena a una presión unas diez veces mayor (≈2250) que el acetileno (≈225). Los 15 y 6 lb/pulg² son ajustes de los reguladores, no lecturas de alta."
+  },
+  {
+    "id": "oxi-x02",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-016",
+    "sourcePage": 16,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "Al purgar la manguera de oxígeno, ¿a qué presión se ajusta el tornillo de control?",
+    "options": [
+      "Unas 6 lb/pulg²",
+      "15 lb/pulg²",
+      "225 lb/pulg²",
+      "2250 lb/pulg²"
+    ],
+    "correctAnswer": "Unas 6 lb/pulg²",
+    "explanation": "Trampa: 15 lb/pulg² es el máximo del regulador de acetileno (por riesgo de disociación explosiva), no la presión de purga. La lámina dice ajustar a unas 6 lb/pulg² y cerrar tras unos segundos."
+  },
+  {
+    "id": "oxi-x03",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-018",
+    "sourcePage": 18,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "Para encender el soplete, ¿cuánto se abre su válvula de acetileno?",
+    "options": [
+      "Menos de 1/16 de vuelta",
+      "Giro y medio",
+      "Hasta el tope",
+      "Tres cuartos de vuelta"
+    ],
+    "correctAnswer": "Menos de 1/16 de vuelta",
+    "explanation": "Trampa: «giro y medio» es para la válvula del CILINDRO de acetileno, y ¾ de vuelta para la válvula de oxígeno al purgar. En el soplete se abre menos de 1/16 de vuelta y se enciende con chispa."
+  },
+  {
+    "id": "oxi-x04",
+    "topicId": "oxiacetileno",
+    "sectionId": "sec-oxiacetileno-023",
+    "sourcePage": 23,
+    "type": "image",
+    "difficulty": "expert",
+    "imageId": "img-oxiacetileno-018",
+    "question": "Según el detalle de la reacción PRIMARIA en el cono de la llama neutra, ¿qué productos se forman?",
+    "options": [
+      "2CO y H2",
+      "2CO2 y H2O",
+      "Solo CO2",
+      "O2 y C2H2"
+    ],
+    "correctAnswer": "2CO y H2",
+    "explanation": "Trampa: la ecuación global de la lámina da CO2 + H2O, pero la imagen de la reacción primaria muestra C2H2 + O2 → 2CO + H2 en el cono. Son dos etapas distintas de la combustión."
+  }
+]

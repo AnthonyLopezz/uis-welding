@@ -1,0 +1,36 @@
+{
+  "id": "tbl-oxiacetileno-001",
+  "page": 28,
+  "section_id": "sec-oxiacetileno-028",
+  "caption": "Metal de aporte",
+  "headers": [
+    "Clasificación de la AWS",
+    "Mínima resistencia a la tracción (miles de lb/pul2)",
+    "Estiramiento en 1 pulg (% mínimo)"
+  ],
+  "rows": [
+    [
+      "R45",
+      "—",
+      "—"
+    ],
+    [
+      "R60",
+      "60",
+      "20"
+    ],
+    [
+      "R65",
+      "65",
+      "16"
+    ],
+    [
+      "R100",
+      "100",
+      "14"
+    ]
+  ],
+  "notes": "La fila R45 muestra una raya en la lámina, no un número.",
+  "source": "extracted",
+  "confidence": "high"
+}

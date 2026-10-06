@@ -1,0 +1,1807 @@
+{
+  "id": "documento-003",
+  "slug": "terminologia",
+  "title": "Terminología",
+  "description": "Los procesos se diferencian principalmente en el modo que se aplica el calor, la presión o ambas cosas y en el equipo utilizado.",
+  "category": "Soldadura",
+  "subcategory": [
+    "Procesos de soldadura",
+    "Códigos, normas, procedimientos y especificaciones",
+    "Selección del proceso de unión",
+    "Métodos de aplicación de soldadura",
+    "Tipos de soldadura",
+    "Tipos de uniones",
+    "Tipos de biseles",
+    "Posiciones en soldadura"
+  ],
+  "tags": [
+    "SMAW",
+    "GMAW",
+    "electrodo",
+    "terminología",
+    "soplete",
+    "acetileno",
+    "WPS",
+    "AWS",
+    "soldadura de filete"
+  ],
+  "language": "es",
+  "author": null,
+  "date": "2025-02-24",
+  "source_file": "Unidad # 3 terminología.pdf",
+  "page_count": 40,
+  "featured_image": "images/terminologia-p01-terminologia.webp",
+  "sections": [
+    {
+      "id": "sec-terminologia-001",
+      "title": "Terminología",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-002",
+      "title": "Procesos de soldadura",
+      "level": 1,
+      "page": 2,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-003",
+      "title": "Procesos de soldadura",
+      "level": 2,
+      "page": 3,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-005",
+          "page": 3
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 3,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-002",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-004",
+      "title": "Los procesos se diferencian principalmente en el modo que se aplica el calor, la presión o ambas cosas y en el equipo utilizado",
+      "level": 2,
+      "page": 4,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Soldadura con acetileno (OAW)",
+            "Soldadura por arco metálico protegido (SMAW)",
+            "Soldadura por arco bajo gas protector con electrodo de tungsteno (GTAW)",
+            "Soldadura por arco bajo gas protector metálico (GMAW)",
+            "Soldadura por arco con núcleo fundente (FCAW)",
+            "Soldadura fuerte con soplete (TB)"
+          ],
+          "page": 4,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-002",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-005",
+      "title": "Soldadura con acetileno (OAW)",
+      "level": 2,
+      "page": 5,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-006",
+          "page": 5
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 5,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-002"
+    },
+    {
+      "id": "sec-terminologia-006",
+      "title": "Soldadura por arco metálico protegido (SMAW)",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-007",
+          "page": 6
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 6,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-002"
+    },
+    {
+      "id": "sec-terminologia-007",
+      "title": "Soldadura por arco bajo gas protector con electrodo de tungsteno (GTAW)",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-008",
+          "page": 7
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 7,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-002",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-008",
+      "title": "Soldadura por arco bajo gas protector metálico (GMAW)",
+      "level": 2,
+      "page": 8,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-009",
+          "page": 8
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-002",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-009",
+      "title": "Códigos, normas, procedimientos y especificaciones",
+      "level": 1,
+      "page": 9,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-010",
+      "title": "Código o norma",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Algunas organizaciones plantean códigos o especificaciones que abarcan una amplia variedad de condiciones y aplicaciones de soldadura.",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Que es un código o norma?",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Es una lista detallada de las reglas y los principios que se aplican a una clasificación específica o un tipo de producto.",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-009"
+    },
+    {
+      "id": "sec-terminologia-011",
+      "title": "Especificación",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Una especificación es una declaración detallada de requisitos legales para una clasificación o un tipo de soldadura específico que se va a realizar en un producto específico.",
+          "page": 11,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-009"
+    },
+    {
+      "id": "sec-terminologia-012",
+      "title": "Agencias y organizaciones",
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Algunas agencias u organizaciones publican códigos y especificaciones de soldadura. La selección del código o la especificación para una soldadura en particular debe ser el resultado de uno o más de los siguientes requisitos.",
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Regulaciones locales",
+            "Empresa vinculante o de seguros",
+            "Requisitos del usuario final",
+            "Prácticas industriales estándares"
+          ],
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-009"
+    },
+    {
+      "id": "sec-terminologia-013",
+      "title": "Códigos que se utilizan comúnmente",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Norma 1104 de la API, American Petroleum Institute: Utilizado para conductos.",
+            "Sección IX, de la ASME, American Society of Mechanical Engineers: utilizado para recipientes de presión y componentes nucleares.",
+            "D1.1, AWS American Welding Society: utilizado para puentes, construcciones y otros aceros estructurales."
+          ],
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-009"
+    },
+    {
+      "id": "sec-terminologia-014",
+      "title": "Especificación del procedimiento de soldadura (WPS)",
+      "level": 2,
+      "page": 14,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Es una serie de instrucciones, siguiendo las cuales se realiza una soldadura sana. Normalmente, el procedimiento está escrito con conformidad con un código o una especificación.",
+          "page": 14,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-009"
+    },
+    {
+      "id": "sec-terminologia-015",
+      "title": "WPS",
+      "level": 2,
+      "page": 15,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 15,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-010",
+          "page": 15
+        }
+      ],
+      "parent_id": "sec-terminologia-009",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-016",
+      "title": "Especificación de la especificación del procedimiento de soldadura.",
+      "level": 2,
+      "page": 16,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La WPS se debe calificar para comprobar o verificar que la lista de variables, como amperaje, voltaje, relleno, etc., Proporciona una soldadura sana.",
+          "page": 16,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Se debe guardar un registro de todos los parámetros utilizados para producir las soldaduras de prueba. Esta informacion deberia estar registrada en un formulario llamado Registro de calificación del procedimiento PQR.",
+          "page": 16,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-009"
+    },
+    {
+      "id": "sec-terminologia-017",
+      "title": "PQR",
+      "level": 2,
+      "page": 17,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 17,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-011",
+          "page": 17
+        }
+      ],
+      "parent_id": "sec-terminologia-009",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-018",
+      "title": "Selección del proceso de unión",
+      "level": 1,
+      "page": 18,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-019",
+      "title": "Factores a considerar...",
+      "level": 2,
+      "page": 19,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Disponibilidad del equipo",
+            "repetición de la operación",
+            "requisitos de calidad",
+            "Ubicación del trabajo",
+            "Materiales que se van a unir",
+            "habilidad o experiencia de los trabajadores",
+            "Aspecto del producto terminado",
+            "Tamaño de las partes que se van a unir",
+            "Requisitos de los códigos o especificaciones",
+            "tiempo disponible para el trabajo"
+          ],
+          "page": 19,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-018"
+    },
+    {
+      "id": "sec-terminologia-020",
+      "title": "Métodos de aplicación de soldadura",
+      "level": 1,
+      "page": 20,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-021",
+      "title": "Métodos de aplicación de soldadura",
+      "level": 2,
+      "page": 21,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Manual: Es necesario un soldador que manipule todo el proceso.",
+            "Semiautomático: el metal de aportación se añade automáticamente y el resto manual.",
+            "Máquina: las operaciones se realizan mecánicamente bajo la observación de un operador.",
+            "Automático o automatizado: las operaciones las realiza repetidamente una máquina que ha sido programada."
+          ],
+          "page": 21,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-020",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-022",
+      "title": "Tipos de soldadura",
+      "level": 1,
+      "page": 22,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-023",
+      "title": "Tipos de soldadura...",
+      "level": 2,
+      "page": 23,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-012",
+          "page": 23
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-013",
+          "page": 23
+        }
+      ],
+      "parent_id": "sec-terminologia-022"
+    },
+    {
+      "id": "sec-terminologia-024",
+      "title": "Tipos de uniones",
+      "level": 1,
+      "page": 24,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-025",
+      "title": "Tipos de uniones",
+      "level": 2,
+      "page": 25,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Guia de soldadura para el técnico profesional. William L. Galvery, Jr",
+          "page": 25,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-014",
+          "page": 25
+        }
+      ],
+      "parent_id": "sec-terminologia-024",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-026",
+      "title": "Tipos de biseles",
+      "level": 1,
+      "page": 26,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-027",
+      "title": "Tipos de biseles",
+      "level": 2,
+      "page": 27,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-015",
+          "page": 27
+        }
+      ],
+      "parent_id": "sec-terminologia-026",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-terminologia-028",
+      "title": "Posiciones en soldadura",
+      "level": 1,
+      "page": 28,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-terminologia-029",
+      "title": "Posiciones de soldadura...",
+      "level": 2,
+      "page": 29,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Las posiciones de soldadura, se refieren exclusivamente a la posición del eje de la soldadura en los diferentes planos a soldar. Básicamente son cuatro las posiciones de soldar y todas exigen un conocimiento y dominio perfecto del soldador para la ejecución de una unión soldadura.",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fueron establecidas las cuatro posiciones siguientes:",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Posición plana o de nivel.",
+            "Posición horizontal",
+            "Posición vertical",
+            "Posición sobre cabeza"
+          ],
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-030",
+      "title": "Nomenclatura...",
+      "level": 2,
+      "page": 30,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Generalmente en soldadura existen distintas posiciones de soldeo, tanto en filete o ángulo designada con la letra F y la soldadura a tope designada con la letra G según la normativa americana (A.W.S.) según la normativa europea (U.N.E.) siempre se denomina con la letra P.",
+          "page": 30,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-031",
+      "title": "Uniones de filete...",
+      "level": 2,
+      "page": 31,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 1F (UNE = PA). Soldadura acunada o plana y una de las chapas inclinadas a 45º más o menos."
+          ],
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 2F (UNE = PB). Soldadura horizontal y una de las chapas en vertical."
+          ],
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 3F (UNE = PF). Soldadura vertical con ambas chapas en vertical; en la normativa americana tanto la soldadura ascendente como descendente sigue siendo la 3F, pero en la normativa europea la soldadura vertical ascendente se denomina PF y en vertical descendente se le denomina PG."
+          ],
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 4F (UNE = PD). Soldadura bajo techo."
+          ],
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-032",
+      "title": "Designación de acuerdo con ANSI/AWS A3.0:2001",
+      "level": 2,
+      "page": 32,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-016",
+          "page": 32
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Manual de soldadura ESAB",
+          "page": 32,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-033",
+      "title": "Uniones a tope...",
+      "level": 2,
+      "page": 33,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 1G (UNE = PA). Chapas horizontales, soldadura plana o sobremesa."
+          ],
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 2G (UNE = PF). Chapas verticales con eje de soldaduras horizontales, o también denominado de cornisa."
+          ],
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 3G (UNE = PF). Soldadura vertical ascendente, soldadura vertical descendente (PG)."
+          ],
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 4G (UNE = PF). Soldadura bajo techo."
+          ],
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-034",
+      "title": "Designación de acuerdo con ANSI/AWS A3.0:2001",
+      "level": 2,
+      "page": 34,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-017",
+          "page": 34
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-018",
+          "page": 34
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Manual de soldadura ESAB",
+          "page": 34,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-035",
+      "title": "Uniones de tubería...",
+      "level": 2,
+      "page": 35,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 1G (UNE = PA). Tuberías horizontales, con movimiento de rotación o revolución; soldadura “plana”, el depósito del material de aporte se realiza en la parte superior del tubo o caño."
+          ],
+          "page": 35,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 2G (UNE = PF). Tuberías verticales e inmóviles durante el soldeo, o también denominado de cornisa."
+          ],
+          "page": 35,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 5G (UNE = PF). Tuberías horizontales e inmóviles; Esta posición abarca todas las posiciones, soldadura plana, vertical y bajo techo."
+          ],
+          "page": 35,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Posición 6G (UNE = H-L045). Tuberías inmóviles con sus ejes inclinados a 45º más o menos; Esta soldadura abarca: soldadura bajo techo, vertical y plana."
+          ],
+          "page": 35,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-036",
+      "title": "Designación de acuerdo con ANSI/AWS A3.0:2001",
+      "level": 2,
+      "page": 36,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-019",
+          "page": 36
+        },
+        {
+          "type": "image",
+          "image_id": "img-terminologia-020",
+          "page": 36
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Manual de soldadura ESAB",
+          "page": 36,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-037",
+      "title": null,
+      "level": 2,
+      "page": 37,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-021",
+          "page": 37
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-038",
+      "title": "Partes de la soldadura",
+      "level": 2,
+      "page": 38,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-022",
+          "page": 38
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+          "page": 38,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-039",
+      "title": "Partes de la soldadura",
+      "level": 2,
+      "page": 39,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-023",
+          "page": 39
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+          "page": 39,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    },
+    {
+      "id": "sec-terminologia-040",
+      "title": "Partes de la soldadura",
+      "level": 2,
+      "page": 40,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-terminologia-024",
+          "page": 40
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+          "page": 40,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-terminologia-028"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-terminologia-001",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        23.2,
+        209.9,
+        242.4,
+        385.5
+      ],
+      "file": "images/terminologia-p01-terminologia.webp",
+      "original_format": "jpeg",
+      "width": 608,
+      "height": 487,
+      "type": "diagrama",
+      "description": "Dibujo de dos chapas en L con el cordón en la esquina, un electrodo o varilla acercándose al arco y cuatro números de referencia sin leyenda.",
+      "visible_text": "1; 2; 3; 4",
+      "caption": "Terminología",
+      "section_id": "sec-terminologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Esquema de una soldadura en ángulo con las llamadas 1, 2, 3 y 4",
+      "duplicate_of_xref": false,
+      "sha256_16": "9f28b433380f90c3",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-002",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 1,
+      "position": "inferior-centro",
+      "bbox": [
+        264.5,
+        285.4,
+        467.7,
+        487.9
+      ],
+      "file": "images/terminologia-p01-terminologia-2.webp",
+      "original_format": "jpeg",
+      "width": 271,
+      "height": 270,
+      "type": "fotografia",
+      "description": "Conjunto de máquinas de soldar, una azul en primer plano, una careta, un carrete de alambre y botellas al fondo.",
+      "visible_text": null,
+      "caption": "Terminología",
+      "section_id": "sec-terminologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Fotografía de equipo de soldadura, careta y carrete de alambre",
+      "duplicate_of_xref": false,
+      "sha256_16": "0c213b421ff2051f",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-terminologia-003",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        489.8,
+        353.6,
+        684.0,
+        499.1
+      ],
+      "file": "images/terminologia-p01-terminologia-3.webp",
+      "original_format": "jpeg",
+      "width": 259,
+      "height": 194,
+      "type": "fotografia",
+      "description": "Fotografía del arco brillante, la boquilla de la antorcha y las chispas sobre el metal.",
+      "visible_text": null,
+      "caption": "Terminología",
+      "section_id": "sec-terminologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Primer plano del arco entre la antorcha y la pieza, con chispas",
+      "duplicate_of_xref": false,
+      "sha256_16": "5dd5aed083efefe0",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-terminologia-004",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/terminologia-p01-terminologia-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde de la Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander UIS",
+      "caption": "Terminología",
+      "section_id": "sec-terminologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-005",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 3,
+      "position": "centro-centro",
+      "bbox": [
+        18.8,
+        45.0,
+        701.2,
+        495.0
+      ],
+      "file": "images/terminologia-p03-lamina-pagina-3.webp",
+      "original_format": "jpeg",
+      "width": 600,
+      "height": 910,
+      "type": "infografia",
+      "description": "Diagrama con el nodo central de procesos de soldadura y ramas hacia arco, soldadura fuerte, soldadura blanda, resistencia, estado sólido, oxiacetileno, corte y procesos asociados, cada uno con listas de nombres y siglas.",
+      "visible_text": "PROCESOS DE SOLDADURA; SOLDADURA POR ARCO (AW); SOLDADURA FUERTE (B); SOLDADURA BLANDA (S); SOLDADURA POR RESISTENCIA (RW); SOLDADURA DE ESTADO SÓLIDO (SSW); OTROS TIPOS DE SOLDADURA; SOLDADURA CON OXIACETILENO (OFW); PROCESOS ASOCIADOS; ROCIADO TÉRMICO (THSP); UNIÓN ADHESIVA (ABD); CORTE CON OXÍGENO (OC); CORTE TÉRMICO (TC); CORTE CON ARCO (AC); OTROS TIPOS DE CORTES",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-003",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cuadro de procesos de soldadura, corte y procesos asociados",
+      "duplicate_of_xref": false,
+      "sha256_16": "045354d84c8e75f2",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-terminologia-006",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 5,
+      "position": "centro-centro",
+      "bbox": [
+        31.9,
+        134.6,
+        688.1,
+        475.0
+      ],
+      "file": "images/terminologia-p05-soldadura-con-acetileno-oaw.webp",
+      "original_format": "jpeg",
+      "width": 602,
+      "height": 292,
+      "type": "diagrama",
+      "description": "Dibujo del equipo oxiacetilénico con bombonas de acetileno y de oxígeno, reguladores, válvulas antirretorno, mangueras y el cuerpo del soplete con puntas de soldar y de corte.",
+      "visible_text": "REGULADORES DE PRESIÓN; PUNTA DE SOLDADURA O DE SOLDADURA FUERTE; CABEZA DE CORTE; VÁLVULAS DE ANTI-RETORNO; CUERPO DEL SOPLETE; CADENA DE SEGURIDAD; MANGUERAS DE GAS; BOMBONA DE GAS DE ACETILENO; BOMBONA DE OXÍGENO",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-005",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Equipo de soldadura con acetileno: bombonas, reguladores y soplete",
+      "duplicate_of_xref": false,
+      "sha256_16": "b2c0e052def9430c",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-007",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 6,
+      "position": "centro-centro",
+      "bbox": [
+        15.6,
+        146.3,
+        703.4,
+        462.8
+      ],
+      "file": "images/terminologia-p06-soldadura-por-arco-metalico-protegido-smaw.webp",
+      "original_format": "jpeg",
+      "width": 628,
+      "height": 289,
+      "type": "diagrama",
+      "description": "Dibujo de la máquina de soldar conectada al portaelectrodo y a la pinza de masa, con el electrodo sobre la pieza.",
+      "visible_text": "MÁQUINA DE SOLDADURA; PORTAELECTRODO; CABLE DE ELECTRODO; ELECTRODO; PIEZA; PINZA DE MASA; CABLE DE MASA; CABLE DE LA FUENTE DE ALIMENTACIÓN PRINCIPAL; AC; DC; OFF; ON",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-006",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Equipo de soldadura por arco metálico protegido (SMAW)",
+      "duplicate_of_xref": false,
+      "sha256_16": "a9511ffd1fa13cba",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-008",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 7,
+      "position": "centro-centro",
+      "bbox": [
+        29.6,
+        141.0,
+        700.5,
+        454.8
+      ],
+      "file": "images/terminologia-p07-lamina-pagina-7.webp",
+      "original_format": "jpeg",
+      "width": 727,
+      "height": 340,
+      "type": "diagrama",
+      "description": "Dibujo de la máquina, la bombona de gas protector, el soplete GTAW, la pinza de masa y las mangueras de agua de refrigeración.",
+      "visible_text": "BOMBONA DE GAS PROTECTOR; COMBINACIÓN DE REGULADOR Y MEDIDOR DE FLUJO; MÁQUINA DE SOLDADURA; CADENA DE SEGURIDAD; SOPLETE DE SOLDADURA GTAW; PIEZA; PINZA DE MASA; GAS PROTECTOR AL SOPLETE; CABLE DE MASA; AGUA ENFRIADA DESDE LA FUENTE; AGUA CALIENTE PARA EL DRENAJE O PARA EL CIRCUITO DE REFRIGERACIÓN; AGUA REFRIGERADA HACIA EL SOPLETE",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-007",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Equipo de soldadura TIG con gas protector y refrigeración (GTAW)",
+      "duplicate_of_xref": false,
+      "sha256_16": "b2ba3a2f4c93d31f",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-009",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 8,
+      "position": "centro-centro",
+      "bbox": [
+        22.8,
+        173.9,
+        697.2,
+        494.6
+      ],
+      "file": "images/terminologia-p08-lamina-pagina-8.webp",
+      "original_format": "jpeg",
+      "width": 697,
+      "height": 323,
+      "type": "diagrama",
+      "description": "Dibujo de la máquina, el carrete y la unidad de alimentación de alambre, la bombona de gas, la pistola y la pinza de masa.",
+      "visible_text": "BOMBONA DE GAS PROTECTOR; COMBINACIÓN DE REGULADOR Y MEDIDOR DE FLUJO; UNIDAD DE CONTROL Y ALIMENTACIÓN DE ALAMBRE; CARRETE DE ALAMBRE; MÁQUINA DE SOLDADURA; PISTOLA DE SOLDADURA; PIEZA; PINZA DE MASA; CADENA DE SEGURIDAD; CABLE DE MASA; CABLE DE ALIMENTACIÓN DE SOLDADURA",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-008",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Equipo de soldadura MIG/MAG con alimentador de alambre (GMAW)",
+      "duplicate_of_xref": false,
+      "sha256_16": "35cf1e5f5a20879b",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-010",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 15,
+      "position": "centro-centro",
+      "bbox": [
+        165.8,
+        43.8,
+        503.8,
+        527.7
+      ],
+      "file": "images/terminologia-p15-lamina-pagina-15.webp",
+      "original_format": "png",
+      "width": 1073,
+      "height": 1536,
+      "type": "documento escaneado",
+      "description": "Hoja en blanco de una WPS, con apartados de alcance, metal base, metal de aportación, gas protector, junta, variables eléctricas, técnica e inspección.",
+      "visible_text": "ESPECIFICACIÓN DEL PROCEDIMIENTO DE SOLDADURA (WPS); Número de calificación del procedimiento de soldadura; Fecha; TÍTULO; ALCANCE; METAL BASE; METAL DE APORTACIÓN; GAS PROTECTOR; DISEÑO DE JUNTA Y TOLERANCIAS; PREPARACIÓN DEL METAL BASE; CARACTERÍSTICAS ELÉCTRICAS; PRECALENTAMIENTO; GAS DE RESPALDO; SEGURIDAD; TÉCNICA DE SOLDADURA; TEMPERATURA ENTRE PASADAS; LIMPIEZA; INSPECCIÓN; REPARACIÓN; BOSQUEJOS; ENSAYO DE PLEGADO",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-015",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Formulario de especificación del procedimiento de soldadura (WPS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "d786ca9b8dee253f",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-terminologia-011",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 17,
+      "position": "centro-centro",
+      "bbox": [
+        112.3,
+        26.9,
+        450.6,
+        540.0
+      ],
+      "file": "images/terminologia-p17-lamina-pagina-17.webp",
+      "original_format": "jpeg",
+      "width": 1013,
+      "height": 1536,
+      "type": "documento escaneado",
+      "description": "Hoja de un PQR con datos del procedimiento, metal de aportación, variables de soldadura, ensayos de doblado y de tensión, y la firma de calificación.",
+      "visible_text": "REGISTRO DE CUALIFICACIÓN DEL PROCEDIMIENTO (PQR); Metal de aportación; Fundente o atmósfera; Variables de soldadura; Resultados de la soldadura; Prueba de doblado guiado; Prueba de tensión",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-terminologia-017",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Formulario de registro de calificación del procedimiento (PQR)",
+      "duplicate_of_xref": false,
+      "sha256_16": "98a8eca9da0237b1",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-terminologia-012",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 23,
+      "position": "centro-centro",
+      "bbox": [
+        173.2,
+        111.6,
+        546.8,
+        317.9
+      ],
+      "file": "images/terminologia-p23-tipos-de-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 498,
+      "height": 275,
+      "type": "diagrama",
+      "description": "Vista en tres dimensiones de varias chapas unidas, con rótulos de filete, plana, horizontal, vertical, a tope, traslapada, de tapón, a tope doble y soldadura de canto.",
+      "visible_text": "Soldadura de canto; Vertical; De filete; Plana; Horizontal; A tope; Traslapada; De tapón; A tope doble",
+      "caption": "Tipos de soldadura...",
+      "section_id": "sec-terminologia-023",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Pieza con soldaduras de filete, a tope, traslapada, de tapón y de canto",
+      "duplicate_of_xref": false,
+      "sha256_16": "0da46e9cb0b8b70c",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-013",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 23,
+      "position": "inferior-centro",
+      "bbox": [
+        108.0,
+        301.8,
+        659.2,
+        515.9
+      ],
+      "file": "images/terminologia-p23-tipos-de-soldadura-2.webp",
+      "original_format": "jpeg",
+      "width": 958,
+      "height": 372,
+      "type": "diagrama",
+      "description": "Cuatro cortes: filete en T, relleno sobre una chapa, bisel en V y tapón entre dos chapas solapadas.",
+      "visible_text": "Filete; Relleno; Bisel; Tapón",
+      "caption": "Tipos de soldadura...",
+      "section_id": "sec-terminologia-023",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Secciones de soldadura de filete, relleno, bisel y tapón",
+      "duplicate_of_xref": false,
+      "sha256_16": "a3e15089d2a0b3df",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-014",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 25,
+      "position": "centro-centro",
+      "bbox": [
+        32.3,
+        164.6,
+        691.4,
+        396.8
+      ],
+      "file": "images/terminologia-p25-lamina-pagina-25.webp",
+      "original_format": "jpeg",
+      "width": 1235,
+      "height": 435,
+      "type": "diagrama",
+      "description": "Cinco piezas muestran cómo se juntan las chapas: a tope, esquina, traslape, borde y tipo T.",
+      "visible_text": "A tope; Esquina; Traslape; Borde; Tipo T",
+      "caption": "Imagen tomada de: Guia de soldadura para el técnico profesional. William L. Galvery, Jr",
+      "section_id": "sec-terminologia-025",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Uniones a tope, de esquina, a traslape, de borde y en T",
+      "duplicate_of_xref": false,
+      "sha256_16": "a68217809ba6861a",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-015",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 27,
+      "position": "centro-centro",
+      "bbox": [
+        24.8,
+        149.7,
+        698.9,
+        391.6
+      ],
+      "file": "images/terminologia-p27-lamina-pagina-27.webp",
+      "original_format": "png",
+      "width": 1098,
+      "height": 394,
+      "type": "diagrama",
+      "description": "Siete preparaciones de borde: escuadra, tipo J, bisel único, bisel en X, bisel en V, doble bisel y tipo U.",
+      "visible_text": "Escuadra; Tipo J; Bisel Único; Bisel en X; Bisel en V; Doble Bisel; Tipo U",
+      "caption": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+      "section_id": "sec-terminologia-027",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Bisel a escuadra, en J, único, en X, en V, doble y en U",
+      "duplicate_of_xref": false,
+      "sha256_16": "02d7ecba4ad28917",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-016",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 32,
+      "position": "centro-centro",
+      "bbox": [
+        44.7,
+        159.3,
+        695.6,
+        437.5
+      ],
+      "file": "images/terminologia-p32-designacion-de-acuerdo-con-ansi-aws-a3-0-2001.webp",
+      "original_format": "jpeg",
+      "width": 1041,
+      "height": 445,
+      "type": "diagrama",
+      "description": "Cuadro de uniones de filete con cuatro piezas en L, de 1F plana a 4F sobrecabeza, bajo los encabezados plano, horizontal, vertical y sobrecabeza.",
+      "visible_text": "Plano; Horizontal; Vertical; Sobrecabeza; Uniones de filete; 1F; 2F; 3F; 4F",
+      "caption": "Imagen tomada de: Manual de soldadura ESAB",
+      "section_id": "sec-terminologia-032",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Posiciones de filete 1F, 2F, 3F y 4F: plana, horizontal, vertical y sobrecabeza",
+      "duplicate_of_xref": false,
+      "sha256_16": "a3784add268723ec",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-017",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 34,
+      "position": "superior-centro",
+      "bbox": [
+        24.2,
+        125.5,
+        689.6,
+        171.2
+      ],
+      "file": "images/terminologia-p34-designacion-de-acuerdo-con-ansi-aws-a3-0-2001.webp",
+      "original_format": "png",
+      "width": 1041,
+      "height": 66,
+      "type": "tabla convertida en imagen",
+      "description": "Franja con cuatro casillas que nombran las posiciones de soldadura: plano, horizontal, vertical y sobrecabeza.",
+      "visible_text": "Plano; Horizontal; Vertical; Sobrecabeza",
+      "caption": "Imagen tomada de: Manual de soldadura ESAB",
+      "section_id": "sec-terminologia-034",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Encabezados de posición: plano, horizontal, vertical y sobrecabeza",
+      "duplicate_of_xref": false,
+      "sha256_16": "0a9b8414d21f5e29",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-018",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 34,
+      "position": "centro-centro",
+      "bbox": [
+        24.2,
+        185.1,
+        695.8,
+        426.6
+      ],
+      "file": "images/terminologia-p34-designacion-de-acuerdo-con-ansi-aws-a3-0-2001-2.webp",
+      "original_format": "jpeg",
+      "width": 1043,
+      "height": 375,
+      "type": "diagrama",
+      "description": "Cuadro de uniones biseladas con cuatro chapas, de 1G plana a 4G sobrecabeza.",
+      "visible_text": "Uniones biseladas; 1G; 2G; 3G; 4G",
+      "caption": "Imagen tomada de: Manual de soldadura ESAB",
+      "section_id": "sec-terminologia-034",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Posiciones de soldadura a tope 1G, 2G, 3G y 4G",
+      "duplicate_of_xref": false,
+      "sha256_16": "472472a558339c78",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-019",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 36,
+      "position": "superior-centro",
+      "bbox": [
+        24.2,
+        125.5,
+        689.6,
+        171.2
+      ],
+      "file": "images/terminologia-p34-designacion-de-acuerdo-con-ansi-aws-a3-0-2001.webp",
+      "original_format": "png",
+      "width": 1041,
+      "height": 66,
+      "type": "tabla convertida en imagen",
+      "description": "Franja con cuatro casillas que nombran las posiciones de soldadura: plano, horizontal, vertical y sobrecabeza.",
+      "visible_text": "Plano; Horizontal; Vertical; Sobrecabeza",
+      "caption": "Imagen tomada de: Manual de soldadura ESAB",
+      "section_id": "sec-terminologia-036",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Encabezados de posición: plano, horizontal, vertical y sobrecabeza",
+      "duplicate_of_xref": true,
+      "sha256_16": "0a9b8414d21f5e29",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-020",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 36,
+      "position": "centro-centro",
+      "bbox": [
+        31.0,
+        189.4,
+        696.4,
+        447.4
+      ],
+      "file": "images/terminologia-p36-designacion-de-acuerdo-con-ansi-aws-a3-0-2001.webp",
+      "original_format": "png",
+      "width": 1041,
+      "height": 373,
+      "type": "diagrama",
+      "description": "Cuadro de uniones de tuberías: 1G y 5G horizontales, 2G vertical y 6G inclinada, indicando si la tubería rota mientras se suelda.",
+      "visible_text": "Uniones de tuberías; La tubería se rota mientras se suelda; La tubería no se rota mientras se suelda; 1G; 2G; 5G; 6G",
+      "caption": "Imagen tomada de: Manual de soldadura ESAB",
+      "section_id": "sec-terminologia-036",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Posiciones de tubería 1G, 2G, 5G y 6G, con y sin rotación",
+      "duplicate_of_xref": false,
+      "sha256_16": "82b5a82e61fe79f5",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-021",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 37,
+      "position": "centro-centro",
+      "bbox": [
+        162.3,
+        98.6,
+        544.8,
+        481.1
+      ],
+      "file": "images/terminologia-p37-lamina-pagina-37.webp",
+      "original_format": "jpeg",
+      "width": 510,
+      "height": 510,
+      "type": "ilustracion",
+      "description": "Cuatro recuadros muestran la antorcha en 2G, 1G con el tubo que gira, 6G inclinado a 45° y 5G.",
+      "visible_text": "2G; 1G; Pipe is rotated while welding; 6G; Inclined Position 45°; 5G",
+      "caption": null,
+      "section_id": "sec-terminologia-037",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Posiciones de tubería 1G, 2G, 5G y 6G con la antorcha",
+      "duplicate_of_xref": false,
+      "sha256_16": "260f1c65c7d712d3",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-022",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 38,
+      "position": "centro-centro",
+      "bbox": [
+        83.8,
+        149.0,
+        623.8,
+        462.7
+      ],
+      "file": "images/terminologia-p38-partes-de-la-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 427,
+      "height": 735,
+      "type": "diagrama",
+      "description": "Corte de una soldadura en V con rótulos de cara, refuerzo, talón, raíz, refuerzo de la raíz, cara de fusión, zona de fusión y tamaño de la soldadura.",
+      "visible_text": "Talón; Cara; Refuerzo; Profundidad de la fusión; Cara de fusión; Tamaño de la soldadura (pata); Superficie de contacto de la soldadura; Raíz; Refuerzo de la raíz; Zona de fusión (penetración de la soldadura)",
+      "caption": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+      "section_id": "sec-terminologia-038",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Partes de una soldadura de ranura: cara, raíz, talón y refuerzo",
+      "duplicate_of_xref": false,
+      "sha256_16": "444bfa6812bebc1a",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-023",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 39,
+      "position": "centro-centro",
+      "bbox": [
+        90.0,
+        167.4,
+        630.0,
+        468.9
+      ],
+      "file": "images/terminologia-p39-partes-de-la-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 493,
+      "height": 883,
+      "type": "diagrama",
+      "description": "Corte de un filete en T con rótulos de cuello real, cuello efectivo, cuello teórico, convexidad, talón, cara, raíz y zona de fusión.",
+      "visible_text": "Cuello real; Cuello efectivo; Convexidad; Talón; Cara; Cuello teórico; Tamaño de la soldadura (pata); Raíz; Superficies de contacto; Zona de fusión (penetración de la soldadura); Cara de fusión; Profundidad de la fusión",
+      "caption": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+      "section_id": "sec-terminologia-039",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Partes de una soldadura de filete: cuello, cara, raíz y convexidad",
+      "duplicate_of_xref": false,
+      "sha256_16": "9b9a8e3e2fe73435",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-terminologia-024",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "page": 40,
+      "position": "centro-centro",
+      "bbox": [
+        90.0,
+        134.3,
+        630.0,
+        405.7
+      ],
+      "file": "images/terminologia-p40-partes-de-la-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 487,
+      "height": 969,
+      "type": "diagrama",
+      "description": "Dos placas con una soldadura de unión, puntos de soldadura provisional en los extremos y una cota de separación, con la indicación de empezar en un borde.",
+      "visible_text": "Comience aquí; Placa; Soldadura; Soldadura provisional; Misma ranura que en la placa; 1-1/2",
+      "caption": "Imagen tomada de: Guía de soldadura para el técnico profesional. William L. Galvery, Jr",
+      "section_id": "sec-terminologia-040",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura provisional y ranura en el empalme de una placa",
+      "duplicate_of_xref": false,
+      "sha256_16": "1d8d34dd5f156101",
+      "source": "visual",
+      "confidence": "medium"
+    }
+  ],
+  "tables": [],
+  "links": [],
+  "contacts": [],
+  "seo": {
+    "title": "Terminología",
+    "meta_description": "Los procesos se diferencian principalmente en el modo que se aplica el calor, la presión o ambas cosas y en el equipo utilizado.",
+    "slug": "terminologia",
+    "keywords": [
+      "SMAW",
+      "GMAW",
+      "electrodo",
+      "terminología",
+      "soplete",
+      "acetileno",
+      "WPS",
+      "AWS",
+      "soldadura de filete"
+    ],
+    "og_title": "Terminología",
+    "og_description": "Los procesos se diferencian principalmente en el modo que se aplica el calor, la presión o ambas cosas y en el equipo utilizado.",
+    "og_image": "images/terminologia-p01-terminologia.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 3",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Procesos de soldadura",
+        "inferred": false
+      },
+      {
+        "name": "Códigos, normas, procedimientos y especificaciones",
+        "inferred": false
+      },
+      {
+        "name": "Selección del proceso de unión",
+        "inferred": false
+      },
+      {
+        "name": "Métodos de aplicación de soldadura",
+        "inferred": false
+      },
+      {
+        "name": "Tipos de soldadura",
+        "inferred": false
+      },
+      {
+        "name": "Tipos de uniones",
+        "inferred": false
+      },
+      {
+        "name": "Tipos de biseles",
+        "inferred": false
+      },
+      {
+        "name": "Posiciones en soldadura",
+        "inferred": false
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date_detail": {
+      "value": "2025-02-24",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}

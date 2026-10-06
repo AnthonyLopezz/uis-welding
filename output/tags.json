@@ -1,0 +1,137 @@
+[
+  {
+    "tag": "AWS",
+    "inferred": true,
+    "documents": [
+      "presentacion-introduccion",
+      "terminologia",
+      "simbologia",
+      "oxiacetileno",
+      "smaw",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "GMAW",
+    "inferred": true,
+    "documents": [
+      "terminologia",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "SMAW",
+    "inferred": true,
+    "documents": [
+      "terminologia",
+      "smaw"
+    ]
+  },
+  {
+    "tag": "WPS",
+    "inferred": true,
+    "documents": [
+      "terminologia"
+    ]
+  },
+  {
+    "tag": "acetileno",
+    "inferred": true,
+    "documents": [
+      "seguridad",
+      "terminologia",
+      "oxiacetileno"
+    ]
+  },
+  {
+    "tag": "arco eléctrico",
+    "inferred": true,
+    "documents": [
+      "presentacion-introduccion",
+      "seguridad"
+    ]
+  },
+  {
+    "tag": "argón",
+    "inferred": true,
+    "documents": [
+      "seguridad",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "electrodo",
+    "inferred": true,
+    "documents": [
+      "presentacion-introduccion",
+      "terminologia",
+      "smaw",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "gas de protección",
+    "inferred": true,
+    "documents": [
+      "presentacion-introduccion",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "oxiacetileno",
+    "inferred": true,
+    "documents": [
+      "oxiacetileno"
+    ]
+  },
+  {
+    "tag": "polaridad",
+    "inferred": true,
+    "documents": [
+      "smaw",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "seguridad",
+    "inferred": true,
+    "documents": [
+      "seguridad",
+      "oxiacetileno"
+    ]
+  },
+  {
+    "tag": "simbología",
+    "inferred": true,
+    "documents": [
+      "presentacion-introduccion",
+      "simbologia"
+    ]
+  },
+  {
+    "tag": "soldadura de filete",
+    "inferred": true,
+    "documents": [
+      "terminologia",
+      "simbologia",
+      "gmaw"
+    ]
+  },
+  {
+    "tag": "soplete",
+    "inferred": true,
+    "documents": [
+      "terminologia",
+      "oxiacetileno",
+      "smaw"
+    ]
+  },
+  {
+    "tag": "terminología",
+    "inferred": true,
+    "documents": [
+      "presentacion-introduccion",
+      "terminologia"
+    ]
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "id": "smaw-q01",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-005",
+    "sourcePage": 5,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cómo llama la AWS a la soldadura por arco metálico con electrodo revestido?",
+    "options": [
+      "SMAW (Shielded Metal Arc Welding)",
+      "GMAW (Gas Metal Arc Welding)",
+      "OFW (Oxyfuel Welding)",
+      "GTAW (Gas Tungsten Arc Welding)"
+    ],
+    "correctAnswer": "SMAW (Shielded Metal Arc Welding)",
+    "explanation": "La AWS la denomina soldadura por arco metálico con electrodo revestido, o SMAW."
+  },
+  {
+    "id": "smaw-q02",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-006",
+    "sourcePage": 6,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "La soldadura SMAW también se conoce como soldadura de arco, con varilla o con electrodo.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Verdadero",
+    "explanation": "La unidad lista esos tres nombres comunes: soldadura de arco, con varilla y con electrodo."
+  },
+  {
+    "id": "smaw-q03",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-009",
+    "sourcePage": 9,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué recorrido sigue el circuito eléctrico en SMAW?",
+    "options": [
+      "Fuente de poder → electrodo → arco → pieza de trabajo → regreso a la fuente",
+      "Fuente de poder → cilindro de gas → pistola → pieza",
+      "Batería → careta → electrodo → tierra",
+      "Pieza de trabajo → regulador → soplete → fuente"
+    ],
+    "correctAnswer": "Fuente de poder → electrodo → arco → pieza de trabajo → regreso a la fuente",
+    "explanation": "Se establece un circuito entre la fuente de poder, el electrodo, el arco, la pieza de trabajo y de regreso a la fuente. Los electrones que cruzan el espacio forman el arco."
+  },
+  {
+    "id": "smaw-q04",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-010",
+    "sourcePage": 10,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "En SMAW, ¿qué protege al baño de metal fundido?",
+    "options": [
+      "Una nube gaseosa y una capa de escoria que se forman al quemarse el fundente del electrodo",
+      "Un gas que llega desde un cilindro por la pistola",
+      "Un chorro de agua de refrigeración",
+      "Una llama de oxígeno y acetileno"
+    ],
+    "correctAnswer": "Una nube gaseosa y una capa de escoria que se forman al quemarse el fundente del electrodo",
+    "explanation": "En SMAW la protección sale del propio electrodo: el fundente se quema o evapora y forma una nube gaseosa y escoria. En GMAW, en cambio, el gas viene de un cilindro."
+  },
+  {
+    "id": "smaw-q05",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-011",
+    "sourcePage": 11,
+    "imageId": "img-smaw-006",
+    "type": "image",
+    "difficulty": "medium",
+    "question": "Observa el corte del proceso SMAW. ¿Qué capa cubre el metal de soldadura ya depositado?",
+    "options": [
+      "Escoria",
+      "Gas argón",
+      "Pintura protectora",
+      "Óxido de la pieza"
+    ],
+    "correctAnswer": "Escoria",
+    "explanation": "El diagrama muestra la escoria sobre el metal de soldadura, detrás del arco; se forma con el fundente del revestimiento y se limpia al terminar."
+  },
+  {
+    "id": "smaw-q06",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-013",
+    "sourcePage": 13,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Con ángulo de ARRASTRE, ¿qué hace el electrodo con el metal fundido?",
+    "options": [
+      "Lo empuja hacia atrás, fuera del borde delantero del baño, donde se solidifica",
+      "Lo empuja por delante de la soldadura junto con la escoria",
+      "Lo mantiene inmóvil en el centro del baño",
+      "Lo expulsa en forma de rocío fino"
+    ],
+    "correctAnswer": "Lo empuja hacia atrás, fuera del borde delantero del baño, donde se solidifica",
+    "explanation": "En arrastre el metal fundido va hacia atrás, donde se solidifica. En ataque el electrodo empuja el metal fundido y la escoria por delante de la soldadura."
+  },
+  {
+    "id": "smaw-q07",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-017",
+    "sourcePage": 17,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿A partir de qué espesor es apropiado SMAW?",
+    "options": [
+      "De 1/8 de pulgada en adelante",
+      "Solo por debajo de 1/16 de pulgada",
+      "Solo por encima de 2 pulgadas",
+      "No depende del espesor"
+    ],
+    "correctAnswer": "De 1/8 de pulgada en adelante",
+    "explanation": "SMAW es apropiado para piezas de 1/8\" en adelante. Las más delgadas se pueden soldar, pero exigen mucha más destreza."
+  },
+  {
+    "id": "smaw-q08",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-017",
+    "sourcePage": 17,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "Debes soldar una placa de 1 pulgada de espesor. Según la unidad, ¿qué conviene tener en cuenta?",
+    "options": [
+      "Que las piezas de más de 3/4\" se sueldan de forma más económica con otros métodos, como el arco con núcleo fundente",
+      "Que SMAW no puede soldar piezas de más de 1/2\"",
+      "Que es obligatorio usar oxiacetileno",
+      "Que hay que usar corriente alterna"
+    ],
+    "correctAnswer": "Que las piezas de más de 3/4\" se sueldan de forma más económica con otros métodos, como el arco con núcleo fundente",
+    "explanation": "SMAW puede soldar piezas gruesas, pero por encima de 3/4\" resulta más económico usar otros métodos, como el arco con electrodo de núcleo fundente."
+  },
+  {
+    "id": "smaw-q09",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-019",
+    "sourcePage": 19,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué SMAW se adapta bien a trabajos al aire libre, comparado con los procesos de soplete?",
+    "options": [
+      "Porque el viento y las corrientes de aire lo afectan menos",
+      "Porque no produce chispas",
+      "Porque funciona sin electricidad",
+      "Porque el electrodo no se consume"
+    ],
+    "correctAnswer": "Porque el viento y las corrientes de aire lo afectan menos",
+    "explanation": "Entre sus ventajas: el viento lo afecta menos que a los procesos de soplete, se puede soldar en cualquier posición y casi con cualquier tiempo."
+  },
+  {
+    "id": "smaw-q10",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-025",
+    "sourcePage": 25,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cuál de estas es una desventaja de SMAW?",
+    "options": [
+      "Se desperdician de una a dos pulgadas de cada electrodo (las colillas)",
+      "No se puede soldar en ninguna posición fuera de la plana",
+      "El equipo es muy caro",
+      "Solo suelda aluminio"
+    ],
+    "correctAnswer": "Se desperdician de una a dos pulgadas de cada electrodo (las colillas)",
+    "explanation": "No se puede usar todo el electrodo: las colillas se desechan, y se pierden de una a dos pulgadas por electrodo."
+  },
+  {
+    "id": "smaw-q11",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-024",
+    "sourcePage": 24,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué SMAW deposita metal más lento que los procesos con alimentación de alambre?",
+    "options": [
+      "Porque hay que detener el trabajo para cambiar el electrodo consumido",
+      "Porque el arco es más frío",
+      "Porque solo funciona con corriente alterna",
+      "Porque necesita precalentar siempre la pieza"
+    ],
+    "correctAnswer": "Porque hay que detener el trabajo para cambiar el electrodo consumido",
+    "explanation": "El ciclo de trabajo es más corto y la deposición menor porque hay que parar para cambiar el electrodo. Esos paros y reinicios además favorecen defectos."
+  },
+  {
+    "id": "smaw-q12",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-026",
+    "sourcePage": 26,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿En cuál de estas condiciones NO está permitido soldar con SMAW?",
+    "options": [
+      "Mientras llueve",
+      "En un día seco y soleado",
+      "En un interior ventilado",
+      "Con el metal base a 25 °C"
+    ],
+    "correctAnswer": "Mientras llueve",
+    "explanation": "No se permite soldar con lluvia, nieve o tormentas de arena, ni con el metal base por debajo de 18 °C sin precalentar."
+  },
+  {
+    "id": "smaw-q13",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-028",
+    "sourcePage": 28,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué se necesita una fuente de poder en SMAW?",
+    "options": [
+      "Porque reduce el voltaje de la red (120 a 575 V) a los 20–80 V del proceso y da estabilidad al arco",
+      "Porque eleva el voltaje de la red a más de 1000 V",
+      "Porque produce el gas de protección",
+      "Porque enfría el electrodo"
+    ],
+    "correctAnswer": "Porque reduce el voltaje de la red (120 a 575 V) a los 20–80 V del proceso y da estabilidad al arco",
+    "explanation": "La red entrega de 120 a 575 V, demasiado para soldar (20 a 80 V). La fuente reduce el voltaje, estabiliza el arco y puede convertir el tipo de corriente."
+  },
+  {
+    "id": "smaw-q14",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-030",
+    "sourcePage": 30,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué diferencia una fuente de corriente continua de una de corriente alterna?",
+    "options": [
+      "La continua mantiene la polaridad fija; la alterna cambia de polaridad continuamente",
+      "La continua cambia de polaridad; la alterna la mantiene fija",
+      "Las dos mantienen la polaridad fija",
+      "Solo la continua tiene terminales"
+    ],
+    "correctAnswer": "La continua mantiene la polaridad fija; la alterna cambia de polaridad continuamente",
+    "explanation": "En corriente continua la terminal positiva siempre es positiva y la negativa siempre negativa. La alterna, como la de la red, cambia de polaridad todo el tiempo."
+  },
+  {
+    "id": "smaw-q15",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-031",
+    "sourcePage": 31,
+    "type": "matching",
+    "difficulty": "hard",
+    "question": "Relaciona cada tipo de corriente con su característica.",
+    "pairs": [
+      {
+        "left": "AC",
+        "right": "No tiene polaridad"
+      },
+      {
+        "left": "DCEN",
+        "right": "Polaridad directa, mayor penetración"
+      },
+      {
+        "left": "DCEP",
+        "right": "Polaridad inversa, útil para aluminio y magnesio"
+      }
+    ],
+    "explanation": "La corriente alterna (AC) no tiene polaridad. DCEN (polaridad directa) da mayor penetración. DCEP (polaridad inversa) funde el electrodo más rápido y es útil en aluminio y magnesio."
+  },
+  {
+    "id": "smaw-q16",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-032",
+    "sourcePage": 32,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué polaridad produce MAYOR penetración en SMAW?",
+    "options": [
+      "Corriente continua, electrodo en negativo (DCEN)",
+      "Corriente continua, electrodo en positivo (DCEP)",
+      "Corriente alterna (AC)",
+      "Todas producen la misma"
+    ],
+    "correctAnswer": "Corriente continua, electrodo en negativo (DCEN)",
+    "explanation": "DCEN, también llamada polaridad directa, produce mayor penetración que DCEP."
+  },
+  {
+    "id": "smaw-q17",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-033",
+    "sourcePage": 33,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Vas a soldar aluminio con SMAW. ¿Qué polaridad es muy útil según la unidad?",
+    "options": [
+      "DCEP (polaridad inversa)",
+      "DCEN (polaridad directa)",
+      "Corriente alterna",
+      "Ninguna: el aluminio no se suelda con SMAW"
+    ],
+    "correctAnswer": "DCEP (polaridad inversa)",
+    "explanation": "DCEP es muy útil para soldar aluminio y magnesio: funde el electrodo más rápido, mejora la transferencia del aporte y da buena estabilidad al arco."
+  },
+  {
+    "id": "smaw-q18",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-036",
+    "sourcePage": 36,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Según la unidad, ¿qué ventaja ofrece el arco de corriente alterna en SMAW?",
+    "options": [
+      "Solo el menor costo de las fuentes de corriente alterna",
+      "Mayor penetración que DCEN",
+      "Cordones más suaves que DCEP",
+      "Elimina el soplo de arco y la escoria"
+    ],
+    "correctAnswer": "Solo el menor costo de las fuentes de corriente alterna",
+    "explanation": "La lámina responde «NINGUNA», con una excepción: el menor costo de las fuentes de corriente alterna."
+  },
+  {
+    "id": "smaw-q19",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-037",
+    "sourcePage": 37,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿Por encima de qué corriente la falta de homogeneidad del campo magnético puede mover al propio conductor (soplo de arco)?",
+    "options": [
+      "600 amperios",
+      "60 amperios",
+      "150 amperios",
+      "6000 amperios"
+    ],
+    "correctAnswer": "600 amperios",
+    "explanation": "Toda corriente crea un campo magnético asimétrico; por encima de 600 A esa falta de homogeneidad puede mover al conductor y desviar el arco."
+  },
+  {
+    "id": "smaw-q20",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-038",
+    "sourcePage": 38,
+    "imageId": "img-smaw-018",
+    "type": "image",
+    "difficulty": "hard",
+    "question": "Observa la solución al soplo de arco. ¿Dónde se coloca el cable de masa?",
+    "options": [
+      "En el extremo de la pieza hacia el que avanza la soldadura",
+      "Justo al lado del electrodo, en el punto de inicio",
+      "En el centro exacto de la pieza",
+      "En la careta del soldador"
+    ],
+    "correctAnswer": "En el extremo de la pieza hacia el que avanza la soldadura",
+    "explanation": "El diagrama muestra la pinza de masa en el extremo hacia el que apunta la dirección de la soldadura, lo que compensa la desviación magnética del arco."
+  },
+  {
+    "id": "smaw-q21",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-042",
+    "sourcePage": 42,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿En qué se diferencian el voltaje de circuito abierto y el voltaje de operación en SMAW?",
+    "options": [
+      "El de circuito abierto se mide sin corriente (50–80 V); el de operación se mide en el arco al soldar (17–40 V)",
+      "El de circuito abierto se mide en el arco al soldar (17–40 V); el de operación sin corriente (50–80 V)",
+      "Son iguales, unos 120 V",
+      "El de operación siempre es mayor que el de circuito abierto"
+    ],
+    "correctAnswer": "El de circuito abierto se mide sin corriente (50–80 V); el de operación se mide en el arco al soldar (17–40 V)",
+    "explanation": "El voltaje de circuito abierto se mide entre electrodo y tierra sin corriente (50 a 80 V). El de operación se mide en el arco durante la soldadura, varía y suele estar entre 17 y 40 V."
+  },
+  {
+    "id": "smaw-q22",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-040",
+    "sourcePage": 40,
+    "imageId": "img-smaw-020",
+    "type": "image",
+    "difficulty": "medium",
+    "question": "Según la tabla de Lincoln Electric, ¿qué polaridad se indica para el electrodo E6010 (Fleetweld 5P)?",
+    "options": [
+      "DCEP",
+      "AC",
+      "DCEN",
+      "DC−"
+    ],
+    "correctAnswer": "DCEP",
+    "explanation": "En la tabla, el Fleetweld 5P (E6010) aparece solo con polaridad DCEP, con rangos de corriente desde 40–70 A para 3/32\"."
+  },
+  {
+    "id": "smaw-q23",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-043",
+    "sourcePage": 43,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cuáles son las dos grandes clasificaciones de las características de salida de las fuentes de poder?",
+    "options": [
+      "Voltaje constante (VC) y corriente constante (CC)",
+      "Alta y baja frecuencia",
+      "Monofásica y trifásica",
+      "Manual y automática"
+    ],
+    "correctAnswer": "Voltaje constante (VC) y corriente constante (CC)",
+    "explanation": "Las fuentes se clasifican en voltaje constante y corriente constante, como muestran las gráficas de voltios frente a amperios."
+  },
+  {
+    "id": "smaw-x01",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-032",
+    "sourcePage": 32,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "La corriente continua con electrodo en negativo (DCEN) también se denomina:",
+    "options": [
+      "Polaridad directa",
+      "Polaridad inversa",
+      "Corriente alterna",
+      "Voltaje constante"
+    ],
+    "correctAnswer": "Polaridad directa",
+    "explanation": "Trampa clásica: DCEN = polaridad directa (mayor penetración); DCEP = polaridad inversa (útil para aluminio y magnesio)."
+  },
+  {
+    "id": "smaw-x02",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-024",
+    "sourcePage": 24,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Por debajo de qué espesor NO es apropiada la soldadura SMAW?",
+    "options": [
+      "1/16\" (1,5 mm)",
+      "1/8\"",
+      "3/4\"",
+      "1\""
+    ],
+    "correctAnswer": "1/16\" (1,5 mm)",
+    "explanation": "Trampa: 1/8\" es desde donde SMAW es apropiado sin dificultad (lámina 17); por debajo se puede, con más destreza. El límite inferior de las desventajas es 1/16\" (1,5 mm)."
+  },
+  {
+    "id": "smaw-x03",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-039",
+    "sourcePage": 39,
+    "type": "image",
+    "difficulty": "expert",
+    "imageId": "img-smaw-019",
+    "question": "Observa la perilla. Si la fuente está en el rango MEDIO, ¿qué amperaje entrega?",
+    "options": [
+      "60–260 A",
+      "20–150 A",
+      "200–450 A",
+      "0–10 A"
+    ],
+    "correctAnswer": "60–260 A",
+    "explanation": "Los rangos se solapan, y eso confunde: bajo 20–150 A, medio 60–260 A y alto 200–450 A. Los números del 0 al 10 son posiciones de la perilla, no amperios."
+  },
+  {
+    "id": "smaw-x04",
+    "topicId": "smaw",
+    "sectionId": "sec-smaw-003",
+    "sourcePage": 3,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Para qué año ya se habían patentado los electrodos consumibles recubiertos?",
+    "options": [
+      "1912",
+      "1800",
+      "Entre 1880 y 1900",
+      "Siglo XVIII"
+    ],
+    "correctAnswer": "1912",
+    "explanation": "Fechas parecidas a propósito: en el siglo XVIII se soldaba con electrodos de carbón y baterías; entre 1880 y 1900 llegaron los generadores; para 1912 ya estaban patentados los electrodos recubiertos."
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "tbl-simbologia-001",
+  "page": 12,
+  "section_id": "sec-simbologia-012",
+  "caption": "Simbología de las pruebas no destructivas",
+  "headers": [
+    "Tipo de prueba no destructiva",
+    "Símbolo"
+  ],
+  "rows": [
+    [
+      "Visual",
+      "VT"
+    ],
+    [
+      "líquidos penetrantes",
+      "DTP"
+    ],
+    [
+      "penetrante fluorecente",
+      "FPT"
+    ],
+    [
+      "Partículas magnéticas",
+      "MT"
+    ],
+    [
+      "Corrientes inducidas",
+      "ET"
+    ],
+    [
+      "Ultrasónica",
+      "UT"
+    ],
+    [
+      "Emisión acústica",
+      "AET"
+    ],
+    [
+      "Fugas",
+      "LT"
+    ],
+    [
+      "Radiografía",
+      "RT"
+    ],
+    [
+      "Radiografía neutrónica",
+      "NRT"
+    ]
+  ],
+  "notes": "Transcripción de la lámina. Conserva la grafía impresa, incluida «fluorecente» y el símbolo DTP.",
+  "source": "extracted",
+  "confidence": "high"
+}

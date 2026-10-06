@@ -1,0 +1,226 @@
+[
+  {
+    "id": "documento-001",
+    "original_name": "Unidad # 1 presentación e Introducción.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1191138,
+    "page_count": 34,
+    "title": "Presentación e Introducción del curso",
+    "author": {
+      "value": "Carlos Rondon",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Campo Author del PDF. No aparece repetido en el cuerpo de las diapositivas."
+    },
+    "date": {
+      "value": "2025-02-24",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 21,
+    "table_count": 0,
+    "section_count": 34,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 1",
+    "text_coverage": 1.0
+  },
+  {
+    "id": "documento-002",
+    "original_name": "Unidad #2 seguridad en soldadura.pdf",
+    "extension": ".pdf",
+    "size_bytes": 384471,
+    "page_count": 14,
+    "title": "Seguridad en soldadura",
+    "author": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date": {
+      "value": "2025-02-24",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 17,
+    "table_count": 1,
+    "section_count": 14,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 2",
+    "text_coverage": 1.0
+  },
+  {
+    "id": "documento-003",
+    "original_name": "Unidad # 3 terminología.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1857442,
+    "page_count": 40,
+    "title": "Terminología",
+    "author": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date": {
+      "value": "2025-02-24",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 24,
+    "table_count": 0,
+    "section_count": 40,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 3",
+    "text_coverage": 1.0
+  },
+  {
+    "id": "documento-004",
+    "original_name": "Unidad #4 simbologia.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1612172,
+    "page_count": 32,
+    "title": "Simbología",
+    "author": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date": {
+      "value": "2025-03-21",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 35,
+    "table_count": 1,
+    "section_count": 32,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 4",
+    "text_coverage": 1.0
+  },
+  {
+    "id": "documento-005",
+    "original_name": "Procesos de soldadura oxiacetileno.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1670704,
+    "page_count": 42,
+    "title": "Procesos de soldadura — Soldadura por llama",
+    "author": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date": {
+      "value": "2026-03-27",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 25,
+    "table_count": 1,
+    "section_count": 42,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 5",
+    "text_coverage": 1.0
+  },
+  {
+    "id": "documento-006",
+    "original_name": "proceso de soldadura de arco metalico protegido smaw.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1382796,
+    "page_count": 43,
+    "title": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+    "author": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date": {
+      "value": "2025-03-21",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 21,
+    "table_count": 0,
+    "section_count": 43,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 5-6",
+    "text_coverage": 1.0
+  },
+  {
+    "id": "documento-007",
+    "original_name": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+    "extension": ".pdf",
+    "size_bytes": 1718390,
+    "page_count": 57,
+    "title": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+    "author": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date": {
+      "value": "2025-03-21",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "image_count": 24,
+    "table_count": 0,
+    "section_count": 57,
+    "producer": "Microsoft PowerPoint para Microsoft 365",
+    "class_label": "Clase No: 7",
+    "text_coverage": 1.0
+  }
+]

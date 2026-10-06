@@ -1,0 +1,6 @@
+node_modules
+dist
+# Generados por scripts/sync-data.mjs a partir de output/
+public/data
+public/images
+scripts/__pycache__

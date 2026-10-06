@@ -1,0 +1,1955 @@
+{
+  "id": "documento-004",
+  "slug": "simbologia",
+  "title": "Simbología",
+  "description": "En la representación gráfica de máquinas o elementos mecánicos es muy común encontrar planos con toda la nomenclatura e indicaciones que se representan en los procesos de…",
+  "category": "Soldadura",
+  "subcategory": [
+    "Simbología",
+    "ANSI/AWS A2.4",
+    "Símbolos básicos o elementales",
+    "Símbolos complementarios",
+    "Especificaciones",
+    "Líneas múltiples de referencia",
+    "Quiebre de la flecha",
+    "Simbología de las pruebas no destructivas",
+    "Ejemplo general",
+    "Símbolos combinados",
+    "Ejemplos de soldadura de filete",
+    "Ejemplos de soldadura de tope",
+    "Otros ejemplos",
+    "Ejercicios en clase"
+  ],
+  "tags": [
+    "simbología",
+    "AWS",
+    "soldadura de filete"
+  ],
+  "language": "es",
+  "author": null,
+  "date": "2025-03-21",
+  "source_file": "Unidad #4 simbologia.pdf",
+  "page_count": 32,
+  "featured_image": "images/simbologia-p01-simbologia-3.webp",
+  "sections": [
+    {
+      "id": "sec-simbologia-001",
+      "title": "Simbología",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-simbologia-002",
+      "title": "Simbología...",
+      "level": 2,
+      "page": 2,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "En la representación gráfica de máquinas o elementos mecánicos es muy común encontrar planos con toda la nomenclatura e indicaciones que se representan en los procesos de soldadura.",
+            "El dibujo de soldaduras es de vistas múltiples, en el cual se incluyen todos los detalles, características de la pieza y simbología relacionada con el proceso de soldadura.",
+            "La simbología presentada en los procesos de representación gráfica debe ajustarse a los símbolos de la American Welding Society (AWS)"
+          ],
+          "page": 2,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-003",
+      "title": "ANSI/AWS A2.4...",
+      "level": 2,
+      "page": 3,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La AWS y la ANSI han estandarizado los símbolos empleados para describir uniones soldadas en los dibujos técnicos. El símbolo de soldadura describe por completo las especificaciones que debe incluir la soldadura.",
+          "page": 3,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-004",
+      "title": "Símbolos básicos o elementales...",
+      "level": 2,
+      "page": 4,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-005",
+          "page": 4
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-005",
+      "title": "Símbolos complementarios...",
+      "level": 2,
+      "page": 5,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-006",
+          "page": 5
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-006",
+      "title": "Ubicación estándar de los elementos de la simbología en soldadura",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-007",
+          "page": 6
+        }
+      ],
+      "parent_id": "sec-simbologia-001",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-simbologia-007",
+      "title": "Especificaciones...",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-008",
+          "page": 7
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-008",
+      "title": "Especificaciones...",
+      "level": 2,
+      "page": 8,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-009",
+          "page": 8
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-009",
+      "title": "Especificaciones...",
+      "level": 2,
+      "page": 9,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-010",
+          "page": 9
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-010",
+      "title": "Líneas múltiples de referencia...",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "puede usarse dos o más líneas de referencia para indicar una secuencia de operaciones",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-011",
+          "page": 10
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-011",
+      "title": "Quiebre de la flecha...",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-012",
+          "page": 11
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-012",
+      "title": "Simbología de las pruebas no destructivas",
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Tipo de prueba no destructiva Símbolo Visual VT líquidos penetrantes DTP",
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "penetrante fluorecente FPT",
+            "Partículas magnéticas MT",
+            "Corrientes inducidas ET",
+            "Ultrasónica UT",
+            "Emisión acústica AET",
+            "Fugas LT",
+            "Radiografía RT",
+            "Radiografía neutrónica NRT"
+          ],
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "table",
+          "table_id": "tbl-simbologia-001",
+          "page": 12
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-013",
+      "title": "Ejemplo general...",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-013",
+          "page": 13
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-014",
+      "title": "Símbolos combinados...",
+      "level": 2,
+      "page": 14,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-014",
+          "page": 14
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-015",
+      "title": "Ejemplos de soldadura de filete...",
+      "level": 2,
+      "page": 15,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-015",
+          "page": 15
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-016",
+      "title": "Ejemplos de soldadura de filete...",
+      "level": 2,
+      "page": 16,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-016",
+          "page": 16
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-017",
+      "title": "Ejemplos de soldadura de filete...",
+      "level": 2,
+      "page": 17,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-017",
+          "page": 17
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-018",
+      "title": null,
+      "level": 2,
+      "page": 18,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-018",
+          "page": 18
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-019",
+      "title": "Ejemplos de soldadura de tope...",
+      "level": 2,
+      "page": 19,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-019",
+          "page": 19
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-020",
+      "title": "Ejemplos de soldadura de tope...",
+      "level": 2,
+      "page": 20,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-020",
+          "page": 20
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-021",
+      "title": "Ejemplos de soldadura de tope...",
+      "level": 2,
+      "page": 21,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-021",
+          "page": 21
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-022",
+      "title": "Otros ejemplos...",
+      "level": 2,
+      "page": 22,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-022",
+          "page": 22
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-023",
+      "title": "Otros ejemplos...",
+      "level": 2,
+      "page": 23,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-023",
+          "page": 23
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-024",
+      "title": "Otros ejemplos...",
+      "level": 2,
+      "page": 24,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-024",
+          "page": 24
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-025",
+      "title": "Otros ejemplos...",
+      "level": 2,
+      "page": 25,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-025",
+          "page": 25
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-026",
+      "title": "Otros ejemplos...",
+      "level": 2,
+      "page": 26,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-026",
+          "page": 26
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-027",
+      "title": "Otros ejemplos...",
+      "level": 2,
+      "page": 27,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-027",
+          "page": 27
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-028",
+          "page": 27
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-028",
+      "title": null,
+      "level": 2,
+      "page": 28,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-simbologia-029",
+          "page": 28
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-030",
+          "page": 28
+        }
+      ],
+      "parent_id": "sec-simbologia-001"
+    },
+    {
+      "id": "sec-simbologia-029",
+      "title": "Ejercicios en clase",
+      "level": 2,
+      "page": 29,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-031",
+          "page": 29
+        }
+      ],
+      "parent_id": "sec-simbologia-001",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-simbologia-030",
+      "title": "Ejercicios en clase",
+      "level": 2,
+      "page": 30,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 30,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-032",
+          "page": 30
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-033",
+          "page": 30
+        }
+      ],
+      "parent_id": "sec-simbologia-001",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-simbologia-031",
+      "title": "Ejercicios en clase",
+      "level": 2,
+      "page": 31,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-034",
+          "page": 31
+        }
+      ],
+      "parent_id": "sec-simbologia-001",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-simbologia-032",
+      "title": "Ejercicios en clase",
+      "level": 2,
+      "page": 32,
+      "content": [
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 32,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-simbologia-035",
+          "page": 32
+        }
+      ],
+      "parent_id": "sec-simbologia-001",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-simbologia-001",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        45.4,
+        207.0,
+        184.9,
+        404.0
+      ],
+      "file": "images/simbologia-p01-simbologia.webp",
+      "original_format": "png",
+      "width": 119,
+      "height": 168,
+      "type": "ilustracion",
+      "description": "Ilustración de una figura blanca con casco amarillo, gafas y un plano desplegado entre las manos.",
+      "visible_text": null,
+      "caption": "Simbología",
+      "section_id": "sec-simbologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Figura con casco amarillo que lee un plano",
+      "duplicate_of_xref": false,
+      "sha256_16": "989127b160aa2c0c",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-simbologia-002",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 1,
+      "position": "centro-centro",
+      "bbox": [
+        246.9,
+        270.0,
+        514.8,
+        431.8
+      ],
+      "file": "images/simbologia-p01-simbologia-2.webp",
+      "original_format": "png",
+      "width": 621,
+      "height": 375,
+      "type": "diagrama",
+      "description": "Collage de varias celdas oscuras con símbolos de soldadura, flechas y líneas de referencia; los rótulos internos de cada celda no se alcanzan a leer.",
+      "visible_text": null,
+      "caption": "Simbología",
+      "section_id": "sec-simbologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Rejilla de ejemplos de símbolos de soldadura en vistas de dibujo",
+      "duplicate_of_xref": false,
+      "sha256_16": "5aa2a9ef2b3a0844",
+      "source": "visual",
+      "confidence": "low",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-simbologia-003",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        514.8,
+        330.4,
+        706.8,
+        522.4
+      ],
+      "file": "images/simbologia-p01-simbologia-3.webp",
+      "original_format": "jpeg",
+      "width": 533,
+      "height": 533,
+      "type": "ilustracion",
+      "description": "Ilustración de una figura blanca con la mano en la barbilla, al lado de un signo de interrogación rojo grande.",
+      "visible_text": null,
+      "caption": "Simbología",
+      "section_id": "sec-simbologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Figura pensativa junto a un signo de interrogación rojo",
+      "duplicate_of_xref": false,
+      "sha256_16": "63326bf740ad41c8",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-simbologia-004",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/simbologia-p01-simbologia-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde de la Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander UIS",
+      "caption": "Simbología",
+      "section_id": "sec-simbologia-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-005",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 4,
+      "position": "centro-centro",
+      "bbox": [
+        69.3,
+        115.7,
+        632.3,
+        520.0
+      ],
+      "file": "images/simbologia-p04-simbolos-basicos-o-elementales.webp",
+      "original_format": "png",
+      "width": 788,
+      "height": 566,
+      "type": "tabla convertida en imagen",
+      "description": "Dos tablas con los símbolos elementales de soldadura, arriba los de bisel y abajo filete, tapón, canal, espárrago, punto, costura, respaldo, recubrimiento y borde, con la línea de referencia punteada.",
+      "visible_text": "BISEL; BORDES RECTOS; EMPALME; V; MEDIO V; U; J; ABOCINADO; MEDIO ABOCINADO; FILETE; TAPON; CANAL; ESPARRAGO; PUNTO O PROYECCIÓN; COSTURA; RESPALDO; RECUBRIMIENTO; BORDE; Nota: La línea de referencia se muestra punteada con fines ilustrativos.",
+      "caption": "Símbolos básicos o elementales...",
+      "section_id": "sec-simbologia-004",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tabla de símbolos básicos de bisel, filete, tapón, canal y otros",
+      "duplicate_of_xref": false,
+      "sha256_16": "528213705ff44894",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-006",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 5,
+      "position": "centro-centro",
+      "bbox": [
+        61.9,
+        165.0,
+        658.1,
+        363.8
+      ],
+      "file": "images/simbologia-p05-simbolos-complementarios.webp",
+      "original_format": "png",
+      "width": 795,
+      "height": 265,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla con los símbolos de soldadura todo alrededor, soldadura de campo, exceso de penetración, inserto consumible, respaldo, separador y contornos raso, convexo y cóncavo.",
+      "visible_text": "SOLDADURA TODO ALREDEDOR; SOLDADURA DE CAMPO; EXCESO DE PENETRACIÓN; INSERTO CONSUMIBLE (CUADRADO); RESPALDO (RECTÁNGULO); SEPARADOR (RECTÁNGULO); CONTORNO; RASO O PLANO; CONVEXO; CONCAVO",
+      "caption": "Símbolos complementarios...",
+      "section_id": "sec-simbologia-005",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tabla de símbolos complementarios de contorno, campo y respaldo",
+      "duplicate_of_xref": false,
+      "sha256_16": "80a0d0848cab742f",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-007",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 6,
+      "position": "centro-centro",
+      "bbox": [
+        87.6,
+        118.4,
+        632.4,
+        526.7
+      ],
+      "file": "images/simbologia-p06-lamina-pagina-6.webp",
+      "original_format": "png",
+      "width": 651,
+      "height": 488,
+      "type": "diagrama",
+      "description": "Esquema de un símbolo de soldadura completo, con la flecha, la línea de referencia, la cola y rótulos que indican dónde van tamaño, proceso, contorno, acabado, soldadura de campo y soldadura todo alrededor.",
+      "visible_text": "SÍMBOLO DE ACABADO; SÍMBOLO DE CONTORNO; F; A; R; ÁNGULO DE BISEL; ABERTURA DE RAÍZ; PROFUNDIDAD DE RELLENO; LONGITUD DE SOLDADURA; ESPACIADO; TAMAÑO DE LA SOLDADURA; PROFUNDIDAD DE RANURA; ESPECIFICACIÓN, PROCESO U OTRA REFERENCIA; COLA; SÍMBOLO DE SOLDADURA; AMBOS LADOS; LADO POSTERIOR; LADO FLECHA; L-P; (N); LÍNEA DE REFERENCIA; SÍMBOLO DE SOLDADURA DE CAMPO; SÍMBOLO DE SOLDADURA TODO ALREDEDOR; FLECHA",
+      "caption": null,
+      "section_id": "sec-simbologia-006",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Diagrama de la ubicación de flecha, línea de referencia y especificaciones",
+      "duplicate_of_xref": false,
+      "sha256_16": "19aaf0d543198dec",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-008",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 7,
+      "position": "centro-centro",
+      "bbox": [
+        43.3,
+        111.6,
+        654.5,
+        515.9
+      ],
+      "file": "images/simbologia-p07-especificaciones.webp",
+      "original_format": "png",
+      "width": 815,
+      "height": 539,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla con tres flechas y línea de referencia: el triángulo de filete queda debajo, encima o a ambos lados de la línea según el lado de la unión.",
+      "visible_text": "Especificaciones de los símbolos de soldadura. El símbolo de soldadura queda centrado y colocado debajo de la línea de referencia, si la soldadura se encuentra del mismo lado de la flecha. El símbolo de soldadura queda centrado y colocado encima de la línea de referencia, si la soldadura será realizada del lado opuesto de la flecha. Si la soldadura va a quedar a ambos lados de la unión, entonces el símbolo de soldadura permanece centrado y colocado encima y debajo de la línea de referencia.",
+      "caption": "Especificaciones...",
+      "section_id": "sec-simbologia-007",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolo de filete del lado de la flecha, del lado opuesto y de ambos lados",
+      "duplicate_of_xref": false,
+      "sha256_16": "9a54c5437188b637",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-009",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 8,
+      "position": "centro-centro",
+      "bbox": [
+        36.0,
+        129.3,
+        692.6,
+        499.3
+      ],
+      "file": "images/simbologia-p08-especificaciones.webp",
+      "original_format": "jpeg",
+      "width": 905,
+      "height": 510,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla con tres casos: un círculo en la unión de flecha y línea de referencia, una bandera rellena de soldadura de campo y un semicírculo negro de penetración de lado a lado.",
+      "visible_text": "Si la soldadura va a quedar alrededor de la unión, se coloca un símbolo de soldadura a ambos lados en la intersección de las líneas guía y de referencia, este símbolo es un círculo. Cuando el proceso de soldado se lleva a cabo en el campo o lugar definitivo de la pieza, máquina o estructura, se usa un símbolo especial que tiene la forma de una bandera rellena, en la intersección de las líneas guía y de referencia. Se emplea cuando existe una penetración del 100% de la soldadura de un lado al otro a través de la unión.",
+      "caption": "Especificaciones...",
+      "section_id": "sec-simbologia-008",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolos de soldadura todo alrededor, de campo y de penetración completa",
+      "duplicate_of_xref": false,
+      "sha256_16": "3f05f9a59ccca27a",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-010",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 9,
+      "position": "centro-centro",
+      "bbox": [
+        62.2,
+        119.3,
+        657.8,
+        512.2
+      ],
+      "file": "images/simbologia-p09-especificaciones.webp",
+      "original_format": "png",
+      "width": 911,
+      "height": 622,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla con un rectángulo sobre la línea de referencia, tres símbolos de contorno (raso, convexo y cóncavo) y una flecha con quiebre que lleva un símbolo de filete.",
+      "visible_text": "Símbolo de material de refuerzo o de espaciamiento: se añade una pieza adicional pequeña entre la unión de las dos piezas. Los símbolos de contorno sirven para representar soldaduras que serán maquinadas para alisarlas o hacerlas cóncavas o convexas. Los contornos están representados gráficamente por una línea horizontal para contornos alisados y por arcos para contornos cóncavos o convexos. G: esmerilado, M: maquinado, K: laminado, H: martillado. Si la unión va a prepararse antes de la soldadura, como puede ser maquinada o biselada, entonces la línea guía se dibuja curvada o con un quiebre adicional.",
+      "caption": "Especificaciones...",
+      "section_id": "sec-simbologia-009",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolos de separador, contorno de soldadura y quiebre de la flecha",
+      "duplicate_of_xref": false,
+      "sha256_16": "20e3b3305b8a87ea",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-011",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 10,
+      "position": "centro-centro",
+      "bbox": [
+        105.0,
+        263.6,
+        615.0,
+        421.9
+      ],
+      "file": "images/simbologia-p10-lineas-multiples-de-referencia.webp",
+      "original_format": "jpeg",
+      "width": 680,
+      "height": 211,
+      "type": "diagrama",
+      "description": "Flecha con tres líneas de referencia paralelas, la más cercana a la flecha marcada como primera operación y la más lejana como tercera.",
+      "visible_text": "Tercera Operación; Segunda Operación; Primera Operación",
+      "caption": "Líneas múltiples de referencia...",
+      "section_id": "sec-simbologia-010",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres líneas de referencia que ordenan la primera, segunda y tercera operación",
+      "duplicate_of_xref": false,
+      "sha256_16": "a0fa22d1d0dc59c1",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-012",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 11,
+      "position": "centro-centro",
+      "bbox": [
+        116.6,
+        116.6,
+        603.4,
+        508.8
+      ],
+      "file": "images/simbologia-p11-quiebre-de-la-flecha.webp",
+      "original_format": "png",
+      "width": 649,
+      "height": 523,
+      "type": "diagrama",
+      "description": "Tres filas comparan la soldadura deseada, la vista del lado izquierdo y la vista frontal, con la flecha quebrada hacia la pieza que lleva el filete.",
+      "visible_text": "Soldadura deseada; Vista lado izquierdo; Vista frontal",
+      "caption": "Quiebre de la flecha...",
+      "section_id": "sec-simbologia-011",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Quiebre de la flecha en soldaduras de filete de uno y de ambos lados",
+      "duplicate_of_xref": false,
+      "sha256_16": "0a4b0ce528228c30",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-013",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 13,
+      "position": "centro-centro",
+      "bbox": [
+        8.6,
+        182.0,
+        710.1,
+        445.3
+      ],
+      "file": "images/simbologia-p13-ejemplo-general.webp",
+      "original_format": "jpeg",
+      "width": 1015,
+      "height": 381,
+      "type": "diagrama",
+      "description": "Arriba, una unión en solape con símbolo de filete y la letra S; abajo, una unión en T con filete a ambos lados, también acotada con S.",
+      "visible_text": "S",
+      "caption": "Ejemplo general...",
+      "section_id": "sec-simbologia-013",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Ejemplo de filete en solape y de dos filetes en unión en T, con la cota S",
+      "duplicate_of_xref": false,
+      "sha256_16": "4e19e25793736515",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-014",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 14,
+      "position": "centro-centro",
+      "bbox": [
+        44.5,
+        146.2,
+        715.0,
+        418.5
+      ],
+      "file": "images/simbologia-p14-simbolos-combinados.webp",
+      "original_format": "png",
+      "width": 894,
+      "height": 363,
+      "type": "diagrama",
+      "description": "A la izquierda, la soldadura deseada mezcla un bisel relleno y un filete; a la derecha, la flecha lleva los dos símbolos juntos sobre la línea de referencia.",
+      "visible_text": "Soldadura deseada; Símbolo",
+      "caption": "Símbolos combinados...",
+      "section_id": "sec-simbologia-014",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolo combinado de filete y soldadura de ranura en una unión en T",
+      "duplicate_of_xref": false,
+      "sha256_16": "1b2b2f4bcbb13886",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-015",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 15,
+      "position": "centro-centro",
+      "bbox": [
+        74.6,
+        111.6,
+        610.3,
+        515.0
+      ],
+      "file": "images/simbologia-p15-ejemplos-de-soldadura-de-filete.webp",
+      "original_format": "jpeg",
+      "width": 830,
+      "height": 625,
+      "type": "diagrama",
+      "description": "Arriba, un filete de tamaño 8 en una unión en T y su símbolo; abajo, dos filetes iguales de tamaño 13 y el símbolo con el triángulo a ambos lados de la línea.",
+      "visible_text": "8; 13; Tamaño de un filete; Tamaño de dos filetes iguales",
+      "caption": "Ejemplos de soldadura de filete...",
+      "section_id": "sec-simbologia-015",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tamaño de un filete y de dos filetes iguales, con cotas 8 y 13",
+      "duplicate_of_xref": false,
+      "sha256_16": "c55c26d4150b223a",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-016",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 16,
+      "position": "centro-centro",
+      "bbox": [
+        89.2,
+        111.6,
+        630.8,
+        510.3
+      ],
+      "file": "images/simbologia-p16-ejemplos-de-soldadura-de-filete.webp",
+      "original_format": "jpeg",
+      "width": 833,
+      "height": 613,
+      "type": "diagrama",
+      "description": "Arriba, dos filetes desiguales de 6 y 13 con el símbolo a ambos lados de la referencia; abajo, un solo filete de tamaño distinto anotado (6) (13).",
+      "visible_text": "6; 13; (6); (13); Tamaño de dos filetes diferentes; Tamaño de un filete de tamaño diferente",
+      "caption": "Ejemplos de soldadura de filete...",
+      "section_id": "sec-simbologia-016",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Filetes de tamaño distinto, con cotas 6 y 13 a cada lado de la línea",
+      "duplicate_of_xref": false,
+      "sha256_16": "f1b44ae2bbb81ebe",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-017",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 17,
+      "position": "centro-centro",
+      "bbox": [
+        83.8,
+        120.2,
+        636.2,
+        524.4
+      ],
+      "file": "images/simbologia-p17-ejemplos-de-soldadura-de-filete.webp",
+      "original_format": "jpeg",
+      "width": 820,
+      "height": 600,
+      "type": "diagrama",
+      "description": "Arriba, un filete continuo sin cifra de longitud; abajo, un tramo de filete acotado 150 y 600 tanto en la pieza como en el símbolo.",
+      "visible_text": "Filete continuo; Longitud de un filete; 150; 600",
+      "caption": "Ejemplos de soldadura de filete...",
+      "section_id": "sec-simbologia-017",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Filete continuo y longitud de filete con cotas 150 y 600",
+      "duplicate_of_xref": false,
+      "sha256_16": "fad39e3793410114",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-018",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 18,
+      "position": "centro-centro",
+      "bbox": [
+        211.6,
+        31.4,
+        520.9,
+        517.5
+      ],
+      "file": "images/simbologia-p18-lamina-pagina-18.webp",
+      "original_format": "jpeg",
+      "width": 1339,
+      "height": 852,
+      "type": "diagrama",
+      "description": "Lámina en seis filas: a la izquierda la sección transversal de la soldadura y a la derecha el símbolo, con cotas pequeñas junto a las flechas que no se transcriben.",
+      "visible_text": "Sección transversal de la soldadura; Símbolo",
+      "caption": null,
+      "section_id": "sec-simbologia-018",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Seis secciones de soldadura comparadas con su símbolo",
+      "duplicate_of_xref": false,
+      "sha256_16": "ef5331186e218c1f",
+      "source": "visual",
+      "confidence": "low"
+    },
+    {
+      "id": "img-simbologia-019",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 19,
+      "position": "centro-centro",
+      "bbox": [
+        66.1,
+        119.0,
+        637.9,
+        525.6
+      ],
+      "file": "images/simbologia-p19-ejemplos-de-soldadura-de-tope.webp",
+      "original_format": "png",
+      "width": 820,
+      "height": 583,
+      "type": "diagrama",
+      "description": "Arriba, una soldadura en V de un solo lado con las cotas 13 y 22; abajo, una soldadura en bisel con las cotas 22, 28 y 6, cada una junto a su símbolo.",
+      "visible_text": "13; 22; 6; 28",
+      "caption": "Ejemplos de soldadura de tope...",
+      "section_id": "sec-simbologia-019",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura de tope en V y en bisel, con cotas 13, 22, 6 y 28",
+      "duplicate_of_xref": false,
+      "sha256_16": "af114e8cc5429cac",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-020",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 20,
+      "position": "centro-centro",
+      "bbox": [
+        69.5,
+        117.1,
+        631.7,
+        532.2
+      ],
+      "file": "images/simbologia-p20-ejemplos-de-soldadura-de-tope.webp",
+      "original_format": "png",
+      "width": 791,
+      "height": 584,
+      "type": "diagrama",
+      "description": "Arriba, una doble V con refuerzo a ambos lados, cotas 13 y 38; abajo, un doble bisel con cotas 19 y 38, cada caso con su símbolo.",
+      "visible_text": "13; 38; 19",
+      "caption": "Ejemplos de soldadura de tope...",
+      "section_id": "sec-simbologia-020",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura de tope en doble V y en doble bisel, con cotas 13, 38 y 19",
+      "duplicate_of_xref": false,
+      "sha256_16": "158555f6ab01d77f",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-021",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 21,
+      "position": "centro-centro",
+      "bbox": [
+        71.7,
+        111.6,
+        631.2,
+        523.1
+      ],
+      "file": "images/simbologia-p21-ejemplos-de-soldadura-de-tope.webp",
+      "original_format": "png",
+      "width": 805,
+      "height": 592,
+      "type": "diagrama",
+      "description": "Arriba, una soldadura en V de un lado con el símbolo de V y sin cifra; abajo, una soldadura en J acotada 19 y el símbolo en J con el número 19.",
+      "visible_text": "19",
+      "caption": "Ejemplos de soldadura de tope...",
+      "section_id": "sec-simbologia-021",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura de tope en V sin cota y soldadura en J con cota 19",
+      "duplicate_of_xref": false,
+      "sha256_16": "f2866cc1053b6064",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-022",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 22,
+      "position": "centro-centro",
+      "bbox": [
+        125.8,
+        145.9,
+        594.2,
+        490.7
+      ],
+      "file": "images/simbologia-p22-otros-ejemplos.webp",
+      "original_format": "png",
+      "width": 356,
+      "height": 262,
+      "type": "diagrama",
+      "description": "Arriba, la flecha apunta a una unión a tope de bordes rectos con la cota 1/8 en el símbolo; abajo, la misma unión en sección con la abertura 1/8.",
+      "visible_text": "1/8",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-022",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolo de soldadura de bordes rectos con abertura 1/8",
+      "duplicate_of_xref": false,
+      "sha256_16": "cb00a7786d1c17e8",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-023",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 23,
+      "position": "centro-centro",
+      "bbox": [
+        22.5,
+        130.9,
+        697.5,
+        409.1
+      ],
+      "file": "images/simbologia-p23-otros-ejemplos.webp",
+      "original_format": "png",
+      "width": 900,
+      "height": 371,
+      "type": "diagrama",
+      "description": "A la izquierda, una V sencilla a 60° sin abertura acotada; a la derecha, una doble V a 60° con tamaño 1/8 en el símbolo y abertura 1/8 en la sección.",
+      "visible_text": "60°; 1/8",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-023",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura en V y en doble V a 60°, con abertura 1/8",
+      "duplicate_of_xref": false,
+      "sha256_16": "29c9a4ec53d6d0b8",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-024",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 24,
+      "position": "centro-centro",
+      "bbox": [
+        7.6,
+        144.8,
+        712.4,
+        520.0
+      ],
+      "file": "images/simbologia-p24-otros-ejemplos.webp",
+      "original_format": "png",
+      "width": 960,
+      "height": 511,
+      "type": "diagrama",
+      "description": "Cuatro vistas comparan el símbolo y la sección de una V y de una doble V, con 60° y las cotas 3/8 y 1/4 de profundidad y abertura.",
+      "visible_text": "3/8; 60°; 1/4",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-024",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldaduras en V y en doble V con ángulos de 60° y cotas 3/8 y 1/4",
+      "duplicate_of_xref": false,
+      "sha256_16": "958257b1634e54c4",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-025",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 25,
+      "position": "centro-centro",
+      "bbox": [
+        153.6,
+        144.7,
+        566.4,
+        484.7
+      ],
+      "file": "images/simbologia-p25-otros-ejemplos.webp",
+      "original_format": "png",
+      "width": 471,
+      "height": 388,
+      "type": "diagrama",
+      "description": "Arriba, el símbolo en U lleva 3/4 y 60° y la flecha señala la unión; abajo, la sección muestra la ranura en U acotada 3/4 y 60°.",
+      "visible_text": "3/4; 60°",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-025",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura en U a 60° con profundidad 3/4",
+      "duplicate_of_xref": false,
+      "sha256_16": "0d913fdef217c6bb",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-026",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 26,
+      "position": "centro-centro",
+      "bbox": [
+        36.4,
+        113.2,
+        683.6,
+        426.8
+      ],
+      "file": "images/simbologia-p26-otros-ejemplos.webp",
+      "original_format": "png",
+      "width": 863,
+      "height": 418,
+      "type": "diagrama",
+      "description": "A la izquierda, una V a 60° con el semicírculo de penetración y cota 1/8; a la derecha, la misma preparación con un rectángulo de respaldo señalado como backing bar.",
+      "visible_text": "1/8; 60°; backing bar",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-026",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldadura en V con penetración y soldadura con barra de respaldo",
+      "duplicate_of_xref": false,
+      "sha256_16": "586c98da5e79c617",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-simbologia-027",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 27,
+      "position": "centro-centro",
+      "bbox": [
+        90.3,
+        155.4,
+        597.6,
+        326.7
+      ],
+      "file": "images/simbologia-p27-otros-ejemplos.webp",
+      "original_format": "jpeg",
+      "width": 613,
+      "height": 207,
+      "type": "diagrama",
+      "description": "Dos flechas de ensayo no destructivo: VT con la leyenda prueba del lado de la flecha, y PT con la leyenda prueba del otro lado.",
+      "visible_text": "VT; PRUEBA DEL LADO DE LA FLECHA; PT; PRUEBA DEL OTRO LADO",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-027",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolos de prueba VT del lado de la flecha y PT del otro lado",
+      "duplicate_of_xref": false,
+      "sha256_16": "d96d55d6caef8359",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-028",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 27,
+      "position": "inferior-centro",
+      "bbox": [
+        90.3,
+        344.2,
+        575.5,
+        504.0
+      ],
+      "file": "images/simbologia-p27-otros-ejemplos-2.webp",
+      "original_format": "jpeg",
+      "width": 647,
+      "height": 213,
+      "type": "diagrama",
+      "description": "Dos flechas de ensayo: MT escrito arriba y abajo de la línea de referencia, prueba de ambos lados, y UT de un solo lado, prueba de uno de los lados.",
+      "visible_text": "MT; PRUEBA DE AMBOS LADOS; UT; PRUEBA DE UNO DE LOS LADOS",
+      "caption": "Otros ejemplos...",
+      "section_id": "sec-simbologia-027",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Símbolos de prueba MT de ambos lados y UT de uno de los lados",
+      "duplicate_of_xref": false,
+      "sha256_16": "03dcf49dad605a53",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-029",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 28,
+      "position": "superior-izquierda",
+      "bbox": [
+        37.3,
+        28.1,
+        290.7,
+        293.3
+      ],
+      "file": "images/simbologia-p28-lamina-pagina-28.webp",
+      "original_format": "jpeg",
+      "width": 300,
+      "height": 314,
+      "type": "fotografia",
+      "description": "Dos chapas gruesas enfrentadas, con el borde biselado y un pequeño cordón o punto de soldadura en la raíz.",
+      "visible_text": null,
+      "caption": null,
+      "section_id": "sec-simbologia-028",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Fotografía de chapas con bisel y un punto de soldadura",
+      "duplicate_of_xref": false,
+      "sha256_16": "458e65e4a1ec4d2e",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-simbologia-030",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 28,
+      "position": "inferior-centro",
+      "bbox": [
+        213.7,
+        232.9,
+        688.0,
+        514.5
+      ],
+      "file": "images/simbologia-p28-lamina-pagina-28-2.webp",
+      "original_format": "jpeg",
+      "width": 689,
+      "height": 409,
+      "type": "fotografia",
+      "description": "Primer plano de dos tramos de tubo unidos por un cordón circunferencial, con colores de calor junto a la soldadura.",
+      "visible_text": null,
+      "caption": null,
+      "section_id": "sec-simbologia-028",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Fotografía de un cordón de soldadura alrededor de un tubo",
+      "duplicate_of_xref": false,
+      "sha256_16": "2ced98a4fcd50b83",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-simbologia-031",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 29,
+      "position": "centro-izquierda",
+      "bbox": [
+        52.6,
+        139.1,
+        379.5,
+        468.5
+      ],
+      "file": "images/simbologia-p29-lamina-pagina-29.webp",
+      "original_format": "jpeg",
+      "width": 386,
+      "height": 389,
+      "type": "diagrama",
+      "description": "Dos secciones de una unión a tope: arriba una soldadura en V de un lado y abajo una doble V, la de arriba rotulada soldadura deseada.",
+      "visible_text": "SOLDADURA DESEADA",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-simbologia-029",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Ejercicio con soldadura deseada en V y en doble V",
+      "duplicate_of_xref": false,
+      "sha256_16": "b4eeae70dc81952e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-032",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 30,
+      "position": "superior-izquierda",
+      "bbox": [
+        17.5,
+        111.6,
+        409.3,
+        236.0
+      ],
+      "file": "images/simbologia-p30-lamina-pagina-30.webp",
+      "original_format": "jpeg",
+      "width": 561,
+      "height": 178,
+      "type": "diagrama",
+      "description": "Sección de una soldadura en V de un lado, con espesor 3/4 a la izquierda y garganta 7/8 a la derecha, rotulada soldadura deseada.",
+      "visible_text": "3/4; 7/8; SOLDADURA DESEADA",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-simbologia-030",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Sección de soldadura deseada con cotas 3/4 y 7/8",
+      "duplicate_of_xref": false,
+      "sha256_16": "85e11d693d47935b",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-033",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 30,
+      "position": "inferior-izquierda",
+      "bbox": [
+        17.5,
+        262.5,
+        390.8,
+        517.6
+      ],
+      "file": "images/simbologia-p30-lamina-pagina-30-2.webp",
+      "original_format": "jpeg",
+      "width": 622,
+      "height": 425,
+      "type": "diagrama",
+      "description": "Pieza en T con tres tramos de filete separados, acotados 10 de longitud, 6 entre cordones y 4 de tamaño.",
+      "visible_text": "10; 6; 4",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-simbologia-030",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Filetes intermitentes en una unión en T, con cotas 10, 6 y 4",
+      "duplicate_of_xref": false,
+      "sha256_16": "821d8527501658b0",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-034",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 31,
+      "position": "centro-izquierda",
+      "bbox": [
+        36.0,
+        133.3,
+        353.0,
+        501.1
+      ],
+      "file": "images/simbologia-p31-lamina-pagina-31.webp",
+      "original_format": "jpeg",
+      "width": 393,
+      "height": 456,
+      "type": "diagrama",
+      "description": "Dos secciones rotuladas soldadura deseada: arriba una unión con abertura 1/16 y abajo una ranura en V de 50°.",
+      "visible_text": "1/16; 50°; SOLDADURA DESEADA",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-simbologia-031",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Ejercicio de soldadura deseada con abertura 1/16 y ángulo de 50°",
+      "duplicate_of_xref": false,
+      "sha256_16": "926a963fdd283ac2",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-simbologia-035",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "page": 32,
+      "position": "centro-izquierda",
+      "bbox": [
+        40.9,
+        125.7,
+        278.5,
+        513.1
+      ],
+      "file": "images/simbologia-p32-lamina-pagina-32.webp",
+      "original_format": "jpeg",
+      "width": 408,
+      "height": 665,
+      "type": "diagrama",
+      "description": "Dos montajes de prueba: la fuente irradia una soldadura a tope sobre la película y, debajo, un filete con la fuente inclinada 30°.",
+      "visible_text": "PELÍCULA; SOLDADURA Y PRUEBA; 30°",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-simbologia-032",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Esquema de radiografía de una soldadura a tope y de un filete, a 30°",
+      "duplicate_of_xref": false,
+      "sha256_16": "c0a24f2e544d843d",
+      "source": "visual",
+      "confidence": "high"
+    }
+  ],
+  "tables": [
+    {
+      "id": "tbl-simbologia-001",
+      "page": 12,
+      "section_id": "sec-simbologia-012",
+      "caption": "Simbología de las pruebas no destructivas",
+      "headers": [
+        "Tipo de prueba no destructiva",
+        "Símbolo"
+      ],
+      "rows": [
+        [
+          "Visual",
+          "VT"
+        ],
+        [
+          "líquidos penetrantes",
+          "DTP"
+        ],
+        [
+          "penetrante fluorecente",
+          "FPT"
+        ],
+        [
+          "Partículas magnéticas",
+          "MT"
+        ],
+        [
+          "Corrientes inducidas",
+          "ET"
+        ],
+        [
+          "Ultrasónica",
+          "UT"
+        ],
+        [
+          "Emisión acústica",
+          "AET"
+        ],
+        [
+          "Fugas",
+          "LT"
+        ],
+        [
+          "Radiografía",
+          "RT"
+        ],
+        [
+          "Radiografía neutrónica",
+          "NRT"
+        ]
+      ],
+      "notes": "Transcripción de la lámina. Conserva la grafía impresa, incluida «fluorecente» y el símbolo DTP.",
+      "source": "extracted",
+      "confidence": "high"
+    }
+  ],
+  "links": [],
+  "contacts": [],
+  "seo": {
+    "title": "Simbología",
+    "meta_description": "En la representación gráfica de máquinas o elementos mecánicos es muy común encontrar planos con toda la nomenclatura e indicaciones que se representan en los procesos de…",
+    "slug": "simbologia",
+    "keywords": [
+      "simbología",
+      "AWS",
+      "soldadura de filete"
+    ],
+    "og_title": "Simbología",
+    "og_description": "En la representación gráfica de máquinas o elementos mecánicos es muy común encontrar planos con toda la nomenclatura e indicaciones que se representan en los procesos de…",
+    "og_image": "images/simbologia-p01-simbologia-3.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 4",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Simbología",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "ANSI/AWS A2.4",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Símbolos básicos o elementales",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Símbolos complementarios",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Especificaciones",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Líneas múltiples de referencia",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Quiebre de la flecha",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Simbología de las pruebas no destructivas",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Ejemplo general",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Símbolos combinados",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Ejemplos de soldadura de filete",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Ejemplos de soldadura de tope",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Otros ejemplos",
+        "inferred": false,
+        "source": "slide_title"
+      },
+      {
+        "name": "Ejercicios en clase",
+        "inferred": false,
+        "source": "slide_title"
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date_detail": {
+      "value": "2025-03-21",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}

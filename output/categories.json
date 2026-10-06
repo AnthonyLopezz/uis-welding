@@ -1,0 +1,372 @@
+{
+  "Soldadura": {
+    "inferred": false,
+    "source": "Título de portada de cada PDF",
+    "documents": [
+      "presentacion-introduccion",
+      "seguridad",
+      "terminologia",
+      "simbologia",
+      "oxiacetileno",
+      "smaw",
+      "gmaw"
+    ],
+    "subcategories": [
+      {
+        "name": "ANSI/AWS A2.4",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Aplicaciones",
+        "inferred": false,
+        "documents": [
+          "gmaw",
+          "oxiacetileno",
+          "smaw"
+        ]
+      },
+      {
+        "name": "Bibliografía",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Contenido",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Códigos, normas, procedimientos y especificaciones",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Definición",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Desventajas",
+        "inferred": false,
+        "documents": [
+          "gmaw",
+          "smaw"
+        ]
+      },
+      {
+        "name": "Ejemplo general",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Ejemplos de soldadura de filete",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Ejemplos de soldadura de tope",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Ejercicios en clase",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Equipo",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Especificaciones",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Evaluación",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Fuentes de poder",
+        "inferred": false,
+        "documents": [
+          "smaw"
+        ]
+      },
+      {
+        "name": "Gases de protección",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Historia",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Introducción",
+        "inferred": false,
+        "documents": [
+          "gmaw",
+          "smaw"
+        ]
+      },
+      {
+        "name": "Líneas múltiples de referencia",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Mecanismos de transferencia",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Métodos de aplicación de soldadura",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Métodos de manejo de alambre-electrodo",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Nombres de los procedimientos",
+        "inferred": false,
+        "documents": [
+          "smaw"
+        ]
+      },
+      {
+        "name": "Objetivos generales",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Otros ejemplos",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Otros gases",
+        "inferred": false,
+        "documents": [
+          "oxiacetileno"
+        ]
+      },
+      {
+        "name": "Para tener en cuenta",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Posiciones en soldadura",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Preparación de la unión",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Procedimiento",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Procesos de soldadura",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Que otros tipos de llamas pueden ocurrir?",
+        "inferred": false,
+        "documents": [
+          "oxiacetileno"
+        ]
+      },
+      {
+        "name": "Quiebre de la flecha",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Reglas generales de seguridad",
+        "inferred": false,
+        "documents": [
+          "seguridad"
+        ]
+      },
+      {
+        "name": "Riesgos que corremos al soldar",
+        "inferred": false,
+        "documents": [
+          "seguridad"
+        ]
+      },
+      {
+        "name": "Selección del proceso de unión",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Simbología",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Simbología de las pruebas no destructivas",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Soldadura con oxiacetileno",
+        "inferred": false,
+        "documents": [
+          "oxiacetileno"
+        ]
+      },
+      {
+        "name": "Símbolos básicos o elementales",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Símbolos combinados",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Símbolos complementarios",
+        "inferred": false,
+        "documents": [
+          "simbologia"
+        ]
+      },
+      {
+        "name": "Tipos de biseles",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Tipos de soldadura",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Tipos de uniones",
+        "inferred": false,
+        "documents": [
+          "terminologia"
+        ]
+      },
+      {
+        "name": "Una cosa más",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Utilización de la soldadura",
+        "inferred": false,
+        "documents": [
+          "presentacion-introduccion"
+        ]
+      },
+      {
+        "name": "Variables",
+        "inferred": false,
+        "documents": [
+          "gmaw"
+        ]
+      },
+      {
+        "name": "Ventajas",
+        "inferred": false,
+        "documents": [
+          "gmaw",
+          "smaw"
+        ]
+      },
+      {
+        "name": "procedimiento",
+        "inferred": false,
+        "documents": [
+          "smaw"
+        ]
+      }
+    ]
+  }
+}

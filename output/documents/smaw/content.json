@@ -1,0 +1,1636 @@
+{
+  "id": "documento-006",
+  "slug": "smaw",
+  "title": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+  "description": "Ya en siglo XVIII se realizaban trabajos de soldadura con arco utilizando electrodos de carbón y alimentados por baterías. El desarrollo de esta técnica se intensificó entre 1880…",
+  "category": "Soldadura",
+  "subcategory": [
+    "Introducción",
+    "Nombres de los procedimientos",
+    "procedimiento",
+    "Aplicaciones",
+    "Ventajas",
+    "Desventajas",
+    "Fuentes de poder"
+  ],
+  "tags": [
+    "SMAW",
+    "electrodo",
+    "polaridad",
+    "soplete",
+    "AWS"
+  ],
+  "language": "es",
+  "author": null,
+  "date": "2025-03-21",
+  "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+  "page_count": 43,
+  "featured_image": "images/smaw-p01-procesos-de-soldadura-soldadura-de-arco-metalico-protegido-s-3.webp",
+  "sections": [
+    {
+      "id": "sec-smaw-001",
+      "title": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-002",
+      "title": "Introducción",
+      "level": 1,
+      "page": 2,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-003",
+      "title": "Introducción",
+      "level": 2,
+      "page": 3,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Ya en siglo XVIII se realizaban trabajos de soldadura con arco utilizando electrodos de carbón y alimentados por baterías.",
+            "El desarrollo de esta técnica se intensificó entre 1880 y 1900, cuando se dispuso de generadores eléctricos que reemplazaron a las baterías.",
+            "A principios del siglo XX la compañía Lincoln Electric ofrecía las primeras soldaduras por arco. Para 1912 ya habían sido patentados los electrodos consumibles recubiertos."
+          ],
+          "page": 3,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-002"
+    },
+    {
+      "id": "sec-smaw-004",
+      "title": "Nombres de los procedimientos",
+      "level": 1,
+      "page": 4,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-005",
+      "title": "Como denomina la AWS esta técnica?",
+      "level": 2,
+      "page": 5,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La denomina soldadura por arco metálico con electrodo revestido (Shielded Metal Arc Welding, o SMAW)",
+          "page": 5,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-004"
+    },
+    {
+      "id": "sec-smaw-006",
+      "title": "Con qué otros nombres se conoce?",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Soldadura de arco",
+            "Soldadura con varilla",
+            "Soldadura con electrodo"
+          ],
+          "page": 6,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-004"
+    },
+    {
+      "id": "sec-smaw-007",
+      "title": "El equipo y sus partes",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-005",
+          "page": 7
+        },
+        {
+          "type": "paragraph",
+          "text": "Equipo adicional?",
+          "page": 7,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-004"
+    },
+    {
+      "id": "sec-smaw-008",
+      "title": "procedimiento",
+      "level": 1,
+      "page": 8,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-009",
+      "title": "Cómo funciona la soldadura SMAW?",
+      "level": 2,
+      "page": 9,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Es un proceso de soldadura manual.",
+            "Se establece un circuito eléctrico entre la fuente de poder, el electrodo, el arco de soldar, la pieza de trabajo y de regreso a la fuente de poder.",
+            "Los electrones que fluyen a través del espacio entre los electrodos y la pieza de trabajo producen un arco que genera el calor necesario tanto para fundir el propio electrodo como el metal base.",
+            "La temperatura del arco puede sobrepasar los 3300oC."
+          ],
+          "page": 9,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-008"
+    },
+    {
+      "id": "sec-smaw-010",
+      "title": "Cómo funciona la soldadura SMAW?",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "En la punta del electrodo se forman glóbulos de metal derretido, los cuales caen y se mezclan con el charco de metal fundido que se forma en la pieza de trabajo.",
+            "El extremo del electrodo y el baño fundido del metal están rodeados, purificados y protegidos por una nube gaseosa y una cubierta de escorias producidas a medida que el fundente protector del electrodo se quema o se evapora.",
+            "Cuando se retira el electrodo del charco, la mezcla de metales se solidifica y con esto se completa la soldadura."
+          ],
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-008"
+    },
+    {
+      "id": "sec-smaw-011",
+      "title": "Cómo funciona la soldadura SMAW",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-006",
+          "page": 11
+        }
+      ],
+      "parent_id": "sec-smaw-008"
+    },
+    {
+      "id": "sec-smaw-012",
+      "title": null,
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-007",
+          "page": 12
+        }
+      ],
+      "parent_id": "sec-smaw-008"
+    },
+    {
+      "id": "sec-smaw-013",
+      "title": "Ángulo de ataque y de arrastre",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-008",
+          "page": 13
+        },
+        {
+          "type": "paragraph",
+          "text": "De ataque: El electrodo empuja el metal fundido y la escoria por delante de la soldadura.",
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "De arrastre: El electrodo empuja el metal fundido hacia atrás, fuera del borde delantero del baño de fusión de la soldadura donde se solidifica.",
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-008"
+    },
+    {
+      "id": "sec-smaw-014",
+      "title": null,
+      "level": 2,
+      "page": 14,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-009",
+          "page": 14
+        },
+        {
+          "type": "paragraph",
+          "text": "Arrastre",
+          "page": 14,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-010",
+          "page": 14
+        },
+        {
+          "type": "paragraph",
+          "text": "Ataque",
+          "page": 14,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-008"
+    },
+    {
+      "id": "sec-smaw-015",
+      "title": "Aplicaciones",
+      "level": 1,
+      "page": 15,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-016",
+      "title": "Que metales y aleaciones se pueden soldar con SMAW?",
+      "level": 2,
+      "page": 16,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Acero al carbono",
+            "Acero inoxidable",
+            "Aceros de alta resistencia",
+            "Aceros de baja aleación",
+            "Aluminio",
+            "Bronce",
+            "Hierro Colado",
+            "Hierro maleable",
+            "Níquel"
+          ],
+          "page": 16,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-015"
+    },
+    {
+      "id": "sec-smaw-017",
+      "title": "Espesores de piezas apropiados para SMAW",
+      "level": 2,
+      "page": 17,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Es apropiado para soldar piezas con un espesor de ⅛” en adelante.",
+            "Se pueden soldar piezas de un grosor menor, pero requieren de mayor destreza por parte del soldador.",
+            "Piezas de más ¾” se sueldan de manera más económica con otros métodos, como el de soldadura de arco con electrodo con núcleo de fundente."
+          ],
+          "page": 17,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-015"
+    },
+    {
+      "id": "sec-smaw-018",
+      "title": "Cuales son las ventajas de la soldadura SMAW?",
+      "level": 2,
+      "page": 18,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Bajo costo del equipo.",
+            "Capacidad para soldar la mayoría de los metales y aleaciones de uso común.",
+            "Equipo relativamente portátil y que se puede usar en espacios pequeños.",
+            "Con el mismo equipo se pueden soldar piezas de 1/8” hasta varios pies de espesor con solo variar el suministro de corriente."
+          ],
+          "page": 18,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-015"
+    },
+    {
+      "id": "sec-smaw-019",
+      "title": "Cuales son las ventajas de la soldadura SMAW? continuación...",
+      "level": 2,
+      "page": 19,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Se puede soldar en cualquier posición.",
+            "El viento y las corrientes de aire afectan menos a este proceso que a los de soldadura con soplete.",
+            "Puede realizarse casi en todas las condiciones meteorológicas."
+          ],
+          "page": 19,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-015"
+    },
+    {
+      "id": "sec-smaw-020",
+      "title": "Ventajas",
+      "level": 1,
+      "page": 20,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-021",
+      "title": "Cuales son las ventajas de la soldadura SMAW?",
+      "level": 2,
+      "page": 21,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Bajo costo del equipo.",
+            "Capacidad para soldar la mayoría de los metales y aleaciones de uso común.",
+            "Equipo relativamente portátil y que se puede usar en espacios pequeños.",
+            "Con el mismo equipo se pueden soldar piezas de 1/8” hasta varios pies de espesor con solo variar el suministro de corriente."
+          ],
+          "page": 21,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-020"
+    },
+    {
+      "id": "sec-smaw-022",
+      "title": "Cuales son las ventajas de la soldadura SMAW? continuación...",
+      "level": 2,
+      "page": 22,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Se puede soldar en cualquier posición.",
+            "El viento y las corrientes de aire afectan menos a este proceso que a los de soldadura con soplete.",
+            "Puede realizarse casi en todas las condiciones meteorológicas."
+          ],
+          "page": 22,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-020"
+    },
+    {
+      "id": "sec-smaw-023",
+      "title": "Desventajas",
+      "level": 1,
+      "page": 23,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-024",
+      "title": "Cuales son las desventajas de la soldadura SMAW?",
+      "level": 2,
+      "page": 24,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "No es apropiada para hojas de menos de 1/16” (1.5 mm) de espesor.",
+            "El ciclo del trabajador es más corto y la velocidad de deposición menor que los procesos de soldadura con alimentación de alambre, puesto que con esta soldadura se debe suspender el trabajo para cambiar el electrodo consumido."
+          ],
+          "page": 24,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-023"
+    },
+    {
+      "id": "sec-smaw-025",
+      "title": "Cuales son las desventajas de la soldadura SMAW? continuación...",
+      "level": 2,
+      "page": 25,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "No se puede utilizar todo el electrodo. Las colillas que van quedando deben ser desechadas, por lo que se desperdicia de una pulgada a dos pulgadas de cada electrodo.",
+            "Los frecuentes paros y reinicios del proceso de soldado por los cambios de varillas propician defectos en la soldadura."
+          ],
+          "page": 25,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-023"
+    },
+    {
+      "id": "sec-smaw-026",
+      "title": "En qué condiciones meteorológicas no deben realizarse trabajos con soldadura SMAW?",
+      "level": 2,
+      "page": 26,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "No está permitido efectuarla cuando:",
+          "page": 26,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Llueva",
+            "Caiga nieve",
+            "Tormentas de arena",
+            "Cuando el metal base está a menos de 18oC. Utilizar precalentamiento."
+          ],
+          "page": 26,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-023",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-smaw-027",
+      "title": "Fuentes de poder",
+      "level": 1,
+      "page": 27,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-smaw-028",
+      "title": "Porque son necesarias?",
+      "level": 2,
+      "page": 28,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "El voltaje, que suministra las compañías de electricidad de 120 a 575 V, es demasiado alto para el proceso de soldadura, lo cual requiere de 20 a 80 Voltios. La fuente de poder reduce dicho voltaje.",
+            "Las características de salida de una fuente de poder proporcionan estabilidad al arco cuando está ajustado a su respectivo proceso de soldar.",
+            "Las fuentes de poder también sirven para convertir la corriente continua, corriente de onda cuadrada o en pulsos de alta frecuencia"
+          ],
+          "page": 28,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-029",
+      "title": "Que significa el término polaridad?",
+      "level": 2,
+      "page": 29,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-011",
+          "page": 29
+        },
+        {
+          "type": "paragraph",
+          "text": "Es el modo en que se conecta un circuito o una carga a las terminales positiva o negativa de una fuente de electricidad de corriente continua.",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Polaridad del electrodo",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-030",
+      "title": "Cuál es la diferencia entre una fuente de corriente continua(CC) y una de corriente alterna (CA)?",
+      "level": 2,
+      "page": 30,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Fuente de corriente continua, mantiene una polaridad invariable, es decir, la terminal positiva siempre es positiva y la terminal negativa siempre es negativa.",
+            "Fuente de corriente alterna, como la de la red, cambia continuamente de polaridad."
+          ],
+          "page": 30,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-031",
+      "title": "Tipos de corriente que se utilizan en SMAW",
+      "level": 2,
+      "page": 31,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corriente alterna (AC, Alternating current)",
+            "Corriente continua, electrodo en negativo (DCEN, direct current, electrode negative)",
+            "Corriente continua, electrodo en positivo (DCEP, direct current, electrode positive)"
+          ],
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-032",
+      "title": "Qué polaridad y características tiene la corriente continua, electrodo en negativo?",
+      "level": 2,
+      "page": 32,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "También se le denomina, corriente continua de polaridad directa (DCEN), produce mayor penetración que la corriente continua, electrodo en positivo.",
+          "page": 32,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-012",
+          "page": 32
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-033",
+      "title": "Qué polaridad y características tiene la corriente continua, electrodo en positivo?",
+      "level": 2,
+      "page": 33,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "También se le denomina, corriente continua de polaridad inversa (DCEP), es muy útil para la soldadura de aluminio y magnesio. Funde el electrodo más rapidamente y favorece mejor transferencia del metal de aporte, buena estabilidad del arco. Se usa para obtener cordones suaves y estables.",
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-013",
+          "page": 33
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-034",
+      "title": "Polaridades que producen más calor",
+      "level": 2,
+      "page": 34,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-014",
+          "page": 34
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-015",
+          "page": 34
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-035",
+      "title": null,
+      "level": 2,
+      "page": 35,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-016",
+          "page": 35
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-036",
+      "title": "Qué ventajas se obtienen con la utilización de un arco de corriente alterna en SMAW? NINGUNA",
+      "level": 2,
+      "page": 36,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Excepto:",
+          "page": 36,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "El menor costo de las fuentes de corriente alterna."
+          ],
+          "page": 36,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-037",
+      "title": "Soplo de arco?",
+      "level": 2,
+      "page": 37,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Siempre que fluye una corriente se crea un campo magnético a su alrededor, que es asimétrico. Cuando la corriente sobrepasa los 600 amperios, la falta de homogeneidad del campo magnético puede mover al propio conductor.",
+          "page": 37,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-017",
+          "page": 37
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-038",
+      "title": "Solución del soplo del arco",
+      "level": 2,
+      "page": 38,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-018",
+          "page": 38
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-039",
+      "title": "Como se puede determinar el amperaje de salida de acuerdo con la posición de la perilla",
+      "level": 2,
+      "page": 39,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-019",
+          "page": 39
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-040",
+      "title": "Que amperaje debe ajustar la fuente de poder",
+      "level": 2,
+      "page": 40,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-smaw-020",
+          "page": 40
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-041",
+      "title": "Que es el voltaje de circuito abierto?",
+      "level": 2,
+      "page": 41,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Es el voltaje medido entre el electrodo y la tierra cuando no se aplica corriente; generalmente es de 50 a 80 voltios en las fuentes de poder para SMAW.",
+          "page": 41,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-042",
+      "title": "Que es el voltaje de circuito cerrado o voltaje de operación?",
+      "level": 2,
+      "page": 42,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Es el voltaje medido a través del arco durante el proceso de soldadura. Es variable y depende del tipo de electrodo, su polaridad, longitud del arco y el tipo de corriente. Generalmente fluctúa entre 17 y 40 voltios.",
+          "page": 42,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    },
+    {
+      "id": "sec-smaw-043",
+      "title": "Cuales son las dos principales clasificaciones de las características de salida de las fuentes de poder?",
+      "level": 2,
+      "page": 43,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "De voltaje constante (VC)",
+            "De corriente constante (CC)"
+          ],
+          "page": 43,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-smaw-021",
+          "page": 43
+        }
+      ],
+      "parent_id": "sec-smaw-027"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-smaw-001",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        23.2,
+        232.6,
+        240.4,
+        389.7
+      ],
+      "file": "images/smaw-p01-procesos-de-soldadura-soldadura-de-arco-metalico-protegido-s.webp",
+      "original_format": "jpeg",
+      "width": 499,
+      "height": 361,
+      "type": "fotografia",
+      "description": "Fotografía de una máquina de soldar roja y blanca, marca MAXWELD 160 D.C., con cables, pinza de masa y portaelectrodo.",
+      "visible_text": "POWER; MAXWELD 160 D.C.; MAXWELD; +; −",
+      "caption": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+      "section_id": "sec-smaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Fuente de poder roja MAXWELD 160 D.C. con pinza de masa y portaelectrodo",
+      "duplicate_of_xref": false,
+      "sha256_16": "d2aa8bc879f721e2",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-smaw-002",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 1,
+      "position": "centro-centro",
+      "bbox": [
+        267.3,
+        271.7,
+        475.7,
+        410.9
+      ],
+      "file": "images/smaw-p01-procesos-de-soldadura-soldadura-de-arco-metalico-protegido-s-2.webp",
+      "original_format": "png",
+      "width": 250,
+      "height": 167,
+      "type": "diagrama",
+      "description": "Esquema de una pinza portaelectrodo conectada a un cable, con un electrodo sujeto y otro apoyado debajo.",
+      "visible_text": null,
+      "caption": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+      "section_id": "sec-smaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dibujo de un portaelectrodo que sujeta un electrodo, con otro electrodo suelto",
+      "duplicate_of_xref": false,
+      "sha256_16": "46bbe6f1e3c693e0",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-smaw-003",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        475.6,
+        294.7,
+        684.0,
+        503.0
+      ],
+      "file": "images/smaw-p01-procesos-de-soldadura-soldadura-de-arco-metalico-protegido-s-3.webp",
+      "original_format": "jpeg",
+      "width": 578,
+      "height": 578,
+      "type": "fotografia",
+      "description": "Fotografía de tres electrodos de revestimiento gris y alma oscura; en el revestimiento se lee SUPER E-7018-5.",
+      "visible_text": "SUPER E-7018-5",
+      "caption": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+      "section_id": "sec-smaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Tres electrodos revestidos con la leyenda SUPER E-7018-5",
+      "duplicate_of_xref": false,
+      "sha256_16": "cc89eb7019b19a42",
+      "source": "visual",
+      "confidence": "low"
+    },
+    {
+      "id": "img-smaw-004",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/smaw-p01-procesos-de-soldadura-soldadura-de-arco-metalico-protegido-s-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde con el nombre Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander; UIS",
+      "caption": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+      "section_id": "sec-smaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-005",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 7,
+      "position": "centro-centro",
+      "bbox": [
+        16.1,
+        111.7,
+        703.9,
+        428.3
+      ],
+      "file": "images/smaw-p07-el-equipo-y-sus-partes.webp",
+      "original_format": "jpeg",
+      "width": 628,
+      "height": 289,
+      "type": "diagrama",
+      "description": "Esquema de la fuente de poder conectada por el cable de electrodo al portaelectrodo y por el cable de masa a la pinza sobre la pieza.",
+      "visible_text": "MÁQUINA DE SOLDADURA; AC; DC; OFF; ON; CABLE DE LA FUENTE DE ALIMENTACIÓN PRINCIPAL; CABLE DE ELECTRODO; PORTAELECTRODO; ELECTRODO; PIEZA; PINZA DE MASA; CABLE DE MASA",
+      "caption": "El equipo y sus partes",
+      "section_id": "sec-smaw-007",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Diagrama del equipo SMAW: máquina, cables, portaelectrodo, electrodo, pieza y pinza de masa",
+      "duplicate_of_xref": false,
+      "sha256_16": "a9511ffd1fa13cba",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-006",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 11,
+      "position": "centro-centro",
+      "bbox": [
+        97.9,
+        142.9,
+        622.1,
+        458.7
+      ],
+      "file": "images/smaw-p11-como-funciona-la-soldadura-smaw.webp",
+      "original_format": "jpeg",
+      "width": 699,
+      "height": 421,
+      "type": "diagrama",
+      "description": "Diagrama del electrodo cubierto fundiendo el metal base: se señalan arco, gotas, nube de humo, escoria, metal de soldadura y baño de fusión.",
+      "visible_text": "NUBE DE HUMO; ELECTRODO CUBIERTO; ESCORIA; METAL DE SOLDADURA; ARCO; GOTAS DE METAL DERRETIDO DEL ARCO; BAÑO DE FUSIÓN; METAL BASE",
+      "caption": "Cómo funciona la soldadura SMAW",
+      "section_id": "sec-smaw-011",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Corte del arco SMAW con electrodo cubierto, escoria, baño de fusión y metal base",
+      "duplicate_of_xref": false,
+      "sha256_16": "057fc393a2676064",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-007",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 12,
+      "position": "centro-centro",
+      "bbox": [
+        190.6,
+        21.6,
+        524.9,
+        527.7
+      ],
+      "file": "images/smaw-p12-lamina-pagina-12.webp",
+      "original_format": "jpeg",
+      "width": 673,
+      "height": 1019,
+      "type": "fotografia",
+      "description": "Dos fotos de una placa: arriba el cordón cubierto de escoria y decoloración, y abajo el cordón metálico después de limpiarlo.",
+      "visible_text": "(A) SOLDADURA ANTES DE LIMPIARLA; (B) SOLDADURA DESPUES DE LIMPIARLA",
+      "caption": null,
+      "section_id": "sec-smaw-012",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cordón de soldadura antes de limpiar la escoria y el mismo cordón ya limpio",
+      "duplicate_of_xref": false,
+      "sha256_16": "167e49cd0431a219",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-008",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 13,
+      "position": "centro-centro",
+      "bbox": [
+        36.0,
+        147.3,
+        656.8,
+        381.9
+      ],
+      "file": "images/smaw-p13-angulo-de-ataque-y-de-arrastre.webp",
+      "original_format": "jpeg",
+      "width": 1331,
+      "height": 503,
+      "type": "diagrama",
+      "description": "Diagrama de un electrodo inclinado hacia atrás, otro vertical y otro inclinado hacia adelante, con la dirección de desplazamiento.",
+      "visible_text": "DIRECCIÓN DE DESPLAZAMIENTO; ÁNGULO DE ARRASTRE; ÁNGULO RECTO; ÁNGULO DE ATAQUE",
+      "caption": "Ángulo de ataque y de arrastre",
+      "section_id": "sec-smaw-013",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres posiciones del electrodo: ángulo de arrastre, ángulo recto y ángulo de ataque",
+      "duplicate_of_xref": false,
+      "sha256_16": "9583f38788facdf9",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-009",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 14,
+      "position": "superior-centro",
+      "bbox": [
+        64.4,
+        46.5,
+        572.0,
+        274.5
+      ],
+      "file": "images/smaw-p14-lamina-pagina-14.webp",
+      "original_format": "jpeg",
+      "width": 1365,
+      "height": 613,
+      "type": "diagrama",
+      "description": "Diagrama superior de la lámina: electrodo muy inclinado, otro menos inclinado y otro vertical, cada uno con el corte del cordón.",
+      "visible_text": "SECCIÓN A-A; (A); SECCIÓN B-B; (B); SECCIÓN C-C; (C); A; B; C",
+      "caption": null,
+      "section_id": "sec-smaw-014",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres ángulos del electrodo con las secciones A-A, B-B y C-C del cordón",
+      "duplicate_of_xref": false,
+      "sha256_16": "a0601d294e8ec1ed",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-010",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 14,
+      "position": "inferior-centro",
+      "bbox": [
+        51.5,
+        274.5,
+        584.9,
+        502.4
+      ],
+      "file": "images/smaw-p14-lamina-pagina-14-2.webp",
+      "original_format": "jpeg",
+      "width": 1369,
+      "height": 585,
+      "type": "diagrama",
+      "description": "Diagrama inferior de la lámina: la sección A-A es un cordón bajo y ancho, la B-B intermedia y la C-C más alta y convexa.",
+      "visible_text": "SECCIÓN A-A; (A); SECCIÓN B-B; (B); SECCIÓN C-C; (C); A; B; C",
+      "caption": null,
+      "section_id": "sec-smaw-014",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Otros tres ángulos del electrodo con las secciones A-A, B-B y C-C del cordón",
+      "duplicate_of_xref": false,
+      "sha256_16": "c961abf1f5bca8f6",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-011",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 29,
+      "position": "centro-centro",
+      "bbox": [
+        267.2,
+        92.5,
+        638.8,
+        534.1
+      ],
+      "file": "images/smaw-p29-que-significa-el-termino-polaridad.webp",
+      "original_format": "jpeg",
+      "width": 1061,
+      "height": 893,
+      "type": "diagrama",
+      "description": "Arriba, fuente de corriente continua con electrodo en positivo (DCEP); abajo, fuente de corriente alterna, que no tiene polaridad.",
+      "visible_text": "Cable del electrodo; Fuente de poder de corriente continua; Cable de la pieza de trabajo; Corriente continua, electrodo en positivo (DCEP). Reemplaza a la corriente continua de polaridad inversa (DCSP); Fuente de poder de corriente alterna; La corriente alterna no tiene polaridad",
+      "caption": "Que significa el término polaridad?",
+      "section_id": "sec-smaw-029",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos esquemas de polaridad: corriente continua con electrodo en positivo y corriente alterna",
+      "duplicate_of_xref": false,
+      "sha256_16": "49a935b9662aa2cc",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-012",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 32,
+      "position": "inferior-centro",
+      "bbox": [
+        102.4,
+        245.9,
+        633.7,
+        522.7
+      ],
+      "file": "images/smaw-p32-que-polaridad-y-caracteristicas-tiene-la-corriente-continua.webp",
+      "original_format": "jpeg",
+      "width": 407,
+      "height": 781,
+      "type": "diagrama",
+      "description": "Esquema de la fuente de corriente continua: el cable del electrodo sale del borne negativo y el cable de la pieza va al otro borne.",
+      "visible_text": "Cable del electrodo; Fuente de poder de corriente continua; Cable hacia la pieza de trabajo; La corriente continua, electrodo en negativo, reemplaza a la corriente continua de polaridad directa; +",
+      "caption": "Qué polaridad y características tiene la corriente continua, electrodo en negativo?",
+      "section_id": "sec-smaw-032",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Conexión de corriente continua con el electrodo en negativo",
+      "duplicate_of_xref": false,
+      "sha256_16": "594f1ad266860215",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-013",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 33,
+      "position": "inferior-centro",
+      "bbox": [
+        113.7,
+        270.0,
+        600.9,
+        509.1
+      ],
+      "file": "images/smaw-p33-que-polaridad-y-caracteristicas-tiene-la-corriente-continua.webp",
+      "original_format": "jpeg",
+      "width": 369,
+      "height": 785,
+      "type": "diagrama",
+      "description": "Esquema de la fuente de corriente continua con el cable del electrodo en el borne positivo y el cable hacia la pieza de trabajo.",
+      "visible_text": "Cable del electrodo; Fuente de poder de corriente continua; Cable hacia la pieza de trabajo; La corriente continua, electrodo en positivo, reemplaza a la corriente continua de polaridad invertida; +",
+      "caption": "Qué polaridad y características tiene la corriente continua, electrodo en positivo?",
+      "section_id": "sec-smaw-033",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Conexión de corriente continua con el electrodo en positivo",
+      "duplicate_of_xref": false,
+      "sha256_16": "9913f84494b48c64",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-014",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 34,
+      "position": "centro-centro",
+      "bbox": [
+        187.7,
+        121.4,
+        545.1,
+        260.3
+      ],
+      "file": "images/smaw-p34-polaridades-que-producen-mas-calor.webp",
+      "original_format": "jpeg",
+      "width": 950,
+      "height": 369,
+      "type": "ilustracion",
+      "description": "Dos recuadros: en DCEP el electrodo está marcado (+) y la pieza (−); en DCEN el electrodo está (−) y la pieza (+).",
+      "visible_text": "DCEP; (+); (−); DCEN; (−); (+)",
+      "caption": "Polaridades que producen más calor",
+      "section_id": "sec-smaw-034",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Comparación DCEP y DCEN: el signo positivo queda en el electrodo o en la pieza",
+      "duplicate_of_xref": false,
+      "sha256_16": "1a865b757fd09ef7",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-015",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 34,
+      "position": "inferior-centro",
+      "bbox": [
+        55.9,
+        350.5,
+        678.6,
+        486.6
+      ],
+      "file": "images/smaw-p34-polaridades-que-producen-mas-calor-2.webp",
+      "original_format": "jpeg",
+      "width": 180,
+      "height": 825,
+      "type": "diagrama",
+      "description": "Dibujo de una placa con tres zonas fundidas sombreadas: la de la izquierda es poco profunda, la del centro más honda y la de la derecha la más ancha y profunda.",
+      "visible_text": null,
+      "caption": "Polaridades que producen más calor",
+      "section_id": "sec-smaw-034",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres perfiles de penetración, de un cordón superficial a uno profundo y ancho",
+      "duplicate_of_xref": false,
+      "sha256_16": "d1a8a9dcede50a7f",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-smaw-016",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 35,
+      "position": "centro-centro",
+      "bbox": [
+        42.5,
+        92.5,
+        703.5,
+        490.0
+      ],
+      "file": "images/smaw-p35-lamina-pagina-35.webp",
+      "original_format": "jpeg",
+      "width": 913,
+      "height": 549,
+      "type": "fotografia",
+      "description": "Collage de nueve fotos de cerca: el electrodo, el arco brillante, las chispas y el charco de metal fundido sobre la placa.",
+      "visible_text": null,
+      "caption": null,
+      "section_id": "sec-smaw-035",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Secuencia de fotografías del arco eléctrico y del baño de fusión",
+      "duplicate_of_xref": false,
+      "sha256_16": "b0b192e899012d5d",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-smaw-017",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 37,
+      "position": "inferior-centro",
+      "bbox": [
+        140.1,
+        260.7,
+        554.6,
+        532.8
+      ],
+      "file": "images/smaw-p37-soplo-de-arco.webp",
+      "original_format": "jpeg",
+      "width": 684,
+      "height": 449,
+      "type": "diagrama",
+      "description": "Diagrama de una placa con tres electrodos; el arco de un extremo se curva, y se señalan la punta del electrodo, el arco y el cable de masa.",
+      "visible_text": "PUNTA DEL ELECTRODO; CABLE DE MASA; ARCO",
+      "caption": "Soplo de arco?",
+      "section_id": "sec-smaw-037",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soplo del arco: el arco se desvía cerca del cable de masa",
+      "duplicate_of_xref": false,
+      "sha256_16": "7d68d3d883bdb1ea",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-018",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 38,
+      "position": "centro-centro",
+      "bbox": [
+        93.4,
+        148.8,
+        613.1,
+        476.5
+      ],
+      "file": "images/smaw-p38-solucion-del-soplo-del-arco.webp",
+      "original_format": "jpeg",
+      "width": 693,
+      "height": 437,
+      "type": "diagrama",
+      "description": "Diagrama de tres electrodos sobre una placa, con la pinza de masa en el extremo hacia el que apunta la dirección de la soldadura.",
+      "visible_text": "PUNTA DEL ELECTRODO; DIRECCIÓN DE LA SOLDADURA; CABLE DE MASA",
+      "caption": "Solución del soplo del arco",
+      "section_id": "sec-smaw-038",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cable de masa al final del recorrido y flecha de la dirección de la soldadura",
+      "duplicate_of_xref": false,
+      "sha256_16": "2d1c3140b3bdcdd9",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-019",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 39,
+      "position": "centro-centro",
+      "bbox": [
+        149.6,
+        166.1,
+        516.4,
+        526.3
+      ],
+      "file": "images/smaw-p39-como-se-puede-determinar-el-amperaje-de-salida-de-acuerdo-co.webp",
+      "original_format": "jpeg",
+      "width": 639,
+      "height": 651,
+      "type": "diagrama",
+      "description": "Dibujo de un dial numerado del 0 al 10, con la leyenda Incremento de corriente, y tres salidas: 20-150A Bajo, 60-260A Medio y 200-450A Alto.",
+      "visible_text": "Incremento de corriente; 0; 1; 2; 3; 4; 5; 6; 7; 8; 9; 10; +; 20-150A Bajo; 60-260A Medio; 200-450A Alto",
+      "caption": "Como se puede determinar el amperaje de salida de acuerdo con la posición de la perilla",
+      "section_id": "sec-smaw-039",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Perilla de 0 a 10 y tres rangos de corriente: bajo, medio y alto",
+      "duplicate_of_xref": false,
+      "sha256_16": "e21fe5a580e7eddf",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-smaw-020",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 40,
+      "position": "centro-centro",
+      "bbox": [
+        36.0,
+        125.1,
+        684.0,
+        496.6
+      ],
+      "file": "images/smaw-p40-que-amperaje-debe-ajustar-la-fuente-de-poder.webp",
+      "original_format": "jpeg",
+      "width": 1411,
+      "height": 809,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla con productos Fleetweld y Jetweld, su clasificación AWS, la polaridad y los amperios para diámetros de 3/32 a 1/4 de pulgada.",
+      "visible_text": "Nombre del producto de Lincoln Electric; Clasificación AWS; Polaridad del electrodo; Tamaños y rangos de la corriente (amperios); 3/32\"; 1/8\"; 5/32\"; 3/16\"; 7/32\"; 1/4\"; Fleetweld 5P | E6010 | DCEP | 40-70 | 75-130 | 90-175 | 140-225 | 200-275 | 220-325; Fleetweld 35 | E6011 | AC | 50-85 | 75-120 | 90-160 | 120-200 | 150-260 | 190-300; Fleetweld 35 | E6011 | DC± | 40-75 | 70-110 | 80-145 | 110-180 | 135-235 | 170-270; Fleetweld 7 | E6012 | DC- | — | 80-135 | 110-180 | 155-250 | 225-295 | 245-325; Fleetweld 7 | E6012 | AC | — | 90-150 | 120-200 | 170-270 | 250-325 | 275-360; Fleetweld 37 | E6013 | AC | 75-105 | 110-150 | 160-200 | 205-260 | — | —; Fleetweld 37 | E6013 | DC± | 70-95 | 100-135 | 145-180 | 190-235 | — | —; Fleetweld 47 | E7014 | AC | 80-100 | 110-160 | 150-225 | 200-280 | 260-340 | 280-425; Fleetweld 47 | E7014 | DCEN | 75-95 | 100-145 | 135-200 | 185-235 | 235-305 | 260-380; Jetweld LH-70 | E7018 | DC+ | 70-100 | 90-150 | 120-190 | 170-280 | 210-330 | 290-430; Jetweld LH-70 | E7018 | AC | 80-120 | 110-170 | 135-225 | 200-300 | 260-380 | 325-530; Jetweld 3 | E7024 | AC | — | 115-175 | 180-240 | 240-315 | 300-380 | 350-450; Jetweld 3 | E7024 | DC± | — | 100-160 | 160-215 | 215-285 | 270-340 | 315-405; Jetweld 2 | E6027 | AC | — | — | 190-240 | 250-300 | 300-380 | 350-450; Jetweld 2 | E6027 | DC± | — | — | 175-215 | 230-270 | 270-340 | 315-405; Jetweld LH-3800 | E7028 | AC | — | — | 180-270 | 240-330 | 275-410 | 360-520; Jetweld LH-3800 | E7028 | DC+ | — | — | 170-240 | 210-300 | 260-380 | —",
+      "caption": "Que amperaje debe ajustar la fuente de poder",
+      "section_id": "sec-smaw-040",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tabla Lincoln Electric de electrodos, polaridad y rangos de corriente por diámetro",
+      "duplicate_of_xref": false,
+      "sha256_16": "3313d41d2ffc0cd6",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-smaw-021",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 43,
+      "position": "inferior-centro",
+      "bbox": [
+        82.1,
+        249.2,
+        622.1,
+        511.3
+      ],
+      "file": "images/smaw-p43-cuales-son-las-dos-principales-clasificaciones-de-las-caract.webp",
+      "original_format": "jpeg",
+      "width": 364,
+      "height": 750,
+      "type": "grafico",
+      "description": "A la izquierda, una línea horizontal de voltaje de salida constante; a la derecha, una línea vertical de corriente de salida constante.",
+      "visible_text": "Voltios; Amperios; Voltaje constante; Voltaje de salida constante para todas las cargas; Corriente constante; Corriente de salida constante para todas las cargas",
+      "caption": "Cuales son las dos principales clasificaciones de las características de salida de las fuentes de poder?",
+      "section_id": "sec-smaw-043",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos gráficas: voltaje constante y corriente constante frente a los amperios",
+      "duplicate_of_xref": false,
+      "sha256_16": "3102eb08abdb2fa0",
+      "source": "visual",
+      "confidence": "high"
+    }
+  ],
+  "tables": [],
+  "links": [],
+  "contacts": [],
+  "seo": {
+    "title": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+    "meta_description": "Ya en siglo XVIII se realizaban trabajos de soldadura con arco utilizando electrodos de carbón y alimentados por baterías. El desarrollo de esta técnica se intensificó entre 1880…",
+    "slug": "smaw",
+    "keywords": [
+      "SMAW",
+      "electrodo",
+      "polaridad",
+      "soplete",
+      "AWS"
+    ],
+    "og_title": "Procesos de soldadura — Soldadura de arco metálico protegido SMAW",
+    "og_description": "Ya en siglo XVIII se realizaban trabajos de soldadura con arco utilizando electrodos de carbón y alimentados por baterías. El desarrollo de esta técnica se intensificó entre 1880…",
+    "og_image": "images/smaw-p01-procesos-de-soldadura-soldadura-de-arco-metalico-protegido-s-3.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 5-6",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Introducción",
+        "inferred": false
+      },
+      {
+        "name": "Nombres de los procedimientos",
+        "inferred": false
+      },
+      {
+        "name": "procedimiento",
+        "inferred": false
+      },
+      {
+        "name": "Aplicaciones",
+        "inferred": false
+      },
+      {
+        "name": "Ventajas",
+        "inferred": false
+      },
+      {
+        "name": "Desventajas",
+        "inferred": false
+      },
+      {
+        "name": "Fuentes de poder",
+        "inferred": false
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date_detail": {
+      "value": "2025-03-21",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}

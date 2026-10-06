@@ -1,0 +1,462 @@
+[
+  {
+    "id": "term-q01",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-004",
+    "sourcePage": 4,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿En qué se diferencian principalmente los procesos de soldadura?",
+    "options": [
+      "En el modo de aplicar el calor, la presión o ambos, y en el equipo utilizado",
+      "Solo en el color de la llama",
+      "En el tipo de careta que usa el soldador",
+      "En el país de origen del fabricante del equipo"
+    ],
+    "correctAnswer": "En el modo de aplicar el calor, la presión o ambos, y en el equipo utilizado",
+    "explanation": "La unidad dice que los procesos se diferencian principalmente en cómo se aplica el calor, la presión o ambos, y en el equipo que se usa."
+  },
+  {
+    "id": "term-q02",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-004",
+    "sourcePage": 4,
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada sigla con su proceso de soldadura.",
+    "pairs": [
+      {
+        "left": "OAW",
+        "right": "Soldadura con acetileno"
+      },
+      {
+        "left": "SMAW",
+        "right": "Soldadura por arco metálico protegido"
+      },
+      {
+        "left": "GTAW",
+        "right": "Arco bajo gas protector con electrodo de tungsteno"
+      },
+      {
+        "left": "GMAW",
+        "right": "Arco bajo gas protector metálico"
+      },
+      {
+        "left": "FCAW",
+        "right": "Arco con núcleo fundente"
+      }
+    ],
+    "explanation": "Son las siglas de la lista de procesos de la unidad: OAW (acetileno), SMAW (arco metálico protegido), GTAW (tungsteno), GMAW (gas protector metálico) y FCAW (núcleo fundente)."
+  },
+  {
+    "id": "term-q03",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-007",
+    "sourcePage": 7,
+    "type": "image",
+    "difficulty": "hard",
+    "imageId": "img-terminologia-008",
+    "question": "Observa el equipo: tiene bombona de gas protector, un soplete con mangueras de agua de refrigeración y pinza de masa. ¿A qué proceso corresponde?",
+    "options": [
+      "GTAW",
+      "SMAW",
+      "OAW",
+      "Soldadura fuerte con soplete (TB)"
+    ],
+    "correctAnswer": "GTAW",
+    "explanation": "El diagrama corresponde a GTAW (electrodo de tungsteno): máquina de soldar, bombona de gas protector, soplete GTAW y circuito de agua de refrigeración. SMAW no usa gas y OAW no usa máquina eléctrica."
+  },
+  {
+    "id": "term-q04",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-006",
+    "sourcePage": 6,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-terminologia-007",
+    "question": "Este equipo tiene máquina de soldar, portaelectrodo, electrodo y pinza de masa, sin bombona de gas. ¿Qué proceso representa?",
+    "options": [
+      "SMAW",
+      "GMAW",
+      "GTAW",
+      "OAW"
+    ],
+    "correctAnswer": "SMAW",
+    "explanation": "SMAW (arco metálico protegido) solo necesita la máquina, el portaelectrodo con el electrodo revestido y la pinza de masa; la protección la aporta el revestimiento del electrodo, no un cilindro de gas."
+  },
+  {
+    "id": "term-q05",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-011",
+    "sourcePage": 11,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿Cuál es la diferencia entre un código (o norma) y una especificación?",
+    "options": [
+      "El código es una lista de reglas y principios para una clasificación o tipo de producto; la especificación declara requisitos legales para una soldadura concreta en un producto concreto",
+      "El código declara requisitos legales para una soldadura concreta; la especificación es una lista general de reglas",
+      "Son sinónimos y se usan indistintamente",
+      "El código solo se aplica a tuberías y la especificación solo a puentes"
+    ],
+    "correctAnswer": "El código es una lista de reglas y principios para una clasificación o tipo de producto; la especificación declara requisitos legales para una soldadura concreta en un producto concreto",
+    "explanation": "El código es una lista detallada de reglas y principios para una clasificación o tipo de producto. La especificación es una declaración detallada de requisitos legales para un tipo de soldadura que se hará en un producto específico."
+  },
+  {
+    "id": "term-q06",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-013",
+    "sourcePage": 13,
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada código con su campo de aplicación.",
+    "pairs": [
+      {
+        "left": "API 1104",
+        "right": "Conductos"
+      },
+      {
+        "left": "ASME Sección IX",
+        "right": "Recipientes de presión y componentes nucleares"
+      },
+      {
+        "left": "AWS D1.1",
+        "right": "Puentes, construcciones y aceros estructurales"
+      }
+    ],
+    "explanation": "Según la unidad: API 1104 (American Petroleum Institute) se usa para conductos; ASME Sección IX para recipientes de presión y componentes nucleares; AWS D1.1 para puentes, construcciones y otros aceros estructurales."
+  },
+  {
+    "id": "term-q07",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-013",
+    "sourcePage": 13,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Una empresa va a soldar la estructura de acero de un puente. ¿Qué código es el más indicado según la unidad?",
+    "options": [
+      "AWS D1.1",
+      "API 1104",
+      "ASME Sección IX",
+      "ANSI/AWS A2.4"
+    ],
+    "correctAnswer": "AWS D1.1",
+    "explanation": "AWS D1.1 se usa para puentes, construcciones y otros aceros estructurales. ANSI/AWS A2.4 trata de símbolos, no de requisitos de fabricación."
+  },
+  {
+    "id": "term-q08",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-014",
+    "sourcePage": 14,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué es una WPS (especificación del procedimiento de soldadura)?",
+    "options": [
+      "Una serie de instrucciones que, si se siguen, producen una soldadura sana",
+      "El registro de los resultados de las soldaduras de prueba",
+      "Un código para recipientes a presión",
+      "Un símbolo que se dibuja en los planos"
+    ],
+    "correctAnswer": "Una serie de instrucciones que, si se siguen, producen una soldadura sana",
+    "explanation": "La WPS es una serie de instrucciones para realizar una soldadura sana, normalmente escrita conforme a un código o especificación. El registro de las pruebas es el PQR."
+  },
+  {
+    "id": "term-q09",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-016",
+    "sourcePage": 16,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿En qué formulario se registran los parámetros usados para producir las soldaduras de prueba que califican una WPS?",
+    "options": [
+      "PQR (registro de calificación del procedimiento)",
+      "WPS",
+      "AWS D1.1",
+      "API 1104"
+    ],
+    "correctAnswer": "PQR (registro de calificación del procedimiento)",
+    "explanation": "Todos los parámetros de las soldaduras de prueba se registran en el PQR, que demuestra que la WPS produce una soldadura sana."
+  },
+  {
+    "id": "term-q10",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-016",
+    "sourcePage": 16,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "La WPS debe calificarse para verificar que sus variables (amperaje, voltaje, relleno, etc.) producen una soldadura sana.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Verdadero",
+    "explanation": "La unidad indica que la WPS se debe calificar para comprobar que su lista de variables proporciona una soldadura sana."
+  },
+  {
+    "id": "term-q11",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-021",
+    "sourcePage": 21,
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada método de aplicación de soldadura con su descripción.",
+    "pairs": [
+      {
+        "left": "Manual",
+        "right": "Un soldador manipula todo el proceso"
+      },
+      {
+        "left": "Semiautomático",
+        "right": "El metal de aporte se añade automáticamente y el resto es manual"
+      },
+      {
+        "left": "Máquina",
+        "right": "Operaciones mecánicas bajo la observación de un operador"
+      },
+      {
+        "left": "Automático",
+        "right": "Una máquina programada repite las operaciones"
+      }
+    ],
+    "explanation": "Los cuatro métodos van de menor a mayor automatización: manual, semiautomático (solo el aporte es automático), máquina (mecánico pero vigilado) y automático (programado)."
+  },
+  {
+    "id": "term-q12",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-021",
+    "sourcePage": 21,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "En GMAW el alambre se alimenta automáticamente mientras el soldador guía la pistola con la mano. ¿Qué método de aplicación es?",
+    "options": [
+      "Semiautomático",
+      "Manual",
+      "Máquina",
+      "Automático"
+    ],
+    "correctAnswer": "Semiautomático",
+    "explanation": "En el método semiautomático el metal de aporte se añade automáticamente y el resto del trabajo es manual, como ocurre con la pistola GMAW."
+  },
+  {
+    "id": "term-q13",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-019",
+    "sourcePage": 19,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cuál de estos NO es un factor para seleccionar el proceso de unión?",
+    "options": [
+      "El color de la pintura del taller",
+      "La disponibilidad del equipo",
+      "La habilidad o experiencia de los trabajadores",
+      "Los requisitos de los códigos o especificaciones"
+    ],
+    "correctAnswer": "El color de la pintura del taller",
+    "explanation": "Entre los factores están la disponibilidad del equipo, los requisitos de calidad, los materiales, la habilidad de los trabajadores, los códigos y el tiempo disponible. El color del taller no influye."
+  },
+  {
+    "id": "term-q14",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-025",
+    "sourcePage": 25,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-terminologia-014",
+    "question": "Observa la figura de tipos de uniones. ¿Cuál de estos NO es un tipo de unión, sino una preparación de borde (bisel)?",
+    "options": [
+      "En X",
+      "A tope",
+      "De esquina",
+      "En T"
+    ],
+    "correctAnswer": "En X",
+    "explanation": "Las uniones básicas son a tope, esquina, traslape, borde y tipo T. «En X» es un tipo de bisel, es decir, una preparación del borde de la pieza."
+  },
+  {
+    "id": "term-q15",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-029",
+    "sourcePage": 29,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿A qué se refieren las posiciones de soldadura?",
+    "options": [
+      "A la posición del eje de la soldadura en los distintos planos a soldar",
+      "A la postura corporal del soldador",
+      "A la ubicación del taller dentro de la planta",
+      "Al ángulo de la careta de soldar"
+    ],
+    "correctAnswer": "A la posición del eje de la soldadura en los distintos planos a soldar",
+    "explanation": "Las posiciones se refieren exclusivamente a la posición del eje de la soldadura en los distintos planos: plana, horizontal, vertical y sobre cabeza."
+  },
+  {
+    "id": "term-q16",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-030",
+    "sourcePage": 30,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "En la normativa americana (AWS), ¿qué letras designan las posiciones de las soldaduras de filete y a tope?",
+    "options": [
+      "F para filete y G para tope",
+      "G para filete y F para tope",
+      "P para ambas",
+      "A para filete y B para tope"
+    ],
+    "correctAnswer": "F para filete y G para tope",
+    "explanation": "En la AWS el filete o ángulo se designa con F y la soldadura a tope con G. La normativa europea (UNE) usa siempre la letra P."
+  },
+  {
+    "id": "term-q17",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-031",
+    "sourcePage": 31,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué posición AWS corresponde a una soldadura de filete bajo techo (sobrecabeza)?",
+    "options": [
+      "4F",
+      "1F",
+      "2F",
+      "3F"
+    ],
+    "correctAnswer": "4F",
+    "explanation": "En filete: 1F es plana, 2F horizontal, 3F vertical y 4F bajo techo (UNE = PD)."
+  },
+  {
+    "id": "term-q18",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-035",
+    "sourcePage": 35,
+    "imageId": "img-terminologia-020",
+    "type": "image",
+    "difficulty": "hard",
+    "question": "En uniones de tubería, ¿qué posición corresponde a un tubo horizontal que NO gira y cuya soldadura abarca las posiciones plana, vertical y bajo techo?",
+    "options": [
+      "5G",
+      "1G",
+      "2G",
+      "6G"
+    ],
+    "correctAnswer": "5G",
+    "explanation": "En 5G la tubería está horizontal e inmóvil, así que se suelda en plano, vertical y bajo techo. En 1G el tubo rota, en 2G está vertical y en 6G está inclinado unos 45°."
+  },
+  {
+    "id": "term-q19",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-035",
+    "sourcePage": 35,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué caracteriza la posición 6G en tuberías?",
+    "options": [
+      "La tubería está inmóvil con el eje inclinado unos 45°",
+      "La tubería gira mientras se suelda",
+      "La tubería está vertical e inmóvil",
+      "Es una posición exclusiva de soldaduras de filete"
+    ],
+    "correctAnswer": "La tubería está inmóvil con el eje inclinado unos 45°",
+    "explanation": "En 6G la tubería no se mueve y su eje está inclinado unos 45°; la soldadura abarca las posiciones bajo techo, vertical y plana."
+  },
+  {
+    "id": "term-q20",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-031",
+    "sourcePage": 31,
+    "type": "true-false",
+    "difficulty": "hard",
+    "question": "En filete, la AWS llama 3F tanto a la soldadura vertical ascendente como a la descendente, mientras que la normativa europea distingue PF (ascendente) y PG (descendente).",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Verdadero",
+    "explanation": "La unidad lo explica en la posición 3F: en la normativa americana ambas siguen siendo 3F, pero en la europea la ascendente es PF y la descendente es PG."
+  },
+  {
+    "id": "term-q21",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-039",
+    "sourcePage": 39,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-terminologia-023",
+    "question": "En el corte de la soldadura de filete, ¿qué tipos de cuello se identifican?",
+    "options": [
+      "Real, efectivo y teórico",
+      "Superior, inferior y lateral",
+      "Interno, externo y medio",
+      "Primario, secundario y terciario"
+    ],
+    "correctAnswer": "Real, efectivo y teórico",
+    "explanation": "El diagrama de partes de la soldadura de filete rotula cuello real, cuello efectivo y cuello teórico, además de cara, raíz, talón y convexidad."
+  },
+  {
+    "id": "term-q22",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-038",
+    "sourcePage": 38,
+    "type": "image",
+    "difficulty": "hard",
+    "imageId": "img-terminologia-022",
+    "question": "Observa las partes de la soldadura de ranura. ¿Cuál de estos elementos NO está rotulado en ella (pertenece a la soldadura de filete)?",
+    "options": [
+      "Cuello efectivo",
+      "Refuerzo de la raíz",
+      "Cara de fusión",
+      "Talón"
+    ],
+    "correctAnswer": "Cuello efectivo",
+    "explanation": "La soldadura de ranura rotula cara, refuerzo, talón, raíz, refuerzo de la raíz, cara de fusión y zona de fusión. Los cuellos (real, efectivo, teórico) se definen en la soldadura de filete."
+  },
+  {
+    "id": "term-x01",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-031",
+    "sourcePage": 31,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "En uniones de filete, ¿qué designación europea (UNE) corresponde a la posición AWS 2F?",
+    "options": [
+      "PB",
+      "PA",
+      "PF",
+      "PD"
+    ],
+    "correctAnswer": "PB",
+    "explanation": "Equivalencias de la lámina: 1F = PA, 2F = PB, 3F = PF (ascendente) o PG (descendente) y 4F = PD. La trampa es suponer un orden alfabético directo."
+  },
+  {
+    "id": "term-x02",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-035",
+    "sourcePage": 35,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "En uniones de tubería, ¿en qué posición el tubo GIRA mientras se suelda?",
+    "options": [
+      "1G",
+      "5G",
+      "2G",
+      "6G"
+    ],
+    "correctAnswer": "1G",
+    "explanation": "Trampa: 1G y 5G tienen el tubo horizontal, pero solo en 1G rota y se suelda siempre en «plano». En 5G está inmóvil y se recorren todas las posiciones."
+  },
+  {
+    "id": "term-x03",
+    "topicId": "terminologia",
+    "sectionId": "sec-terminologia-016",
+    "sourcePage": 16,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Cuál es la relación correcta entre WPS y PQR?",
+    "options": [
+      "La WPS da las instrucciones; las soldaduras de prueba se registran en el PQR para calificar la WPS",
+      "El PQR da las instrucciones y la WPS registra los resultados",
+      "Son el mismo documento con dos nombres",
+      "El PQR es un código de la API para conductos"
+    ],
+    "correctAnswer": "La WPS da las instrucciones; las soldaduras de prueba se registran en el PQR para calificar la WPS",
+    "explanation": "Es fácil invertirlos. La WPS es la serie de instrucciones para una soldadura sana; el PQR (registro de calificación del procedimiento) guarda los parámetros de las pruebas que demuestran que esa WPS funciona."
+  }
+]

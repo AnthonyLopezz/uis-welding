@@ -1,0 +1,687 @@
+{
+  "files": [
+    {
+      "id": "documento-001",
+      "slug": "presentacion-introduccion",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "pages": 34,
+      "pages_processed": 34,
+      "images": 21,
+      "tables": 0,
+      "links": 16,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        17,
+        19,
+        20,
+        22,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        34
+      ],
+      "low_confidence_images": [
+        "img-presentacion-introduccion-010",
+        "img-presentacion-introduccion-016",
+        "img-presentacion-introduccion-020"
+      ]
+    },
+    {
+      "id": "documento-002",
+      "slug": "seguridad",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "pages": 14,
+      "pages_processed": 14,
+      "images": 17,
+      "tables": 1,
+      "links": 0,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        9,
+        10,
+        11,
+        12,
+        14
+      ],
+      "low_confidence_images": []
+    },
+    {
+      "id": "documento-003",
+      "slug": "terminologia",
+      "source_file": "Unidad # 3 terminología.pdf",
+      "pages": 40,
+      "pages_processed": 40,
+      "images": 24,
+      "tables": 0,
+      "links": 0,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        3,
+        5,
+        6,
+        7,
+        8,
+        15,
+        17,
+        23,
+        25,
+        27,
+        32,
+        34,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "low_confidence_images": [
+        "img-terminologia-005",
+        "img-terminologia-010",
+        "img-terminologia-011",
+        "img-terminologia-024"
+      ]
+    },
+    {
+      "id": "documento-004",
+      "slug": "simbologia",
+      "source_file": "Unidad #4 simbologia.pdf",
+      "pages": 32,
+      "pages_processed": 32,
+      "images": 35,
+      "tables": 1,
+      "links": 0,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "low_confidence_images": [
+        "img-simbologia-002",
+        "img-simbologia-007",
+        "img-simbologia-009",
+        "img-simbologia-010",
+        "img-simbologia-018",
+        "img-simbologia-022",
+        "img-simbologia-023",
+        "img-simbologia-024",
+        "img-simbologia-025",
+        "img-simbologia-026"
+      ]
+    },
+    {
+      "id": "documento-005",
+      "slug": "oxiacetileno",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "pages": 42,
+      "pages_processed": 42,
+      "images": 25,
+      "tables": 1,
+      "links": 0,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        4,
+        5,
+        6,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        17,
+        18,
+        20,
+        21,
+        23,
+        24,
+        25,
+        26,
+        29,
+        31,
+        33
+      ],
+      "low_confidence_images": [
+        "img-oxiacetileno-002",
+        "img-oxiacetileno-003",
+        "img-oxiacetileno-008",
+        "img-oxiacetileno-012",
+        "img-oxiacetileno-014",
+        "img-oxiacetileno-016",
+        "img-oxiacetileno-020",
+        "img-oxiacetileno-022",
+        "img-oxiacetileno-025"
+      ]
+    },
+    {
+      "id": "documento-006",
+      "slug": "smaw",
+      "source_file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "pages": 43,
+      "pages_processed": 43,
+      "images": 21,
+      "tables": 0,
+      "links": 0,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        7,
+        11,
+        12,
+        13,
+        14,
+        29,
+        32,
+        33,
+        34,
+        35,
+        37,
+        38,
+        39,
+        40,
+        43
+      ],
+      "low_confidence_images": [
+        "img-smaw-001",
+        "img-smaw-003",
+        "img-smaw-020"
+      ]
+    },
+    {
+      "id": "documento-007",
+      "slug": "gmaw",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "pages": 57,
+      "pages_processed": 57,
+      "images": 24,
+      "tables": 0,
+      "links": 0,
+      "contacts": 0,
+      "text_coverage": 1.0,
+      "visual_pages": [
+        1,
+        4,
+        7,
+        12,
+        13,
+        14,
+        15,
+        28,
+        32,
+        34,
+        35,
+        41,
+        42,
+        43,
+        48,
+        50,
+        52,
+        53,
+        54,
+        55
+      ],
+      "low_confidence_images": [
+        "img-gmaw-001",
+        "img-gmaw-009",
+        "img-gmaw-015",
+        "img-gmaw-020",
+        "img-gmaw-024"
+      ]
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    {
+      "file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 12,
+      "issue": "Hay texto pero no se identificó un título de diapositiva"
+    },
+    {
+      "file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 9,
+      "issue": "El texto impreso dice «eviatr» y «acumulacion»; se conservó tal cual."
+    },
+    {
+      "file": "proceso de soldadura de arco metalico protegido smaw.pdf",
+      "page": 14,
+      "issue": "Hay texto pero no se identificó un título de diapositiva"
+    }
+  ],
+  "low_confidence": [
+    {
+      "id": "img-presentacion-introduccion-010",
+      "page": 22,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad # 1 presentación e Introducción.pdf"
+    },
+    {
+      "id": "img-presentacion-introduccion-016",
+      "page": 31,
+      "reason": "Descripción visual con confianza low",
+      "file": "Unidad # 1 presentación e Introducción.pdf"
+    },
+    {
+      "id": "img-presentacion-introduccion-020",
+      "page": 34,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad # 1 presentación e Introducción.pdf"
+    },
+    {
+      "id": "img-terminologia-005",
+      "page": 3,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad # 3 terminología.pdf"
+    },
+    {
+      "id": "img-terminologia-010",
+      "page": 15,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad # 3 terminología.pdf"
+    },
+    {
+      "id": "img-terminologia-011",
+      "page": 17,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad # 3 terminología.pdf"
+    },
+    {
+      "id": "img-terminologia-024",
+      "page": 40,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad # 3 terminología.pdf"
+    },
+    {
+      "id": "img-simbologia-002",
+      "page": 1,
+      "reason": "Descripción visual con confianza low",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-007",
+      "page": 6,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-009",
+      "page": 8,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-010",
+      "page": 9,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-018",
+      "page": 18,
+      "reason": "Descripción visual con confianza low",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-022",
+      "page": 22,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-023",
+      "page": 23,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-024",
+      "page": 24,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-025",
+      "page": 25,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-simbologia-026",
+      "page": 26,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Unidad #4 simbologia.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-002",
+      "page": 1,
+      "reason": "Descripción visual con confianza low",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-003",
+      "page": 1,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-008",
+      "page": 9,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-012",
+      "page": 13,
+      "reason": "Descripción visual con confianza low",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-014",
+      "page": 17,
+      "reason": "Descripción visual con confianza low",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-016",
+      "page": 20,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-020",
+      "page": 24,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-022",
+      "page": 26,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-oxiacetileno-025",
+      "page": 33,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Procesos de soldadura oxiacetileno.pdf"
+    },
+    {
+      "id": "img-smaw-001",
+      "page": 1,
+      "reason": "Descripción visual con confianza medium",
+      "file": "proceso de soldadura de arco metalico protegido smaw.pdf"
+    },
+    {
+      "id": "img-smaw-003",
+      "page": 1,
+      "reason": "Descripción visual con confianza low",
+      "file": "proceso de soldadura de arco metalico protegido smaw.pdf"
+    },
+    {
+      "id": "img-smaw-020",
+      "page": 40,
+      "reason": "Descripción visual con confianza medium",
+      "file": "proceso de soldadura de arco metalico protegido smaw.pdf"
+    },
+    {
+      "id": "img-gmaw-001",
+      "page": 1,
+      "reason": "Descripción visual con confianza low",
+      "file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf"
+    },
+    {
+      "id": "img-gmaw-009",
+      "page": 14,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf"
+    },
+    {
+      "id": "img-gmaw-015",
+      "page": 41,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf"
+    },
+    {
+      "id": "img-gmaw-020",
+      "page": 52,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf"
+    },
+    {
+      "id": "img-gmaw-024",
+      "page": 55,
+      "reason": "Descripción visual con confianza medium",
+      "file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf"
+    }
+  ],
+  "rejected_tables": [
+    {
+      "file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 26,
+      "cols": 39,
+      "rows": 13
+    },
+    {
+      "file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 26,
+      "cols": 11,
+      "rows": 3
+    },
+    {
+      "file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 29,
+      "cols": 6,
+      "rows": 4
+    },
+    {
+      "file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 30,
+      "cols": 18,
+      "rows": 5
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 29,
+      "cols": 1,
+      "rows": 4
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 29,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 29,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 29,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 29,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 30,
+      "cols": 59,
+      "rows": 6
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 4,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 31,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 33,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 33,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 33,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 33,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 35,
+      "cols": 3,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 35,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 35,
+      "cols": 2,
+      "rows": 1
+    },
+    {
+      "file": "Unidad # 3 terminología.pdf",
+      "page": 35,
+      "cols": 4,
+      "rows": 1
+    }
+  ],
+  "ocr_pages": [],
+  "ocr_note": "Los PDF tienen texto seleccionable exportado desde PowerPoint. No se aplicó OCR de página completa. El texto dentro de figuras se revisa de forma visual.",
+  "totals": {
+    "pdfs": 7,
+    "pages": 262,
+    "images": 167,
+    "tables": 3,
+    "categories": 1,
+    "subcategories": 50,
+    "tags": 16,
+    "links": 16,
+    "errors": 0,
+    "warnings": 3,
+    "low_confidence": 34
+  },
+  "unprocessed": [],
+  "manual_review": {
+    "checked": "Se reabrieron los 7 PDF y se contrastaron páginas, títulos y archivos de imagen con el JSON.",
+    "page_counts_match": true,
+    "every_image_file_exists": true,
+    "every_image_referenced_from_its_section": true,
+    "placeholder_alts_remaining": 0,
+    "tables_checked_on_the_slide": [
+      "tbl-oxiacetileno-001",
+      "tbl-simbologia-001",
+      "tbl-seguridad-001"
+    ],
+    "notes": [
+      "La fila R45 de oxiacetileno trae una raya en la lámina, no un número.",
+      "La tabla de pruebas no destructivas conserva la grafía impresa, incluida fluorecente y el símbolo DTP.",
+      "Los 16 enlaces son hipervínculos de Wikipedia en las diapositivas de historia; no aparecen como URL visibles.",
+      "No hay correos ni teléfonos en los PDF.",
+      "Las fechas son de exportación del archivo, no del temario.",
+      "El autor Carlos Rondon solo está en los metadatos de la Unidad 1."
+    ]
+  }
+}

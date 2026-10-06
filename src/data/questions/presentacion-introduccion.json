@@ -1,0 +1,336 @@
+[
+  {
+    "id": "intro-q01",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-024",
+    "sourcePage": 24,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Según la American Welding Society (AWS), ¿qué es una soldadura?",
+    "options": [
+      "Una coalescencia localizada de metales o no metales producida por calentamiento, con o sin presión y con o sin material de aportación",
+      "Una unión de metales que siempre requiere material de aporte y aplicación de presión",
+      "Un proceso exclusivo para metales que necesita siempre un arco eléctrico",
+      "Un pegado de superficies con adhesivos a temperatura ambiente"
+    ],
+    "correctAnswer": "Una coalescencia localizada de metales o no metales producida por calentamiento, con o sin presión y con o sin material de aportación",
+    "explanation": "La definición de la AWS es amplia: incluye metales y no metales, calentamiento a la temperatura de soldadura, con o sin presión (o solo presión) y con o sin material de aportación."
+  },
+  {
+    "id": "intro-q02",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-024",
+    "sourcePage": 24,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "Según la definición de la AWS, una soldadura puede realizarse sin material de aportación.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Verdadero",
+    "explanation": "La definición dice textualmente «con o sin el uso de material de aportación»."
+  },
+  {
+    "id": "intro-q03",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-024",
+    "sourcePage": 24,
+    "type": "true-false",
+    "difficulty": "medium",
+    "question": "La definición de soldadura de la AWS se limita a materiales metálicos.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "explanation": "La AWS habla de la coalescencia localizada «de metales o no metales», así que no se limita a los metales."
+  },
+  {
+    "id": "intro-q04",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-024",
+    "sourcePage": 24,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "En la definición de la AWS, ¿a qué se refiere la expresión «coalescencia localizada»?",
+    "options": [
+      "A la fusión o unión de la estructura de granos de los materiales que se sueldan",
+      "Al enfriamiento rápido del cordón de soldadura",
+      "A la limpieza de la escoria tras soldar",
+      "A la aplicación de un adhesivo entre las piezas"
+    ],
+    "correctAnswer": "A la fusión o unión de la estructura de granos de los materiales que se sueldan",
+    "explanation": "La propia definición aclara entre paréntesis que la coalescencia localizada es la fusión o unión de la estructura de granos de los materiales que se están soldando."
+  },
+  {
+    "id": "intro-q05",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-026",
+    "sourcePage": 26,
+    "type": "image",
+    "difficulty": "easy",
+    "imageId": "img-presentacion-introduccion-011",
+    "question": "Observa la imagen. ¿Qué estructura histórica muestra y por qué aparece en la historia de la soldadura?",
+    "options": [
+      "El Pilar de hierro de Delhi, en cuya construcción se usó la soldadura",
+      "Una columna romana unida con mortero",
+      "Una torre de acero del siglo XX soldada por arco",
+      "Un monumento de bronce fundido en una sola pieza"
+    ],
+    "correctAnswer": "El Pilar de hierro de Delhi, en cuya construcción se usó la soldadura",
+    "explanation": "El documento cita el Pilar de hierro de Delhi (India), erigido cerca del año 310 y de 5,4 toneladas, como ejemplo del uso temprano de la soldadura."
+  },
+  {
+    "id": "intro-q06",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-030",
+    "sourcePage": 30,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Quién descubrió el arco eléctrico en 1800?",
+    "options": [
+      "Sir Humphry Davy",
+      "Nikolai Slavyanov",
+      "C. L. Coffin",
+      "Larry Jeffus"
+    ],
+    "correctAnswer": "Sir Humphry Davy",
+    "explanation": "En 1800 Sir Humphry Davy descubrió el arco eléctrico; Slavyanov y Coffin inventaron después los electrodos de metal, a finales de los años 1800."
+  },
+  {
+    "id": "intro-q07",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-030",
+    "sourcePage": 30,
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada época con el avance de la soldadura que le corresponde.",
+    "pairs": [
+      {
+        "left": "Edad de bronce y edad de hierro",
+        "right": "Primeros ejemplos de unión de metales"
+      },
+      {
+        "left": "Edad Media",
+        "right": "Avances en la soldadura de fragua"
+      },
+      {
+        "left": "1800",
+        "right": "Descubrimiento del arco eléctrico"
+      },
+      {
+        "left": "Finales de los años 1800",
+        "right": "Invención de los electrodos de metal"
+      }
+    ],
+    "explanation": "La historia avanza desde las primeras uniones en la edad de bronce y de hierro, sigue con la soldadura de fragua medieval y el arco eléctrico de Davy (1800), y llega a los electrodos de Slavyanov y Coffin a finales de los años 1800."
+  },
+  {
+    "id": "intro-q08",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-027",
+    "sourcePage": 27,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-presentacion-introduccion-012",
+    "question": "Observa la secuencia: metal base, molde de arena, metal fundido y pieza final. ¿Qué método primitivo de unión representa?",
+    "options": [
+      "Fundición directa",
+      "Soldadura por flujo",
+      "Soldadura de fragua",
+      "Soldadura por resistencia"
+    ],
+    "correctAnswer": "Fundición directa",
+    "explanation": "La lámina «Primeros métodos de soldadura» muestra la fundición directa: se forma un molde de arena sobre el metal base y se vierte metal fundido hasta obtener la pieza final."
+  },
+  {
+    "id": "intro-q09",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-028",
+    "sourcePage": 28,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-presentacion-introduccion-013",
+    "question": "En la soldadura por flujo que muestra la imagen, ¿qué función cumplen las barreras de arena?",
+    "options": [
+      "Contener el metal fundido que se vierte en la junta entre las dos placas",
+      "Enfriar el arco eléctrico",
+      "Proteger al soldador de las chispas",
+      "Servir como material de aporte"
+    ],
+    "correctAnswer": "Contener el metal fundido que se vierte en la junta entre las dos placas",
+    "explanation": "En la soldadura por flujo las dos placas de metal base se separan, se colocan barreras de arena y se vierte metal fundido en la junta, que al solidificar forma la soldadura."
+  },
+  {
+    "id": "intro-q10",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-029",
+    "sourcePage": 29,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cómo lograban la unión los herreros con la soldadura de fragua de la Edad Media?",
+    "options": [
+      "Calentando y golpeando repetidamente el metal hasta que ocurría la unión",
+      "Vertiendo metal fundido en un molde de arena",
+      "Con un arco eléctrico alimentado por baterías",
+      "Con una llama de oxígeno y acetileno"
+    ],
+    "correctAnswer": "Calentando y golpeando repetidamente el metal hasta que ocurría la unión",
+    "explanation": "En la soldadura de fragua los herreros golpeaban y calentaban el metal una y otra vez hasta que se producía la unión."
+  },
+  {
+    "id": "intro-q11",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-013",
+    "sourcePage": 13,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Según el contenido del curso, ¿en qué grupos se clasifican los defectos en soldadura?",
+    "options": [
+      "Defectos dimensionales, discontinuidades estructurales y propiedades defectuosas",
+      "Defectos de pintura, de embalaje y de transporte",
+      "Defectos eléctricos, mecánicos y químicos",
+      "Defectos del soldador, de la careta y del electrodo"
+    ],
+    "correctAnswer": "Defectos dimensionales, discontinuidades estructurales y propiedades defectuosas",
+    "explanation": "La unidad «Defectos en soldadura» del curso se divide en defectos dimensionales, discontinuidades estructurales y propiedades defectuosas."
+  },
+  {
+    "id": "intro-q12",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-009",
+    "sourcePage": 9,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Cuál de estos procesos NO aparece en la lista de procesos de soldadura del curso?",
+    "options": [
+      "Soldadura por llama",
+      "Soldadura por arco sumergido",
+      "Soldadura por resistencia eléctrica",
+      "Soldadura por fricción-agitación"
+    ],
+    "correctAnswer": "Soldadura por fricción-agitación",
+    "explanation": "El curso incluye soldadura por llama, por arco con electrodo revestido, por arco con gas de protección, por arco sumergido y por resistencia eléctrica. La fricción-agitación no está en la lista."
+  },
+  {
+    "id": "intro-q13",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-011",
+    "sourcePage": 11,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Cuál de estos temas se estudia dentro de la unidad de Soldabilidad?",
+    "options": [
+      "Carbono equivalente",
+      "Posiciones de soldadura",
+      "Símbolos de ensayos no destructivos",
+      "Tipos de uniones"
+    ],
+    "correctAnswer": "Carbono equivalente",
+    "explanation": "Soldabilidad incluye aspectos importantes de la soldabilidad, pruebas de soldabilidad, carbono equivalente y temperaturas de precalentamiento. Las posiciones y los tipos de unión son de Terminología, y los símbolos de ensayos son de Simbología."
+  },
+  {
+    "id": "intro-q14",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-015",
+    "sourcePage": 15,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "En la evaluación del curso, ¿qué porcentaje corresponde al laboratorio?",
+    "options": [
+      "20%",
+      "10%",
+      "24%",
+      "6%"
+    ],
+    "correctAnswer": "20%",
+    "explanation": "La evaluación asigna 20% al laboratorio, 10% a trabajos, quices y lecturas, 24% al previo 3 y 6% al refuerzo de inglés."
+  },
+  {
+    "id": "intro-q15",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-017",
+    "sourcePage": 17,
+    "type": "image",
+    "difficulty": "easy",
+    "imageId": "img-presentacion-introduccion-006",
+    "question": "Este logotipo aparece en la bibliografía del curso. ¿Qué organización representa?",
+    "options": [
+      "American Welding Society (AWS)",
+      "ASM International",
+      "American Petroleum Institute (API)",
+      "American Society of Mechanical Engineers (ASME)"
+    ],
+    "correctAnswer": "American Welding Society (AWS)",
+    "explanation": "El rombo con las siglas AWS corresponde a la American Welding Society, referencia bibliográfica del curso junto al ASM Handbook volumen 6."
+  },
+  {
+    "id": "intro-q16",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-034",
+    "sourcePage": 34,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Según la lámina «Utilización de la soldadura», ¿qué ejemplos de aplicación se muestran?",
+    "options": [
+      "Una montaña rusa, un transbordador espacial y un crucero",
+      "Solo piezas de joyería",
+      "Únicamente tuberías de agua potable",
+      "Muebles de madera y textiles"
+    ],
+    "correctAnswer": "Una montaña rusa, un transbordador espacial y un crucero",
+    "explanation": "La lámina ilustra la utilización de la soldadura con una montaña rusa, un transbordador espacial de la NASA y un crucero: estructuras muy distintas que dependen de uniones soldadas."
+  },
+  {
+    "id": "intro-x01",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-024",
+    "sourcePage": 24,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "Según la definición de la AWS, ¿cuál de estas afirmaciones es correcta?",
+    "options": [
+      "Puede haber soldadura aplicando solo presión, sin calentamiento",
+      "El calentamiento a temperatura de soldadura es siempre obligatorio",
+      "Siempre se requiere material de aportación",
+      "Solo se considera soldadura la unión de metales"
+    ],
+    "correctAnswer": "Puede haber soldadura aplicando solo presión, sin calentamiento",
+    "explanation": "Trampa: casi todos asocian soldar con calor. La definición dice «…mediante el calentamiento… con o sin aplicación de presión o mediante la aplicación de presión sola», así que la presión sola también produce soldadura."
+  },
+  {
+    "id": "intro-x02",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-030",
+    "sourcePage": 30,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Quiénes inventaron los electrodos de metal a finales de los años 1800?",
+    "options": [
+      "Nikolai Slavyanov y C. L. Coffin",
+      "Sir Humphry Davy",
+      "Lincoln Electric",
+      "La American Welding Society"
+    ],
+    "correctAnswer": "Nikolai Slavyanov y C. L. Coffin",
+    "explanation": "Trampa: Davy aparece en la misma lámina, pero él descubrió el arco eléctrico en 1800. Los electrodos de metal los inventaron el ruso Slavyanov y el norteamericano Coffin."
+  },
+  {
+    "id": "intro-x03",
+    "topicId": "presentacion-introduccion",
+    "sectionId": "sec-presentacion-introduccion-026",
+    "sourcePage": 26,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Cuándo se erigió aproximadamente el Pilar de hierro de Delhi y cuánto pesa?",
+    "options": [
+      "Cerca del año 310 y pesa 5,4 toneladas",
+      "En 1800 y pesa 5,4 toneladas",
+      "Cerca del año 310 a. C. y pesa 54 toneladas",
+      "En 1912 y pesa 3,1 toneladas"
+    ],
+    "correctAnswer": "Cerca del año 310 y pesa 5,4 toneladas",
+    "explanation": "Los distractores mezclan fechas de otras láminas (1800: arco eléctrico; 1912: patente de electrodos recubiertos). El texto dice: «erigido cerca del año 310 y pesando 5.4 toneladas»."
+  }
+]

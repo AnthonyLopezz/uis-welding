@@ -1,0 +1,387 @@
+[
+  {
+    "id": "simb-q01",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-002",
+    "sourcePage": 2,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿A qué símbolos debe ajustarse la simbología de soldadura en los planos?",
+    "options": [
+      "A los de la American Welding Society (AWS)",
+      "A los que elija cada dibujante",
+      "A los del fabricante de la máquina",
+      "A los de la norma eléctrica del país"
+    ],
+    "correctAnswer": "A los de la American Welding Society (AWS)",
+    "explanation": "La unidad indica que la simbología de los planos debe ajustarse a los símbolos de la American Welding Society (AWS)."
+  },
+  {
+    "id": "simb-q02",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-003",
+    "sourcePage": 3,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué organizaciones estandarizaron los símbolos para describir uniones soldadas en los dibujos técnicos (ANSI/AWS A2.4)?",
+    "options": [
+      "AWS y ANSI",
+      "API y ASME",
+      "ISO y UNE",
+      "ASM y NASA"
+    ],
+    "correctAnswer": "AWS y ANSI",
+    "explanation": "La AWS y la ANSI estandarizaron los símbolos con la norma A2.4; el símbolo de soldadura describe por completo las especificaciones de la soldadura."
+  },
+  {
+    "id": "simb-q03",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-007",
+    "sourcePage": 7,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Si la soldadura está del mismo lado que señala la flecha, ¿dónde se coloca el símbolo?",
+    "options": [
+      "Centrado, debajo de la línea de referencia",
+      "Centrado, encima de la línea de referencia",
+      "En la cola del símbolo",
+      "Encima y debajo de la línea"
+    ],
+    "correctAnswer": "Centrado, debajo de la línea de referencia",
+    "explanation": "Lado de la flecha → símbolo debajo de la línea. Lado opuesto → encima. Ambos lados → encima y debajo."
+  },
+  {
+    "id": "simb-q04",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-007",
+    "sourcePage": 7,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "En un plano, el triángulo de filete está ENCIMA de la línea de referencia. ¿Dónde debe hacerse la soldadura?",
+    "options": [
+      "En el lado opuesto al que señala la flecha",
+      "En el mismo lado que señala la flecha",
+      "A ambos lados de la unión",
+      "Alrededor de toda la pieza"
+    ],
+    "correctAnswer": "En el lado opuesto al que señala la flecha",
+    "explanation": "Un símbolo colocado encima de la línea de referencia indica que la soldadura se hace del lado opuesto a la flecha."
+  },
+  {
+    "id": "simb-q05",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-007",
+    "sourcePage": 7,
+    "type": "true-false",
+    "difficulty": "easy",
+    "question": "Si la soldadura va a ambos lados de la unión, el símbolo se dibuja encima y debajo de la línea de referencia.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Verdadero",
+    "explanation": "Para soldaduras a ambos lados, el símbolo queda centrado encima y debajo de la línea de referencia."
+  },
+  {
+    "id": "simb-q06",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué indica un círculo en la intersección de la flecha con la línea de referencia?",
+    "options": [
+      "Soldadura todo alrededor",
+      "Soldadura de campo",
+      "Penetración del 100%",
+      "Contorno convexo"
+    ],
+    "correctAnswer": "Soldadura todo alrededor",
+    "explanation": "El círculo en la intersección de la línea guía y la de referencia significa que la soldadura va alrededor de toda la unión."
+  },
+  {
+    "id": "simb-q07",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Una soldadura se hará en el lugar definitivo de la estructura (en obra), no en el taller. ¿Qué símbolo se usa?",
+    "options": [
+      "Una bandera rellena en la intersección de las líneas",
+      "Un círculo en la intersección",
+      "Un semicírculo negro",
+      "Un rectángulo sobre la línea"
+    ],
+    "correctAnswer": "Una bandera rellena en la intersección de las líneas",
+    "explanation": "La soldadura de campo, hecha en el lugar definitivo de la pieza, máquina o estructura, se indica con una bandera rellena en la intersección de la línea guía y la de referencia."
+  },
+  {
+    "id": "simb-q08",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-009",
+    "sourcePage": 9,
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada letra de acabado con su significado.",
+    "pairs": [
+      {
+        "left": "G",
+        "right": "Esmerilado"
+      },
+      {
+        "left": "M",
+        "right": "Maquinado"
+      },
+      {
+        "left": "K",
+        "right": "Laminado"
+      },
+      {
+        "left": "H",
+        "right": "Martillado"
+      }
+    ],
+    "explanation": "Los símbolos de contorno pueden llevar una letra que indica el acabado: G esmerilado, M maquinado, K laminado y H martillado."
+  },
+  {
+    "id": "simb-q09",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-009",
+    "sourcePage": 9,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿Qué significa que la línea guía (flecha) se dibuje curvada o con un quiebre?",
+    "options": [
+      "Que la unión se prepara antes de soldar, por ejemplo maquinada o biselada",
+      "Que la soldadura es de campo",
+      "Que la soldadura debe esmerilarse",
+      "Que hay varias operaciones en secuencia"
+    ],
+    "correctAnswer": "Que la unión se prepara antes de soldar, por ejemplo maquinada o biselada",
+    "explanation": "Si la unión se va a preparar (maquinar o biselar) antes de soldar, la línea guía se dibuja curvada o con un quiebre adicional hacia la pieza que lleva esa preparación."
+  },
+  {
+    "id": "simb-q10",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-010",
+    "sourcePage": 10,
+    "imageId": "img-simbologia-011",
+    "type": "image",
+    "difficulty": "medium",
+    "question": "Un símbolo tiene tres líneas de referencia. ¿Qué indican y cuál es la primera operación?",
+    "options": [
+      "Una secuencia de operaciones; la primera es la línea más cercana a la flecha",
+      "Una secuencia de operaciones; la primera es la línea más lejana a la flecha",
+      "Tres soldaduras simultáneas sin orden",
+      "Tres tamaños distintos de una misma soldadura"
+    ],
+    "correctAnswer": "Una secuencia de operaciones; la primera es la línea más cercana a la flecha",
+    "explanation": "Pueden usarse dos o más líneas de referencia para indicar una secuencia de operaciones; la más cercana a la flecha es la primera y la más lejana, la tercera."
+  },
+  {
+    "id": "simb-q11",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-012",
+    "sourcePage": 12,
+    "tableId": "tbl-simbologia-001",
+    "type": "matching",
+    "difficulty": "easy",
+    "question": "Relaciona cada símbolo con su prueba no destructiva.",
+    "pairs": [
+      {
+        "left": "VT",
+        "right": "Visual"
+      },
+      {
+        "left": "MT",
+        "right": "Partículas magnéticas"
+      },
+      {
+        "left": "UT",
+        "right": "Ultrasónica"
+      },
+      {
+        "left": "RT",
+        "right": "Radiografía"
+      }
+    ],
+    "explanation": "La tabla de simbología de pruebas no destructivas asigna VT a la visual, MT a partículas magnéticas, UT a la ultrasónica y RT a la radiografía."
+  },
+  {
+    "id": "simb-q12",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-012",
+    "sourcePage": 12,
+    "tableId": "tbl-simbologia-001",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué símbolo corresponde a la prueba no destructiva por emisión acústica?",
+    "options": [
+      "AET",
+      "ET",
+      "LT",
+      "NRT"
+    ],
+    "correctAnswer": "AET",
+    "explanation": "Emisión acústica es AET. ET corresponde a corrientes inducidas, LT a fugas y NRT a radiografía neutrónica."
+  },
+  {
+    "id": "simb-q13",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-012",
+    "sourcePage": 12,
+    "tableId": "tbl-simbologia-001",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Un inspector debe comprobar que una unión soldada no tenga fugas. ¿Qué símbolo de ensayo debe aparecer en el plano?",
+    "options": [
+      "LT",
+      "RT",
+      "MT",
+      "VT"
+    ],
+    "correctAnswer": "LT",
+    "explanation": "En la tabla de pruebas no destructivas, la prueba de fugas se designa LT."
+  },
+  {
+    "id": "simb-q14",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-027",
+    "sourcePage": 27,
+    "imageId": "img-simbologia-028",
+    "type": "image",
+    "difficulty": "medium",
+    "question": "En el símbolo de ensayo, «MT» aparece arriba y abajo de la línea de referencia. ¿Qué significa?",
+    "options": [
+      "Prueba de partículas magnéticas en ambos lados",
+      "Prueba ultrasónica de un solo lado",
+      "Prueba visual del lado de la flecha",
+      "Prueba de partículas magnéticas solo del otro lado"
+    ],
+    "correctAnswer": "Prueba de partículas magnéticas en ambos lados",
+    "explanation": "La regla de posición es la misma que en los símbolos de soldadura: escrito arriba y abajo de la línea significa prueba de ambos lados. MT es partículas magnéticas."
+  },
+  {
+    "id": "simb-q15",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-005",
+    "sourcePage": 5,
+    "imageId": "img-simbologia-006",
+    "type": "image",
+    "difficulty": "hard",
+    "question": "¿Cuál de estos es un símbolo de CONTORNO según la tabla de símbolos complementarios?",
+    "options": [
+      "Convexo",
+      "Espárrago",
+      "Costura",
+      "Tapón"
+    ],
+    "correctAnswer": "Convexo",
+    "explanation": "Los contornos son raso o plano, convexo y cóncavo. Espárrago, costura y tapón son símbolos básicos de tipo de soldadura."
+  },
+  {
+    "id": "simb-q16",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-015",
+    "sourcePage": 15,
+    "imageId": "img-simbologia-015",
+    "type": "image",
+    "difficulty": "medium",
+    "question": "En el ejemplo, el triángulo de filete aparece a ambos lados de la línea de referencia con la cota 13. ¿Qué indica?",
+    "options": [
+      "Dos filetes iguales de tamaño 13",
+      "Un solo filete de longitud 13",
+      "Dos filetes de tamaños distintos",
+      "Un filete del lado opuesto con separación 13"
+    ],
+    "correctAnswer": "Dos filetes iguales de tamaño 13",
+    "explanation": "El símbolo a ambos lados indica soldadura en los dos lados de la unión, y la cota 13 es el tamaño de los dos filetes, que son iguales."
+  },
+  {
+    "id": "simb-q17",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-006",
+    "sourcePage": 6,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "En la ubicación estándar de los elementos del símbolo, ¿dónde se indica la especificación, el proceso u otra referencia?",
+    "options": [
+      "En la cola",
+      "En la punta de la flecha",
+      "Sobre la bandera de campo",
+      "Dentro del círculo de todo alrededor"
+    ],
+    "correctAnswer": "En la cola",
+    "explanation": "El diagrama de ubicación estándar coloca «especificación, proceso u otra referencia» en la cola, al extremo de la línea de referencia opuesto a la flecha."
+  },
+  {
+    "id": "simb-q18",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Cuándo se usa el semicírculo negro junto al símbolo de soldadura?",
+    "options": [
+      "Cuando hay penetración del 100% de un lado al otro de la unión",
+      "Cuando la soldadura se hace en el campo",
+      "Cuando la soldadura va alrededor de toda la pieza",
+      "Cuando hay que esmerilar la soldadura"
+    ],
+    "correctAnswer": "Cuando hay penetración del 100% de un lado al otro de la unión",
+    "explanation": "La lámina de especificaciones indica que ese símbolo se emplea cuando la soldadura penetra el 100% de la unión, de un lado al otro."
+  },
+  {
+    "id": "simb-x01",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-012",
+    "sourcePage": 12,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "tableId": "tbl-simbologia-001",
+    "question": "¿Qué prueba no destructiva designa el símbolo ET?",
+    "options": [
+      "Corrientes inducidas",
+      "Emisión acústica",
+      "Prueba de fugas",
+      "Ensayo de tensión"
+    ],
+    "correctAnswer": "Corrientes inducidas",
+    "explanation": "Trampa: ET se parece a AET, que es emisión acústica. En la tabla, ET corresponde a corrientes inducidas y LT a fugas."
+  },
+  {
+    "id": "simb-x02",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "El triángulo de filete está DEBAJO de la línea de referencia y hay un círculo en la intersección con la flecha. ¿Qué se pide?",
+    "options": [
+      "Filete del lado de la flecha, todo alrededor de la unión",
+      "Filete del lado opuesto, soldado en campo",
+      "Filete a ambos lados con penetración completa",
+      "Filete del lado de la flecha, solo en un tramo"
+    ],
+    "correctAnswer": "Filete del lado de la flecha, todo alrededor de la unión",
+    "explanation": "Combina dos reglas: símbolo debajo de la línea = lado de la flecha (lámina 7), y círculo en la intersección = soldadura todo alrededor (lámina 8). La bandera rellena sería soldadura de campo."
+  },
+  {
+    "id": "simb-x03",
+    "topicId": "simbologia",
+    "sectionId": "sec-simbologia-009",
+    "sourcePage": 9,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Qué representa un rectángulo colocado sobre la línea de referencia?",
+    "options": [
+      "Material de refuerzo o espaciamiento entre las dos piezas",
+      "Soldadura de campo",
+      "Contorno raso o plano",
+      "Soldadura todo alrededor"
+    ],
+    "correctAnswer": "Material de refuerzo o espaciamiento entre las dos piezas",
+    "explanation": "Trampa: el contorno raso es una línea horizontal, no un rectángulo. El rectángulo indica que se añade una pieza pequeña (separador o respaldo) entre las dos piezas."
+  }
+]

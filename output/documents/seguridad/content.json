@@ -1,0 +1,1072 @@
+{
+  "id": "documento-002",
+  "slug": "seguridad",
+  "title": "Seguridad en soldadura",
+  "description": "Apagar el equipo cuando no esté en uso. Usar guantes para el manejo del equipo. Mantener seco nuestro equipo y zona de trabajo. Mantener secos los guantes",
+  "category": "Soldadura",
+  "subcategory": [
+    "Reglas generales de seguridad",
+    "Riesgos que corremos al soldar"
+  ],
+  "tags": [
+    "arco eléctrico",
+    "seguridad",
+    "acetileno",
+    "argón"
+  ],
+  "language": "es",
+  "author": null,
+  "date": "2025-02-24",
+  "source_file": "Unidad #2 seguridad en soldadura.pdf",
+  "page_count": 14,
+  "featured_image": "images/seguridad-p01-seguridad-en-soldadura-3.webp",
+  "sections": [
+    {
+      "id": "sec-seguridad-001",
+      "title": "Seguridad en soldadura",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-seguridad-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-seguridad-002",
+      "title": "Reglas generales de seguridad",
+      "level": 1,
+      "page": 2,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-seguridad-003",
+      "title": "Equipo de seguridad adecuado",
+      "level": 2,
+      "page": 3,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-seguridad-005",
+          "page": 3
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-006",
+          "page": 3
+        },
+        {
+          "type": "caption",
+          "text": "Imagén tomada de: google images",
+          "page": 3,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-seguridad-002"
+    },
+    {
+      "id": "sec-seguridad-004",
+      "title": "Riesgos que corremos al soldar",
+      "level": 1,
+      "page": 4,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-seguridad-005",
+      "title": "Para evitar recibir descargas eléctricas",
+      "level": 2,
+      "page": 5,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Apagar el equipo cuando no esté en uso",
+            "Usar guantes para el manejo del equipo",
+            "Mantener seco nuestro equipo y zona de trabajo.",
+            "Mantener secos los guantes"
+          ],
+          "page": 5,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-007",
+          "page": 5
+        },
+        {
+          "type": "caption",
+          "text": "Imagén tomada de: google images",
+          "page": 5,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-006",
+      "title": "Protección del arco eléctrico",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Se produce al ver el arco eléctrico sin la protección adecuada.",
+            "Los deslumbramientos ocasionales no producen ceguera pero deben evitarse"
+          ],
+          "page": 6,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-008",
+          "page": 6
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-009",
+          "page": 6
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-007",
+      "title": "Protección del arco eléctrico",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Quemaduras en la piel por luz infrarroja y luz ultravioleta.",
+          "page": 7,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-010",
+          "page": 7
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-008",
+      "title": "Para evitar incendios",
+      "level": 2,
+      "page": 8,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Los incendios pueden ocurrir en donde se efectúen trabajos de soldadura o de corte si se permite que cualquier material combustible haga contacto con el arco , la flama, chispas o escoria caliente.",
+            "Antes de empezar a trabajar, retire todo material combustible del lugar.",
+            "Si no puede retirar dichos materiales instale barreras contra fuego (mantas, laminas).",
+            "Conocer en donde esta ubicados los extintores"
+          ],
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-009",
+      "title": "Para evitar incendios",
+      "level": 2,
+      "page": 9,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "No debe soldarse en lugares expuestos a polvos, gases provenientes de operaciones de pintura.",
+            "Asegúrese de eliminar residuo inflamable.",
+            "Compruebe que todas las piezas huecas tengan buena ventilación antes de soldarlos para eviatr la acumulacion de gases"
+          ],
+          "page": 9,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-011",
+          "page": 9
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-010",
+      "title": "Protección respiratoria",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Ventilación apropiada",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-012",
+          "page": 10
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Al efectuar trabajos de soldadura se produce humo, polvo y vapores, por lo que todas estas operaciones deben efectuarse en lugares bien ventilados.",
+            "Se recomienda el uso de equipos de aspersión de humos y colectores de polvo en áreas de trabajos de soldadura, remoción de escoria, etc."
+          ],
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-013",
+          "page": 10
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-011",
+      "title": "Manipulación y almacenamiento de cilindros de gas",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-seguridad-014",
+          "page": 11
+        },
+        {
+          "type": "table",
+          "table_id": "tbl-seguridad-001",
+          "page": 11
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-012",
+      "title": null,
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-seguridad-015",
+          "page": 12
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-016",
+          "page": 12
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications, Larry Jeffus",
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-013",
+      "title": "Soldaduras de estanques",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Soldar recipientes que hayan contenido materiales inflamables o combustibles es una operación de soldadura extremadamente peligrosa.",
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Recomendaciones:",
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Preparar el estanque para su lavado: No deben emplearse hidrocarburos clorados (tales como tricloroetileno y tetracloruro de carbono), debido a que se descomponen por calor o radiación de la soldadura, para formar fosfógeno, gas altamente venenoso."
+          ],
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    },
+    {
+      "id": "sec-seguridad-014",
+      "title": "Soldaduras de estanques",
+      "level": 2,
+      "page": 14,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Métodos de lavado: agua, solución química caliente y vapor.",
+            "Preparar el estanque para la operación de soldadura:"
+          ],
+          "page": 14,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-seguridad-017",
+          "page": 14
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de: Manual de soldadura ESAB",
+          "page": 14,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-seguridad-004"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-seguridad-001",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        35.2,
+        224.3,
+        203.2,
+        393.0
+      ],
+      "file": "images/seguridad-p01-seguridad-en-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 224,
+      "height": 225,
+      "type": "ilustracion",
+      "description": "Ilustración de una figura con casco amarillo y un letrero amarillo que dice Safety first!",
+      "visible_text": "Safety first!",
+      "caption": "Seguridad en soldadura",
+      "section_id": "sec-seguridad-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Figura con casco amarillo que sostiene un letrero que dice Safety first!",
+      "duplicate_of_xref": false,
+      "sha256_16": "f9889fbf924d98f5",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-002",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 1,
+      "position": "centro-centro",
+      "bbox": [
+        270.6,
+        270.2,
+        449.4,
+        438.9
+      ],
+      "file": "images/seguridad-p01-seguridad-en-soldadura-2.webp",
+      "original_format": "jpeg",
+      "width": 212,
+      "height": 200,
+      "type": "ilustracion",
+      "description": "Dibujo de tres elementos de protección personal: gafas transparentes, casco azul y un guante blanco.",
+      "visible_text": null,
+      "caption": "Seguridad en soldadura",
+      "section_id": "sec-seguridad-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": false,
+      "alt": "Ilustración de gafas de seguridad, casco azul y guante de trabajo",
+      "duplicate_of_xref": false,
+      "sha256_16": "bf68c5a41aeb1d00",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-003",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        494.6,
+        333.6,
+        673.5,
+        490.1
+      ],
+      "file": "images/seguridad-p01-seguridad-en-soldadura-3.webp",
+      "original_format": "png",
+      "width": 600,
+      "height": 525,
+      "type": "icono",
+      "description": "Triángulo amarillo con borde negro y un signo de exclamación en el centro.",
+      "visible_text": "!",
+      "caption": "Seguridad en soldadura",
+      "section_id": "sec-seguridad-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Señal triangular amarilla de advertencia con un signo de exclamación",
+      "duplicate_of_xref": false,
+      "sha256_16": "f01ab81b31b657e2",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-004",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/seguridad-p01-seguridad-en-soldadura-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde de la Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander UIS",
+      "caption": "Seguridad en soldadura",
+      "section_id": "sec-seguridad-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-005",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 3,
+      "position": "centro-centro",
+      "bbox": [
+        40.3,
+        174.5,
+        665.0,
+        492.8
+      ],
+      "file": "images/seguridad-p03-equipo-de-seguridad-adecuado.webp",
+      "original_format": "jpeg",
+      "width": 861,
+      "height": 380,
+      "type": "fotografia",
+      "description": "Collage con careta de soldar Lincoln Electric, camisa roja, pantalón y delantal de carnaza, guantes, orejeras, tapones y una bota.",
+      "visible_text": "LINCOLN ELECTRIC",
+      "caption": "Imagén tomada de: google images",
+      "section_id": "sec-seguridad-003",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": false,
+      "alt": "Equipo de protección para soldar: careta, ropa de carnaza, guantes, botas y protección auditiva",
+      "duplicate_of_xref": false,
+      "sha256_16": "b27d7b85042f0591",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-006",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 3,
+      "position": "inferior-derecha",
+      "bbox": [
+        436.5,
+        409.8,
+        545.2,
+        517.5
+      ],
+      "file": "images/seguridad-p03-equipo-de-seguridad-adecuado-2.webp",
+      "original_format": "jpeg",
+      "width": 216,
+      "height": 214,
+      "type": "ilustracion",
+      "description": "Ilustración de una bota roja con la puntera señalada con la palabra ACERO.",
+      "visible_text": "ACERO",
+      "caption": "Imagén tomada de: google images",
+      "section_id": "sec-seguridad-003",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Bota de seguridad roja con puntera marcada como acero",
+      "duplicate_of_xref": false,
+      "sha256_16": "45b78be0237f471b",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-007",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 5,
+      "position": "inferior-derecha",
+      "bbox": [
+        503.5,
+        351.7,
+        675.3,
+        520.2
+      ],
+      "file": "images/seguridad-p05-para-evitar-recibir-descargas-electricas.webp",
+      "original_format": "png",
+      "width": 210,
+      "height": 206,
+      "type": "icono",
+      "description": "Cuadro amarillo con la silueta negra de una persona alcanzada por una descarga eléctrica.",
+      "visible_text": null,
+      "caption": "Imagén tomada de: google images",
+      "section_id": "sec-seguridad-005",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Señal de peligro eléctrico con una persona que recibe una descarga junto a un equipo",
+      "duplicate_of_xref": false,
+      "sha256_16": "ab2a13de6ef27003",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-008",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 6,
+      "position": "inferior-derecha",
+      "bbox": [
+        484.9,
+        344.5,
+        661.4,
+        513.4
+      ],
+      "file": "images/seguridad-p06-proteccion-del-arco-electrico.webp",
+      "original_format": "png",
+      "width": 210,
+      "height": 201,
+      "type": "icono",
+      "description": "Cuadro amarillo con la silueta de una persona usando careta frente a un arco.",
+      "visible_text": null,
+      "caption": "Protección del arco eléctrico",
+      "section_id": "sec-seguridad-006",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Señal de una careta protegiendo el rostro frente al arco de soldadura",
+      "duplicate_of_xref": false,
+      "sha256_16": "83a4f720ed085a2e",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-009",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 6,
+      "position": "inferior-izquierda",
+      "bbox": [
+        94.5,
+        368.4,
+        385.1,
+        502.5
+      ],
+      "file": "images/seguridad-p06-proteccion-del-arco-electrico-2.webp",
+      "original_format": "jpeg",
+      "width": 323,
+      "height": 149,
+      "type": "diagrama",
+      "description": "Corte del ojo con rayos marcados como luz ultravioleta y blanco, y la zona de quemadura en la retina.",
+      "visible_text": "LUZ ULTRAVIOLETA (UV); BLANCO; RETINA; QUEMADURAS; OJO",
+      "caption": "Protección del arco eléctrico",
+      "section_id": "sec-seguridad-006",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Diagrama del ojo en el que la luz ultravioleta llega a la retina y produce quemadura",
+      "duplicate_of_xref": false,
+      "sha256_16": "88b18fd77e2cd5ba",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-010",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 7,
+      "position": "centro-centro",
+      "bbox": [
+        183.1,
+        223.5,
+        527.1,
+        486.8
+      ],
+      "file": "images/seguridad-p07-proteccion-del-arco-electrico.webp",
+      "original_format": "jpeg",
+      "width": 345,
+      "height": 264,
+      "type": "diagrama",
+      "description": "Esquema de las capas de la piel que señala corte, ampolla, plasma, epidermis, dermis y capa subcutánea.",
+      "visible_text": "CORTE; AMPOLLA; PLASMA; EPIDERMIS; DERMIS; CAPA SUBCUTÁNEA",
+      "caption": "Protección del arco eléctrico",
+      "section_id": "sec-seguridad-007",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Corte de la piel con epidermis, dermis, capa subcutánea y una ampolla",
+      "duplicate_of_xref": false,
+      "sha256_16": "b935d07b1cb3ef12",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-011",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 9,
+      "position": "inferior-derecha",
+      "bbox": [
+        522.8,
+        373.5,
+        684.0,
+        517.2
+      ],
+      "file": "images/seguridad-p09-para-evitar-incendios.webp",
+      "original_format": "png",
+      "width": 193,
+      "height": 172,
+      "type": "icono",
+      "description": "Cuadro amarillo con chispas saliendo de una pieza metálica.",
+      "visible_text": null,
+      "caption": "Para evitar incendios",
+      "section_id": "sec-seguridad-009",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Señal amarilla de chispas y riesgo de incendio junto a una pieza",
+      "duplicate_of_xref": false,
+      "sha256_16": "c1339b21500228f9",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-012",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 10,
+      "position": "centro-derecha",
+      "bbox": [
+        447.4,
+        145.7,
+        702.8,
+        371.9
+      ],
+      "file": "images/seguridad-p10-proteccion-respiratoria.webp",
+      "original_format": "jpeg",
+      "width": 412,
+      "height": 365,
+      "type": "fotografia",
+      "description": "Fotografía de un soldador con careta naranja, chaqueta y guantes, con un brazo extractor rojo aspirando el humo.",
+      "visible_text": null,
+      "caption": "Protección respiratoria",
+      "section_id": "sec-seguridad-010",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": false,
+      "alt": "Soldador con careta naranja trabajando en una mesa junto a un extractor de humos",
+      "duplicate_of_xref": false,
+      "sha256_16": "b627eec544e493c3",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-013",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 10,
+      "position": "inferior-derecha",
+      "bbox": [
+        502.4,
+        387.9,
+        647.9,
+        530.4
+      ],
+      "file": "images/seguridad-p10-proteccion-respiratoria-2.webp",
+      "original_format": "png",
+      "width": 194,
+      "height": 190,
+      "type": "icono",
+      "description": "Cuadro amarillo con la silueta de un soldador agachado y chispas frente a la pieza.",
+      "visible_text": null,
+      "caption": "Protección respiratoria",
+      "section_id": "sec-seguridad-010",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Señal de un soldador con careta y chispas, asociada a la extracción de humos",
+      "duplicate_of_xref": false,
+      "sha256_16": "809ad5927daeb53e",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-014",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 11,
+      "position": "centro-derecha",
+      "bbox": [
+        443.6,
+        161.1,
+        700.7,
+        466.5
+      ],
+      "file": "images/seguridad-p11-manipulacion-y-almacenamiento-de-cilindros-de-gas.webp",
+      "original_format": "jpeg",
+      "width": 500,
+      "height": 594,
+      "type": "fotografia",
+      "description": "Fotografía de cilindros altos y bajos en verde, plateado, negro, rojo, azul y amarillo.",
+      "visible_text": null,
+      "caption": "Manipulación y almacenamiento de cilindros de gas",
+      "section_id": "sec-seguridad-011",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cilindros de gas de varios colores y tamaños agrupados de pie",
+      "duplicate_of_xref": false,
+      "sha256_16": "ee19a9b494ea4270",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-seguridad-015",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 12,
+      "position": "centro-centro",
+      "bbox": [
+        25.6,
+        49.1,
+        558.9,
+        347.9
+      ],
+      "file": "images/seguridad-p12-lamina-pagina-12.webp",
+      "original_format": "jpeg",
+      "width": 723,
+      "height": 405,
+      "type": "diagrama",
+      "description": "Esquema que separa 6,1 m los cilindros de un armario marcado pintura inflamable, y 1,5 m el gas combustible del oxígeno. Indica velocidad de quemado de 1/2 hora.",
+      "visible_text": "PINTURA INFLAMABLE; 6,1 M (20') MÍNIMO; VELOCIDAD DE QUEMADO DE 1/2 HORA; GAS COMBUSTIBLE; OXÍGENO; 1,5 m (5') MÍNIMO",
+      "caption": "Imagen tomada de Welding: principles and applications, Larry Jeffus",
+      "section_id": "sec-seguridad-012",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Diagrama de distancias entre cilindros encadenados y un armario de pintura inflamable",
+      "duplicate_of_xref": false,
+      "sha256_16": "c3fef76e8614ee53",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-016",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 12,
+      "position": "inferior-derecha",
+      "bbox": [
+        402.0,
+        271.0,
+        676.5,
+        521.5
+      ],
+      "file": "images/seguridad-p12-lamina-pagina-12-2.webp",
+      "original_format": "jpeg",
+      "width": 366,
+      "height": 334,
+      "type": "diagrama",
+      "description": "Habitación con cilindros encadenados, letrero de acetileno gas inflamable, rejillas y flechas rojas de circulación de aire.",
+      "visible_text": "ACETILENO GAS INFLAMABLE NO FUMAR NO ENCIENDA LLAMAS; AIRE",
+      "caption": "Imagen tomada de Welding: principles and applications, Larry Jeffus",
+      "section_id": "sec-seguridad-012",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Corte de un cuarto para acetileno con aviso de gas inflamable y ventilación de aire",
+      "duplicate_of_xref": false,
+      "sha256_16": "75727ab56e34901f",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-seguridad-017",
+      "source_file": "Unidad #2 seguridad en soldadura.pdf",
+      "page": 14,
+      "position": "inferior-centro",
+      "bbox": [
+        72.9,
+        251.9,
+        593.2,
+        532.2
+      ],
+      "file": "images/seguridad-p14-soldaduras-de-estanques.webp",
+      "original_format": "jpeg",
+      "width": 635,
+      "height": 342,
+      "type": "diagrama",
+      "description": "Dos dibujos: venteo con agua sobre el estanque, y venteo con gas usando cilindros de CO2 y N2, zona de soldadura, nivel de agua y drenaje cerrado.",
+      "visible_text": "Venteo con agua; Venteo; Agua; Venteo con gas; Venteo abierto; CO2; N2; Zona de soldadura; Nivel de agua; Drenaje cerrado",
+      "caption": "Imagen tomada de: Manual de soldadura ESAB",
+      "section_id": "sec-seguridad-014",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Esquemas de soldar un estanque con venteo de agua y con venteo de gas",
+      "duplicate_of_xref": false,
+      "sha256_16": "48445ed85f8a228a",
+      "source": "visual",
+      "confidence": "high"
+    }
+  ],
+  "tables": [
+    {
+      "id": "tbl-seguridad-001",
+      "page": 11,
+      "section_id": "sec-seguridad-011",
+      "caption": "Clasificación de los gases en la lámina de cilindros",
+      "headers": [
+        "Grupo",
+        "Gases"
+      ],
+      "rows": [
+        [
+          "Combustibles",
+          "Acetileno. Propano. Gas natural."
+        ],
+        [
+          "Gases inertes",
+          "Nitrógeno. Argón. Helio."
+        ],
+        [
+          "Comburentes",
+          "Oxígeno."
+        ],
+        [
+          "Gases activos",
+          "CO2"
+        ]
+      ],
+      "notes": "En la lámina los cuatro grupos van en dos columnas. El texto es el de la diapositiva; la disposición se confirmó visualmente.",
+      "source": "visual",
+      "confidence": "high"
+    }
+  ],
+  "links": [],
+  "contacts": [],
+  "seo": {
+    "title": "Seguridad en soldadura",
+    "meta_description": "Apagar el equipo cuando no esté en uso. Usar guantes para el manejo del equipo. Mantener seco nuestro equipo y zona de trabajo. Mantener secos los guantes",
+    "slug": "seguridad",
+    "keywords": [
+      "arco eléctrico",
+      "seguridad",
+      "acetileno",
+      "argón"
+    ],
+    "og_title": "Seguridad en soldadura",
+    "og_description": "Apagar el equipo cuando no esté en uso. Usar guantes para el manejo del equipo. Mantener seco nuestro equipo y zona de trabajo. Mantener secos los guantes",
+    "og_image": "images/seguridad-p01-seguridad-en-soldadura-3.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 2",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Reglas generales de seguridad",
+        "inferred": false
+      },
+      {
+        "name": "Riesgos que corremos al soldar",
+        "inferred": false
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date_detail": {
+      "value": "2025-02-24",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}

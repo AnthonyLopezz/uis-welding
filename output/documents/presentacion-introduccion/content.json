@@ -1,0 +1,1620 @@
+{
+  "id": "documento-001",
+  "slug": "presentacion-introduccion",
+  "title": "Presentación e Introducción del curso",
+  "description": "Contribuir al conocimiento y comprensión de los diversos procesos de unión. Estudiar los procedimientos adecuados de los diversos procesos de soldadura para la unión de los metales",
+  "category": "Soldadura",
+  "subcategory": [
+    "Objetivos generales",
+    "Contenido",
+    "Evaluación",
+    "Bibliografía",
+    "Una cosa más",
+    "Para tener en cuenta",
+    "Definición",
+    "Historia",
+    "Utilización de la soldadura"
+  ],
+  "tags": [
+    "electrodo",
+    "arco eléctrico",
+    "gas de protección",
+    "simbología",
+    "terminología",
+    "AWS"
+  ],
+  "language": "es",
+  "author": "Carlos Rondon",
+  "date": "2025-02-24",
+  "source_file": "Unidad # 1 presentación e Introducción.pdf",
+  "page_count": 34,
+  "featured_image": "images/presentacion-introduccion-p01-presentacion-e-introduccion-del-curso-3.webp",
+  "sections": [
+    {
+      "id": "sec-presentacion-introduccion-001",
+      "title": "Presentación e Introducción del curso",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-002",
+      "title": "Introducciones: Es ahora su turno",
+      "level": 2,
+      "page": 2,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Nombre.",
+            "Nacionalidad (ciudad/Departamento).",
+            "Hobbies.",
+            "Intereses personales."
+          ],
+          "page": 2,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-001"
+    },
+    {
+      "id": "sec-presentacion-introduccion-003",
+      "title": "Objetivos generales",
+      "level": 1,
+      "page": 3,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-004",
+      "title": "Objetivos generales",
+      "level": 2,
+      "page": 4,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Contribuir al conocimiento y comprensión de los diversos procesos de unión.",
+            "Estudiar los procedimientos adecuados de los diversos procesos de soldadura para la unión de los metales."
+          ],
+          "page": 4,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-003",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-presentacion-introduccion-005",
+      "title": "Contenido",
+      "level": 1,
+      "page": 5,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-006",
+      "title": "Contenido",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Terminología",
+            "Simbología en soldadura",
+            "Procesos de soldadura",
+            "Electrodos para soldadura",
+            "Soldabilidad",
+            "Metalurgia de la soldadura",
+            "Defectos en la soldadura"
+          ],
+          "page": 6,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-presentacion-introduccion-007",
+      "title": "Terminología...",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Tipos de Soldaduras",
+            "Tipos de Uniones",
+            "Posiciones de Soldadura"
+          ],
+          "page": 7,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-008",
+      "title": "Simbología en soldadura...",
+      "level": 2,
+      "page": 8,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Símbolos de las Soldaduras.",
+            "Símbolos de Ensayos No Destructivos para el Control de las Soldaduras."
+          ],
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-009",
+      "title": "Procesos de soldadura",
+      "level": 2,
+      "page": 9,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Soldadura por Llama",
+            "Soldadura por Arco Eléctrico con Electrodo Revestido",
+            "Soldadura por Arco Eléctrico con Gas de Protección",
+            "Soldadura Por Arco Sumergido",
+            "Soldadura por Resistencia Eléctrica"
+          ],
+          "page": 9,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-010",
+      "title": "Electrodos para soldadura...",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Electrodos Recubiertos",
+            "Electrodos Continuos",
+            "Electrodos No Consumibles",
+            "Características de Aprobación de los Electrodos"
+          ],
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-011",
+      "title": "Soldabilidad...",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Aspectos importantes de la Soldabilidad",
+            "Pruebas de Soldabilidad",
+            "Carbono Equivalente",
+            "Temperaturas de Precalentamiento"
+          ],
+          "page": 11,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-012",
+      "title": "Metalurgia de la soldadura...",
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "El Metal de Soldadura",
+            "Efectos Metalúrgicos de los Elementos de Aleación",
+            "La Zona Afectada Térmicamente del Metal de Base",
+            "Efecto de la Variables de Soldadura Sobre la Velocidad de Enfriamiento",
+            "Tratamiento Térmico Postsoldadura",
+            "Cambios de volumen Durante la Soldadura"
+          ],
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-013",
+      "title": "Defectos en soldadura...",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Defectos Dimensionales",
+            "Discontinuidades Estructurales",
+            "Propiedades Defectuosas"
+          ],
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-005"
+    },
+    {
+      "id": "sec-presentacion-introduccion-014",
+      "title": "Evaluación",
+      "level": 1,
+      "page": 14,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-015",
+      "title": "Evaluación",
+      "level": 2,
+      "page": 15,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "20% Previo 1: Temas 1,2,3",
+            "20% Previo 2: Temas 4,5",
+            "24% Previo 3: Temas 6, 7, 8",
+            "20% laboratorio",
+            "10% Trabajo, quices y lecturas",
+            "6% Refuerzo Ingles"
+          ],
+          "page": 15,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-014",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-presentacion-introduccion-016",
+      "title": "Bibliografía",
+      "level": 1,
+      "page": 16,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-017",
+      "title": "Bibliografía",
+      "level": 2,
+      "page": 17,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-005",
+          "page": 17
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-006",
+          "page": 17
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-016",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-presentacion-introduccion-018",
+      "title": "Una cosa más...",
+      "level": 1,
+      "page": 18,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-019",
+      "title": "La mejor vía para aprender algo nuevo es haciendo preguntas",
+      "level": 2,
+      "page": 19,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-007",
+          "page": 19
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-018"
+    },
+    {
+      "id": "sec-presentacion-introduccion-020",
+      "title": "...y tomando notas.",
+      "level": 2,
+      "page": 20,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-008",
+          "page": 20
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-009",
+          "page": 20
+        },
+        {
+          "type": "paragraph",
+          "text": "Pauk, W. How to Study in College, Houghton Mifflin Co. Boston, MA, (1984 and 1997).",
+          "page": 20,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-018"
+    },
+    {
+      "id": "sec-presentacion-introduccion-021",
+      "title": "Para tener en cuenta...",
+      "level": 1,
+      "page": 21,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-022",
+      "title": "OJO...",
+      "level": 2,
+      "page": 22,
+      "content": [
+        {
+          "type": "warning",
+          "text": "EN LAS CLASES PRESENCIALES ES IMPORTANTE APAGAR SUS CELULARES O COLOCARLOS EN MODO SILENCIO.",
+          "page": 22,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-010",
+          "page": 22
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-021"
+    },
+    {
+      "id": "sec-presentacion-introduccion-023",
+      "title": "Definición",
+      "level": 1,
+      "page": 23,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-024",
+      "title": "Definición...",
+      "level": 2,
+      "page": 24,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La American Welding Society AWS define una soldadura como “una coalescencia localizada(la Fusión o unión de la estructura de granos de los materiales que se están soldando) de metales o no metales producida mediante el calentamiento de los materiales a las temperaturas de soldadura requeridas, con o sin aplicación de presión o mediante la aplicación de presión sola y con o sin el uso de material de aportación”.",
+          "page": 24,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-023"
+    },
+    {
+      "id": "sec-presentacion-introduccion-025",
+      "title": "Historia",
+      "level": 1,
+      "page": 25,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-026",
+      "title": "Pilar de hierro...",
+      "level": 2,
+      "page": 26,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-011",
+          "page": 26
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "La historia de la unión de metales se remonta a varios milenios, con los primeros ejemplos de soldadura desde la edad de bronce y la edad de hierro en Europa y el Oriente Medio. La soldadura fue usada en la construcción del Pilar de hierro de Delhi, en la India, erigido cerca del año 310 y pesando 5.4 toneladas."
+          ],
+          "page": 26,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "ASM International (2003). Trends in Welding Research. Materials Park, Ohio: ASM International. ISBN 0-87170-780-2",
+          "page": 26,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-027",
+      "title": "Primeros métodos de soldadura...",
+      "level": 2,
+      "page": 27,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Fundición directa",
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-012",
+          "page": 27
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-028",
+      "title": "Primeros métodos de soldadura...",
+      "level": 2,
+      "page": 28,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Soldadura por flujo",
+          "page": 28,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-013",
+          "page": 28
+        },
+        {
+          "type": "caption",
+          "text": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+          "page": 28,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-029",
+      "title": "Edad media...",
+      "level": 2,
+      "page": 29,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "La Edad Media trajo avances en la soldadura de fragua, con la que los herreros repetidamente golpeaban y calentaban el metal hasta que ocurría la unión."
+          ],
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-014",
+          "page": 29
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-030",
+      "title": "Revolución industrial y comienzos 1900….",
+      "level": 2,
+      "page": 30,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "En 1800, Sir Humphry Davy descubrió el arco eléctrico, y los avances en la soldadura por arco continuaron con las invenciones de los electrodos de metal por un ruso, Nikolai Slavyanov, y un norteamericano,C. L. Coffin a finales de los años 1800.",
+            "Soldadura por resistencia",
+            "Soldadura por fusión"
+          ],
+          "page": 30,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-031",
+      "title": "I-II Guerra Mundial",
+      "level": 2,
+      "page": 31,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-015",
+          "page": 31
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-016",
+          "page": 31
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-032",
+      "title": "I-II Guerra Mundial",
+      "level": 2,
+      "page": 32,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-017",
+          "page": 32
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-018",
+          "page": 32
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-025"
+    },
+    {
+      "id": "sec-presentacion-introduccion-033",
+      "title": "Utilización de la soldadura",
+      "level": 1,
+      "page": 33,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-presentacion-introduccion-034",
+      "title": "Utilización de la soldadura",
+      "level": 2,
+      "page": 34,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-019",
+          "page": 34
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-020",
+          "page": 34
+        },
+        {
+          "type": "image",
+          "image_id": "img-presentacion-introduccion-021",
+          "page": 34
+        }
+      ],
+      "parent_id": "sec-presentacion-introduccion-033",
+      "title_source": "previous_section_divider",
+      "title_confidence": "medium"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-presentacion-introduccion-001",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        29.0,
+        234.7,
+        187.0,
+        392.2
+      ],
+      "file": "images/presentacion-introduccion-p01-presentacion-e-introduccion-del-curso.webp",
+      "original_format": "jpeg",
+      "width": 438,
+      "height": 437,
+      "type": "ilustracion",
+      "description": "Ilustración de dos muñecos blancos de cuerpo liso que se saludan de mano; el de la derecha lleva una corbata roja.",
+      "visible_text": null,
+      "caption": "Presentación e Introducción del curso",
+      "section_id": "sec-presentacion-introduccion-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos figuras blancas en 3D dándose la mano, una de ellas con una corbata roja",
+      "duplicate_of_xref": false,
+      "sha256_16": "700011e13ddf780a",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-002",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 1,
+      "position": "inferior-centro",
+      "bbox": [
+        242.0,
+        307.0,
+        447.5,
+        445.0
+      ],
+      "file": "images/presentacion-introduccion-p01-presentacion-e-introduccion-del-curso-2.webp",
+      "original_format": "jpeg",
+      "width": 274,
+      "height": 184,
+      "type": "fotografia",
+      "description": "Fotografía de un soldador con casco, careta oscura y guante de cuero trabajando un arco con destellos azules.",
+      "visible_text": null,
+      "caption": "Presentación e Introducción del curso",
+      "section_id": "sec-presentacion-introduccion-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Soldador con careta y guante que une metal entre chispas azules",
+      "duplicate_of_xref": false,
+      "sha256_16": "5a92692a7c14f45c",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-003",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        474.2,
+        341.2,
+        694.2,
+        498.7
+      ],
+      "file": "images/presentacion-introduccion-p01-presentacion-e-introduccion-del-curso-3.webp",
+      "original_format": "jpeg",
+      "width": 787,
+      "height": 563,
+      "type": "fotografia",
+      "description": "Fotografía de varios electrodos de revestimiento beige y punta metálica, impresos con SOLDARCO 6013 y SOLDARCO 6011.",
+      "visible_text": "SOLDARCO 6013; SOLDARCO 6011",
+      "caption": "Presentación e Introducción del curso",
+      "section_id": "sec-presentacion-introduccion-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Manojo de electrodos revestidos marca SOLDARCO, clasificaciones 6013 y 6011",
+      "duplicate_of_xref": false,
+      "sha256_16": "7aa5cf0bfce45d43",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-004",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/presentacion-introduccion-p01-presentacion-e-introduccion-del-curso-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde con el nombre Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander; UIS",
+      "caption": "Presentación e Introducción del curso",
+      "section_id": "sec-presentacion-introduccion-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-005",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 17,
+      "position": "centro-izquierda",
+      "bbox": [
+        45.0,
+        121.8,
+        316.7,
+        443.7
+      ],
+      "file": "images/presentacion-introduccion-p17-lamina-pagina-17.webp",
+      "original_format": "jpeg",
+      "width": 225,
+      "height": 225,
+      "type": "fotografia",
+      "description": "Fotografía del libro ASM Handbook, volumen 6, titulado Welding, Brazing, and Soldering.",
+      "visible_text": "ASM HANDBOOK; Volume 6; Welding, Brazing, and Soldering",
+      "caption": "Bibliografía",
+      "section_id": "sec-presentacion-introduccion-017",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Portada verde del ASM Handbook, volumen 6, sobre soldadura, brazing y soldering",
+      "duplicate_of_xref": false,
+      "sha256_16": "39d09890447d786d",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-006",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 17,
+      "position": "centro-derecha",
+      "bbox": [
+        305.4,
+        216.4,
+        705.2,
+        349.1
+      ],
+      "file": "images/presentacion-introduccion-p17-lamina-pagina-17-2.webp",
+      "original_format": "png",
+      "width": 389,
+      "height": 129,
+      "type": "logo",
+      "description": "Rombo negro con las siglas AWS y, al lado, el nombre American Welding Society.",
+      "visible_text": "AWS; American Welding Society",
+      "caption": "Bibliografía",
+      "section_id": "sec-presentacion-introduccion-017",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la American Welding Society (AWS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "2ffbe0319b967bd7",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-007",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 19,
+      "position": "centro-centro",
+      "bbox": [
+        46.9,
+        112.3,
+        658.9,
+        515.9
+      ],
+      "file": "images/presentacion-introduccion-p19-la-mejor-via-para-aprender-algo-nuevo-es-haciendo-preguntas.webp",
+      "original_format": "jpeg",
+      "width": 816,
+      "height": 571,
+      "type": "ilustracion",
+      "description": "Ilustración de varias manos en magenta, azul, rojo, amarillo y verde alzadas sobre un fondo de manos grises.",
+      "visible_text": null,
+      "caption": "La mejor vía para aprender algo nuevo es haciendo preguntas",
+      "section_id": "sec-presentacion-introduccion-019",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Manos de colores levantadas, con una mano roja más alta en el centro",
+      "duplicate_of_xref": false,
+      "sha256_16": "10b9a58ab3409e53",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-008",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 20,
+      "position": "centro-izquierda",
+      "bbox": [
+        25.4,
+        118.3,
+        407.2,
+        499.3
+      ],
+      "file": "images/presentacion-introduccion-p20-y-tomando-notas.webp",
+      "original_format": "jpeg",
+      "width": 1060,
+      "height": 1058,
+      "type": "fotografia",
+      "description": "Fotografía de una mano con un lápiz negro de punta grafito, lista para tomar notas.",
+      "visible_text": null,
+      "caption": "...y tomando notas.",
+      "section_id": "sec-presentacion-introduccion-020",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Mano que sostiene un lápiz negro como si fuera a escribir",
+      "duplicate_of_xref": false,
+      "sha256_16": "66a6f25bd57a77e3",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-009",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 20,
+      "position": "centro-derecha",
+      "bbox": [
+        426.8,
+        241.5,
+        694.5,
+        369.7
+      ],
+      "file": "images/presentacion-introduccion-p20-y-tomando-notas-2.webp",
+      "original_format": "png",
+      "width": 357,
+      "height": 171,
+      "type": "ilustracion",
+      "description": "Botón rojo de esquinas redondeadas con letras blancas que dicen Tome notas!",
+      "visible_text": "Tome notas!",
+      "caption": "...y tomando notas.",
+      "section_id": "sec-presentacion-introduccion-020",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Recuadro rojo con el texto Tome notas!",
+      "duplicate_of_xref": false,
+      "sha256_16": "4257f786b8936a68",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-010",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 22,
+      "position": "inferior-centro",
+      "bbox": [
+        86.0,
+        288.0,
+        634.0,
+        488.9
+      ],
+      "file": "images/presentacion-introduccion-p22-ojo.webp",
+      "original_format": "png",
+      "width": 371,
+      "height": 136,
+      "type": "icono",
+      "description": "Tira de tres iconos de prohibición: un teléfono, un teléfono que emite ondas y un altavoz que emite ondas, con marca de agua iStock.",
+      "visible_text": "iStock",
+      "caption": "OJO...",
+      "section_id": "sec-presentacion-introduccion-022",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres señales rojas de prohibido: celular, celular con ondas y altavoz con ondas",
+      "duplicate_of_xref": false,
+      "sha256_16": "73dbb67aa0d3ad2d",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-presentacion-introduccion-011",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 26,
+      "position": "centro-derecha",
+      "bbox": [
+        432.0,
+        172.8,
+        654.7,
+        472.7
+      ],
+      "file": "images/presentacion-introduccion-p26-pilar-de-hierro.webp",
+      "original_format": "jpeg",
+      "width": 640,
+      "height": 862,
+      "type": "fotografia",
+      "description": "Fotografía del pilar de hierro oscuro del complejo de Qutb, en Delhi, rodeado por una reja metálica y muros de piedra.",
+      "visible_text": null,
+      "caption": "Pilar de hierro...",
+      "section_id": "sec-presentacion-introduccion-026",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Pilar de hierro de Delhi dentro de un enrejado, entre ruinas de piedra",
+      "duplicate_of_xref": false,
+      "sha256_16": "f74c4174c2faa744",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-012",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 27,
+      "position": "centro-centro",
+      "bbox": [
+        76.5,
+        168.0,
+        630.0,
+        480.0
+      ],
+      "file": "images/presentacion-introduccion-p27-primeros-metodos-de-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 738,
+      "height": 416,
+      "type": "diagrama",
+      "description": "Cuatro viñetas: placa de metal base, molde de arena, vertido de metal fundido en el molde y la pieza cilíndrica resultante.",
+      "visible_text": "METAL BASE; (A); MOLDE DE ARENA; (B); METAL FUNDIDO; (C); PIEZA FINAL; (D)",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-presentacion-introduccion-027",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Diagrama en cuatro pasos de la fundición directa: metal base, molde de arena, metal fundido y pieza final",
+      "duplicate_of_xref": false,
+      "sha256_16": "508eb5c88312edca",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-013",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 28,
+      "position": "centro-centro",
+      "bbox": [
+        61.7,
+        164.7,
+        658.3,
+        502.1
+      ],
+      "file": "images/presentacion-introduccion-p28-primeros-metodos-de-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 725,
+      "height": 410,
+      "type": "diagrama",
+      "description": "Cuatro viñetas: dos placas de metal base separadas, barreras de arena, vertido de metal fundido en la junta y el cordón de soldadura.",
+      "visible_text": "METAL BASE; (A); BARRERAS DE ARENA; (B); METAL FUNDIDO; (C); SOLDADURA; (D)",
+      "caption": "Imagen tomada de Welding: principles and applications: Larry Jeffus",
+      "section_id": "sec-presentacion-introduccion-028",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Diagrama en cuatro pasos de la soldadura por flujo con barreras de arena y metal fundido",
+      "duplicate_of_xref": false,
+      "sha256_16": "36dc21bcc907694c",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-014",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 29,
+      "position": "inferior-centro",
+      "bbox": [
+        213.4,
+        224.4,
+        506.6,
+        532.6
+      ],
+      "file": "images/presentacion-introduccion-p29-edad-media.webp",
+      "original_format": "png",
+      "width": 902,
+      "height": 948,
+      "type": "ilustracion",
+      "description": "Ilustración en blanco y negro de dos herreros con delantal: uno martilla y el otro sujeta el metal sobre el yunque.",
+      "visible_text": null,
+      "caption": "Edad media...",
+      "section_id": "sec-presentacion-introduccion-029",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Grabado de dos herreros que golpean una pieza al rojo sobre un yunque",
+      "duplicate_of_xref": false,
+      "sha256_16": "40353ace0a5cd7b0",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-015",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 31,
+      "position": "centro-derecha",
+      "bbox": [
+        399.0,
+        123.6,
+        708.0,
+        509.4
+      ],
+      "file": "images/presentacion-introduccion-p31-i-ii-guerra-mundial.webp",
+      "original_format": "jpeg",
+      "width": 475,
+      "height": 593,
+      "type": "fotografia",
+      "description": "Fotografía en blanco y negro de dos mujeres con overol y careta de soldar, cada una con un electrodo, sobre una estructura de acero.",
+      "visible_text": null,
+      "caption": "I-II Guerra Mundial",
+      "section_id": "sec-presentacion-introduccion-031",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos soldadoras de la Segunda Guerra Mundial con careta, de pie sobre vigas",
+      "duplicate_of_xref": false,
+      "sha256_16": "c28f8710b4155dd1",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-016",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 31,
+      "position": "centro-izquierda",
+      "bbox": [
+        41.0,
+        132.5,
+        387.0,
+        389.0
+      ],
+      "file": "images/presentacion-introduccion-p31-i-ii-guerra-mundial-2.webp",
+      "original_format": "jpeg",
+      "width": 514,
+      "height": 381,
+      "type": "fotografia",
+      "description": "Fotografía en blanco y negro de varias mujeres con ropa de trabajo y casco caminando frente a un edificio de ladrillo; hay un letrero en la puerta que no se alcanza a leer.",
+      "visible_text": null,
+      "caption": "I-II Guerra Mundial",
+      "section_id": "sec-presentacion-introduccion-031",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Grupo de trabajadoras con overol y casco que sale de una nave industrial",
+      "duplicate_of_xref": false,
+      "sha256_16": "cead6f8d4a02bcda",
+      "source": "visual",
+      "confidence": "low",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-017",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 32,
+      "position": "centro-izquierda",
+      "bbox": [
+        12.0,
+        123.6,
+        302.2,
+        341.1
+      ],
+      "file": "images/presentacion-introduccion-p32-i-ii-guerra-mundial.webp",
+      "original_format": "jpeg",
+      "width": 387,
+      "height": 290,
+      "type": "fotografia",
+      "description": "Fotografía en blanco y negro de cuatro trabajadoras con overol y botas, de frente, con grúas de un puerto al fondo.",
+      "visible_text": null,
+      "caption": "I-II Guerra Mundial",
+      "section_id": "sec-presentacion-introduccion-032",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cuatro mujeres con overol de trabajo caminando por un astillero",
+      "duplicate_of_xref": false,
+      "sha256_16": "62cf2f22bc4d1286",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-presentacion-introduccion-018",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 32,
+      "position": "centro-derecha",
+      "bbox": [
+        311.3,
+        168.2,
+        705.0,
+        456.5
+      ],
+      "file": "images/presentacion-introduccion-p32-i-ii-guerra-mundial-2.webp",
+      "original_format": "jpeg",
+      "width": 564,
+      "height": 413,
+      "type": "fotografia",
+      "description": "Fotografía en blanco y negro de dos mujeres soldando: una en primer plano con gafas redondas y guantes, y otra detrás, con muchas chispas.",
+      "visible_text": "© Time & Life Pictures/Getty Images",
+      "caption": "I-II Guerra Mundial",
+      "section_id": "sec-presentacion-introduccion-032",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos soldadoras con gafas que unen una plancha de acero entre chispas",
+      "duplicate_of_xref": false,
+      "sha256_16": "8a89111d7a558446",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-019",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 34,
+      "position": "centro-izquierda",
+      "bbox": [
+        49.8,
+        88.1,
+        337.8,
+        279.4
+      ],
+      "file": "images/presentacion-introduccion-p34-lamina-pagina-34.webp",
+      "original_format": "jpeg",
+      "width": 384,
+      "height": 255,
+      "type": "fotografia",
+      "description": "Fotografía de una montaña rusa de vías verdes y rojas, con un carro azul en el que se lee La Perla.",
+      "visible_text": "La Perla",
+      "caption": "Utilización de la soldadura",
+      "section_id": "sec-presentacion-introduccion-034",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Montaña rusa con un vagón azul marcado La Perla y pasajeros a bordo",
+      "duplicate_of_xref": false,
+      "sha256_16": "c8c1d84074282050",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-presentacion-introduccion-020",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 34,
+      "position": "centro-derecha",
+      "bbox": [
+        381.3,
+        88.1,
+        691.1,
+        321.1
+      ],
+      "file": "images/presentacion-introduccion-p34-lamina-pagina-34-2.webp",
+      "original_format": "jpeg",
+      "width": 500,
+      "height": 376,
+      "type": "fotografia",
+      "description": "Fotografía de un transbordador blanco con tanque naranja y dos cohetes, junto a la torre de servicio; en el fuselaje se ve el logotipo de la NASA.",
+      "visible_text": "NASA",
+      "caption": "Utilización de la soldadura",
+      "section_id": "sec-presentacion-introduccion-034",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Transbordador espacial en la plataforma de lanzamiento, con el logotipo de la NASA",
+      "duplicate_of_xref": false,
+      "sha256_16": "b16e73bc49d2985c",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-presentacion-introduccion-021",
+      "source_file": "Unidad # 1 presentación e Introducción.pdf",
+      "page": 34,
+      "position": "inferior-centro",
+      "bbox": [
+        128.4,
+        354.5,
+        451.0,
+        510.8
+      ],
+      "file": "images/presentacion-introduccion-p34-lamina-pagina-34-3.webp",
+      "original_format": "jpeg",
+      "width": 322,
+      "height": 156,
+      "type": "fotografia",
+      "description": "Fotografía de un barco de pasajeros blanco y grande, visto de costado, sobre agua azul.",
+      "visible_text": null,
+      "caption": "Utilización de la soldadura",
+      "section_id": "sec-presentacion-introduccion-034",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Crucero blanco de varios pisos navegando en mar abierto",
+      "duplicate_of_xref": false,
+      "sha256_16": "4364a52092b52502",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    }
+  ],
+  "tables": [],
+  "links": [
+    {
+      "url": "http://es.wikipedia.org/wiki/Edad_de_bronce",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Edad_de_hierro",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Europa",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Oriente_Medio",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Pilar_de_hierro_de_Delhi",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/India",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "https://ast.wikipedia.org/wiki/Ohio",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "https://ast.wikipedia.org/wiki/Especial:FuentesDeLibros/0871707802",
+      "page": 26,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Edad_Media",
+      "page": 29,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Soldadura_de_fragua",
+      "page": 29,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Humphry_Davy",
+      "page": 30,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Arco_el%C3%A9ctrico",
+      "page": 30,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/Soldadura_por_arco",
+      "page": 30,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/w/index.php?title=Nikolai_Slavyanov&action=edit&redlink=1",
+      "page": 30,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/w/index.php?title=C._L._Coffin&action=edit&redlink=1",
+      "page": 30,
+      "source": "extracted",
+      "confidence": "high"
+    },
+    {
+      "url": "http://es.wikipedia.org/wiki/A%C3%B1os_1800",
+      "page": 30,
+      "source": "extracted",
+      "confidence": "high"
+    }
+  ],
+  "contacts": [],
+  "seo": {
+    "title": "Presentación e Introducción del curso",
+    "meta_description": "Contribuir al conocimiento y comprensión de los diversos procesos de unión. Estudiar los procedimientos adecuados de los diversos procesos de soldadura para la unión de los metales",
+    "slug": "presentacion-introduccion",
+    "keywords": [
+      "electrodo",
+      "arco eléctrico",
+      "gas de protección",
+      "simbología",
+      "terminología",
+      "AWS"
+    ],
+    "og_title": "Presentación e Introducción del curso",
+    "og_description": "Contribuir al conocimiento y comprensión de los diversos procesos de unión. Estudiar los procedimientos adecuados de los diversos procesos de soldadura para la unión de los metales",
+    "og_image": "images/presentacion-introduccion-p01-presentacion-e-introduccion-del-curso-3.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 1",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Objetivos generales",
+        "inferred": false
+      },
+      {
+        "name": "Contenido",
+        "inferred": false
+      },
+      {
+        "name": "Evaluación",
+        "inferred": false
+      },
+      {
+        "name": "Bibliografía",
+        "inferred": false
+      },
+      {
+        "name": "Una cosa más",
+        "inferred": false
+      },
+      {
+        "name": "Para tener en cuenta",
+        "inferred": false
+      },
+      {
+        "name": "Definición",
+        "inferred": false
+      },
+      {
+        "name": "Historia",
+        "inferred": false
+      },
+      {
+        "name": "Utilización de la soldadura",
+        "inferred": false
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": "Carlos Rondon",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Campo Author del PDF. No aparece repetido en el cuerpo de las diapositivas."
+    },
+    "date_detail": {
+      "value": "2025-02-24",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}

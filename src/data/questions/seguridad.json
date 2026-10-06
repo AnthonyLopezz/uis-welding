@@ -1,0 +1,357 @@
+[
+  {
+    "id": "seg-q01",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-005",
+    "sourcePage": 5,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Cuál de estas prácticas ayuda a evitar descargas eléctricas al soldar?",
+    "options": [
+      "Mantener secos el equipo, la zona de trabajo y los guantes",
+      "Trabajar con los guantes húmedos para refrigerar las manos",
+      "Dejar el equipo encendido entre una soldadura y otra",
+      "Quitarse los guantes para manipular el equipo"
+    ],
+    "correctAnswer": "Mantener secos el equipo, la zona de trabajo y los guantes",
+    "explanation": "Para evitar descargas hay que apagar el equipo cuando no se use, usar guantes para manipularlo y mantener secos el equipo, la zona de trabajo y los guantes."
+  },
+  {
+    "id": "seg-q02",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-006",
+    "sourcePage": 6,
+    "type": "true-false",
+    "difficulty": "medium",
+    "question": "Los deslumbramientos ocasionales por el arco eléctrico producen ceguera permanente.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "explanation": "La unidad aclara que los deslumbramientos ocasionales no producen ceguera, pero deben evitarse usando la protección adecuada."
+  },
+  {
+    "id": "seg-q03",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-006",
+    "sourcePage": 6,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-seguridad-009",
+    "question": "Observa el diagrama del ojo. ¿Qué daño explica?",
+    "options": [
+      "Quemadura en la retina causada por luz ultravioleta",
+      "Fractura del cristalino por un impacto",
+      "Irritación del ojo por humo",
+      "Daño en el oído interno por ruido"
+    ],
+    "correctAnswer": "Quemadura en la retina causada por luz ultravioleta",
+    "explanation": "El diagrama muestra la luz ultravioleta del arco llegando a la retina y produciendo quemaduras; por eso hay que mirar el arco solo con la protección adecuada."
+  },
+  {
+    "id": "seg-q04",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-007",
+    "sourcePage": 7,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Según la unidad, ¿qué radiación del arco produce quemaduras en la piel?",
+    "options": [
+      "Luz infrarroja y luz ultravioleta",
+      "Solo rayos X",
+      "Solo luz visible",
+      "Microondas"
+    ],
+    "correctAnswer": "Luz infrarroja y luz ultravioleta",
+    "explanation": "La lámina de protección del arco indica que la luz infrarroja y la ultravioleta causan quemaduras en la piel."
+  },
+  {
+    "id": "seg-q05",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "Vas a soldar en un taller donde no puedes retirar algunos materiales combustibles. ¿Qué debes hacer?",
+    "options": [
+      "Instalar barreras contra fuego, como mantas o láminas",
+      "Soldar más rápido para generar menos chispas",
+      "Mojar la pieza que vas a soldar",
+      "Usar un electrodo más delgado"
+    ],
+    "correctAnswer": "Instalar barreras contra fuego, como mantas o láminas",
+    "explanation": "Lo primero es retirar todo el material combustible. Si no se puede, hay que instalar barreras contra fuego (mantas, láminas) para que chispas, llama o escoria no lo alcancen."
+  },
+  {
+    "id": "seg-q06",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-009",
+    "sourcePage": 9,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Por qué hay que comprobar que las piezas huecas estén bien ventiladas antes de soldarlas?",
+    "options": [
+      "Para evitar la acumulación de gases",
+      "Para que se enfríen más rápido",
+      "Para gastar menos electrodo",
+      "Para mejorar la apariencia del cordón"
+    ],
+    "correctAnswer": "Para evitar la acumulación de gases",
+    "explanation": "Las piezas huecas pueden acumular gases; la ventilación evita ese riesgo de incendio o explosión."
+  },
+  {
+    "id": "seg-q07",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-009",
+    "sourcePage": 9,
+    "type": "true-false",
+    "difficulty": "medium",
+    "question": "Se puede soldar en lugares expuestos a polvos o gases de operaciones de pintura siempre que se use careta.",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ],
+    "correctAnswer": "Falso",
+    "explanation": "La unidad indica que no debe soldarse en lugares expuestos a polvos o gases de pintura. La careta protege los ojos, pero no evita el riesgo de incendio."
+  },
+  {
+    "id": "seg-q08",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-010",
+    "sourcePage": 10,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "¿Qué medida de protección respiratoria recomienda la unidad?",
+    "options": [
+      "Trabajar en lugares bien ventilados y usar aspiración de humos y colectores de polvo",
+      "Soldar en espacios cerrados para que el humo no se disperse",
+      "Contener la respiración mientras el arco está encendido",
+      "Usar solo gafas de seguridad"
+    ],
+    "correctAnswer": "Trabajar en lugares bien ventilados y usar aspiración de humos y colectores de polvo",
+    "explanation": "Soldar produce humo, polvo y vapores: hay que trabajar en lugares bien ventilados y se recomiendan equipos de aspiración de humos y colectores de polvo."
+  },
+  {
+    "id": "seg-q09",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-011",
+    "sourcePage": 11,
+    "tableId": "tbl-seguridad-001",
+    "type": "matching",
+    "difficulty": "medium",
+    "question": "Relaciona cada gas con su grupo, según la clasificación de cilindros.",
+    "pairs": [
+      {
+        "left": "Acetileno",
+        "right": "Combustible"
+      },
+      {
+        "left": "Argón",
+        "right": "Gas inerte"
+      },
+      {
+        "left": "Oxígeno",
+        "right": "Comburente"
+      },
+      {
+        "left": "CO2",
+        "right": "Gas activo"
+      }
+    ],
+    "explanation": "La tabla de cilindros agrupa los gases así: combustibles (acetileno, propano, gas natural), inertes (nitrógeno, argón, helio), comburentes (oxígeno) y activos (CO2)."
+  },
+  {
+    "id": "seg-q10",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-011",
+    "sourcePage": 11,
+    "tableId": "tbl-seguridad-001",
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "El oxígeno no arde por sí mismo, pero alimenta la combustión. ¿En qué grupo lo clasifica la unidad?",
+    "options": [
+      "Comburente",
+      "Combustible",
+      "Gas inerte",
+      "Gas activo"
+    ],
+    "correctAnswer": "Comburente",
+    "explanation": "El oxígeno es el único gas del grupo de los comburentes en la tabla de clasificación de cilindros."
+  },
+  {
+    "id": "seg-q11",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-012",
+    "sourcePage": 12,
+    "type": "image",
+    "difficulty": "hard",
+    "imageId": "img-seguridad-015",
+    "question": "Según el diagrama de almacenamiento, ¿qué distancia mínima debe separar los cilindros de gas combustible de los de oxígeno?",
+    "options": [
+      "1,5 m (5 pies)",
+      "6,1 m (20 pies)",
+      "0,5 m (1,5 pies)",
+      "No necesitan separación"
+    ],
+    "correctAnswer": "1,5 m (5 pies)",
+    "explanation": "El diagrama indica 1,5 m (5') como mínimo entre gas combustible y oxígeno, y 6,1 m (20') como mínimo hasta el armario de pintura inflamable."
+  },
+  {
+    "id": "seg-q12",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-012",
+    "sourcePage": 12,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿Qué distancia mínima debe haber entre los cilindros de gas y un armario con pintura inflamable?",
+    "options": [
+      "6,1 m (20 pies)",
+      "1,5 m (5 pies)",
+      "3 m (10 pies)",
+      "Basta con encadenarlos"
+    ],
+    "correctAnswer": "6,1 m (20 pies)",
+    "explanation": "El esquema de almacenamiento marca 6,1 m (20') como mínimo entre los cilindros y el armario de pintura inflamable."
+  },
+  {
+    "id": "seg-q13",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-013",
+    "sourcePage": 13,
+    "type": "multiple-choice",
+    "difficulty": "hard",
+    "question": "¿Por qué no deben usarse hidrocarburos clorados (como el tricloroetileno) para lavar un estanque que se va a soldar?",
+    "options": [
+      "Porque el calor o la radiación de la soldadura los descompone y forman fosfógeno, un gas altamente venenoso",
+      "Porque dejan restos de agua que oxidan el acero",
+      "Porque son demasiado costosos",
+      "Porque impiden que el arco encienda"
+    ],
+    "correctAnswer": "Porque el calor o la radiación de la soldadura los descompone y forman fosfógeno, un gas altamente venenoso",
+    "explanation": "Los hidrocarburos clorados (tricloroetileno, tetracloruro de carbono) se descomponen con el calor o la radiación de la soldadura y forman un gas altamente venenoso."
+  },
+  {
+    "id": "seg-q14",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-014",
+    "sourcePage": 14,
+    "type": "multiple-choice",
+    "difficulty": "medium",
+    "question": "¿Qué métodos de lavado de estanques menciona la unidad?",
+    "options": [
+      "Agua, solución química caliente y vapor",
+      "Gasolina, thinner y aire comprimido",
+      "Tricloroetileno y tetracloruro de carbono",
+      "Arena y aire a presión"
+    ],
+    "correctAnswer": "Agua, solución química caliente y vapor",
+    "explanation": "Los métodos de lavado indicados son agua, solución química caliente y vapor. Los hidrocarburos clorados están expresamente desaconsejados."
+  },
+  {
+    "id": "seg-q15",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-014",
+    "sourcePage": 14,
+    "type": "image",
+    "difficulty": "medium",
+    "imageId": "img-seguridad-017",
+    "question": "Observa los esquemas de preparación del estanque. ¿Qué gases se usan en el venteo con gas?",
+    "options": [
+      "CO2 y N2",
+      "Oxígeno y acetileno",
+      "Argón y helio",
+      "Propano y aire"
+    ],
+    "correctAnswer": "CO2 y N2",
+    "explanation": "El esquema de venteo con gas muestra cilindros de CO2 y N2, gases no combustibles que desplazan los vapores inflamables del recipiente."
+  },
+  {
+    "id": "seg-q16",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-003",
+    "sourcePage": 3,
+    "type": "image",
+    "difficulty": "easy",
+    "imageId": "img-seguridad-006",
+    "question": "¿Qué característica de seguridad resalta la bota de la imagen?",
+    "options": [
+      "Puntera de acero",
+      "Suela de caucho antideslizante",
+      "Cordones ignífugos",
+      "Plantilla térmica"
+    ],
+    "correctAnswer": "Puntera de acero",
+    "explanation": "La ilustración del equipo de seguridad señala la puntera de la bota con la palabra ACERO: protege los pies de golpes y caída de piezas."
+  },
+  {
+    "id": "seg-q17",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-008",
+    "sourcePage": 8,
+    "type": "multiple-choice",
+    "difficulty": "easy",
+    "question": "Para prevenir incendios, ¿qué debes saber del lugar de trabajo antes de empezar a soldar?",
+    "options": [
+      "Dónde están ubicados los extintores",
+      "La marca de la máquina de soldar",
+      "La temperatura ambiente exacta",
+      "El color de los cilindros"
+    ],
+    "correctAnswer": "Dónde están ubicados los extintores",
+    "explanation": "Entre las medidas para evitar incendios está conocer dónde están los extintores, además de retirar los combustibles o poner barreras contra fuego."
+  },
+  {
+    "id": "seg-x01",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-011",
+    "sourcePage": 11,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "tableId": "tbl-seguridad-001",
+    "question": "Según la clasificación de cilindros, ¿cuál de estos gases NO es inerte?",
+    "options": [
+      "CO2",
+      "Nitrógeno",
+      "Argón",
+      "Helio"
+    ],
+    "correctAnswer": "CO2",
+    "explanation": "Trampa: el nitrógeno suele considerarse reactivo, pero en la tabla de esta unidad aparece entre los inertes (nitrógeno, argón, helio). El CO2 está en el grupo de gases activos."
+  },
+  {
+    "id": "seg-x02",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-011",
+    "sourcePage": 11,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "tableId": "tbl-seguridad-001",
+    "question": "El propano se clasifica en la tabla de cilindros como:",
+    "options": [
+      "Combustible",
+      "Comburente",
+      "Gas inerte",
+      "Gas activo"
+    ],
+    "correctAnswer": "Combustible",
+    "explanation": "Trampa: «combustible» y «comburente» se confunden con facilidad. El propano arde (combustible); el único comburente de la tabla es el oxígeno."
+  },
+  {
+    "id": "seg-x03",
+    "topicId": "seguridad",
+    "sectionId": "sec-seguridad-013",
+    "sourcePage": 13,
+    "type": "multiple-choice",
+    "difficulty": "expert",
+    "question": "¿Qué recipientes hacen que soldarlos sea una operación extremadamente peligrosa?",
+    "options": [
+      "Los que hayan contenido materiales inflamables o combustibles",
+      "Solo los que están llenos de agua",
+      "Los recipientes nuevos de acero inoxidable",
+      "Solo los cilindros de CO2"
+    ],
+    "correctAnswer": "Los que hayan contenido materiales inflamables o combustibles",
+    "explanation": "La clave es «hayan contenido»: aunque el recipiente parezca vacío, los residuos o vapores siguen siendo peligrosos. Por eso se lava y se ventea antes de soldar."
+  }
+]

@@ -1,0 +1,2000 @@
+{
+  "id": "documento-007",
+  "slug": "gmaw",
+  "title": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+  "description": "Los procesos de soldadura con alimentación de alambre, consumen más del 70% de los materiales de aporte que se usan en el mundo, porcentaje que sigue subiendo. Aun cuando este…",
+  "category": "Soldadura",
+  "subcategory": [
+    "Introducción",
+    "Equipo",
+    "Procedimiento",
+    "Aplicaciones",
+    "Ventajas",
+    "Desventajas",
+    "Variables",
+    "Mecanismos de transferencia",
+    "Gases de protección",
+    "Métodos de manejo de alambre-electrodo",
+    "Preparación de la unión"
+  ],
+  "tags": [
+    "GMAW",
+    "electrodo",
+    "gas de protección",
+    "polaridad",
+    "argón",
+    "AWS",
+    "soldadura de filete"
+  ],
+  "language": "es",
+  "author": null,
+  "date": "2025-03-21",
+  "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+  "page_count": 57,
+  "featured_image": "images/gmaw-p01-soldaduras-con-alimentacion-de-alambre-soldadura-de-arco-met-2.webp",
+  "sections": [
+    {
+      "id": "sec-gmaw-001",
+      "title": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-gmaw-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-gmaw-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-gmaw-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-002",
+      "title": "Introducción",
+      "level": 1,
+      "page": 2,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-003",
+      "title": "Introducción",
+      "level": 2,
+      "page": 3,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Los procesos de soldadura con alimentación de alambre, consumen más del 70% de los materiales de aporte que se usan en el mundo, porcentaje que sigue subiendo.",
+            "Aun cuando este equipo de soldadura cuesta más que el equipo de arco metálico con electrodo revestido, ofrece mayor productividad."
+          ],
+          "page": 3,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-002"
+    },
+    {
+      "id": "sec-gmaw-004",
+      "title": "Como designa la AWS a este procedimiento?",
+      "level": 2,
+      "page": 4,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "GMAW (gas metal arc welding)",
+          "page": 4,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-gmaw-005",
+          "page": 4
+        }
+      ],
+      "parent_id": "sec-gmaw-002"
+    },
+    {
+      "id": "sec-gmaw-005",
+      "title": "Equipo",
+      "level": 1,
+      "page": 5,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-006",
+      "title": "Cuáles son los nombres comunes de la soldadura de arco metálico con protección de gas?",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "También se le conoce comúnmente con el nombre de soldadura de arco metálico con gas inerte (MIG, metal gas inert welding) o soldadura con alimentación de alambre. A las máquinas que se utilizan en este proceso se les denomina alimentadores de alambre.",
+          "page": 6,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-005"
+    },
+    {
+      "id": "sec-gmaw-007",
+      "title": "Esquema del equipo",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-006",
+          "page": 7
+        }
+      ],
+      "parent_id": "sec-gmaw-005"
+    },
+    {
+      "id": "sec-gmaw-008",
+      "title": "Equipos adicionales",
+      "level": 2,
+      "page": 8,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Enfriador de agua Cuando la pistola de soldar se opera continuamente a altos niveles de amperaje se calienta tanto que literalmente puede quemarse por el calor. La solución para este problema consiste en alimentar agua fria a la boquilla para bajar la temperatura."
+          ],
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Extractor de humo:"
+          ],
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Algunas pistolas tienen sistemas interconstituidos en la boquilla para captar y remover el humo de la soldadura.",
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-005"
+    },
+    {
+      "id": "sec-gmaw-009",
+      "title": "Procedimiento",
+      "level": 1,
+      "page": 9,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-010",
+      "title": "Procedimiento",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cómo funciona la soldadura por arco metálico con protección de gas?",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "El soldador posiciona el alambre-electrodo que sale del centro de la punta de contacto en el punto de la pieza de trabajo donde la soldadura está por iniciar y lo pone en contacto con el metal base. A continuación baja la careta de su casco y oprime el gatillo de la pistola de soldar. En este momento pasan tres cosas:",
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-009"
+    },
+    {
+      "id": "sec-gmaw-011",
+      "title": "Cómo funciona la soldadura por arco metálico con protección de gas? continuación",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Al oprimir el gatillo, el soldador deja pasar corriente proveniente de la fuente de poder.",
+            "El mecanismo alimentador de alambre empieza alambre-electrodo (proveniente de una bobina) a través de la pistola a la punta de contacto y de ahí al charco de soldadura.",
+            "Se abre la válvula operada eléctricamente (con solenoide) que alimenta el gas de protección proveniente del regulador al electrodo y al charco de soldadura, protegiéndolo del oxígeno y del nitrógeno de la atmósfera."
+          ],
+          "page": 11,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-009",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-gmaw-012",
+      "title": "Pistola de soldadura GMAW",
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-007",
+          "page": 12
+        }
+      ],
+      "parent_id": "sec-gmaw-009"
+    },
+    {
+      "id": "sec-gmaw-013",
+      "title": "Proceso de soldadura GMAW",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-008",
+          "page": 13
+        }
+      ],
+      "parent_id": "sec-gmaw-009"
+    },
+    {
+      "id": "sec-gmaw-014",
+      "title": null,
+      "level": 2,
+      "page": 14,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-009",
+          "page": 14
+        }
+      ],
+      "parent_id": "sec-gmaw-009"
+    },
+    {
+      "id": "sec-gmaw-015",
+      "title": "Tipos de pistolas",
+      "level": 2,
+      "page": 15,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-010",
+          "page": 15
+        },
+        {
+          "type": "paragraph",
+          "text": "Enfriadas por aire Enfriadas por agua",
+          "page": 15,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-009"
+    },
+    {
+      "id": "sec-gmaw-016",
+      "title": "Aplicaciones",
+      "level": 1,
+      "page": 16,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-017",
+      "title": "Aplicaciones",
+      "level": 2,
+      "page": 17,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Que metales se pueden unir con GMAW?",
+          "page": 17,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Aluminio",
+            "Acero al carbono",
+            "Cobre",
+            "Aceros de baja aleación",
+            "Magnesio",
+            "Níquel",
+            "Aceros inoxidables",
+            "Titanio"
+          ],
+          "page": 17,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-016"
+    },
+    {
+      "id": "sec-gmaw-018",
+      "title": "Ventajas",
+      "level": 1,
+      "page": 18,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-019",
+      "title": "Ventajas",
+      "level": 2,
+      "page": 19,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Es el único método con electrodo consumible con el que se pueden soldar todas las aleaciones comerciales.",
+            "Debido a que el electrodo es un alambre continuo, se supera el ciclo de inicios y paradas al que está sujeta la soldadura de arco metálico con electrodo revestido, y esto conduce a menos discontinuidades en la soldadura y a tasas de deposición más altas.",
+            "Como no hay necesidad de suspender la soldadura para cambiar las varillas de soldar, se pueden hacer cordones continuos de gran longitud."
+          ],
+          "page": 19,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-018"
+    },
+    {
+      "id": "sec-gmaw-020",
+      "title": "Ventajas (continuación)...",
+      "level": 2,
+      "page": 20,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Se puede adaptar fácilmente a procesos de soldadura automatizados.",
+            "Puede utilizarse en todas las posiciones de soldar.",
+            "Aprovecha mejor el material que la soldadura de arco metálico con electrodo revestido, en la cual se desperdician las colillas de las varillas que se van consumiendo.",
+            "Con este método se pueden soldar láminas muy delgadas, calibre 24 (de 0.023 pulgadas o 0.5842 mm)."
+          ],
+          "page": 20,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-018"
+    },
+    {
+      "id": "sec-gmaw-021",
+      "title": "Ventajas (continuación)...",
+      "level": 2,
+      "page": 21,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Se puede aprender más fácilmente que los otros métodos de soldadura.",
+            "Produce pocas salpicaduras y prácticamente nada de escoria cuando el equipo está ajustando de manera correcta. Muchos fabricantes pintan sobre esta soldadura con poca o ninguna preparación de superficie.",
+            "Tiene una muy buena penetración."
+          ],
+          "page": 21,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-018"
+    },
+    {
+      "id": "sec-gmaw-022",
+      "title": "Desventajas",
+      "level": 1,
+      "page": 22,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-023",
+      "title": "Desventajas",
+      "level": 2,
+      "page": 23,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "El equipo de soldar es mas caro, mas complicado y ligeramente menos portátil que el de la soldadura de arco con electrodo recubierto.",
+            "Es más difícil de usar en lugares estrechos, ya que la pistola es grande y el haz de cables es más grueso y menos flexible.",
+            "Su uso a la intemperie está limitado a los días despejados y sin viento."
+          ],
+          "page": 23,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-022"
+    },
+    {
+      "id": "sec-gmaw-024",
+      "title": "Variables",
+      "level": 1,
+      "page": 24,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-025",
+      "title": "Variables que influyen en la soldadura",
+      "level": 2,
+      "page": 25,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "En todos los casos, la polaridad es DCRP.",
+            "El voltaje del arco",
+            "El diámetro del electrodo",
+            "La extensión del electrodo",
+            "La orientación del electrodo",
+            "El tipo de gas de protección",
+            "La velocidad de avance",
+            "La posición de la unión",
+            "El amperaje aplicado",
+            "la tasa de alimentación de alambre"
+          ],
+          "page": 25,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-026",
+      "title": "Como se determina la velocidad de alimentación de alambre",
+      "level": 2,
+      "page": 26,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En casi todas las máquinas alimentadoras de alambreelectrodo la tasa de dosificación está marcada en el control de velocidad.",
+          "page": 26,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si desea verificar ponga a funcionar la máquina durante un minuto y luego mida el alambre que dosifico.",
+          "page": 26,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-027",
+      "title": "Efectos de los cambios de amperaje en la soldadura GMAW",
+      "level": 2,
+      "page": 27,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La corriente de soldadura la determina la tasa de alimentación de alambre: Cuanto mayor es la tasa de alimentación, mayor amperaje debe proporcionar la fuente de poder.",
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Un incremento en la velocidad de alimentación del alambre provocará:",
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Un incremento en la profundidad y ancho de la soldadura",
+            "Un incremento en la tasa de deposición",
+            "Un incremento en el tamaño del cordón de soldadura."
+          ],
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-028",
+      "title": "Corriente y velocidad de alimentación",
+      "level": 2,
+      "page": 28,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-011",
+          "page": 28
+        }
+      ],
+      "parent_id": "sec-gmaw-024",
+      "title_source": "leading_line",
+      "title_confidence": "medium"
+    },
+    {
+      "id": "sec-gmaw-029",
+      "title": "Tipo de corriente y polaridad",
+      "level": 2,
+      "page": 29,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "SIEMPRE se utiliza corriente continua, electrodo en positivo.",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Porque la transferencia de metal, lleva iones cargados positivamente, por lo que deben viajar desde un polo positivo a uno negativo, y esto solo se logra con corriente positiva, electrodo en positivo.",
+          "page": 29,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-030",
+      "title": "Voltaje en la soldadura",
+      "level": 2,
+      "page": 30,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La mejor manera de ajustar el voltaje del arco es aplicando el voltaje recomendado por las tablas de la AWS o por las hojas de datos del fabricante del alambre-electrodo.",
+          "page": 30,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Los tipos de metal base y de metal de transferencia, así como el gas de protección nos indican que voltaje aplicar al inicio, pero este se debe ajustar después de realizar varias pruebas.",
+          "page": 30,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-031",
+      "title": "Velocidad de avance",
+      "level": 2,
+      "page": 31,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Es la distancia que recorre el arco a través de la línea de soldadura en determinado tiempo (pulgadas/minuto o mm/minuto). Si todas las demás variables continúan constantes, la mayor penetración de la soldadura se logra con una velocidad intermedia.",
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Si es demasiado alta la penetración es insuficiente.",
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-032",
+      "title": "Protuberancia del electrodo",
+      "level": 2,
+      "page": 32,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Es el tramo del electrodo no fundido que empieza en el tubo de contacto y en la punta del alambre-electrodo.",
+          "page": 32,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-gmaw-012",
+          "page": 32
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-033",
+      "title": "Efecto de la orientación del electrodo sobre la soldadura",
+      "level": 2,
+      "page": 33,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Soldadura directa: la pistola se inclina en dirección del avance de la soldadura. Si va inclinada hacia adelante, se produce menos penetración y una soldadura más ancha y delgada.",
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Soldadura inversa: La pistola se inclina en dirección inversa al avance. En la soldadura plana la máxima penetración ocurre cuando la inclinación es de 25o en relación con la perpendicular.",
+          "page": 33,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-034",
+      "title": "Ángulo de la pistola",
+      "level": 2,
+      "page": 34,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-013",
+          "page": 34
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-035",
+      "title": null,
+      "level": 2,
+      "page": 35,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-014",
+          "page": 35
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-036",
+      "title": "Efecto de la posición de la unión sobre la soldadura",
+      "level": 2,
+      "page": 36,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "La transferencia de metal por rocío generalmente se hace en posición plana.",
+            "la transferencia de metal por medio de impulsos, o cortocircuitos, puede hacerse en cualquier posición.",
+            "las soldaduras de filete con transferencia de metal por rocio en posición plana son más uniformes que las mismas soldaduras hechas en la posición horizontal.",
+            "En soldaduras realizadas en posición vertical generalmente se utiliza electrodo de 0.045 pulgadas (1.1mm) o menos, ya que con esto produce un charco de soldadura más pequeño, que es más fácil de controlar."
+          ],
+          "page": 36,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-037",
+      "title": "Diámetro del electrodo sobre el proceso de soldadura.",
+      "level": 2,
+      "page": 37,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cuanto más grande es el diámetro del electrodo, más alto es el mínimo de corriente que se requiere para realizar determinado proceso de transferencia de metal.",
+          "page": 37,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-024"
+    },
+    {
+      "id": "sec-gmaw-038",
+      "title": "Mecanismos de transferencia",
+      "level": 1,
+      "page": 38,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-039",
+      "title": "Mecanismos de transferencia",
+      "level": 2,
+      "page": 39,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Procesos de deposición de metal en la soldadura de arco metalico con proteccion de gas",
+          "page": 39,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "transferencia por corto circuito",
+            "transferencia globular",
+            "transferencia por rocío",
+            "transferencia por rocío pulsado."
+          ],
+          "page": 39,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-038"
+    },
+    {
+      "id": "sec-gmaw-040",
+      "title": "Qué factores determinan el tipo de proceso de transferencia?",
+      "level": 2,
+      "page": 40,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "la magnitud y el tipo de corriente de soldadura",
+            "El diámetro del electrodo",
+            "La composición del electrodo",
+            "La protuberancia del electrodo",
+            "El gas de protección"
+          ],
+          "page": 40,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-038"
+    },
+    {
+      "id": "sec-gmaw-041",
+      "title": null,
+      "level": 2,
+      "page": 41,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-015",
+          "page": 41
+        }
+      ],
+      "parent_id": "sec-gmaw-038"
+    },
+    {
+      "id": "sec-gmaw-042",
+      "title": "Tipos de transferencia de metal",
+      "level": 2,
+      "page": 42,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-016",
+          "page": 42
+        }
+      ],
+      "parent_id": "sec-gmaw-038"
+    },
+    {
+      "id": "sec-gmaw-043",
+      "title": null,
+      "level": 2,
+      "page": 43,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-017",
+          "page": 43
+        }
+      ],
+      "parent_id": "sec-gmaw-038"
+    },
+    {
+      "id": "sec-gmaw-044",
+      "title": "Gases de protección",
+      "level": 1,
+      "page": 44,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-045",
+      "title": "Efectos del gas de protección en la soldadura.",
+      "level": 2,
+      "page": 45,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El gas protector impide que el oxígeno y el nitrógeno atmosféricos penetren al charco de soldadura y lo contaminen. algunos gases de protección también:",
+          "page": 45,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "promueven mayores velocidades de soldadura sin quemar el metal.",
+            "reducen las salpicaduras y mejoran la apariencia de la soldadura",
+            "reducen el área de la zona afectada por el calor."
+          ],
+          "page": 45,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Al seleccionar un gas de protección tome en cuenta el costo, la apariencia de la soldadura y la penetración.",
+          "page": 45,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-044"
+    },
+    {
+      "id": "sec-gmaw-046",
+      "title": "Cuales gases inertes se utilizan en GMAW",
+      "level": 2,
+      "page": 46,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Argón (Ar): es el más utilizado, debido a su baja conductividad del calor. Es diez veces más pesado que el Helio, por lo que cubre mejor que este.",
+            "Helio (He) : es un buen conductor de calor, por lo que propicia la transmisión del calor desde el arco al area de la soldadura. Se utiliza donde se requiere un alto consumo de calor, como en soldaduras de piezas gruesas, y cuando se suelda cobre y aluminio, los cuales por ser buenos conductores del calor, remueven rápidamente el calor de la soldadura."
+          ],
+          "page": 46,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-044"
+    },
+    {
+      "id": "sec-gmaw-047",
+      "title": "Cuales gases reactivos se utilizan en GMAW",
+      "level": 2,
+      "page": 47,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "CO2: produce una mejor transferencia de metal, produce menos salpicaduras y un arco más estable.",
+            "O2 : tienes las mismas características que el CO2",
+            "H2: en pequeñas concentraciones remueve el óxido ligero y elimina la necesidad de hacer limpieza superficial.",
+            "N2: se usa en la soldadura del cobre."
+          ],
+          "page": 47,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-044"
+    },
+    {
+      "id": "sec-gmaw-048",
+      "title": "Efecto de gases que contienen oxígeno al Argón",
+      "level": 2,
+      "page": 48,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-018",
+          "page": 48
+        }
+      ],
+      "parent_id": "sec-gmaw-044"
+    },
+    {
+      "id": "sec-gmaw-049",
+      "title": "Mezclas de gases más comunes",
+      "level": 2,
+      "page": 49,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Argón y helio",
+            "Argón y oxígeno",
+            "Argón y dióxido de carbono",
+            "Helio, argón y dióxido de carbono."
+          ],
+          "page": 49,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-044"
+    },
+    {
+      "id": "sec-gmaw-050",
+      "title": null,
+      "level": 2,
+      "page": 50,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-019",
+          "page": 50
+        }
+      ],
+      "parent_id": "sec-gmaw-044"
+    },
+    {
+      "id": "sec-gmaw-051",
+      "title": "Métodos de manejo de alambre-electrodo",
+      "level": 1,
+      "page": 51,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-052",
+      "title": "Rodillos impulsores dentro de la máquina alimentadora",
+      "level": 2,
+      "page": 52,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-020",
+          "page": 52
+        },
+        {
+          "type": "image",
+          "image_id": "img-gmaw-021",
+          "page": 52
+        }
+      ],
+      "parent_id": "sec-gmaw-051"
+    },
+    {
+      "id": "sec-gmaw-053",
+      "title": "Carrete de alambre dentro de la pistola de soldar",
+      "level": 2,
+      "page": 53,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-022",
+          "page": 53
+        }
+      ],
+      "parent_id": "sec-gmaw-051"
+    },
+    {
+      "id": "sec-gmaw-054",
+      "title": "Polea de tracción dentro de la pistola de soldar",
+      "level": 2,
+      "page": 54,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-023",
+          "page": 54
+        }
+      ],
+      "parent_id": "sec-gmaw-051"
+    },
+    {
+      "id": "sec-gmaw-055",
+      "title": null,
+      "level": 2,
+      "page": 55,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-gmaw-024",
+          "page": 55
+        }
+      ],
+      "parent_id": "sec-gmaw-051"
+    },
+    {
+      "id": "sec-gmaw-056",
+      "title": "Preparación de la unión",
+      "level": 1,
+      "page": 56,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-gmaw-057",
+      "title": "Que debo hacer...",
+      "level": 2,
+      "page": 57,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "láminas metálicas de 0.005 (0.13 mm) a 3/16 de pulgada (4.8mm) se pueden soldar sin ninguna preparación.",
+            "Las piezas de 0.062 pulgadas ( 1.6 mm) a ⅜de pulgadas se pueden soldar de una sola pasada y con preparación.",
+            "Las piezas de mas de ⅜de pulgada( 10mm) de grosor requieren de preparación previa y varias pasadas de soldadura. No existe un límite de grosor para soldar piezas con este método."
+          ],
+          "page": 57,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-gmaw-056"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-gmaw-001",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        48.0,
+        227.2,
+        215.2,
+        396.7
+      ],
+      "file": "images/gmaw-p01-soldaduras-con-alimentacion-de-alambre-soldadura-de-arco-met.webp",
+      "original_format": "jpeg",
+      "width": 223,
+      "height": 226,
+      "type": "fotografia",
+      "description": "Fotografía de una máquina de soldar roja, de caja rectangular, con mandos, indicadores y bornes en el panel frontal.",
+      "visible_text": null,
+      "caption": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+      "section_id": "sec-gmaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Fuente de poder roja de soldadura con perillas y conectores en el frente",
+      "duplicate_of_xref": false,
+      "sha256_16": "a034ba3703d25028",
+      "source": "visual",
+      "confidence": "low",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-gmaw-002",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 1,
+      "position": "inferior-centro",
+      "bbox": [
+        264.8,
+        292.5,
+        475.1,
+        462.0
+      ],
+      "file": "images/gmaw-p01-soldaduras-con-alimentacion-de-alambre-soldadura-de-arco-met-2.webp",
+      "original_format": "jpeg",
+      "width": 350,
+      "height": 282,
+      "type": "diagrama",
+      "description": "Ilustración del proceso: el alambre baja hacia la pieza, el gas sale en conos alrededor del arco y unas flechas circulares marcan el avance.",
+      "visible_text": null,
+      "caption": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+      "section_id": "sec-gmaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Dibujo del arco GMAW con alambre, gas de protección y charco sobre la pieza",
+      "duplicate_of_xref": false,
+      "sha256_16": "ebff25dd1fdae056",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-gmaw-003",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        515.2,
+        349.6,
+        684.0,
+        518.3
+      ],
+      "file": "images/gmaw-p01-soldaduras-con-alimentacion-de-alambre-soldadura-de-arco-met-3.webp",
+      "original_format": "jpeg",
+      "width": 225,
+      "height": 225,
+      "type": "fotografia",
+      "description": "Fotografía de un rollo de alambre cobrizo enrollado en un carrete negro con un buje central.",
+      "visible_text": null,
+      "caption": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+      "section_id": "sec-gmaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Carrete de alambre de soldadura color cobre sobre un soporte negro",
+      "duplicate_of_xref": false,
+      "sha256_16": "128d672e07219aa3",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-gmaw-004",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/gmaw-p01-soldaduras-con-alimentacion-de-alambre-soldadura-de-arco-met-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde de la Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander UIS",
+      "caption": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+      "section_id": "sec-gmaw-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-005",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 4,
+      "position": "inferior-centro",
+      "bbox": [
+        226.7,
+        237.3,
+        449.9,
+        495.4
+      ],
+      "file": "images/gmaw-p04-como-designa-la-aws-a-este-procedimiento.webp",
+      "original_format": "jpeg",
+      "width": 250,
+      "height": 289,
+      "type": "fotografia",
+      "description": "Una persona con overol azul, careta, guantes y mangas amarillas aplica el arco con una pistola sobre una pieza metálica.",
+      "visible_text": null,
+      "caption": "Como designa la AWS a este procedimiento?",
+      "section_id": "sec-gmaw-004",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Soldador con careta y guantes que suelda una pieza con pistola GMAW",
+      "duplicate_of_xref": false,
+      "sha256_16": "43f8f37e57964c6b",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-gmaw-006",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 7,
+      "position": "centro-centro",
+      "bbox": [
+        30.9,
+        141.6,
+        689.1,
+        503.9
+      ],
+      "file": "images/gmaw-p07-esquema-del-equipo.webp",
+      "original_format": "jpeg",
+      "width": 1415,
+      "height": 779,
+      "type": "diagrama",
+      "description": "Diagrama de líneas que une la pieza, la pistola, los rodillos, el carrete, la fuente de poder y el cilindro de gas de protección.",
+      "visible_text": "Pieza de trabajo; Pistola de soldar; Interruptor de la pistola de soldar; Conjunto de cables; Cable a tierra de la pieza de trabajo; Extremo del ensamble de cables; Rodillos impulsores movidos por motor; Motor impulsor; Carrete de alambre-electrodo; Flujómetro del gas de protección; Regulador de presión del gas de protección; Cilindro de gas de protección; Fuente de poder de corriente continua y voltaje constante; Control del voltaje; Velocidad de alimentación del alambre-electrodo; Gas de protección hacia la válvula controlada eléctricamente; Circuito del interruptor para el motor de alimentación del alambre-electrodo y el arco; Corriente de soldar hacia la pieza de trabajo; Suministro de gas de protección; Toma de corriente",
+      "caption": "Esquema del equipo",
+      "section_id": "sec-gmaw-007",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Esquema del equipo GMAW con fuente, alimentador, pistola y cilindro de gas",
+      "duplicate_of_xref": false,
+      "sha256_16": "1e955bc8cfaf9666",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-007",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 12,
+      "position": "centro-centro",
+      "bbox": [
+        61.6,
+        111.6,
+        601.6,
+        517.4
+      ],
+      "file": "images/gmaw-p12-pistola-de-soldadura-gmaw.webp",
+      "original_format": "jpeg",
+      "width": 641,
+      "height": 853,
+      "type": "diagrama",
+      "description": "Esquema en corte de la pistola avanzando sobre el metal base, con el alambre, el gas de protección y el charco de soldadura.",
+      "visible_text": "Entrada del gas de protección; Alambre-electrodo sólido; Conductor de corriente; Dirección de la soldadura; Guía del alambre-electrodo y tubo de contacto; Boquilla del gas; Gas de protección; Electrodo consumible; Metal de aporte; Metal base; Arco",
+      "caption": "Pistola de soldadura GMAW",
+      "section_id": "sec-gmaw-012",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Corte de la pistola GMAW con boquilla, tubo de contacto, arco y metal de aporte",
+      "duplicate_of_xref": false,
+      "sha256_16": "a621cdfbe2e8b125",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-008",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 13,
+      "position": "centro-centro",
+      "bbox": [
+        60.7,
+        166.0,
+        659.3,
+        485.7
+      ],
+      "file": "images/gmaw-p13-proceso-de-soldadura-gmaw.webp",
+      "original_format": "jpeg",
+      "width": 1103,
+      "height": 589,
+      "type": "diagrama",
+      "description": "Ilustración del alambre fundiéndose bajo la capa de gas, con el metal solidificado, el metal derretido y las gotas que caen al charco.",
+      "visible_text": "CAPA DE GAS PROTECTOR; PLASMA DE ARCO; METAL DE SOLDADURA SOLIDIFICADO; METAL DE SOLDADURA DERRETIDO; GOTAS DE METAL DERRETIDO",
+      "caption": "Proceso de soldadura GMAW",
+      "section_id": "sec-gmaw-013",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Corte del arco GMAW con gas protector, plasma y gotas de metal derretido",
+      "duplicate_of_xref": false,
+      "sha256_16": "4509ba7a6261ec2c",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-009",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 14,
+      "position": "centro-centro",
+      "bbox": [
+        10.6,
+        99.5,
+        690.8,
+        466.2
+      ],
+      "file": "images/gmaw-p14-lamina-pagina-14.webp",
+      "original_format": "jpeg",
+      "width": 907,
+      "height": 489,
+      "type": "fotografia",
+      "description": "Collage de tres fotos del arco encendido: a la izquierda y al centro se ven chispas y humo, y a la derecha el arco ilumina la pieza.",
+      "visible_text": null,
+      "caption": null,
+      "section_id": "sec-gmaw-014",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres fotografías del arco de soldadura con chispas sobre metal oscuro",
+      "duplicate_of_xref": false,
+      "sha256_16": "e1993e796ba32acb",
+      "source": "visual",
+      "confidence": "medium",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-gmaw-010",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 15,
+      "position": "centro-centro",
+      "bbox": [
+        175.3,
+        125.1,
+        463.3,
+        515.3
+      ],
+      "file": "images/gmaw-p15-tipos-de-pistolas.webp",
+      "original_format": "jpeg",
+      "width": 671,
+      "height": 909,
+      "type": "fotografia",
+      "description": "Fotografía de pistolas de soldar: dos superiores de cuello curvo, una intermedia curva marcada B y una inferior más recta marcada C.",
+      "visible_text": "(A); (B); (C)",
+      "caption": "Tipos de pistolas",
+      "section_id": "sec-gmaw-015",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cuatro pistolas GMAW marcadas A, B y C, dos de cuello curvo y una recta",
+      "duplicate_of_xref": false,
+      "sha256_16": "ed1bc3b2f99c98b0",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-011",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 28,
+      "position": "centro-centro",
+      "bbox": [
+        90.0,
+        95.8,
+        630.0,
+        520.6
+      ],
+      "file": "images/gmaw-p28-lamina-pagina-28.webp",
+      "original_format": "jpeg",
+      "width": 612,
+      "height": 778,
+      "type": "grafico",
+      "description": "Curvas de velocidad de alimentación según el amperaje para alambres de 0,030, 0,035, 0,045 y 0,062 pulgadas, con escalas en pulgadas y metros por minuto.",
+      "visible_text": "Velocidad de alimentación de alambre-electrodo. Pulgadas por minuto; Velocidad de alimentación de alambre-electrodo. Metros por minuto; Corriente de soldar, amperios (corriente continua, electrodo en positivo); 0.030 pulg (0.8 mm); 0.035 pulg (0.9 mm); 0.045 pulg (1.2 mm); 0.062 pulg (1.6 mm)",
+      "caption": null,
+      "section_id": "sec-gmaw-028",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Gráfico de corriente de soldar frente a velocidad de alimentación del alambre",
+      "duplicate_of_xref": false,
+      "sha256_16": "5ba1a5bb29e14890",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-012",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 32,
+      "position": "centro-centro",
+      "bbox": [
+        104.4,
+        183.0,
+        615.5,
+        513.4
+      ],
+      "file": "images/gmaw-p32-protuberancia-del-electrodo.webp",
+      "original_format": "jpeg",
+      "width": 479,
+      "height": 741,
+      "type": "diagrama",
+      "description": "Corte de la boquilla y el tubo de contacto que señala la extensión del electrodo, las distancias a la pieza y la longitud del arco.",
+      "visible_text": "Boquilla; Tubo de contacto; Extensión del electrodo; Distancia entre la boquilla y la pieza de trabajo; Distancia entre el tubo de contacto y la pieza de trabajo; Pieza de trabajo; Longitud del arco",
+      "caption": "Protuberancia del electrodo",
+      "section_id": "sec-gmaw-032",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Esquema de la extensión del electrodo, la boquilla y la longitud del arco",
+      "duplicate_of_xref": false,
+      "sha256_16": "e4cb9d6a98fa5101",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-013",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 34,
+      "position": "centro-centro",
+      "bbox": [
+        41.5,
+        152.8,
+        689.5,
+        391.3
+      ],
+      "file": "images/gmaw-p34-angulo-de-la-pistola.webp",
+      "original_format": "jpeg",
+      "width": 1320,
+      "height": 486,
+      "type": "diagrama",
+      "description": "Serie de pistolas sobre una línea: a la izquierda la técnica inversa y a la derecha la directa, con un ángulo de 30 grados y la flecha de avance.",
+      "visible_text": "INVERSA; DIRECTA; DIRECCIÓN DE LA SOLDADURA; 30°",
+      "caption": "Ángulo de la pistola",
+      "section_id": "sec-gmaw-034",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Pistolas en ángulo inverso y directo respecto a la dirección de la soldadura",
+      "duplicate_of_xref": false,
+      "sha256_16": "8e6967df6d69ddef",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-014",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 35,
+      "position": "centro-centro",
+      "bbox": [
+        27.6,
+        80.4,
+        679.3,
+        452.2
+      ],
+      "file": "images/gmaw-p35-lamina-pagina-35.webp",
+      "original_format": "jpeg",
+      "width": 589,
+      "height": 336,
+      "type": "diagrama",
+      "description": "A la izquierda el arrastre deja un cordón alto y estrecho de penetración profunda; a la derecha el empuje deja un cordón bajo y ancho de penetración superficial.",
+      "visible_text": "METAL DE SOLDADURA SOLIDIFICADO; GAS PROTECTOR; DIRECCIÓN DEL DESPLAZAMIENTO; METAL BASE; METAL DE SOLDADURA DERRETIDO; PENETRACIÓN PROFUNDA – CONTORNO DE CORDÓN ALTO Y ESTRECHO; Soldadura inversa o ángulo de arrastre.; PENETRACIÓN SUPERFICIAL – CONTORNO DE CORDÓN BAJO Y ANCHO; Soldadura directa o ángulo de empuje.",
+      "caption": null,
+      "section_id": "sec-gmaw-035",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Comparación de soldadura con ángulo de arrastre y con ángulo de empuje",
+      "duplicate_of_xref": false,
+      "sha256_16": "9f28be305160ed6e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-015",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 41,
+      "position": "centro-centro",
+      "bbox": [
+        90.0,
+        28.2,
+        630.0,
+        511.8
+      ],
+      "file": "images/gmaw-p41-lamina-pagina-41.webp",
+      "original_format": "jpeg",
+      "width": 788,
+      "height": 880,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla que compara cortocircuito, globular, rocío y rocío pulsado según condiciones de corriente, características del cordón y aplicaciones.",
+      "visible_text": "Modo de transferencia; Cortocircuito; Globular; Por rocío; Por rocío pulsado; Condiciones para este modo; Características; Aplicaciones; Bajos niveles de corriente; Electrodos de poco diámetro; Niveles de corriente justo por encima de la transferencia por cortocircuito; Ocurre entre la transferencia por cortocircuito y por rocío; Ocurre por encima de la de transición; Corriente continua, electrodo en positivo; Gas de protección rico en argón; Igual que por rocío, pero utiliza una fuente de poder que produce pulsos elevados; Bajas tasas de deposición; Produce algunas salpicaduras; Poca penetración; Altas tasas de deposición; Libre de salpicaduras; Excelente penetración; Igual que por rocío, pero puede realizarse en todas las posiciones; Para piezas de calibre menor que 12; Pasada de raíz; Vertical hacia arriba; Vertical hacia abajo; En posición elevada; Plana horizontal; Para piezas de calibre mayor que 12; Para piezas de más de 1/8 de pulgada; Para todas las posiciones",
+      "caption": null,
+      "section_id": "sec-gmaw-041",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tabla de condiciones, características y aplicaciones de los modos de transferencia",
+      "duplicate_of_xref": false,
+      "sha256_16": "b015f33741c22c3e",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-gmaw-016",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 42,
+      "position": "centro-centro",
+      "bbox": [
+        110.7,
+        90.2,
+        633.3,
+        532.0
+      ],
+      "file": "images/gmaw-p42-tipos-de-transferencia-de-metal.webp",
+      "original_format": "jpeg",
+      "width": 716,
+      "height": 847,
+      "type": "diagrama",
+      "description": "Figura 6-6 con tres esquemas del tubo de contacto y la pieza: a cortocircuito, b globular y c por rocío, este último con rótulos de electrodo y gas.",
+      "visible_text": "(a); (b); (c); Electrodo; Tubo de contacto; Gas de protección; Pieza de trabajo; Figura 6-6. Los tres tipos de transferencia de metal en la soldadura de arco metálico con protección de gas: a) cortocircuito, b) globular, y c) por rocío.",
+      "caption": "Tipos de transferencia de metal",
+      "section_id": "sec-gmaw-042",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres cortes del arco en transferencia por cortocircuito, globular y rocío",
+      "duplicate_of_xref": false,
+      "sha256_16": "534c6e352e7fbe5d",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-017",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 43,
+      "position": "centro-centro",
+      "bbox": [
+        90.8,
+        27.0,
+        629.2,
+        513.0
+      ],
+      "file": "images/gmaw-p43-lamina-pagina-43.webp",
+      "original_format": "jpeg",
+      "width": 718,
+      "height": 648,
+      "type": "grafico",
+      "description": "Curva que separa la región de transferencia globular, a baja corriente, de la región por rociado, e indica la corriente de transición.",
+      "visible_text": "GOTAS POR SEGUNDO; CORRIENTE DE SOLDADURA; REGIÓN DE TRANSFERENCIA GLOBULAR; REGIÓN DE TRANSFERENCIA POR ROCIADO; CORRIENTE DE TRANSICIÓN; 50; 100; 150; 200",
+      "caption": null,
+      "section_id": "sec-gmaw-043",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Gráfico de gotas por segundo frente a la corriente, con zona globular y por rociado",
+      "duplicate_of_xref": false,
+      "sha256_16": "13e61db0d804098d",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-018",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 48,
+      "position": "centro-centro",
+      "bbox": [
+        49.3,
+        172.1,
+        670.7,
+        367.9
+      ],
+      "file": "images/gmaw-p48-efecto-de-gases-que-contienen-oxigeno-al-argon.webp",
+      "original_format": "jpeg",
+      "width": 289,
+      "height": 917,
+      "type": "diagrama",
+      "description": "Perfiles del cordón y la penetración para helio, argón, dióxido de carbono, argón con 1 % de oxígeno y argón con 5 % de oxígeno.",
+      "visible_text": "Helio; Argón; Dióxido de carbono; 99% de argón y 1.0% de oxígeno; 95% de argón y 5% de oxígeno",
+      "caption": "Efecto de gases que contienen oxígeno al Argón",
+      "section_id": "sec-gmaw-048",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cinco cortes de cordón según el gas: helio, argón, CO2 y mezclas con oxígeno",
+      "duplicate_of_xref": false,
+      "sha256_16": "c9cc6b5c9f810602",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-019",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 50,
+      "position": "centro-centro",
+      "bbox": [
+        31.7,
+        136.8,
+        695.5,
+        394.4
+      ],
+      "file": "images/gmaw-p50-lamina-pagina-50.webp",
+      "original_format": "jpeg",
+      "width": 675,
+      "height": 262,
+      "type": "diagrama",
+      "description": "A la izquierda se acumulan proyecciones en la tobera; a la derecha unas flechas marcan el aire que entra hacia el arco.",
+      "visible_text": "Proyecciones en la tobera; Aire",
+      "caption": null,
+      "section_id": "sec-gmaw-050",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos dibujos de la tobera: uno con proyecciones de soldadura y otro con entrada de aire",
+      "duplicate_of_xref": false,
+      "sha256_16": "d9d2a1f9193b2726",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-020",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 52,
+      "position": "centro-centro",
+      "bbox": [
+        151.8,
+        115.7,
+        689.5,
+        525.4
+      ],
+      "file": "images/gmaw-p52-rodillos-impulsores-dentro-de-la-maquina-alimentadora.webp",
+      "original_format": "jpeg",
+      "width": 685,
+      "height": 899,
+      "type": "diagrama",
+      "description": "Corte del alimentador con rodillo guía, tuerca de mariposa, resorte, tubo guía y el alambre que entra al ducto acorazado.",
+      "visible_text": "Tuerca de mariposa para ajustar la presión sobre el alambre-electrodo; Rodillo guía superior; Resorte; Tubo guía; Dirección de avance del alambre-electrodo; Alambre-electrodo proveniente del carrete; Cable de soldar; El alambre-electrodo entra al ducto acorazado; Base estructural fundida; Rodillo guía impulsado por motor (el motor queda al otro lado del rodillo); gura 6-11. Mecanismo típico de alimentación de alambre-electrodo provisio de tambores impulsores.",
+      "caption": "Rodillos impulsores dentro de la máquina alimentadora",
+      "section_id": "sec-gmaw-052",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Mecanismo de rodillos que empujan el alambre-electrodo dentro del alimentador",
+      "duplicate_of_xref": false,
+      "sha256_16": "41a1f3fc9a0bd725",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-gmaw-021",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 52,
+      "position": "inferior-izquierda",
+      "bbox": [
+        10.8,
+        343.3,
+        234.8,
+        514.2
+      ],
+      "file": "images/gmaw-p52-rodillos-impulsores-dentro-de-la-maquina-alimentadora-2.webp",
+      "original_format": "jpeg",
+      "width": 312,
+      "height": 238,
+      "type": "fotografia",
+      "description": "Fotografía del mecanismo de arrastre: dos rodillos metálicos, una palanca y el alambre que sale hacia un conducto negro.",
+      "visible_text": null,
+      "caption": "Rodillos impulsores dentro de la máquina alimentadora",
+      "section_id": "sec-gmaw-052",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Primer plano de los rodillos impulsores con el alambre pasando entre ellos",
+      "duplicate_of_xref": false,
+      "sha256_16": "50c9d1b0ee3723ce",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-gmaw-022",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 53,
+      "position": "centro-centro",
+      "bbox": [
+        82.1,
+        111.6,
+        622.1,
+        515.7
+      ],
+      "file": "images/gmaw-p53-carrete-de-alambre-dentro-de-la-pistola-de-soldar.webp",
+      "original_format": "jpeg",
+      "width": 547,
+      "height": 731,
+      "type": "diagrama",
+      "description": "Dibujo de una pistola con empuñadura, cuello y un carrete en la parte superior, identificada como figura 6-12.",
+      "visible_text": "Figura 6-12. Pistola de soldar con carrete para alambre-electrodo blando.",
+      "caption": "Carrete de alambre dentro de la pistola de soldar",
+      "section_id": "sec-gmaw-053",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Pistola de soldar con un carrete de alambre montado sobre el cuerpo",
+      "duplicate_of_xref": false,
+      "sha256_16": "a09bdc0afe5b2c6d",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-023",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 54,
+      "position": "centro-centro",
+      "bbox": [
+        81.0,
+        185.6,
+        621.0,
+        457.7
+      ],
+      "file": "images/gmaw-p54-polea-de-traccion-dentro-de-la-pistola-de-soldar.webp",
+      "original_format": "png",
+      "width": 439,
+      "height": 871,
+      "type": "diagrama",
+      "description": "Dibujo de una pistola con empuñadura, cuello recto y una manguera que sale hacia la derecha; el pie la llama figura 6-13.",
+      "visible_text": "Figura 6-13. Pistola con polea de tracción.",
+      "caption": "Polea de tracción dentro de la pistola de soldar",
+      "section_id": "sec-gmaw-054",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Pistola de soldar con manguera curva, identificada como pistola con polea de tracción",
+      "duplicate_of_xref": false,
+      "sha256_16": "3ab514780028805f",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-gmaw-024",
+      "source_file": "Proceso de soldadura de arco metálico con protección de gas GMAW.pdf",
+      "page": 55,
+      "position": "centro-centro",
+      "bbox": [
+        126.3,
+        15.7,
+        593.7,
+        515.3
+      ],
+      "file": "images/gmaw-p55-lamina-pagina-55.webp",
+      "original_format": "jpeg",
+      "width": 1395,
+      "height": 1491,
+      "type": "ilustracion",
+      "description": "Lámina con poste giratorio, soporte de brazo, minibrazo de contrapeso, tapa de carrete, carretilla con ruedas y asa de transporte.",
+      "visible_text": "(A); (B); (C); (D); (E); (F); FIGURA 10-29. Una variedad de accesorios está disponible para la mayoría de los sistemas de alimentación del electrodo: (A) poste giratorio, (B) soporte para colgar de un brazo, (C) minibrazo de contrapeso, (D) tapa de carrete, (E) carrerilla de ruedas del alimentador del alambre, (F) asa de transporte.",
+      "caption": null,
+      "section_id": "sec-gmaw-055",
+      "relation": "Contenido principal de la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Seis accesorios de alimentación de alambre marcados de la A a la F",
+      "duplicate_of_xref": false,
+      "sha256_16": "7cb057527e67ecb8",
+      "source": "visual",
+      "confidence": "medium"
+    }
+  ],
+  "tables": [],
+  "links": [],
+  "contacts": [],
+  "seo": {
+    "title": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+    "meta_description": "Los procesos de soldadura con alimentación de alambre, consumen más del 70% de los materiales de aporte que se usan en el mundo, porcentaje que sigue subiendo. Aun cuando este…",
+    "slug": "gmaw",
+    "keywords": [
+      "GMAW",
+      "electrodo",
+      "gas de protección",
+      "polaridad",
+      "argón",
+      "AWS",
+      "soldadura de filete"
+    ],
+    "og_title": "Soldaduras con alimentación de alambre: Soldadura de arco metálico con protección de gas",
+    "og_description": "Los procesos de soldadura con alimentación de alambre, consumen más del 70% de los materiales de aporte que se usan en el mundo, porcentaje que sigue subiendo. Aun cuando este…",
+    "og_image": "images/gmaw-p01-soldaduras-con-alimentacion-de-alambre-soldadura-de-arco-met-2.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 7",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Introducción",
+        "inferred": false
+      },
+      {
+        "name": "Equipo",
+        "inferred": false
+      },
+      {
+        "name": "Procedimiento",
+        "inferred": false
+      },
+      {
+        "name": "Aplicaciones",
+        "inferred": false
+      },
+      {
+        "name": "Ventajas",
+        "inferred": false
+      },
+      {
+        "name": "Desventajas",
+        "inferred": false
+      },
+      {
+        "name": "Variables",
+        "inferred": false
+      },
+      {
+        "name": "Mecanismos de transferencia",
+        "inferred": false
+      },
+      {
+        "name": "Gases de protección",
+        "inferred": false
+      },
+      {
+        "name": "Métodos de manejo de alambre-electrodo",
+        "inferred": false
+      },
+      {
+        "name": "Preparación de la unión",
+        "inferred": false
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date_detail": {
+      "value": "2025-03-21",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}

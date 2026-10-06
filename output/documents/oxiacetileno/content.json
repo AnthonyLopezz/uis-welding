@@ -1,0 +1,1835 @@
+{
+  "id": "documento-005",
+  "slug": "oxiacetileno",
+  "title": "Procesos de soldadura — Soldadura por llama",
+  "description": "la soldadura con acetileno fue utilizada por primera vez a comienzos del siglo XX. Aunque produce excelentes soldaduras en el acero, hoy en día se utiliza poco, ya que es…",
+  "category": "Soldadura",
+  "subcategory": [
+    "Soldadura con oxiacetileno",
+    "Que otros tipos de llamas pueden ocurrir?",
+    "Otros gases",
+    "Aplicaciones"
+  ],
+  "tags": [
+    "oxiacetileno",
+    "seguridad",
+    "soplete",
+    "acetileno",
+    "AWS"
+  ],
+  "language": "es",
+  "author": null,
+  "date": "2026-03-27",
+  "source_file": "Procesos de soldadura oxiacetileno.pdf",
+  "page_count": 42,
+  "featured_image": "images/oxiacetileno-p01-procesos-de-soldadura-soldadura-por-llama-3.webp",
+  "sections": [
+    {
+      "id": "sec-oxiacetileno-001",
+      "title": "Procesos de soldadura — Soldadura por llama",
+      "level": 1,
+      "page": 1,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-001",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-002",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-003",
+          "page": 1
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-004",
+          "page": 1
+        }
+      ],
+      "parent_id": null
+    },
+    {
+      "id": "sec-oxiacetileno-002",
+      "title": "Soldadura con oxiacetileno",
+      "level": 1,
+      "page": 2,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-oxiacetileno-003",
+      "title": "Introducción",
+      "level": 2,
+      "page": 3,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "la soldadura con acetileno fue utilizada por primera vez a comienzos del siglo XX.",
+            "Aunque produce excelentes soldaduras en el acero, hoy en día se utiliza poco, ya que es restringida a ciertas especialidades.",
+            "el bajo costo, su versatilidad y la facilidad para transportarlo, todavía constituye una herramienta esencial.",
+            "la sigla que utiliza la American Welding Society es OFW (oxyfuel welding)"
+          ],
+          "page": 3,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-004",
+      "title": "Equipo de soplete para soldadura.",
+      "level": 2,
+      "page": 4,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-005",
+          "page": 4
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-005",
+      "title": "Soplete",
+      "level": 2,
+      "page": 5,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-006",
+          "page": 5
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-006",
+      "title": "Equipo",
+      "level": 2,
+      "page": 6,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-007",
+          "page": 6
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-007",
+      "title": "Procedimiento",
+      "level": 2,
+      "page": 7,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Cuando se mezclan en proporciones apropiadas en la cámara de mezclado del mango del soplete, el oxígeno y el acetileno producen una flama con una temperatura de 3100oC en la punta del soplete.",
+            "Esta flama funde los bordes de los metales base que se van a unir en un charco común.",
+            "En algunos casos se agrega material de aporte a este charco, el cual proviene de una varilla de soldar.",
+            "Cuando se enfría el charco común y el metal se solidifica, los metales se fusionan en una solo."
+          ],
+          "page": 7,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-008",
+      "title": "Ventajas...",
+      "level": 2,
+      "page": 8,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Bajo costo.",
+            "facilidad del transporte del equipo",
+            "Excelente control de salida de calor y de la viscosidad del charco",
+            "no requiere fuente de poder externa",
+            "Buen control de tamaño y la forma del cordón"
+          ],
+          "page": 8,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-009",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 9,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "póngase el equipo de seguridad para soldar."
+          ],
+          "page": 9,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-008",
+          "page": 9
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-010",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 10,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Asegure los cilindros llenos a un carro de transporte, a una columna del edificio o otro punto de anclaje."
+          ],
+          "page": 10,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-009",
+          "page": 10
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-011",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 11,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "limpie con un trapo limpio y libre de aceite las conexiones que van desde las válvulas a los reguladores de ambos cilindros.",
+            "Abra momentáneamente la válvula, para eliminar impurezas o polvo de la salida de la válvula."
+          ],
+          "page": 11,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-010",
+          "page": 11
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-012",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 12,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Asegúrese que estén instaladas las válvulas check o antiretorno."
+          ],
+          "page": 12,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-011",
+          "page": 12
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-013",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 13,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Atornille cada regulador a su respectivo cilindro. Las roscas para el cilindro de oxígeno son derecha y para el cilindro de acetileno son izquierda."
+          ],
+          "page": 13,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-012",
+          "page": 13
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-014",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 14,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Conecte las mangueras",
+          "page": 14,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-013",
+          "page": 14
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-015",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 15,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Colóquese de tal manera que los cilindros queden entre usted y los reguladores y lentamente, abra las válvulas del cilindro de oxígeno hasta que llegue al tope superior y ya no dé más vueltas.",
+            "Abra gradualmente la válvula del cilindro de acetileno, no más de giro y medio.",
+            "Verificar que los manómetros de alta presión marquen 225 lb/pulg2 en el cilindro de acetileno y unas 2250 lb/pulg2 en el cilindro de oxigeno."
+          ],
+          "page": 15,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-016",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 16,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Purgue cada manguera por separado. Abra la válvula de oxígeno unos ¾ de vuelta, después de vuelta al tornillo de control de presión y ajustelo a unas 6 lb/pulg2 después de algunos segundos cierre la válvula.",
+            "Nunca ajuste el regulador de acetileno a más de 15 lb/pulg2 , ya que podría suceder una disociación explosiva de este gas."
+          ],
+          "page": 16,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-017",
+      "title": "Preparativos y medidas de seguridad.",
+      "level": 2,
+      "page": 17,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Verifique utilizando agua y jabón, que el sistema no tenga fugas en las conexiones del cilindro al regulador y en todas las conexiones de las mangueras. Las burbujas indican fugas."
+          ],
+          "page": 17,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-014",
+          "page": 17
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-018",
+      "title": "Obtención de una llama neutra",
+      "level": 2,
+      "page": 18,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Abra la válvula del acetileno menos de 1/16 de vuelta y con un encendedor de chispa encienda el gas que sale por la boquilla. Como resultado de esto aparecerá una llama anaranjada."
+          ],
+          "page": 18,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-015",
+          "page": 18
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-019",
+      "title": "Obtención de una llama neutra",
+      "level": 2,
+      "page": 19,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Abra lentamente el oxígeno. Cuando se incrementa la salida de oxígeno, la flama de acetileno se vuelve púrpura y más pequeña y comienza a formarse un cono blanco en su interior.",
+            "Si se suministra más oxígeno, el cono interno deja de tener bordes aserrados y adquiere un contorno bien definido."
+          ],
+          "page": 19,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-020",
+      "title": "Obtención de una llama neutra",
+      "level": 2,
+      "page": 20,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-016",
+          "page": 20
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-021",
+      "title": "Temperatura de llama",
+      "level": 2,
+      "page": 21,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-017",
+          "page": 21
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-002"
+    },
+    {
+      "id": "sec-oxiacetileno-022",
+      "title": "Que otros tipos de llamas pueden ocurrir?",
+      "level": 1,
+      "page": 22,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-oxiacetileno-023",
+      "title": "Reacción química en una llama neutra",
+      "level": 2,
+      "page": 23,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "C2H2 + 2.5 O2 2CO2 + H2O",
+          "page": 23,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Esta ecuación quiere decir que se combina una parte de acetileno con dos y media partes de oxígeno para producir una llama neutra.",
+          "page": 23,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-018",
+          "page": 23
+        },
+        {
+          "type": "paragraph",
+          "text": "Reacción primaria de la llama",
+          "page": 23,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-024",
+      "title": "Efecto de la distancia y ángulo del soplete.",
+      "level": 2,
+      "page": 24,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-019",
+          "page": 24
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-020",
+          "page": 24
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-025",
+      "title": "Efecto de velocidad en la calidad de la soldadura.",
+      "level": 2,
+      "page": 25,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-021",
+          "page": 25
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-026",
+      "title": "Efecto del ángulo del soplete en la calidad de la soldadura.",
+      "level": 2,
+      "page": 26,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-022",
+          "page": 26
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-027",
+      "title": "Metal de aporte",
+      "level": 2,
+      "page": 27,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Es muy similar al material base.",
+            "El diámetro de las varillas del metal de aporte varía entre 1/16 a ⅜de pulgada. La letra R que precede al número indica que no fluye electricidad a través de la varilla en el proceso de soldado."
+          ],
+          "page": 27,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-028",
+      "title": "Metal de aporte",
+      "level": 2,
+      "page": 28,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Mínima resistencia a la Estiramiento en 1 pulg (%",
+            "Clasificación de la AWS tracción (miles de lb/pul2) mínimo)",
+            "R45 ___ ___",
+            "R60 60 20",
+            "R65 65 16",
+            "R100 100 14"
+          ],
+          "page": 28,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "table",
+          "table_id": "tbl-oxiacetileno-001",
+          "page": 28
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-029",
+      "title": "Cómo debe tomarse el material de aporte",
+      "level": 2,
+      "page": 29,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-023",
+          "page": 29
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-022"
+    },
+    {
+      "id": "sec-oxiacetileno-030",
+      "title": "Otros gases",
+      "level": 1,
+      "page": 30,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-oxiacetileno-031",
+      "title": "MAPP",
+      "level": 2,
+      "page": 31,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "El gas MAPP es el nombre comercial para la mezcla de gases de metilacetileno (C3H4) y propano (C3H8) Aplicaciones: Cortar, calentar,soldar, metalizar",
+          "page": 31,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-024",
+          "page": 31
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-030"
+    },
+    {
+      "id": "sec-oxiacetileno-032",
+      "title": "Propano y gas natural",
+      "level": 2,
+      "page": 32,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se utilizan pero con limitaciones en la industria de la soldadura. Debido a su relativa baja temperatura, llamas de bajo poder calorífico, raramente se utilizan para otros propósitos que no sean calentar o cortar.",
+          "page": 32,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-030"
+    },
+    {
+      "id": "sec-oxiacetileno-033",
+      "title": "comparación gases",
+      "level": 2,
+      "page": 33,
+      "content": [
+        {
+          "type": "image",
+          "image_id": "img-oxiacetileno-025",
+          "page": 33
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-030"
+    },
+    {
+      "id": "sec-oxiacetileno-034",
+      "title": "Hidrógeno",
+      "level": 2,
+      "page": 34,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Produce sólo una llama de combustión primaria, a diferencia de los gases de hidrocarbono, los cuales tienen una combustión primaria y secundaria.",
+          "page": 34,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "la llama no tiene color.",
+            "No se utiliza casi por su costo y algunos mitos de sobre su seguridad."
+          ],
+          "page": 34,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-030"
+    },
+    {
+      "id": "sec-oxiacetileno-035",
+      "title": "Aplicaciones",
+      "level": 1,
+      "page": 35,
+      "content": [],
+      "parent_id": null
+    },
+    {
+      "id": "sec-oxiacetileno-036",
+      "title": "Para qué tipo de trabajos es más apropiada la soldadura con acetileno?",
+      "level": 2,
+      "page": 36,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Soldaduras de hojas delgadas, de tuberías y de tubos de diámetro pequeño.",
+            "Reparación o mantenimiento en los que se puede realizar varios tipos de trabajos de reparación con el mismo equipo."
+          ],
+          "page": 36,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    },
+    {
+      "id": "sec-oxiacetileno-037",
+      "title": "Para qué tipo de trabajos definitivamente no es buena elección la soldadura con oxiacetileno?",
+      "level": 2,
+      "page": 37,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "La soldadura de piezas gruesas con acetileno no resulta económica si se le compara con otros técnicas,por ejemplo la soldadura con arco.",
+          "page": 37,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    },
+    {
+      "id": "sec-oxiacetileno-038",
+      "title": "Desventajas de la soldadura con oxiacetileno?",
+      "level": 2,
+      "page": 38,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En general, la mayoría de los demás tipos de soldadura son más rápidos, ya que ellos pueden aplicar más metal de aporte en un tiempo determinado.",
+          "page": 38,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    },
+    {
+      "id": "sec-oxiacetileno-039",
+      "title": "Que metales se pueden soldar fácilmente con la soldadura de oxiacetileno?",
+      "level": 2,
+      "page": 39,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Bronce",
+            "Cobre",
+            "Plomo",
+            "Aceros de baja aleación",
+            "Hierro forjado",
+            "Hierro colado"
+          ],
+          "page": 39,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    },
+    {
+      "id": "sec-oxiacetileno-040",
+      "title": "Homework",
+      "level": 2,
+      "page": 40,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Se puede soldar aluminio y acero inoxidable con soldadura de oxiacetileno? explique.",
+          "page": 40,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    },
+    {
+      "id": "sec-oxiacetileno-041",
+      "title": "Que otros trabajos pueden realizarse con un equipo de oxiacetileno?",
+      "level": 2,
+      "page": 41,
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corte",
+            "decapado de óxido",
+            "Endurecimiento superficial (cementado)",
+            "precalentamiento",
+            "postcalentamiento",
+            "tratamientos termico superficiales",
+            "forjado",
+            "Calentamiento para revenido y recocido"
+          ],
+          "page": 41,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    },
+    {
+      "id": "sec-oxiacetileno-042",
+      "title": "Ejercicio",
+      "level": 2,
+      "page": 42,
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "En un proceso de soldadura por llama propano (C3H8)-oxígeno (O2),",
+          "page": 42,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "con suficiente cantidad de oxígeno se obtienen 300l de CO2 medidos a 0,96 atm y 285 K. Calcular:",
+          "page": 42,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "a) Número de moles de todas las sustancias que intervienen en la reacción. b) Volumen de aire necesario, en condiciones normales, suponiendo que la composición volumétrica del aire es 20% de oxígeno y 80% de nitrógeno.",
+          "page": 42,
+          "source": "extracted",
+          "confidence": "high"
+        },
+        {
+          "type": "paragraph",
+          "text": "Datos: R =0.082 L *atm *mol-1 * K-1",
+          "page": 42,
+          "source": "extracted",
+          "confidence": "high"
+        }
+      ],
+      "parent_id": "sec-oxiacetileno-035"
+    }
+  ],
+  "images": [
+    {
+      "id": "img-oxiacetileno-001",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 1,
+      "position": "centro-izquierda",
+      "bbox": [
+        36.0,
+        188.5,
+        169.5,
+        400.8
+      ],
+      "file": "images/oxiacetileno-p01-procesos-de-soldadura-soldadura-por-llama.webp",
+      "original_format": "jpeg",
+      "width": 178,
+      "height": 283,
+      "type": "fotografia",
+      "description": "Fotografía de un equipo portátil de oxiacetileno: cilindros sujetos a un carro rojo de dos ruedas, con mangueras y reguladores.",
+      "visible_text": null,
+      "caption": "Procesos de soldadura — Soldadura por llama",
+      "section_id": "sec-oxiacetileno-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Carro con dos cilindros de gas, uno negro y otro rojo, y reguladores azules",
+      "duplicate_of_xref": false,
+      "sha256_16": "1dd1c400f26a5fff",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-002",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 1,
+      "position": "centro-centro",
+      "bbox": [
+        244.1,
+        248.4,
+        456.0,
+        460.2
+      ],
+      "file": "images/oxiacetileno-p01-procesos-de-soldadura-soldadura-por-llama-2.webp",
+      "original_format": "jpeg",
+      "width": 220,
+      "height": 220,
+      "type": "diagrama",
+      "description": "Esquema de un puesto de oxicorte o soldadura con operador, carro, mangueras y soplete; los rótulos internos son pequeños.",
+      "visible_text": null,
+      "caption": "Procesos de soldadura — Soldadura por llama",
+      "section_id": "sec-oxiacetileno-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dibujo de una persona soldando con soplete junto a un carro de cilindros",
+      "duplicate_of_xref": false,
+      "sha256_16": "ced03b6c6f134f80",
+      "source": "visual",
+      "confidence": "low",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-003",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 1,
+      "position": "inferior-derecha",
+      "bbox": [
+        484.9,
+        336.3,
+        684.0,
+        523.0
+      ],
+      "file": "images/oxiacetileno-p01-procesos-de-soldadura-soldadura-por-llama-3.webp",
+      "original_format": "jpeg",
+      "width": 383,
+      "height": 359,
+      "type": "diagrama",
+      "description": "Comparación de la llama carburante, la neutra y la oxidante, con conos azul claro, amarillo y azul marino.",
+      "visible_text": "Llama Carburante; Azul Claro; Amarillo; Azul Marino; Llama Neutral; Zona Reductora de Fundición; Llama Oxidante; Azul Claro; Azul Marino",
+      "caption": "Procesos de soldadura — Soldadura por llama",
+      "section_id": "sec-oxiacetileno-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": true,
+      "hero": true,
+      "alt": "Tres llamas de soplete: carburante, neutra y oxidante, con sus zonas de color",
+      "duplicate_of_xref": false,
+      "sha256_16": "f39a5a13aca69aff",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-oxiacetileno-004",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 1,
+      "position": "inferior-izquierda",
+      "bbox": [
+        23.2,
+        417.0,
+        215.2,
+        509.2
+      ],
+      "file": "images/oxiacetileno-p01-procesos-de-soldadura-soldadura-por-llama-4.webp",
+      "original_format": "jpeg",
+      "width": 256,
+      "height": 123,
+      "type": "logo",
+      "description": "Logotipo verde de la Universidad Industrial de Santander junto a las siglas UIS.",
+      "visible_text": "Universidad Industrial de Santander UIS",
+      "caption": "Procesos de soldadura — Soldadura por llama",
+      "section_id": "sec-oxiacetileno-001",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "low",
+      "contains_important_info": false,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Logotipo de la Universidad Industrial de Santander (UIS)",
+      "duplicate_of_xref": false,
+      "sha256_16": "516afcb02b9a2b2e",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-005",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 4,
+      "position": "centro-centro",
+      "bbox": [
+        87.4,
+        117.8,
+        622.6,
+        521.8
+      ],
+      "file": "images/oxiacetileno-p04-equipo-de-soplete-para-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 1167,
+      "height": 881,
+      "type": "fotografia",
+      "description": "Fotografía del maletín con dos juegos de manómetros, cuerpos de soplete, boquillas y la tapa que muestra un corte con soplete.",
+      "visible_text": "VICTOR; Journeyman; The Professional's Choice; Grade \"T\" Hose; A THERMADYNE Company",
+      "caption": "Equipo de soplete para soldadura.",
+      "section_id": "sec-oxiacetileno-004",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Caja abierta de un equipo Victor Journeyman con sopletes, boquillas y reguladores",
+      "duplicate_of_xref": false,
+      "sha256_16": "ffc4cefda44b7cc4",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-006",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 5,
+      "position": "centro-centro",
+      "bbox": [
+        18.0,
+        187.0,
+        702.0,
+        353.0
+      ],
+      "file": "images/oxiacetileno-p05-soplete.webp",
+      "original_format": "jpeg",
+      "width": 1413,
+      "height": 343,
+      "type": "diagrama",
+      "description": "Esquema longitudinal del soplete: entran las dos mangueras, los gases se mezclan y la mezcla sale por la punta.",
+      "visible_text": "CONEXIÓN DE LA MANGUERA DE ACETILENO; VÁLVULA DE CONTROL DE ACETILENO; ACETILENO; MEZCLADOR; MEZCLA DE OXÍGENO Y ACETILENO; CONEXIÓN DE LA MANGUERA DE OXÍGENO; VÁLVULA DE CONTROL DE OXÍGENO; OXÍGENO; PUNTA",
+      "caption": "Soplete",
+      "section_id": "sec-oxiacetileno-005",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Corte del soplete con válvulas de acetileno y oxígeno, mezclador y punta",
+      "duplicate_of_xref": false,
+      "sha256_16": "d7595bb351019572",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-007",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 6,
+      "position": "centro-centro",
+      "bbox": [
+        60.3,
+        175.8,
+        684.0,
+        478.4
+      ],
+      "file": "images/oxiacetileno-p06-equipo.webp",
+      "original_format": "jpeg",
+      "width": 602,
+      "height": 292,
+      "type": "diagrama",
+      "description": "Dibujo de las bombonas de acetileno y oxígeno unidas por mangueras al cuerpo del soplete, con puntas de soldar y de corte.",
+      "visible_text": "REGULADORES DE PRESIÓN; PUNTA DE SOLDADURA O DE SOLDADURA FUERTE; CABEZA DE CORTE; VÁLVULAS DE ANTI-RETORNO; CUERPO DEL SOPLETE; CADENA DE SEGURIDAD; MANGUERAS DE GAS; BOMBONA DE GAS DE ACETILENO; BOMBONA DE OXÍGENO",
+      "caption": "Equipo",
+      "section_id": "sec-oxiacetileno-006",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Equipo de oxiacetileno con bombonas, reguladores, mangueras y soplete de corte",
+      "duplicate_of_xref": false,
+      "sha256_16": "b2c0e052def9430c",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-008",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 9,
+      "position": "centro-centro",
+      "bbox": [
+        94.6,
+        210.4,
+        586.9,
+        461.2
+      ],
+      "file": "images/oxiacetileno-p09-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 861,
+      "height": 380,
+      "type": "fotografia",
+      "description": "Collage con careta de soldar, camisa roja, pantalón y delantal de carnaza, dos pares de guantes, orejeras y tapones.",
+      "visible_text": "LINCOLN ELECTRIC; VIKING",
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-009",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Equipo de protección: careta, camisa, pantalón, delantal, guantes y protección auditiva",
+      "duplicate_of_xref": false,
+      "sha256_16": "b27d7b85042f0591",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-oxiacetileno-009",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 10,
+      "position": "centro-centro",
+      "bbox": [
+        180.3,
+        209.3,
+        524.9,
+        476.9
+      ],
+      "file": "images/oxiacetileno-p10-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 636,
+      "height": 494,
+      "type": "fotografia",
+      "description": "Fotografía de dos manos enganchando una cadena alrededor de un cilindro verde y un soporte metálico.",
+      "visible_text": null,
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-010",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Manos que aseguran con una cadena un cilindro a un tubo vertical",
+      "duplicate_of_xref": false,
+      "sha256_16": "e0829d5d9586a216",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-010",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 11,
+      "position": "inferior-centro",
+      "bbox": [
+        196.9,
+        304.8,
+        523.1,
+        519.0
+      ],
+      "file": "images/oxiacetileno-p11-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 635,
+      "height": 417,
+      "type": "fotografia",
+      "description": "Fotografía de una mano girando la manija de la válvula en la parte superior de un cilindro.",
+      "visible_text": null,
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-011",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Mano que abre un momento la válvula de un cilindro de gas",
+      "duplicate_of_xref": false,
+      "sha256_16": "067c3cad4c13d866",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-011",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 12,
+      "position": "centro-centro",
+      "bbox": [
+        115.9,
+        180.0,
+        593.5,
+        489.2
+      ],
+      "file": "images/oxiacetileno-p12-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 1395,
+      "height": 903,
+      "type": "diagrama",
+      "description": "Dibujo de las mangueras con un recuadro que corta la válvula de combustible, la de oxígeno y la cámara de mezcla.",
+      "visible_text": "VÁLVULA DE COMBUSTIBLE; CÁMARA DE MEZCLA; OXÍGENO; VÁLVULA DE OXÍGENO; GAS COMBUSTIBLE",
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-012",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Esquema de válvulas antirretorno en las mangueras de oxígeno y gas combustible",
+      "duplicate_of_xref": false,
+      "sha256_16": "8c63584898f439ab",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-012",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 13,
+      "position": "inferior-centro",
+      "bbox": [
+        154.1,
+        233.9,
+        565.9,
+        506.9
+      ],
+      "file": "images/oxiacetileno-p13-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 641,
+      "height": 425,
+      "type": "fotografia",
+      "description": "Fotografía de un regulador con dos manómetros mientras una mano lo atornilla y otra sostiene una llave.",
+      "visible_text": null,
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-013",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Manos que ajustan un regulador de presión sobre la válvula de un cilindro",
+      "duplicate_of_xref": false,
+      "sha256_16": "3f791221206889c3",
+      "source": "visual",
+      "confidence": "low",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-013",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 14,
+      "position": "inferior-centro",
+      "bbox": [
+        133.7,
+        250.0,
+        586.3,
+        482.6
+      ],
+      "file": "images/oxiacetileno-p14-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 714,
+      "height": 367,
+      "type": "diagrama",
+      "description": "Corte de la manguera doble: el conducto verde lleva oxígeno y el naranja el combustible, desde dos cilindros encadenados.",
+      "visible_text": "OXÍGENO; COMBUSTIBLE; MANGUERA DOBLE",
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-014",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Manguera doble conectada a los cilindros, con conductos de oxígeno y combustible",
+      "duplicate_of_xref": false,
+      "sha256_16": "07a361652474f39d",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-014",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 17,
+      "position": "inferior-centro",
+      "bbox": [
+        183.4,
+        266.3,
+        549.5,
+        510.4
+      ],
+      "file": "images/oxiacetileno-p17-preparativos-y-medidas-de-seguridad.webp",
+      "original_format": "jpeg",
+      "width": 642,
+      "height": 428,
+      "type": "fotografia",
+      "description": "Fotografía de un regulador montado en un cilindro mientras una mano aplica líquido con un atomizador sobre las uniones.",
+      "visible_text": null,
+      "caption": "Preparativos y medidas de seguridad.",
+      "section_id": "sec-oxiacetileno-017",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Mano que rocía las conexiones del regulador para buscar fugas",
+      "duplicate_of_xref": false,
+      "sha256_16": "154d1f2f23eeab67",
+      "source": "visual",
+      "confidence": "low",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-015",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 18,
+      "position": "inferior-centro",
+      "bbox": [
+        169.2,
+        269.8,
+        519.0,
+        506.3
+      ],
+      "file": "images/oxiacetileno-p18-obtencion-de-una-llama-neutra.webp",
+      "original_format": "jpeg",
+      "width": 633,
+      "height": 428,
+      "type": "fotografia",
+      "description": "Fotografía de dos manos: una sujeta el cuello del soplete y la otra el encendedor de pedernal frente a la punta.",
+      "visible_text": null,
+      "caption": "Obtención de una llama neutra",
+      "section_id": "sec-oxiacetileno-018",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "medium",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Manos que acercan un encendedor de chispa a la boquilla del soplete",
+      "duplicate_of_xref": false,
+      "sha256_16": "0378035921dc31c1",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-016",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 20,
+      "position": "centro-centro",
+      "bbox": [
+        185.0,
+        120.3,
+        578.2,
+        520.9
+      ],
+      "file": "images/oxiacetileno-p20-obtencion-de-una-llama-neutra.webp",
+      "original_format": "jpeg",
+      "width": 739,
+      "height": 753,
+      "type": "diagrama",
+      "description": "Boquillas B, C y D: llama naranja de acetileno, llama al añadir oxígeno y llama neutra cuando el cono queda definido.",
+      "visible_text": "SÓLO GAS ACETILENO; SE AÑADE ACETILENO CON GAS OXÍGENO; SE AÑADE OXÍGENO HASTA QUE SE CONSIGUE UNA LLAMA NEUTRAL; B; C; D",
+      "caption": "Obtención de una llama neutra",
+      "section_id": "sec-oxiacetileno-020",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tres etapas de la llama: solo acetileno, con oxígeno y llama neutra",
+      "duplicate_of_xref": false,
+      "sha256_16": "60863547184dd038",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-oxiacetileno-017",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 21,
+      "position": "centro-centro",
+      "bbox": [
+        139.3,
+        103.9,
+        537.5,
+        514.9
+      ],
+      "file": "images/oxiacetileno-p21-temperatura-de-llama.webp",
+      "original_format": "jpeg",
+      "width": 677,
+      "height": 656,
+      "type": "grafico",
+      "description": "Curva en grados Fahrenheit que marca la temperatura pico junto al cono interior y el descenso hacia la envoltura exterior.",
+      "visible_text": "°F; Temperatura pico; Temperatura de la llama; 5500; 5000; 4000; 3000; 2000; 1000; Envoltura exterior; Pluma de acetileno; Cono interior",
+      "caption": "Temperatura de llama",
+      "section_id": "sec-oxiacetileno-021",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Gráfico de temperatura de la llama a lo largo del cono, la pluma y la envoltura",
+      "duplicate_of_xref": false,
+      "sha256_16": "c4dee4420c96b2f7",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-018",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 23,
+      "position": "inferior-centro",
+      "bbox": [
+        180.0,
+        319.4,
+        421.2,
+        514.1
+      ],
+      "file": "images/oxiacetileno-p23-reaccion-quimica-en-una-llama-neutra.webp",
+      "original_format": "jpeg",
+      "width": 613,
+      "height": 495,
+      "type": "diagrama",
+      "description": "Ampliación de la punta del soplete donde se indican C2H2 más O2 entrando y 2CO y H2 saliendo en la llama.",
+      "visible_text": "C2H2 + O2; 2CO; H2",
+      "caption": "Reacción química en una llama neutra",
+      "section_id": "sec-oxiacetileno-023",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Detalle de la reacción primaria en el cono de la llama neutra",
+      "duplicate_of_xref": false,
+      "sha256_16": "0406bb2f7aee4590",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-019",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 24,
+      "position": "centro-centro",
+      "bbox": [
+        67.5,
+        133.3,
+        616.6,
+        300.9
+      ],
+      "file": "images/oxiacetileno-p24-efecto-de-la-distancia-y-angulo-del-soplete.webp",
+      "original_format": "jpeg",
+      "width": 937,
+      "height": 286,
+      "type": "diagrama",
+      "description": "Par superior de esquemas: la llama casi vertical calienta una zona ancha y el soplete inclinado reparte el calor a lo largo de la superficie.",
+      "visible_text": "CALOR",
+      "caption": "Efecto de la distancia y ángulo del soplete.",
+      "section_id": "sec-oxiacetileno-024",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos sopletes con la marca CALOR: uno más vertical y otro muy inclinado",
+      "duplicate_of_xref": false,
+      "sha256_16": "e221f35a7ba40815",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-020",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 24,
+      "position": "inferior-centro",
+      "bbox": [
+        67.5,
+        305.4,
+        596.7,
+        505.8
+      ],
+      "file": "images/oxiacetileno-p24-efecto-de-la-distancia-y-angulo-del-soplete-2.webp",
+      "original_format": "jpeg",
+      "width": 919,
+      "height": 348,
+      "type": "diagrama",
+      "description": "Par inferior de esquemas: el soplete inclinado mete el calor en la pieza y el más vertical deja una penetración estrecha y profunda.",
+      "visible_text": "CALOR",
+      "caption": "Efecto de la distancia y ángulo del soplete.",
+      "section_id": "sec-oxiacetileno-024",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Dos sopletes con la marca CALOR y distinta profundidad de penetración",
+      "duplicate_of_xref": false,
+      "sha256_16": "0283d3cc5b374713",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-oxiacetileno-021",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 25,
+      "position": "centro-centro",
+      "bbox": [
+        147.9,
+        135.8,
+        573.7,
+        519.8
+      ],
+      "file": "images/oxiacetileno-p25-efecto-de-velocidad-en-la-calidad-de-la-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 855,
+      "height": 771,
+      "type": "diagrama",
+      "description": "Arriba el soplete a 45 grados; abajo, sobre 152 mm (6 pulg), un cordón demasiado rápido y otro demasiado lento.",
+      "visible_text": "45°; 152 mm (6\"); DEMASIADO RÁPIDA; DEMASIADO LENTA",
+      "caption": "Efecto de velocidad en la calidad de la soldadura.",
+      "section_id": "sec-oxiacetileno-025",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Efecto de ir demasiado rápido o demasiado lento en un cordón de 152 mm",
+      "duplicate_of_xref": false,
+      "sha256_16": "99dca7c9b6a886ec",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-022",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 26,
+      "position": "centro-centro",
+      "bbox": [
+        67.4,
+        134.1,
+        670.2,
+        496.5
+      ],
+      "file": "images/oxiacetileno-p26-efecto-del-angulo-del-soplete-en-la-calidad-de-la-soldadura.webp",
+      "original_format": "jpeg",
+      "width": 1329,
+      "height": 799,
+      "type": "diagrama",
+      "description": "Comparación a 45 grados y 152 mm: un cordón demasiado plano y otro demasiado inclinado, más el rótulo de la práctica 30-2.",
+      "visible_text": "45°; 152 mm (6\"); DEMASIADO PLANA; DEMASIADO INCLINADA; Principios y Aplicaciones de la Soldadura; MATERIAL: HOJA DE ACERO DULCE DE CALIBRE 16; PROCESO: SOLDADURA CON OXIACETILENO EN POSICIÓN PLANA; NÚMERO: PRÁCTICA 30-2; DIBUJADO POR: BILL LAYMAN",
+      "caption": "Efecto del ángulo del soplete en la calidad de la soldadura.",
+      "section_id": "sec-oxiacetileno-026",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Cordones de oxiacetileno demasiado plano y demasiado inclinado, con cajetín de la práctica",
+      "duplicate_of_xref": false,
+      "sha256_16": "15580e7a223d041b",
+      "source": "visual",
+      "confidence": "medium"
+    },
+    {
+      "id": "img-oxiacetileno-023",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 29,
+      "position": "centro-centro",
+      "bbox": [
+        106.1,
+        152.9,
+        598.1,
+        483.6
+      ],
+      "file": "images/oxiacetileno-p29-como-debe-tomarse-el-material-de-aporte.webp",
+      "original_format": "jpeg",
+      "width": 656,
+      "height": 441,
+      "type": "fotografia",
+      "description": "Fotografía de cerca de dos manos: la varilla metálica pasa entre los dedos y se extiende hacia la derecha.",
+      "visible_text": null,
+      "caption": "Cómo debe tomarse el material de aporte",
+      "section_id": "sec-oxiacetileno-029",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Manos que sostienen una varilla de aporte entre los dedos",
+      "duplicate_of_xref": false,
+      "sha256_16": "d27fc019e5d03d68",
+      "source": "visual",
+      "confidence": "high",
+      "visible_text_detail": {
+        "value": null,
+        "confidence": "medium",
+        "source": "visual",
+        "reason": "No se distinguió texto dentro de la imagen"
+      }
+    },
+    {
+      "id": "img-oxiacetileno-024",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 31,
+      "position": "inferior-centro",
+      "bbox": [
+        122.2,
+        255.1,
+        562.5,
+        510.2
+      ],
+      "file": "images/oxiacetileno-p31-mapp.webp",
+      "original_format": "jpeg",
+      "width": 730,
+      "height": 423,
+      "type": "diagrama",
+      "description": "Dos llamas alargadas y azul claro: la superior de oxiacetileno y la inferior de oxy MAPP, más corta.",
+      "visible_text": "LLAMA DE OXIACETILENO; LLAMA DE OXY MAPP®",
+      "caption": "MAPP",
+      "section_id": "sec-oxiacetileno-031",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Comparación de la llama de oxiacetileno y la llama de oxy MAPP",
+      "duplicate_of_xref": false,
+      "sha256_16": "b8b528d3ab94fb0d",
+      "source": "visual",
+      "confidence": "high"
+    },
+    {
+      "id": "img-oxiacetileno-025",
+      "source_file": "Procesos de soldadura oxiacetileno.pdf",
+      "page": 33,
+      "position": "centro-centro",
+      "bbox": [
+        18.0,
+        151.6,
+        702.0,
+        388.4
+      ],
+      "file": "images/oxiacetileno-p33-comparacion-gases.webp",
+      "original_format": "jpeg",
+      "width": 1413,
+      "height": 489,
+      "type": "tabla convertida en imagen",
+      "description": "Tabla que compara la temperatura de llama neutra, la llama principal, la secundaria y el calor total de cinco combustibles.",
+      "visible_text": "Combustible; Temp. de llama neutral °F (°C); Llama principal Btu/pie³ (kcal/m³); Llama secundaria Btu/pie³ (kcal/m³); Calor total Btu/pie³ (kcal/m³); Acetileno 5.589 (3.087) 507 (4.510) 963 (8.570) 1.470 (13.090); Gas MAPP® 5.301 (2.927) 517 (4.600) 1.889 (16.820) 2.406 (21.420); Gas Natural 4.600 (2.538) 11 (98) 989 (8.810) 1.000 (8.900); Propano 4.579 (2.526) 255 (2.270) 2.243 (19.970) 2.498 (22.240); Propileno 5.193 (2.867) 438 (3.900) 1.962 (17.470) 2.371 (21.110)",
+      "caption": "comparación gases",
+      "section_id": "sec-oxiacetileno-033",
+      "relation": "Ilustra la diapositiva",
+      "relevance": "high",
+      "contains_important_info": true,
+      "decorative": false,
+      "show_on_web": true,
+      "thumbnail": false,
+      "hero": false,
+      "alt": "Tabla de temperatura y calor de acetileno, MAPP, gas natural, propano y propileno",
+      "duplicate_of_xref": false,
+      "sha256_16": "6581606ca9d1348b",
+      "source": "visual",
+      "confidence": "medium"
+    }
+  ],
+  "tables": [
+    {
+      "id": "tbl-oxiacetileno-001",
+      "page": 28,
+      "section_id": "sec-oxiacetileno-028",
+      "caption": "Metal de aporte",
+      "headers": [
+        "Clasificación de la AWS",
+        "Mínima resistencia a la tracción (miles de lb/pul2)",
+        "Estiramiento en 1 pulg (% mínimo)"
+      ],
+      "rows": [
+        [
+          "R45",
+          "—",
+          "—"
+        ],
+        [
+          "R60",
+          "60",
+          "20"
+        ],
+        [
+          "R65",
+          "65",
+          "16"
+        ],
+        [
+          "R100",
+          "100",
+          "14"
+        ]
+      ],
+      "notes": "La fila R45 muestra una raya en la lámina, no un número.",
+      "source": "extracted",
+      "confidence": "high"
+    }
+  ],
+  "links": [],
+  "contacts": [],
+  "seo": {
+    "title": "Procesos de soldadura — Soldadura por llama",
+    "meta_description": "la soldadura con acetileno fue utilizada por primera vez a comienzos del siglo XX. Aunque produce excelentes soldaduras en el acero, hoy en día se utiliza poco, ya que es…",
+    "slug": "oxiacetileno",
+    "keywords": [
+      "oxiacetileno",
+      "seguridad",
+      "soplete",
+      "acetileno",
+      "AWS"
+    ],
+    "og_title": "Procesos de soldadura — Soldadura por llama",
+    "og_description": "la soldadura con acetileno fue utilizada por primera vez a comienzos del siglo XX. Aunque produce excelentes soldaduras en el acero, hoy en día se utiliza poco, ya que es…",
+    "og_image": "images/oxiacetileno-p01-procesos-de-soldadura-soldadura-por-llama-3.webp"
+  },
+  "metadata": {
+    "course": "Soldadura",
+    "class_label": "Clase No: 5",
+    "category_source": "extracted",
+    "category_confidence": "high",
+    "subcategories_detail": [
+      {
+        "name": "Soldadura con oxiacetileno",
+        "inferred": false
+      },
+      {
+        "name": "Que otros tipos de llamas pueden ocurrir?",
+        "inferred": false
+      },
+      {
+        "name": "Otros gases",
+        "inferred": false
+      },
+      {
+        "name": "Aplicaciones",
+        "inferred": false
+      }
+    ],
+    "tags_inferred": true,
+    "tags_note": "Etiquetas tomadas de términos que sí aparecen en el texto. No son una taxonomía impresa en el PDF.",
+    "author_detail": {
+      "value": null,
+      "confidence": "low",
+      "source": "unavailable",
+      "reason": "El PDF no trae autor en metadatos ni en las diapositivas."
+    },
+    "date_detail": {
+      "value": "2026-03-27",
+      "confidence": "high",
+      "source": "pdf_metadata",
+      "reason": "Fecha de creación del archivo PDF (exportación desde PowerPoint), no una fecha declarada en el temario."
+    },
+    "language_detail": {
+      "value": "es",
+      "confidence": "high",
+      "source": "extracted",
+      "reason": "El cuerpo de las diapositivas está en español."
+    },
+    "description_detail": {
+      "source": "extracted",
+      "confidence": "high"
+    },
+    "text_coverage": 1.0,
+    "producer": "Microsoft PowerPoint"
+  }
+}
