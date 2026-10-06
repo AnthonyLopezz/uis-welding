@@ -65,3 +65,22 @@ test('normaliza secciones en lecciones/pasos y nunca muestra null', () => {
   assert.equal(c.steps[0].title, 'Lección', 'sin título usa el de la lección');
   assert.deepEqual(c.steps[0].blocks, [{ kind: 'text', variant: 'paragraph', text: 'hola mundo' }]);
 });
+
+test('todos los documentos reales se normalizan sin huecos y sus imágenes existen', async () => {
+  const { readFileSync, existsSync } = await import('node:fs');
+  const index = JSON.parse(readFileSync('output/index.json', 'utf8'));
+  for (const entry of index) {
+    const raw = JSON.parse(readFileSync(`output/documents/${entry.slug}/content.json`, 'utf8'));
+    const c = toTopicContent({ id: entry.slug } as Topic, raw, '/');
+    assert.ok(c.steps.length > 0, `${entry.slug} sin pasos`);
+    for (const l of c.lessons) assert.ok(l.steps.length > 0, `${entry.slug}: lección vacía ${l.id}`);
+    for (const s of c.steps) {
+      assert.ok(s.blocks.length > 0, `${entry.slug}: paso vacío ${s.id}`);
+      assert.doesNotMatch(JSON.stringify(s), /undefined|"null"|NaN/, `${entry.slug}: valor vacío en ${s.id}`);
+    }
+    for (const img of c.images) {
+      const file = img.src.replace('/images/', 'output/documents/').replace(`${entry.slug}/`, `${entry.slug}/images/`);
+      assert.ok(existsSync(file), `${entry.slug}: falta imagen ${file}`);
+    }
+  }
+});

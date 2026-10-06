@@ -16,6 +16,7 @@ export interface AnswerRecord {
   lastWrongAt?: string;
 }
 
+/** 'system' se conserva solo por compatibilidad con progreso guardado: se muestra como claro. */
 export type Theme = 'system' | 'light' | 'dark';
 
 export interface ProgressState {
@@ -33,5 +34,5 @@ export const emptyProgress = (): ProgressState => ({
   topics: {},
   answers: {},
   studyDays: [],
-  preferences: { theme: 'system' },
+  preferences: { theme: 'light' },
 });

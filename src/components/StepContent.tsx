@@ -42,7 +42,7 @@ export function StepContent({ step, headingLevel = 2 }: { step: Step; headingLev
   const H = `h${headingLevel}` as const;
   return (
     <section className="step" aria-labelledby={`t-${step.id}`}>
-      <H id={`t-${step.id}`} className="step__title">{step.title}</H>
+      <H id={`t-${step.id}`} className="step__title" tabIndex={-1}>{step.title}</H>
       <div className="step__body">
         {step.blocks.map((b, i) => <StudyBlock key={i} block={b} />)}
       </div>

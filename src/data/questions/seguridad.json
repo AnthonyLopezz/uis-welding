@@ -317,7 +317,7 @@
       "Helio"
     ],
     "correctAnswer": "CO2",
-    "explanation": "Trampa: el nitrógeno suele considerarse reactivo, pero en la tabla de esta unidad aparece entre los inertes (nitrógeno, argón, helio). El CO2 está en el grupo de gases activos."
+    "explanation": "Error frecuente: el nitrógeno suele considerarse reactivo, pero en la tabla de esta unidad aparece entre los inertes (nitrógeno, argón, helio). El CO2 está en el grupo de gases activos."
   },
   {
     "id": "seg-x02",
@@ -335,7 +335,7 @@
       "Gas activo"
     ],
     "correctAnswer": "Combustible",
-    "explanation": "Trampa: «combustible» y «comburente» se confunden con facilidad. El propano arde (combustible); el único comburente de la tabla es el oxígeno."
+    "explanation": "Error frecuente: «combustible» y «comburente» se confunden con facilidad. El propano arde (combustible); el único comburente de la tabla es el oxígeno."
   },
   {
     "id": "seg-x03",

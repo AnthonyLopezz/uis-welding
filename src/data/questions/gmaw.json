@@ -472,7 +472,7 @@
       "No influye en la penetración"
     ],
     "correctAnswer": "Menos penetración y una soldadura más ancha y delgada",
-    "explanation": "Trampa: los 25° y la penetración profunda corresponden a la técnica INVERSA (arrastre). La directa (empuje) da menos penetración y un cordón ancho y delgado."
+    "explanation": "Error frecuente: los 25° y la penetración profunda corresponden a la técnica INVERSA (arrastre). La directa (empuje) da menos penetración y un cordón ancho y delgado."
   },
   {
     "id": "gmaw-x04",

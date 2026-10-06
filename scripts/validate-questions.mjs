@@ -7,6 +7,11 @@ const TYPES = ['multiple-choice', 'true-false', 'image', 'matching'];
 const read = (p) => JSON.parse(readFileSync(p, 'utf8'));
 
 const errors = [];
+const curation = read('src/data/curation.json');
+const hidden = new Set(curation.hiddenSections);
+const allSections = new Set();
+for (const slug of readdirSync('output/documents')) for (const sec of read(`output/documents/${slug}/content.json`).sections) allSections.add(sec.id);
+for (const id of curation.hiddenSections) if (!allSections.has(id)) errors.push(`curation.json: la sección "${id}" no existe`);
 const ids = new Set();
 let total = 0;
 
@@ -29,6 +34,7 @@ for (const file of readdirSync('src/data/questions')) {
 
     const section = sections.get(q.sectionId);
     if (!section) err(`sectionId "${q.sectionId}" no existe en el documento`);
+    else if (hidden.has(q.sectionId) || hidden.has(section.parent_id)) err(`sectionId "${q.sectionId}" está oculto en curation.json`);
     else if (!section.content.length) err(`sectionId "${q.sectionId}" no tiene contenido (no es un paso de estudio)`);
     else if (q.sourcePage !== undefined && q.sourcePage !== section.page) err(`sourcePage ${q.sourcePage} ≠ página de la sección ${section.page}`);
     if (q.imageId && !images.has(q.imageId)) err(`imageId "${q.imageId}" no existe`);

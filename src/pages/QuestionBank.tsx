@@ -14,7 +14,7 @@ const LEVEL_HINT: Record<Difficulty, string> = {
   easy: 'Datos y definiciones que aparecen directamente en las láminas.',
   medium: 'Comprender y aplicar: por qué ocurre algo, qué elegir en una situación.',
   hard: 'Relacionar conceptos, leer diagramas y tablas, comparar procesos.',
-  expert: 'Preguntas con trampa: cifras intercambiadas, términos parecidos y conceptos que suelen confundirse.',
+  expert: 'Distinguir datos, cifras y conceptos muy parecidos entre sí.',
 };
 
 /** La respuesta solo se monta al abrir la tarjeta: primero se intenta responder mentalmente. */
@@ -69,7 +69,7 @@ export default function QuestionBank() {
   return (
     <div className="stack-lg">
       <PageHeader title="Banco de preguntas">
-        <p className="muted">Todas las preguntas, de fáciles a «para corchar». Intenta responder antes de abrir cada una: verás la respuesta, su justificación y dónde está la información en el material.</p>
+        <p className="muted">Todas las preguntas, de las más fáciles a las de desafío. Intenta responder antes de abrir cada una: verás la respuesta, su justificación y dónde está la información en el material.</p>
       </PageHeader>
       <AsyncView state={data}>
         {({ topics, questions }) => {
@@ -78,7 +78,7 @@ export default function QuestionBank() {
           let n = 0;
           return (
             <>
-              <div className="filters card">
+              <div className="filters filters--simple card">
                 <div className="field">
                   <label htmlFor="b-topic">Tema</label>
                   <select id="b-topic" value={topicId} onChange={(e) => setFilter('tema', e.target.value)}>

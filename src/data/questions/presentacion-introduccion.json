@@ -180,92 +180,6 @@
     "explanation": "En la soldadura de fragua los herreros golpeaban y calentaban el metal una y otra vez hasta que se producía la unión."
   },
   {
-    "id": "intro-q11",
-    "topicId": "presentacion-introduccion",
-    "sectionId": "sec-presentacion-introduccion-013",
-    "sourcePage": 13,
-    "type": "multiple-choice",
-    "difficulty": "medium",
-    "question": "Según el contenido del curso, ¿en qué grupos se clasifican los defectos en soldadura?",
-    "options": [
-      "Defectos dimensionales, discontinuidades estructurales y propiedades defectuosas",
-      "Defectos de pintura, de embalaje y de transporte",
-      "Defectos eléctricos, mecánicos y químicos",
-      "Defectos del soldador, de la careta y del electrodo"
-    ],
-    "correctAnswer": "Defectos dimensionales, discontinuidades estructurales y propiedades defectuosas",
-    "explanation": "La unidad «Defectos en soldadura» del curso se divide en defectos dimensionales, discontinuidades estructurales y propiedades defectuosas."
-  },
-  {
-    "id": "intro-q12",
-    "topicId": "presentacion-introduccion",
-    "sectionId": "sec-presentacion-introduccion-009",
-    "sourcePage": 9,
-    "type": "multiple-choice",
-    "difficulty": "medium",
-    "question": "¿Cuál de estos procesos NO aparece en la lista de procesos de soldadura del curso?",
-    "options": [
-      "Soldadura por llama",
-      "Soldadura por arco sumergido",
-      "Soldadura por resistencia eléctrica",
-      "Soldadura por fricción-agitación"
-    ],
-    "correctAnswer": "Soldadura por fricción-agitación",
-    "explanation": "El curso incluye soldadura por llama, por arco con electrodo revestido, por arco con gas de protección, por arco sumergido y por resistencia eléctrica. La fricción-agitación no está en la lista."
-  },
-  {
-    "id": "intro-q13",
-    "topicId": "presentacion-introduccion",
-    "sectionId": "sec-presentacion-introduccion-011",
-    "sourcePage": 11,
-    "type": "multiple-choice",
-    "difficulty": "medium",
-    "question": "¿Cuál de estos temas se estudia dentro de la unidad de Soldabilidad?",
-    "options": [
-      "Carbono equivalente",
-      "Posiciones de soldadura",
-      "Símbolos de ensayos no destructivos",
-      "Tipos de uniones"
-    ],
-    "correctAnswer": "Carbono equivalente",
-    "explanation": "Soldabilidad incluye aspectos importantes de la soldabilidad, pruebas de soldabilidad, carbono equivalente y temperaturas de precalentamiento. Las posiciones y los tipos de unión son de Terminología, y los símbolos de ensayos son de Simbología."
-  },
-  {
-    "id": "intro-q14",
-    "topicId": "presentacion-introduccion",
-    "sectionId": "sec-presentacion-introduccion-015",
-    "sourcePage": 15,
-    "type": "multiple-choice",
-    "difficulty": "easy",
-    "question": "En la evaluación del curso, ¿qué porcentaje corresponde al laboratorio?",
-    "options": [
-      "20%",
-      "10%",
-      "24%",
-      "6%"
-    ],
-    "correctAnswer": "20%",
-    "explanation": "La evaluación asigna 20% al laboratorio, 10% a trabajos, quices y lecturas, 24% al previo 3 y 6% al refuerzo de inglés."
-  },
-  {
-    "id": "intro-q15",
-    "topicId": "presentacion-introduccion",
-    "sectionId": "sec-presentacion-introduccion-017",
-    "sourcePage": 17,
-    "type": "image",
-    "difficulty": "easy",
-    "imageId": "img-presentacion-introduccion-006",
-    "question": "Este logotipo aparece en la bibliografía del curso. ¿Qué organización representa?",
-    "options": [
-      "American Welding Society (AWS)",
-      "ASM International",
-      "American Petroleum Institute (API)",
-      "American Society of Mechanical Engineers (ASME)"
-    ],
-    "correctAnswer": "American Welding Society (AWS)",
-    "explanation": "El rombo con las siglas AWS corresponde a la American Welding Society, referencia bibliográfica del curso junto al ASM Handbook volumen 6."
-  },
-  {
     "id": "intro-q16",
     "topicId": "presentacion-introduccion",
     "sectionId": "sec-presentacion-introduccion-034",
@@ -297,7 +211,7 @@
       "Solo se considera soldadura la unión de metales"
     ],
     "correctAnswer": "Puede haber soldadura aplicando solo presión, sin calentamiento",
-    "explanation": "Trampa: casi todos asocian soldar con calor. La definición dice «…mediante el calentamiento… con o sin aplicación de presión o mediante la aplicación de presión sola», así que la presión sola también produce soldadura."
+    "explanation": "Error frecuente: casi todos asocian soldar con calor. La definición dice «…mediante el calentamiento… con o sin aplicación de presión o mediante la aplicación de presión sola», así que la presión sola también produce soldadura."
   },
   {
     "id": "intro-x02",
@@ -314,7 +228,7 @@
       "La American Welding Society"
     ],
     "correctAnswer": "Nikolai Slavyanov y C. L. Coffin",
-    "explanation": "Trampa: Davy aparece en la misma lámina, pero él descubrió el arco eléctrico en 1800. Los electrodos de metal los inventaron el ruso Slavyanov y el norteamericano Coffin."
+    "explanation": "Error frecuente: Davy aparece en la misma lámina, pero él descubrió el arco eléctrico en 1800. Los electrodos de metal los inventaron el ruso Slavyanov y el norteamericano Coffin."
   },
   {
     "id": "intro-x03",

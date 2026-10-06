@@ -1,5 +1,4 @@
 import { useId, useMemo, useState } from 'react';
-import { Link } from 'react-router';
 import { ArrowRight, BookOpenCheck, Check, X } from 'lucide-react';
 import type { Answer, ChoiceQuestion, MatchingQuestion, Question } from '../types/question.ts';
 import { isCorrect } from '../services/learning.ts';
@@ -7,7 +6,7 @@ import { DIFFICULTY_LABEL, shuffle } from '../services/questionRepository.ts';
 import { getTopicById } from '../services/contentRepository.ts';
 import { useAsync } from '../hooks/useAsync.ts';
 import { ImageFigure } from './ImageFigure.tsx';
-import { SourceRef } from './SourceRef.tsx';
+import { SourceRef, StudyLink } from './SourceRef.tsx';
 
 export interface AnsweredState { answer: Answer; correct: boolean }
 
@@ -104,9 +103,9 @@ export function FeedbackPanel({ question, correct, onContinue, continueLabel = '
       <SourceRef question={question} />
       <div className="actions">
         {!correct && (
-          <Link className="btn btn--ghost" to={`/estudiar/${question.topicId}?paso=${question.sectionId}`}>
+          <StudyLink className="btn btn--ghost" topicId={question.topicId} sectionId={question.sectionId}>
             <BookOpenCheck size={18} aria-hidden /> Volver a estudiar esta parte
-          </Link>
+          </StudyLink>
         )}
         {onContinue && (
           <button className="btn btn--primary" onClick={onContinue} autoFocus>
@@ -134,7 +133,6 @@ export function QuestionCard({ question: q, answered, onSubmit, onContinue, cont
     <form className="question card" aria-labelledby={titleId} onSubmit={(e) => { e.preventDefault(); if (ready && !locked) submit(); }}>
       <p className="question__meta">
         <span className={`badge badge--${q.difficulty}`}>{DIFFICULTY_LABEL[q.difficulty]}</span>
-        {q.difficulty === 'expert' && <span className="muted">Lee con cuidado: tiene trampa</span>}
         {q.type === 'matching' && <span className="badge">Relacionar</span>}
         {q.type === 'true-false' && <span className="badge">Verdadero / falso</span>}
         {q.sourcePage && <span className="muted">Lámina {q.sourcePage}</span>}

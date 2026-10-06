@@ -1,16 +1,27 @@
 import { Link } from 'react-router';
 import { ArrowRight, CheckCircle2, Flame, Target, TrendingDown } from 'lucide-react';
 import { useCatalog } from '../hooks/useCatalog.ts';
+import { useAsync } from '../hooks/useAsync.ts';
+import { getTopicById } from '../services/contentRepository.ts';
 import { useDocumentMeta } from '../hooks/useDocumentMeta.ts';
 import { useProgress } from '../store/ProgressContext.tsx';
 import { AsyncView } from '../components/States.tsx';
-import { CategoryCard } from '../components/Cards.tsx';
+import { CategoryCard, CourseRoute } from '../components/Cards.tsx';
 import { ProgressBar } from '../components/ProgressBar.tsx';
 import { answerStats, overallPercent, studyStreak, topicPercent, weakTopics } from '../services/learning.ts';
 
 function greeting(d: Date) {
   const h = d.getHours();
   return h < 12 ? 'Buenos días' : h < 19 ? 'Buenas tardes' : 'Buenas noches';
+}
+
+/** «Siguiente: …» — título del paso donde se continuará (usa el documento ya cacheado). */
+function NextStep({ topicId, stepId }: { topicId: string; stepId?: string }) {
+  const state = useAsync(() => getTopicById(topicId), [topicId]);
+  if (state.status !== 'success' || !state.data) return null;
+  const steps = state.data.steps;
+  const i = Math.max(0, steps.findIndex((s) => s.id === stepId));
+  return <p className="hero__next"><span className="muted">{stepId ? 'Continúas en' : 'Primer paso'}:</span> {steps[i]?.title} <span className="muted">· paso {i + 1} de {steps.length}</span></p>;
 }
 
 export default function Dashboard() {
@@ -39,6 +50,7 @@ export default function Dashboard() {
               <div className="hero__current">
                 <p className="muted">{current ? 'Estás estudiando' : 'Te sugerimos empezar por'} · {categoryName(next.categoryId)}</p>
                 <h2>{next.title}</h2>
+                <NextStep topicId={next.id} stepId={state.topics[next.id]?.lastStepId} />
                 <ProgressBar value={nextPct} label={`Progreso en ${next.title}`} />
                 <Link className="btn btn--primary" to={`/estudiar/${next.id}${state.topics[next.id]?.lastStepId ? `?paso=${state.topics[next.id].lastStepId}` : ''}`}>
                   {nextPct > 0 ? 'Continuar estudiando' : 'Comenzar estudio'} <ArrowRight size={18} aria-hidden />
@@ -55,6 +67,14 @@ export default function Dashboard() {
                 <li><CheckCircle2 aria-hidden /><strong>{stats.mastered}</strong> preguntas dominadas</li>
                 <li><Flame aria-hidden /><strong>{streak}</strong> {streak === 1 ? 'día' : 'días'} de racha</li>
               </ul>
+            </section>
+
+            <section aria-labelledby="route-title" className="card">
+              <div className="section-head">
+                <h2 id="route-title">Ruta del curso</h2>
+                <span className="muted">{topics.length} temas en orden</span>
+              </div>
+              <CourseRoute topics={topics} currentId={current?.id} />
             </section>
 
             <section aria-labelledby="cat-title">

@@ -423,7 +423,7 @@
       "PD"
     ],
     "correctAnswer": "PB",
-    "explanation": "Equivalencias de la lámina: 1F = PA, 2F = PB, 3F = PF (ascendente) o PG (descendente) y 4F = PD. La trampa es suponer un orden alfabético directo."
+    "explanation": "Equivalencias de la lámina: 1F = PA, 2F = PB, 3F = PF (ascendente) o PG (descendente) y 4F = PD. Error frecuente: suponer un orden alfabético directo."
   },
   {
     "id": "term-x02",
@@ -440,7 +440,7 @@
       "6G"
     ],
     "correctAnswer": "1G",
-    "explanation": "Trampa: 1G y 5G tienen el tubo horizontal, pero solo en 1G rota y se suelda siempre en «plano». En 5G está inmóvil y se recorren todas las posiciones."
+    "explanation": "Error frecuente: 1G y 5G tienen el tubo horizontal, pero solo en 1G rota y se suelda siempre en «plano». En 5G está inmóvil y se recorren todas las posiciones."
   },
   {
     "id": "term-x03",

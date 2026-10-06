@@ -388,7 +388,7 @@
       "6 lb/pulg² en ambos"
     ],
     "correctAnswer": "Unas 225 lb/pulg² en acetileno y unas 2250 lb/pulg² en oxígeno",
-    "explanation": "Trampa de valores intercambiados: el oxígeno se almacena a una presión unas diez veces mayor (≈2250) que el acetileno (≈225). Los 15 y 6 lb/pulg² son ajustes de los reguladores, no lecturas de alta."
+    "explanation": "Error frecuente: el oxígeno se almacena a una presión unas diez veces mayor (≈2250) que el acetileno (≈225). Los 15 y 6 lb/pulg² son ajustes de los reguladores, no lecturas de alta."
   },
   {
     "id": "oxi-x02",
@@ -405,7 +405,7 @@
       "2250 lb/pulg²"
     ],
     "correctAnswer": "Unas 6 lb/pulg²",
-    "explanation": "Trampa: 15 lb/pulg² es el máximo del regulador de acetileno (por riesgo de disociación explosiva), no la presión de purga. La lámina dice ajustar a unas 6 lb/pulg² y cerrar tras unos segundos."
+    "explanation": "Error frecuente: 15 lb/pulg² es el máximo del regulador de acetileno (por riesgo de disociación explosiva), no la presión de purga. La lámina dice ajustar a unas 6 lb/pulg² y cerrar tras unos segundos."
   },
   {
     "id": "oxi-x03",
@@ -422,7 +422,7 @@
       "Tres cuartos de vuelta"
     ],
     "correctAnswer": "Menos de 1/16 de vuelta",
-    "explanation": "Trampa: «giro y medio» es para la válvula del CILINDRO de acetileno, y ¾ de vuelta para la válvula de oxígeno al purgar. En el soplete se abre menos de 1/16 de vuelta y se enciende con chispa."
+    "explanation": "Error frecuente: «giro y medio» es para la válvula del CILINDRO de acetileno, y ¾ de vuelta para la válvula de oxígeno al purgar. En el soplete se abre menos de 1/16 de vuelta y se enciende con chispa."
   },
   {
     "id": "oxi-x04",
@@ -440,6 +440,6 @@
       "O2 y C2H2"
     ],
     "correctAnswer": "2CO y H2",
-    "explanation": "Trampa: la ecuación global de la lámina da CO2 + H2O, pero la imagen de la reacción primaria muestra C2H2 + O2 → 2CO + H2 en el cono. Son dos etapas distintas de la combustión."
+    "explanation": "Error frecuente: la ecuación global de la lámina da CO2 + H2O, pero la imagen de la reacción primaria muestra C2H2 + O2 → 2CO + H2 en el cono. Son dos etapas distintas de la combustión."
   }
 ]

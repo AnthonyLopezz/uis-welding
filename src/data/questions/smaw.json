@@ -413,7 +413,7 @@
       "Voltaje constante"
     ],
     "correctAnswer": "Polaridad directa",
-    "explanation": "Trampa clásica: DCEN = polaridad directa (mayor penetración); DCEP = polaridad inversa (útil para aluminio y magnesio)."
+    "explanation": "Error frecuente: DCEN = polaridad directa (mayor penetración); DCEP = polaridad inversa (útil para aluminio y magnesio)."
   },
   {
     "id": "smaw-x02",
@@ -430,7 +430,7 @@
       "1\""
     ],
     "correctAnswer": "1/16\" (1,5 mm)",
-    "explanation": "Trampa: 1/8\" es desde donde SMAW es apropiado sin dificultad (lámina 17); por debajo se puede, con más destreza. El límite inferior de las desventajas es 1/16\" (1,5 mm)."
+    "explanation": "Error frecuente: 1/8\" es desde donde SMAW es apropiado sin dificultad (lámina 17); por debajo se puede, con más destreza. El límite inferior de las desventajas es 1/16\" (1,5 mm)."
   },
   {
     "id": "smaw-x03",

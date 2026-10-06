@@ -29,9 +29,9 @@ export function shuffle<T>(items: T[]): T[] {
 }
 
 export const DIFFICULTIES: Difficulty[] = ['easy', 'medium', 'hard', 'expert'];
-export const DIFFICULTY_LABEL: Record<Difficulty, string> = { easy: 'Fácil', medium: 'Media', hard: 'Difícil', expert: 'Para corchar' };
+export const DIFFICULTY_LABEL: Record<Difficulty, string> = { easy: 'Fácil', medium: 'Media', hard: 'Difícil', expert: 'Desafío' };
 
-/** Orden progresivo: fácil → media → difícil → para corchar (estable dentro de cada nivel). */
+/** Orden progresivo: fácil → media → difícil → desafío (estable dentro de cada nivel). */
 export const byDifficulty = (qs: Question[]) =>
   [...qs].sort((a, b) => DIFFICULTIES.indexOf(a.difficulty) - DIFFICULTIES.indexOf(b.difficulty));
 

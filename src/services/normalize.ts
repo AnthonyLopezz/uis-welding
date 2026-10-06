@@ -104,8 +104,11 @@ function toBlocks(section: RawSection, images: Map<string, ContentImage>, tables
   return blocks;
 }
 
-/** Nivel 1 del PDF → lección; cada sección con contenido → paso. */
-export function toTopicContent(topic: Topic, raw: RawDocument, base: string): TopicContent {
+export interface Curation { hiddenSections?: string[] }
+
+/** Nivel 1 del PDF → lección; cada sección con contenido → paso. La curaduría oculta diapositivas de dinámica de clase. */
+export function toTopicContent(topic: Topic, raw: RawDocument, base: string, curation: Curation = {}): TopicContent {
+  const hidden = new Set(curation.hiddenSections);
   const allImages = raw.images.filter(isStudyImage).map((i) => toImage(i, topic.id, base));
   const images = new Map(allImages.map((i) => [i.id, i]));
   const tables = new Map(raw.tables.map((t) => [t.id, toTable(t)]));
@@ -120,7 +123,7 @@ export function toTopicContent(topic: Topic, raw: RawDocument, base: string): To
       lessons.push(lesson);
     }
     const blocks = toBlocks(s, images, tables);
-    if (!blocks.length) continue;
+    if (!blocks.length || hidden.has(s.id) || hidden.has(lessonId)) continue;
     const title = clean(s.title) || (s.parent_id && titles.get(s.parent_id)) || `Página ${s.page}`;
     lesson.steps.push({ id: s.id, title, page: s.page, lessonId, blocks });
   }

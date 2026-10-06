@@ -35,9 +35,8 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
   }, [state]);
 
   useEffect(() => {
-    const { theme } = state.preferences;
-    if (theme === 'system') delete document.documentElement.dataset.theme;
-    else document.documentElement.dataset.theme = theme;
+    // Claro por defecto; el oscuro solo si el usuario lo elige.
+    document.documentElement.dataset.theme = state.preferences.theme === 'dark' ? 'dark' : 'light';
   }, [state.preferences]);
 
   const visitStep = useCallback((topicId: string, stepId: string, totalSteps: number) =>

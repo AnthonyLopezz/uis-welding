@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router';
 import { ArrowLeft, ArrowRight, Check, CheckCircle2, ListTree } from 'lucide-react';
 import { useAsync } from '../hooks/useAsync.ts';
@@ -15,8 +15,15 @@ import type { TopicContent } from '../types/content.ts';
 import type { Question } from '../types/question.ts';
 
 function Outline({ topic, currentId, visited }: { topic: TopicContent; currentId: string; visited: string[] }) {
+  const ref = useRef<HTMLOListElement>(null);
+  // Mantiene visible el paso actual dentro del índice (solo desplaza el índice, no la página).
+  useEffect(() => {
+    const box = ref.current?.closest<HTMLElement>('.study__outline');
+    const el = ref.current?.querySelector<HTMLElement>('.is-current');
+    if (box && el) box.scrollTop = el.offsetTop - box.clientHeight / 2;
+  }, [currentId]);
   return (
-    <ol className="outline">
+    <ol className="outline" ref={ref}>
       {topic.lessons.map((l) => (
         <li key={l.id}>
           <p className="outline__lesson">{l.title}</p>
@@ -99,6 +106,18 @@ export default function Study() {
 
   useEffect(() => { setFinished(false); window.scrollTo(0, 0); }, [step?.id]);
 
+  // Atajos de teclado: ← / → para moverse entre pasos (no interfiere al escribir o elegir opciones).
+  useEffect(() => {
+    if (!topic || finished) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.altKey || e.ctrlKey || e.metaKey || (e.target as HTMLElement).closest('input, select, textarea, dialog')) return;
+      const i = e.key === 'ArrowRight' ? index + 1 : e.key === 'ArrowLeft' ? index - 1 : -1;
+      if (i >= 0 && i < topic.steps.length) setParams({ paso: topic.steps[i].id });
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [topic, index, finished, setParams]);
+
   return (
     <AsyncView state={data} notFound="El tema">
       {({ topic, questions }) => {
@@ -125,8 +144,9 @@ export default function Study() {
                 <p className="eyebrow">
                   <Link to={`/tema/${topic.id}`}>{topic.title}</Link> · {lesson?.title}
                 </p>
-                <p className="muted">Paso {index + 1} de {topic.steps.length} · Lámina {step.page}</p>
-                <ProgressBar value={topicPercent(state, topic.id)} label="Progreso del tema" size="sm" />
+                <p className="muted">Paso {index + 1} de {topic.steps.length} · Lámina {step.page} <span className="only-desktop kbd-hint">· Usa ← → para avanzar</span></p>
+                <ProgressBar value={((index + 1) / topic.steps.length) * 100} label="Posición en el tema" size="sm" showValue={false} />
+                <p className="muted small">{topicPercent(state, topic.id)}% del tema visto</p>
                 <details className="only-mobile outline-mobile">
                   <summary><ListTree size={18} aria-hidden /> Contenido del tema</summary>
                   <Outline topic={topic} currentId={step.id} visited={visited} />

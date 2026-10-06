@@ -1,5 +1,5 @@
 import { Link } from 'react-router';
-import { ArrowRight, BookOpen, CheckCircle2, Layers } from 'lucide-react';
+import { ArrowRight, BookOpen, CheckCircle2, Circle, Layers } from 'lucide-react';
 import type { Category, Topic } from '../types/content.ts';
 import { ProgressBar } from './ProgressBar.tsx';
 import { useProgress } from '../store/ProgressContext.tsx';
@@ -48,5 +48,29 @@ export function CategoryCard({ category }: { category: Category }) {
       <ProgressBar value={pct} label={`Progreso en ${category.name}`} size="sm" showValue={false} />
       <span className="card__cta">{pct > 0 ? 'Continuar' : 'Empezar'} <ArrowRight size={16} aria-hidden /></span>
     </article>
+  );
+}
+
+/** Ruta del curso: los temas en orden, numerados, con su avance. */
+export function CourseRoute({ topics, currentId }: { topics: Topic[]; currentId?: string }) {
+  const { state } = useProgress();
+  return (
+    <ol className="route">
+      {topics.map((t, i) => {
+        const pct = topicPercent(state, t.id);
+        return (
+          <li key={t.id} className={`route__item ${t.id === currentId ? 'is-current' : ''} ${pct === 100 ? 'is-done' : ''}`}>
+            <span className="route__num" aria-hidden>{pct === 100 ? <CheckCircle2 size={18} /> : i + 1}</span>
+            <div className="route__body">
+              <Link to={`/tema/${t.id}`} className="route__title">{t.title}</Link>
+              <span className="route__meta">
+                {pct === 100 ? 'Completado' : pct > 0 ? `${pct}% visto` : <><Circle size={10} aria-hidden /> Sin iniciar</>}
+                {t.id === currentId && ' · estás aquí'}
+              </span>
+            </div>
+          </li>
+        );
+      })}
+    </ol>
   );
 }

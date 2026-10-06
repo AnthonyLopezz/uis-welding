@@ -1,6 +1,7 @@
 // Acceso a los contenidos. La UI solo conoce estas funciones, no los archivos JSON.
 import type { Category, RawDocument, RawIndexEntry, Topic, TopicContent } from '../types/content.ts';
 import { toCategories, toTopic, toTopicContent } from './normalize.ts';
+import curation from '../data/curation.json';
 
 const BASE = import.meta.env.BASE_URL;
 const cache = new Map<string, Promise<unknown>>();
@@ -41,7 +42,7 @@ export function getTopicById(id: string): Promise<TopicContent | undefined> {
     const p = (async () => {
       const topic = (await getTopics()).find((t) => t.id === id);
       if (!topic) return undefined;
-      return toTopicContent(topic, await getJson<RawDocument>(`documents/${id}.json`), BASE);
+      return toTopicContent(topic, await getJson<RawDocument>(`documents/${id}.json`), BASE, curation);
     })();
     p.catch(() => topicCache.delete(id));
     topicCache.set(id, p);

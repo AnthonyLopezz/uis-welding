@@ -348,7 +348,7 @@
       "Ensayo de tensión"
     ],
     "correctAnswer": "Corrientes inducidas",
-    "explanation": "Trampa: ET se parece a AET, que es emisión acústica. En la tabla, ET corresponde a corrientes inducidas y LT a fugas."
+    "explanation": "Error frecuente: ET se parece a AET, que es emisión acústica. En la tabla, ET corresponde a corrientes inducidas y LT a fugas."
   },
   {
     "id": "simb-x02",
@@ -382,6 +382,6 @@
       "Soldadura todo alrededor"
     ],
     "correctAnswer": "Material de refuerzo o espaciamiento entre las dos piezas",
-    "explanation": "Trampa: el contorno raso es una línea horizontal, no un rectángulo. El rectángulo indica que se añade una pieza pequeña (separador o respaldo) entre las dos piezas."
+    "explanation": "Error frecuente: el contorno raso es una línea horizontal, no un rectángulo. El rectángulo indica que se añade una pieza pequeña (separador o respaldo) entre las dos piezas."
   }
 ]

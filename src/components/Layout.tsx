@@ -16,6 +16,27 @@ const NAV = [
   { to: '/progreso', label: 'Mi progreso', icon: BarChart3 },
 ];
 
+/** Navegación inferior en móvil: las 5 acciones más usadas al alcance del pulgar. */
+const TABS = [
+  { to: '/', label: 'Inicio', icon: Home, end: true },
+  { to: '/explorar', label: 'Temas', icon: Compass },
+  { to: '/preguntas', label: 'Preguntas', icon: BookCheck },
+  { to: '/repaso', label: 'Repaso', icon: RotateCcw },
+  { to: '/progreso', label: 'Progreso', icon: BarChart3 },
+];
+
+function TabBar() {
+  return (
+    <nav className="tabbar only-mobile" aria-label="Accesos rápidos">
+      {TABS.map(({ to, label, icon: Icon, end }) => (
+        <NavLink key={to} to={to} end={end} className={({ isActive }) => (isActive ? 'is-active' : undefined)}>
+          <Icon size={22} aria-hidden /> {label}
+        </NavLink>
+      ))}
+    </nav>
+  );
+}
+
 function NavLinks({ onNavigate }: { onNavigate?: () => void }) {
   return (
     <ul className="nav">
@@ -52,7 +73,6 @@ export function SearchBar({ autoFocus, onSearch }: { autoFocus?: boolean; onSear
 }
 
 const THEMES: { value: Theme; label: string }[] = [
-  { value: 'system', label: 'Según el sistema' },
   { value: 'light', label: 'Claro' },
   { value: 'dark', label: 'Oscuro' },
 ];
@@ -69,7 +89,7 @@ function PreferencesMenu() {
           <legend>Tema de color</legend>
           {THEMES.map((t) => (
             <label key={t.value} className="radio-line">
-              <input type="radio" name="theme" checked={state.preferences.theme === t.value} onChange={() => setTheme(t.value)} />
+              <input type="radio" name="theme" checked={(state.preferences.theme === 'dark') === (t.value === 'dark')} onChange={() => setTheme(t.value)} />
               {t.label}
             </label>
           ))}
@@ -126,6 +146,7 @@ export function AppShell({ children }: { children: ReactNode }) {
         <nav aria-label="Principal"><NavLinks /></nav>
       </aside>
       <main id="main" ref={mainRef} tabIndex={-1} className="main">{children}</main>
+      <TabBar />
     </div>
   );
 }

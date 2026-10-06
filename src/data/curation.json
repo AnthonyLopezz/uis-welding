@@ -1,0 +1,13 @@
+{
+  "_nota": "Curaduría sobre los datos de output/ (que no se modifican). hiddenSections: secciones (lecciones completas o pasos sueltos) de logística de clase sin contenido de estudio: portada, presentación de estudiantes, objetivos, temario, evaluación, bibliografía y recomendaciones. Validado por scripts/validate-questions.mjs.",
+  "hiddenSections": [
+    "sec-presentacion-introduccion-001",
+    "sec-presentacion-introduccion-002",
+    "sec-presentacion-introduccion-003",
+    "sec-presentacion-introduccion-005",
+    "sec-presentacion-introduccion-014",
+    "sec-presentacion-introduccion-016",
+    "sec-presentacion-introduccion-018",
+    "sec-presentacion-introduccion-021"
+  ]
+}

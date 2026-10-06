@@ -85,7 +85,7 @@ function ExamSetup({ topics, categories, questions, onStart }: {
       <fieldset>
         <legend>Orden de las preguntas</legend>
         <label className="radio-line">
-          <input type="radio" name="order" checked={progressive} onChange={() => setProgressive(true)} /> Progresivo: de fácil a «para corchar»
+          <input type="radio" name="order" checked={progressive} onChange={() => setProgressive(true)} /> Progresivo: de fácil a desafío
         </label>
         <label className="radio-line">
           <input type="radio" name="order" checked={!progressive} onChange={() => setProgressive(false)} /> Aleatorio

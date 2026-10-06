@@ -1,4 +1,4 @@
-/** expert = «para corchar»: preguntas con trampa (datos intercambiados, conceptos parecidos). */
+/** expert = desafío: distractores muy cercanos (cifras intercambiadas, conceptos parecidos). */
 export type Difficulty = 'easy' | 'medium' | 'hard' | 'expert';
 
 interface QuestionBase {
