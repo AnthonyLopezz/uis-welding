@@ -519,3 +519,13 @@ tbody th { font-weight: 600; }
 .intro__list { margin: 0; padding-left: 1.4rem; display: grid; gap: 6px; }
 .intro__list li::marker { color: var(--primary); font-weight: 700; }
 .intro__list a { font-weight: 600; }
+
+/* ===== Parciales (simulacro) ===== */
+.parcial { max-width: 860px; margin-inline: auto; }
+.parcial h3 { margin: 1.5rem 0 0; }
+.parcial .question .btn { justify-self: start; }
+.parcial textarea { width: 100%; padding: 10px 12px; border: 1px solid var(--border); border-radius: var(--radius-sm); background: var(--surface); color: var(--text); font: inherit; resize: vertical; }
+.feedback--neutral { background: var(--warn-soft); border-color: var(--warn); }
+.feedback--neutral .feedback__title { color: var(--warn); }
+.reveal > summary { min-height: 44px; display: flex; align-items: center; cursor: pointer; font-weight: 600; color: var(--primary); }
+.reveal[open] > summary { margin-bottom: .5rem; }
