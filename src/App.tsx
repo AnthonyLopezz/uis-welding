@@ -16,6 +16,7 @@ const Exam = lazy(() => import('./pages/Exam.tsx'));
 const Progress = lazy(() => import('./pages/Progress.tsx'));
 const SearchPage = lazy(() => import('./pages/SearchPage.tsx'));
 const QuestionBank = lazy(() => import('./pages/QuestionBank.tsx'));
+const Parciales = lazy(() => import('./pages/Parciales.tsx'));
 
 class ErrorBoundary extends Component<{ children: ReactNode }, { error?: Error }> {
   state: { error?: Error } = {};
@@ -46,6 +47,8 @@ export function App() {
             <Route path="/progreso" element={<Progress />} />
             <Route path="/buscar" element={<SearchPage />} />
             <Route path="/preguntas" element={<QuestionBank />} />
+            <Route path="/parciales" element={<Parciales />} />
+            <Route path="/parciales/:id" element={<Parciales />} />
             <Route path="*" element={<NotFoundState />} />
           </Routes>
         </Suspense>

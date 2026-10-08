@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState, type FormEvent, type ReactNode } from 'react';
 import { Link, NavLink, useLocation, useNavigate, useSearchParams } from 'react-router';
 import {
-  BarChart3, BookCheck, Compass, FolderOpen, GraduationCap, Home, Menu, RotateCcw, Search, Settings2, X, ClipboardCheck,
+  BarChart3, BookCheck, Compass, FileText, FolderOpen, GraduationCap, Home, Menu, RotateCcw, Search, Settings2, X, ClipboardCheck,
 } from 'lucide-react';
 import { useProgress } from '../store/ProgressContext.tsx';
 import type { Theme } from '../types/progress.ts';
@@ -13,6 +13,7 @@ const NAV = [
   { to: '/preguntas', label: 'Banco de preguntas', icon: BookCheck },
   { to: '/repaso', label: 'Repaso', icon: RotateCcw },
   { to: '/evaluacion', label: 'Evaluación', icon: ClipboardCheck },
+  { to: '/parciales', label: 'Parciales', icon: FileText },
   { to: '/progreso', label: 'Mi progreso', icon: BarChart3 },
 ];
 

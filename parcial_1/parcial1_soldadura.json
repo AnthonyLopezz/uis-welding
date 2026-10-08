@@ -1,0 +1,285 @@
+{
+  "encabezado": {
+    "institucion": "Universidad Industrial de Santander (UIS)",
+    "escuela": "EIMCM - Escuela de Ingeniería Metalúrgica y Ciencia de los Materiales",
+    "programa": "Ingeniería Metalúrgica",
+    "asignatura": "Soldadura",
+    "codigo_asignatura": "27178",
+    "titulo": "Parcial 1. Seguridad en soldadura, terminología y simbología en soldadura, procesos de soldadura SMAW, GMAW y oxiacetileno",
+    "fecha_impresa": "15 de noviembre de 2022",
+    "fecha_manuscrita": "03-04-2025",
+    "estudiante": "Andrea Liseth González Nova",
+    "codigo_estudiante": "2211927 (lectura dudosa)",
+    "nota_final": 4.3,
+    "nota_maxima": 5.0,
+    "instrucciones": "Evaluar conocimientos base de la asignatura. 10 minutos para resolver dudas de comprensión. En los ejercicios se deben realizar los procesos de cálculo paso a paso. No se reciben parciales después del tiempo."
+  },
+  "orden_paginas": [
+    {
+      "pagina": 1,
+      "contenido": "Encabezado, instrucciones, Parte 1 Teoría: verdadero/falso y pregunta de soplo de arco",
+      "nota_margen": 1.3,
+      "foto": "paginas/pagina_1.jpg"
+    },
+    {
+      "pagina": 2,
+      "contenido": "Preguntas de selección múltiple (PQR, posición 4G, código para recipiente de presión, llama neutra, SMAW DCEP)",
+      "nota_margen": null,
+      "foto": "paginas/pagina_2.jpg"
+    },
+    {
+      "pagina": 3,
+      "contenido": "Parte 2 Ejercicios: simbología",
+      "nota_margen": 1.5,
+      "foto": "paginas/pagina_3.jpg"
+    },
+    {
+      "pagina": 4,
+      "contenido": "Junta de esquina y problema del remolque en aluminio 6061-T6",
+      "nota_margen": 1.5,
+      "foto": "paginas/pagina_4.jpg"
+    }
+  ],
+  "resumen_notas": {
+    "parte_1_teoria": {
+      "valor": 2.0,
+      "obtenido": 1.3
+    },
+    "parte_2_ejercicios": {
+      "valor": 3.0,
+      "obtenido": 3.0,
+      "detalle": [
+        {
+          "seccion": "Simbología (página 3)",
+          "obtenido": 1.5
+        },
+        {
+          "seccion": "Junta de esquina + problema del remolque (página 4)",
+          "obtenido": 1.5
+        }
+      ]
+    },
+    "verificacion": "1.3 + 1.5 + 1.5 = 4.3"
+  },
+  "parte_1_teoria": {
+    "valor": 2.0,
+    "verdadero_falso": [
+      {
+        "n": 1,
+        "enunciado": "La acumulación de gases en piezas huecas puede representar un riesgo grave si no se garantiza una ventilación adecuada antes de soldarlas.",
+        "respuesta_estudiante": "V",
+        "calificacion": "correcta"
+      },
+      {
+        "n": 2,
+        "enunciado": "El fosfógeno, que puede generarse por el uso incorrecto de productos de limpieza clorados, es un gas altamente tóxico.",
+        "respuesta_estudiante": "V",
+        "calificacion": "correcta"
+      },
+      {
+        "n": 3,
+        "enunciado": "El voltaje, que suministran las compañías de electricidad de 120 a 575 V, es adecuado para el proceso de soldadura SMAW.",
+        "respuesta_estudiante": "F",
+        "justificacion_estudiante": "En soldadura SMAW es necesario un regulador de corriente que baje el potencial.",
+        "calificacion": "ambigua (marcas X y ✓)"
+      },
+      {
+        "n": 4,
+        "enunciado": "A la soldadura GMAW también se le conoce comúnmente con el nombre de soldadura de arco metálico con gas inerte (MIG, metal gas inert welding).",
+        "respuesta_estudiante": "V",
+        "calificacion": "incorrecta"
+      },
+      {
+        "n": 5,
+        "enunciado": "Cuando se mezclan en proporciones apropiadas, el oxígeno y el acetileno producen una flama con una temperatura de 3500 °C en la punta del soplete.",
+        "respuesta_estudiante": "F",
+        "justificacion_estudiante": "La temperatura aproximada de la llama es de 3100 °C.",
+        "calificacion": "incorrecta"
+      },
+      {
+        "n": 6,
+        "enunciado": "En soldadura por oxiacetileno las roscas en el regulador para el cilindro de oxígeno son de izquierda y para el cilindro de acetileno son de derecha.",
+        "respuesta_estudiante": "F",
+        "justificacion_estudiante": "La rosca de oxígeno es derecha y el acetileno tiene rosca izquierda.",
+        "calificacion": "correcta"
+      }
+    ],
+    "pregunta_abierta_soplo_de_arco": {
+      "enunciado": "Señale en qué parte de la pieza debería colocar el cable de masa para evitar el soplo de arco. Explique por qué se genera el soplo de arco y cómo corregir este problema.",
+      "figura": "Placa con punta del electrodo, arco y cable de masa conectado; la estudiante encerró un punto en el extremo derecho de la placa.",
+      "respuesta_estudiante": "Ahí debería colocar el cable de masa. El soplo de arco es un desvío del arco generado ocasionado por campos magnéticos asimétricos; se soluciona cambiando la dirección de la soldadura.",
+      "calificacion": "incorrecta o parcial (marca de cruz)",
+      "figura_ref": 1
+    },
+    "seleccion_multiple": [
+      {
+        "n": 1,
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor la función del Registro de Calificación del Procedimiento (PQR) en un proceso de soldadura?",
+        "opciones": {
+          "A": "Establece los materiales base permitidos para una soldadura.",
+          "B": "Verifica que una WPS pueda producir una soldadura sana mediante pruebas documentadas.",
+          "C": "Especifica el tipo de gas a utilizar en soldadura GMAW.",
+          "D": "Sirve como estándar normativo internacional para soldadura estructural."
+        },
+        "respuesta_estudiante": "B",
+        "calificacion": "correcta"
+      },
+      {
+        "n": 2,
+        "enunciado": "Según la normativa AWS, una soldadura en posición sobre cabeza con uniones a tope se designa como:",
+        "opciones": {
+          "A": "1G",
+          "B": "2F",
+          "C": "4G",
+          "D": "3G"
+        },
+        "respuesta_estudiante": "C",
+        "calificacion": "correcta (✓ junto a la pregunta)"
+      },
+      {
+        "n": 3,
+        "enunciado": "¿Cuál de los siguientes códigos es más apropiado para la fabricación de un recipiente de presión?",
+        "opciones": {
+          "A": "API 1104",
+          "B": "ASME Sección IX",
+          "C": "AWS D1.1",
+          "D": "UNE-EN ISO 9606"
+        },
+        "respuesta_estudiante": "B",
+        "calificacion": "ambigua (X junto a la pregunta y ✓ junto a la opción A)"
+      },
+      {
+        "n": 4,
+        "enunciado": "En la reacción química de una llama neutra, ¿qué relación molar se establece entre oxígeno y acetileno? Establezca la ecuación.",
+        "opciones": {
+          "A": "1:2",
+          "B": "1:1.5",
+          "C": "2.5:1",
+          "D": "1:2.5"
+        },
+        "respuesta_estudiante": "C",
+        "procedimiento_estudiante": {
+          "ecuacion": "C2H2 + 2.5 O2 -> 2 CO + H2O",
+          "notas": "2.5 moles de O2 por 1 mol de C2H2"
+        },
+        "calificacion": "incorrecta (marca de cruz)"
+      },
+      {
+        "n": 5,
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la transferencia de metal en el proceso SMAW bajo corriente continua de polaridad inversa (DCEP) es más precisa?",
+        "opciones": {
+          "A": "Favorece mayor penetración en aceros al carbono.",
+          "B": "Genera menor estabilidad del arco que en polaridad directa.",
+          "C": "Facilita la soldadura de materiales con alta conductividad térmica como el aluminio.",
+          "D": "Es inadecuada para cordones suaves y estables."
+        },
+        "respuesta_estudiante": "C",
+        "calificacion": "ambigua (✓ junto a la opción A)"
+      }
+    ]
+  },
+  "parte_2_ejercicios": {
+    "valor": 3.0,
+    "simbologia": {
+      "instruccion": "Establezca la simbología correspondiente.",
+      "nota_pagina": 1.5,
+      "ejercicios": [
+        {
+          "n": 1,
+          "descripcion": "Marco cuadrado (tubo) soldado sobre una base, soldadura alrededor de todo el perímetro.",
+          "respuesta_estudiante": "Símbolo de filete con círculo de soldadura todo alrededor.",
+          "figura_ref": 2
+        },
+        {
+          "n": 2,
+          "descripcion": "Junta en T con bisel por ambos lados y filetes de refuerzo; cotas A, B, E y S.",
+          "respuesta_estudiante": "(B) bisel en un lado; S(E) bisel en el otro lado; (A) filete.",
+          "calificacion": "incorrecta (X)",
+          "figura_ref": 3
+        },
+        {
+          "n": 3,
+          "descripcion": "Soldadura de filete intermitente por ambos lados; longitud 2 y paso 4 (tres segmentos por lado).",
+          "respuesta_estudiante": "Filete por ambos lados con 2-4 arriba y abajo; (3) indicado.",
+          "figura_ref": 4
+        },
+        {
+          "n": 4,
+          "descripcion": "Junta a tope con ranura en U doble, ángulo 25° por cada lado, profundidad 2 y tamaño de soldadura 2 1/8 por cada lado.",
+          "respuesta_estudiante": "2(2 1/8) con símbolo de ranura en U a 25° en ambos lados de la línea de referencia.",
+          "figura_ref": 5
+        }
+      ],
+      "anotacion_al_pie": "Texto manuscrito poco legible: 'P-L {} (S) D'"
+    },
+    "junta_de_esquina": {
+      "descripcion": "Sección transversal de una soldadura en junta de esquina (bisel con filete). La estudiante dibujó el símbolo con flecha sobre la junta.",
+      "respuesta_estudiante": "Símbolo de bisel con filete sobre la línea de referencia (lectura parcial).",
+      "figura_ref": 6
+    },
+    "problema_remolque": {
+      "nota_pagina": 1.5,
+      "enunciado": "Una empresa de fabricación de carrocerías livianas ha recibido un pedido especial para diseñar y ensamblar un prototipo de remolque ultraliviano. Para lograr la mayor eficiencia en peso, la estructura principal del chasis debe ser fabricada completamente con piezas en aluminio 6061-T6 con piezas con espesor de 1/4 de pulgada. Este aluminio es conocido por su buena resistencia mecánica y a la corrosión, además de su soldabilidad aceptable.",
+      "pregunta": "Plantee el procedimiento para llevar a cabo el proceso de soldadura.",
+      "datos": {
+        "material": "Aluminio 6061-T6",
+        "espesor_pulg": 0.25,
+        "aplicacion": "Chasis de remolque ultraliviano"
+      },
+      "respuesta_estudiante": {
+        "descarte_procesos": {
+          "OFW": "No aplica para aluminio",
+          "SMAW": "Quizás (solo emergencia)",
+          "GMAW": "Puede ser"
+        },
+        "procedimiento": "GMAW con gas de protección de helio, por ser especial para aleaciones de alta conductividad térmica. Técnica de rocío pulsado porque el espesor es mayor de 1/8\" y permite soldar en cualquier posición. Electrodo positivo y metal base negativo."
+      },
+      "figura_ref": 7
+    }
+  },
+  "notas_transcripcion": "Datos extraídos de 4 fotografías. Las calificaciones por ítem se infieren de las marcas del docente (✓, X, †); donde las marcas no son claras se indica 'ambigua'. El código de estudiante y algunas anotaciones manuscritas son de lectura dudosa.",
+  "figuras": [
+    {
+      "n": 1,
+      "archivo": "figuras/fig_01_soplo_de_arco.jpg",
+      "pagina": 1,
+      "descripcion": "Placa con electrodo, arco y cable de masa (pregunta de soplo de arco)"
+    },
+    {
+      "n": 2,
+      "archivo": "figuras/fig_02_simbologia_ej1_marco_cuadrado.jpg",
+      "pagina": 3,
+      "descripcion": "Simbología ej. 1: marco cuadrado sobre base y respuesta"
+    },
+    {
+      "n": 3,
+      "archivo": "figuras/fig_03_simbologia_ej2_junta_T_biseles.jpg",
+      "pagina": 3,
+      "descripcion": "Simbología ej. 2: junta en T con biseles y filetes y respuesta"
+    },
+    {
+      "n": 4,
+      "archivo": "figuras/fig_04_simbologia_ej3_filete_intermitente.jpg",
+      "pagina": 3,
+      "descripcion": "Simbología ej. 3: filete intermitente y respuesta"
+    },
+    {
+      "n": 5,
+      "archivo": "figuras/fig_05_simbologia_ej4_ranura_U_doble.jpg",
+      "pagina": 3,
+      "descripcion": "Simbología ej. 4: ranura en U doble a 25° y respuesta"
+    },
+    {
+      "n": 6,
+      "archivo": "figuras/fig_06_junta_de_esquina.jpg",
+      "pagina": 4,
+      "descripcion": "Sección transversal de junta de esquina y símbolo dibujado"
+    },
+    {
+      "n": 7,
+      "archivo": "figuras/fig_07_remolque_chasis.jpg",
+      "pagina": 4,
+      "descripcion": "Foto del chasis del remolque ultraliviano"
+    }
+  ]
+}
