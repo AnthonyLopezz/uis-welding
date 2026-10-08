@@ -12,7 +12,16 @@
     "codigo_estudiante": "2211927 (lectura dudosa)",
     "nota_final": 4.3,
     "nota_maxima": 5.0,
-    "instrucciones": "Evaluar conocimientos base de la asignatura. 10 minutos para resolver dudas de comprensión. En los ejercicios se deben realizar los procesos de cálculo paso a paso. No se reciben parciales después del tiempo."
+    "instrucciones": "Evaluar conocimientos base de la asignatura. 10 minutos para resolver dudas de comprensión. En los ejercicios se deben realizar los procesos de cálculo paso a paso. No se reciben parciales después del tiempo.",
+    "temas": [
+      "Unidad 2 · Seguridad en soldadura",
+      "Unidad 3 · Terminología",
+      "Unidad 4 · Simbología AWS A2.4",
+      "Proceso SMAW",
+      "Proceso GMAW",
+      "Proceso oxiacetileno (OFW)"
+    ],
+    "nota_clave": "La clave de respuestas está construida con las láminas del curso (se cita la lámina de cada una). Donde la marca del docente no coincide con la lámina, se explica la diferencia: en el examen, responde con lo que dice la lámina."
   },
   "orden_paginas": [
     {
@@ -68,49 +77,84 @@
         "n": 1,
         "enunciado": "La acumulación de gases en piezas huecas puede representar un riesgo grave si no se garantiza una ventilación adecuada antes de soldarlas.",
         "respuesta_estudiante": "V",
-        "calificacion": "correcta"
+        "calificacion": "correcta",
+        "tema": "Unidad 2 · Seguridad en soldadura",
+        "solucion": {
+          "respuesta": "V",
+          "justificacion": "Las piezas huecas (tubos, tanques, perfiles cerrados) atrapan gases y vapores; al calentarlas la presión interna sube y pueden explotar o expulsar gases tóxicos. Por eso la lámina exige comprobar que tengan buena ventilación antes de soldarlas.",
+          "fuente": "Seguridad, lám. 9: «Compruebe que todas las piezas huecas tengan buena ventilación antes de soldarlas para evitar la acumulación de gases».",
+          "contraste": "Correcta. Detalle a recordar: el riesgo es doble, acumulación de gases (explosión) y falta de ventilación (intoxicación)."
+        }
       },
       {
         "n": 2,
         "enunciado": "El fosfógeno, que puede generarse por el uso incorrecto de productos de limpieza clorados, es un gas altamente tóxico.",
         "respuesta_estudiante": "V",
-        "calificacion": "correcta"
+        "calificacion": "correcta",
+        "tema": "Unidad 2 · Seguridad en soldadura",
+        "solucion": {
+          "respuesta": "V",
+          "justificacion": "Los hidrocarburos clorados (tricloroetileno, tetracloruro de carbono) usados para limpiar se descomponen con el calor o con la radiación UV del arco y forman fosgeno («fosfógeno» en la lámina), un gas altamente venenoso. Por eso nunca se lavan con ellos los tanques que se van a soldar.",
+          "fuente": "Seguridad, lám. 13 (soldadura de estanques).",
+          "contraste": "Correcta. Ojo: no hace falta que la llama toque el solvente; basta la radiación del arco."
+        }
       },
       {
         "n": 3,
         "enunciado": "El voltaje, que suministran las compañías de electricidad de 120 a 575 V, es adecuado para el proceso de soldadura SMAW.",
         "respuesta_estudiante": "F",
         "justificacion_estudiante": "En soldadura SMAW es necesario un regulador de corriente que baje el potencial.",
-        "calificacion": "ambigua (marcas X y ✓)"
+        "calificacion": "ambigua (marcas X y ✓)",
+        "tema": "Proceso SMAW",
+        "solucion": {
+          "respuesta": "F",
+          "justificacion": "La red entrega de 120 a 575 V, que es DEMASIADO ALTO: el arco SMAW trabaja con 20 a 80 V. La fuente de poder (transformador/rectificador/inversor) reduce el voltaje y entrega alto amperaje. Por eso la afirmación de que el voltaje de red «es adecuado» es falsa.",
+          "fuente": "SMAW, lám. 28 («¿Por qué son necesarias las fuentes de poder?»).",
+          "contraste": "La respuesta F es correcta, pero la justificación es imprecisa: no es un «regulador de corriente», es la FUENTE DE PODER la que baja el voltaje (de 120–575 V a 20–80 V). Por eso el docente marcó X y ✓: valor parcial. Cita siempre los números."
+        }
       },
       {
         "n": 4,
         "enunciado": "A la soldadura GMAW también se le conoce comúnmente con el nombre de soldadura de arco metálico con gas inerte (MIG, metal gas inert welding).",
         "respuesta_estudiante": "V",
-        "calificacion": "incorrecta"
+        "calificacion": "incorrecta",
+        "tema": "Proceso GMAW",
+        "solucion": {
+          "respuesta": "V",
+          "justificacion": "La lámina dice textualmente que a GMAW «también se le conoce comúnmente con el nombre de soldadura de arco metálico con gas inerte (MIG) o soldadura con alimentación de alambre». El enunciado copia esa frase, así que es VERDADERO.",
+          "fuente": "GMAW, lám. 6.",
+          "contraste": "Según la lámina la respuesta V es correcta. Si el docente la penalizó, el argumento técnico sería: MIG (Metal Inert Gas) solo aplica cuando el gas es inerte (Ar, He); con CO₂ o mezclas activas se llama MAG. Si la pregunta es literal de la lámina, responde V; si te piden precisión, explica la diferencia MIG/MAG en la justificación."
+        }
       },
       {
         "n": 5,
         "enunciado": "Cuando se mezclan en proporciones apropiadas, el oxígeno y el acetileno producen una flama con una temperatura de 3500 °C en la punta del soplete.",
         "respuesta_estudiante": "F",
         "justificacion_estudiante": "La temperatura aproximada de la llama es de 3100 °C.",
-        "calificacion": "incorrecta"
+        "calificacion": "incorrecta",
+        "tema": "Proceso oxiacetileno (OFW)",
+        "solucion": {
+          "respuesta": "F",
+          "justificacion": "La lámina indica que la mezcla oxígeno-acetileno en proporciones apropiadas produce una flama de 3100 °C en la punta del soplete (la tabla de combustibles da 3087 °C para llama neutra). 3500 °C es incorrecto, así que la afirmación es FALSA.",
+          "fuente": "Oxiacetileno, lám. 7 y tabla de temperatura de llama (lám. 21).",
+          "contraste": "F con «3100 °C» coincide exactamente con la lámina. La marca dudosa del docente no cambia la clave: en el examen escribe F y la cifra correcta (3100 °C). No la confundas con la temperatura del arco SMAW (> 3300 °C, SMAW lám. 9)."
+        }
       },
       {
         "n": 6,
         "enunciado": "En soldadura por oxiacetileno las roscas en el regulador para el cilindro de oxígeno son de izquierda y para el cilindro de acetileno son de derecha.",
         "respuesta_estudiante": "F",
         "justificacion_estudiante": "La rosca de oxígeno es derecha y el acetileno tiene rosca izquierda.",
-        "calificacion": "correcta"
+        "calificacion": "correcta",
+        "tema": "Proceso oxiacetileno (OFW)",
+        "solucion": {
+          "respuesta": "F",
+          "justificacion": "Es al revés: la rosca del regulador de OXÍGENO es DERECHA y la del ACETILENO es IZQUIERDA (las tuercas de gas combustible llevan una muesca para reconocerlas). Así es imposible conectar por error un regulador de oxígeno a un cilindro de gas combustible.",
+          "fuente": "Oxiacetileno, lám. 13.",
+          "contraste": "Correcta y bien justificada."
+        }
       }
     ],
-    "pregunta_abierta_soplo_de_arco": {
-      "enunciado": "Señale en qué parte de la pieza debería colocar el cable de masa para evitar el soplo de arco. Explique por qué se genera el soplo de arco y cómo corregir este problema.",
-      "figura": "Placa con punta del electrodo, arco y cable de masa conectado; la estudiante encerró un punto en el extremo derecho de la placa.",
-      "respuesta_estudiante": "Ahí debería colocar el cable de masa. El soplo de arco es un desvío del arco generado ocasionado por campos magnéticos asimétricos; se soluciona cambiando la dirección de la soldadura.",
-      "calificacion": "incorrecta o parcial (marca de cruz)",
-      "figura_ref": 1
-    },
     "seleccion_multiple": [
       {
         "n": 1,
@@ -122,7 +166,20 @@
           "D": "Sirve como estándar normativo internacional para soldadura estructural."
         },
         "respuesta_estudiante": "B",
-        "calificacion": "correcta"
+        "calificacion": "correcta",
+        "tema": "Unidad 3 · Terminología",
+        "solucion": {
+          "respuesta": "B",
+          "justificacion": "La WPS es la «receta» (variables: amperaje, voltaje, aporte, gas…). Para demostrar que esa receta produce una soldadura sana se sueldan probetas y se ensayan (doblado, tensión); todos los parámetros usados y los resultados se registran en el PQR. El PQR CALIFICA a la WPS.",
+          "opciones": {
+            "A": "Los materiales base permitidos los fija la WPS y el código, no es la función del PQR.",
+            "B": "Correcta: el PQR documenta las pruebas que verifican que la WPS produce una soldadura sana.",
+            "C": "El tipo de gas es una variable de la WPS.",
+            "D": "Un estándar normativo es un CÓDIGO (por ejemplo AWS D1.1), no un registro."
+          },
+          "fuente": "Terminología, lám. 14 y 16 (WPS y PQR).",
+          "contraste": "Correcta."
+        }
       },
       {
         "n": 2,
@@ -134,7 +191,20 @@
           "D": "3G"
         },
         "respuesta_estudiante": "C",
-        "calificacion": "correcta (✓ junto a la pregunta)"
+        "calificacion": "correcta (✓ junto a la pregunta)",
+        "tema": "Unidad 3 · Terminología",
+        "solucion": {
+          "respuesta": "C",
+          "justificacion": "En AWS la G designa soldadura de ranura (a tope) y la F soldadura de filete. 1G = plana, 2G = horizontal, 3G = vertical y 4G = sobre cabeza. Sobre cabeza + a tope = 4G.",
+          "opciones": {
+            "A": "1G es posición plana.",
+            "B": "2F es FILETE en posición horizontal, no a tope.",
+            "C": "Correcta: 4G es a tope sobre cabeza (bajo techo).",
+            "D": "3G es a tope en posición vertical."
+          },
+          "fuente": "Terminología, lám. 30 y 33.",
+          "contraste": "Correcta."
+        }
       },
       {
         "n": 3,
@@ -146,7 +216,20 @@
           "D": "UNE-EN ISO 9606"
         },
         "respuesta_estudiante": "B",
-        "calificacion": "ambigua (X junto a la pregunta y ✓ junto a la opción A)"
+        "calificacion": "ambigua (X junto a la pregunta y ✓ junto a la opción A)",
+        "tema": "Unidad 3 · Terminología",
+        "solucion": {
+          "respuesta": "B",
+          "justificacion": "Cada código cubre un producto: ASME Sección IX se usa para recipientes de presión y componentes nucleares; API 1104 para conductos (oleoductos y gasoductos); AWS D1.1 para puentes, edificios y acero estructural.",
+          "opciones": {
+            "A": "API 1104 es para conductos/tuberías de transporte.",
+            "B": "Correcta: ASME Sección IX, recipientes de presión.",
+            "C": "AWS D1.1 es acero estructural.",
+            "D": "UNE-EN ISO 9606 califica soldadores, no es el código de diseño de recipientes."
+          },
+          "fuente": "Terminología, lám. 13 («Códigos que se utilizan comúnmente»).",
+          "contraste": "La respuesta B coincide con la lámina. Las marcas del docente (X junto a la pregunta, ✓ junto a A) son confusas; si en tu examen aparece esta pregunta, la clave del curso es B."
+        }
       },
       {
         "n": 4,
@@ -162,7 +245,20 @@
           "ecuacion": "C2H2 + 2.5 O2 -> 2 CO + H2O",
           "notas": "2.5 moles de O2 por 1 mol de C2H2"
         },
-        "calificacion": "incorrecta (marca de cruz)"
+        "calificacion": "incorrecta (marca de cruz)",
+        "tema": "Proceso oxiacetileno (OFW)",
+        "solucion": {
+          "respuesta": "C",
+          "justificacion": "Reacción global de la llama neutra: C₂H₂ + 2.5 O₂ → 2 CO₂ + H₂O. Es decir, 2.5 moles de O₂ por cada mol de C₂H₂ (O₂ : C₂H₂ = 2.5 : 1). Balance de oxígeno: izquierda 2.5 × 2 = 5 átomos; derecha 2 × 2 + 1 = 5 átomos ✓.",
+          "opciones": {
+            "A": "1:2 invierte la proporción y es muy poco oxígeno.",
+            "B": "1:1.5 no corresponde a ninguna etapa de la combustión.",
+            "C": "Correcta: 2.5 de O₂ por 1 de C₂H₂.",
+            "D": "1:2.5 es la proporción invertida (sería acetileno en exceso)."
+          },
+          "fuente": "Oxiacetileno, lám. 23 («Reacción química en una llama neutra»).",
+          "contraste": "La opción C es correcta, pero la ecuación escrita está MAL: C₂H₂ + 2.5 O₂ → 2 CO + H₂O no está balanceada (5 átomos de O a la izquierda y 3 a la derecha). Lo correcto es 2 CO₂. Mezcló la reacción primaria (C₂H₂ + O₂ → 2 CO + H₂, oxígeno del cilindro en relación 1:1) con la global. La pregunta pedía «establezca la ecuación», por eso la marca de error."
+        }
       },
       {
         "n": 5,
@@ -174,9 +270,47 @@
           "D": "Es inadecuada para cordones suaves y estables."
         },
         "respuesta_estudiante": "C",
-        "calificacion": "ambigua (✓ junto a la opción A)"
+        "calificacion": "ambigua (✓ junto a la opción A)",
+        "tema": "Proceso SMAW",
+        "solucion": {
+          "respuesta": "C",
+          "justificacion": "DCEP (polaridad inversa) funde el electrodo más rápido, mejora la transferencia del metal de aporte, da buena estabilidad del arco y cordones suaves, y es muy útil para aluminio y magnesio (conductividad térmica alta; además el electrodo positivo rompe la capa de óxido).",
+          "opciones": {
+            "A": "Según la lámina, la MAYOR penetración la da DCEN (polaridad directa), no DCEP.",
+            "B": "Falso: DCEP da buena estabilidad del arco.",
+            "C": "Correcta: útil para aluminio y magnesio.",
+            "D": "Falso: se usa precisamente para obtener cordones suaves y estables."
+          },
+          "fuente": "SMAW, lám. 32 y 33.",
+          "contraste": "C es la clave de la lámina; la respuesta es correcta."
+        }
       }
-    ]
+    ],
+    "pregunta_abierta": {
+      "enunciado": "Señale en qué parte de la pieza debería colocar el cable de masa para evitar el soplo de arco. Explique por qué se genera el soplo de arco y cómo corregir este problema.",
+      "figura": "Placa con punta del electrodo, arco y cable de masa conectado; la estudiante encerró un punto en el extremo derecho de la placa.",
+      "respuesta_estudiante": "Ahí debería colocar el cable de masa. El soplo de arco es un desvío del arco generado ocasionado por campos magnéticos asimétricos; se soluciona cambiando la dirección de la soldadura.",
+      "calificacion": "incorrecta o parcial (marca de cruz)",
+      "figura_ref": 1,
+      "titulo": "Soplo de arco",
+      "tema": "Proceso SMAW",
+      "solucion": {
+        "respuesta": "El cable de masa va en el EXTREMO de la placa HACIA DONDE AVANZA la soldadura (se suelda acercándose a la pinza de masa), lo más cerca posible del cordón. En la figura, si se suelda de izquierda a derecha, la masa va en el extremo derecho, a la altura de la junta.",
+        "pasos": [
+          "Causa: toda corriente crea un campo magnético a su alrededor. En la pieza ese campo NO es simétrico (cambia cerca de los bordes, de la pinza de masa y de la masa de metal ya soldada). La fuerza magnética desvía el arco de su eje: eso es el soplo de arco.",
+          "Es mucho más fuerte en corriente continua (DCEN/DCEP) y con amperajes altos; la lámina indica que por encima de unos 600 A el campo puede mover al propio conductor.",
+          "Efectos: arco errático, salpicaduras, falta de fusión, socavado y porosidad, sobre todo al inicio y al final de la junta.",
+          "Corrección 1 (lámina 38): reubicar la pinza de masa en el extremo hacia donde avanza la soldadura.",
+          "Corrección 2: usar corriente alterna (el campo cambia de sentido y se anula en promedio).",
+          "Corrección 3: reducir el amperaje y mantener un arco corto.",
+          "Corrección 4: inclinar el electrodo en sentido contrario a la desviación del arco.",
+          "Corrección 5: puntear (armar) bien la junta con puntos gruesos en los extremos y usar técnica de paso de peregrino (retroceso)."
+        ],
+        "justificacion": "La pregunta tiene tres partes y las tres se califican: (1) dónde va la masa, (2) por qué se produce (campo magnético asimétrico) y (3) cómo se corrige (más de una medida).",
+        "fuente": "SMAW, lám. 37 («Soplo de arco») y lám. 38 («Solución del soplo del arco»).",
+        "contraste": "La ubicación marcada (extremo derecho) y la causa (campos magnéticos asimétricos) son correctas. Faltó: decir que la masa se pone hacia donde AVANZA la soldadura (no basta «cambiar la dirección»), mencionar que ocurre con corriente continua y alto amperaje, y dar más correcciones (CA, menos corriente, arco corto, inclinar electrodo). Por eso la marca es parcial."
+      }
+    }
   },
   "parte_2_ejercicios": {
     "valor": 3.0,
@@ -188,54 +322,110 @@
           "n": 1,
           "descripcion": "Marco cuadrado (tubo) soldado sobre una base, soldadura alrededor de todo el perímetro.",
           "respuesta_estudiante": "Símbolo de filete con círculo de soldadura todo alrededor.",
-          "figura_ref": 2
+          "figura_ref": 2,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "solucion": {
+            "respuesta": "Símbolo de filete del LADO DE LA FLECHA (triángulo debajo de la línea de referencia, con el cateto vertical a la izquierda) y el CÍRCULO de soldadura todo alrededor en la unión de la flecha con la línea de referencia.",
+            "justificacion": "El marco cuadrado se suelda a la base por todo su perímetro: la soldadura cambia de dirección en las esquinas, por eso basta un solo símbolo con círculo en vez de cuatro símbolos.",
+            "contraste": "Correcta.",
+            "figura_ref": 8,
+            "fuente": "Simbología, lám. 4–9 y 14–25."
+          }
         },
         {
           "n": 2,
           "descripcion": "Junta en T con bisel por ambos lados y filetes de refuerzo; cotas A, B, E y S.",
           "respuesta_estudiante": "(B) bisel en un lado; S(E) bisel en el otro lado; (A) filete.",
           "calificacion": "incorrecta (X)",
-          "figura_ref": 3
+          "figura_ref": 3,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "solucion": {
+            "respuesta": "Símbolo COMBINADO a AMBOS lados: bisel + filete arriba y abajo de la línea de referencia. Lado flecha: bisel con «S(E)» a su izquierda y filete con «A»; otro lado: bisel y filete con «B». La flecha va QUEBRADA y apunta al alma de la T, que es el miembro que se bisela.",
+            "justificacion": "En la sección se ven dos preparaciones en bisel (una a cada lado del alma) y sobre cada una un filete de refuerzo: son dos soldaduras distintas en cada lado, así que cada lado lleva DOS símbolos. Reglas que se califican: (1) el cateto vertical del bisel y del filete siempre a la izquierda; (2) las cotas de tamaño a la izquierda del símbolo, con la profundidad de preparación S fuera del paréntesis y el tamaño de soldadura E dentro; (3) en bisel y en J la flecha se quiebra hacia la pieza que se prepara. Nota: la foto es de baja resolución; la asignación exacta de A y B a cada lado debe confirmarse con el plano original.",
+            "contraste": "Marcada X: la respuesta dejó el filete solo de un lado, no quebró la flecha hacia el miembro biselado y mezcló las cotas (puso «(B)» como tamaño del bisel en lugar del filete).",
+            "figura_ref": 9,
+            "fuente": "Simbología, lám. 4–9 y 14–25."
+          }
         },
         {
           "n": 3,
           "descripcion": "Soldadura de filete intermitente por ambos lados; longitud 2 y paso 4 (tres segmentos por lado).",
           "respuesta_estudiante": "Filete por ambos lados con 2-4 arriba y abajo; (3) indicado.",
-          "figura_ref": 4
+          "figura_ref": 4,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "solucion": {
+            "respuesta": "Filete a AMBOS lados (triángulos arriba y abajo de la línea) con «2-4» a la DERECHA de cada triángulo: longitud de cada tramo 2, paso 4.",
+            "justificacion": "Los tramos de arriba y de abajo están enfrentados (mismas posiciones): es filete intermitente EN CADENA, por eso los dos triángulos quedan alineados. Si estuvieran alternados sería ESCALONADO y los triángulos se dibujan desplazados. El paso se mide de centro a centro de tramos consecutivos.",
+            "contraste": "Correcta. El «(3)» no es necesario: el número entre paréntesis se usa para puntos o proyecciones, no para filetes intermitentes.",
+            "figura_ref": 10,
+            "fuente": "Simbología, lám. 4–9 y 14–25."
+          }
         },
         {
           "n": 4,
           "descripcion": "Junta a tope con ranura en U doble, ángulo 25° por cada lado, profundidad 2 y tamaño de soldadura 2 1/8 por cada lado.",
           "respuesta_estudiante": "2(2 1/8) con símbolo de ranura en U a 25° en ambos lados de la línea de referencia.",
-          "figura_ref": 5
+          "figura_ref": 5,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "solucion": {
+            "respuesta": "Símbolo de ranura en U a AMBOS lados (doble U) con «2(2 1/8)» a la izquierda de cada U y el ángulo de ranura 25° junto a cada símbolo.",
+            "justificacion": "La sección muestra dos ranuras en U opuestas: profundidad de preparación S = 2 por lado y tamaño de soldadura (garganta efectiva) E = 2 1/8 por lado; la notación es S(E) = 2(2 1/8). Al ser simétrica, se repite arriba y abajo de la línea.",
+            "contraste": "Correcta.",
+            "figura_ref": 11,
+            "fuente": "Simbología, lám. 4–9 y 14–25."
+          }
         }
       ],
       "anotacion_al_pie": "Texto manuscrito poco legible: 'P-L {} (S) D'"
     },
-    "junta_de_esquina": {
-      "descripcion": "Sección transversal de una soldadura en junta de esquina (bisel con filete). La estudiante dibujó el símbolo con flecha sobre la junta.",
-      "respuesta_estudiante": "Símbolo de bisel con filete sobre la línea de referencia (lectura parcial).",
-      "figura_ref": 6
-    },
-    "problema_remolque": {
-      "nota_pagina": 1.5,
-      "enunciado": "Una empresa de fabricación de carrocerías livianas ha recibido un pedido especial para diseñar y ensamblar un prototipo de remolque ultraliviano. Para lograr la mayor eficiencia en peso, la estructura principal del chasis debe ser fabricada completamente con piezas en aluminio 6061-T6 con piezas con espesor de 1/4 de pulgada. Este aluminio es conocido por su buena resistencia mecánica y a la corrosión, además de su soldabilidad aceptable.",
-      "pregunta": "Plantee el procedimiento para llevar a cabo el proceso de soldadura.",
-      "datos": {
-        "material": "Aluminio 6061-T6",
-        "espesor_pulg": 0.25,
-        "aplicacion": "Chasis de remolque ultraliviano"
+    "problemas": [
+      {
+        "titulo": "Junta de esquina",
+        "tema": "Unidad 4 · Simbología AWS A2.4",
+        "enunciado": "Establezca la simbología de la soldadura mostrada en la sección transversal de la junta de esquina.",
+        "figura_ref": 6,
+        "respuesta_estudiante": "Símbolo de bisel con filete sobre la línea de referencia (lectura parcial).",
+        "solucion": {
+          "respuesta": "Lado flecha (cara exterior, símbolo DEBAJO de la línea): ranura en J. Otro lado (rincón interior, símbolo ENCIMA): filete de refuerzo. Flecha QUEBRADA hacia la placa horizontal, que es la que se prepara.",
+          "justificacion": "En la sección el cordón llena una preparación de borde curvo en la placa horizontal (J) desde la cara exterior y, por dentro, deja un filete en el rincón. El borde curvo diferencia la J del bisel (borde recto). La flecha se quiebra porque solo un miembro se prepara.",
+          "fuente": "Simbología, lám. 4 (J), lám. 9 (quiebre de la flecha) y lám. 14 (símbolos combinados).",
+          "contraste": "El símbolo dibujado combina ranura y filete, que es la idea correcta; revisa que la J quede del lado de la flecha y que la flecha esté quebrada hacia la placa preparada.",
+          "figura_ref": 12
+        }
       },
-      "respuesta_estudiante": {
-        "descarte_procesos": {
-          "OFW": "No aplica para aluminio",
-          "SMAW": "Quizás (solo emergencia)",
-          "GMAW": "Puede ser"
+      {
+        "titulo": "Problema: remolque ultraliviano en aluminio 6061-T6",
+        "tema": "Proceso GMAW · selección de proceso",
+        "enunciado": "Una empresa de fabricación de carrocerías livianas ha recibido un pedido especial para diseñar y ensamblar un prototipo de remolque ultraliviano. Para lograr la mayor eficiencia en peso, la estructura principal del chasis debe ser fabricada completamente con piezas en aluminio 6061-T6 con piezas con espesor de 1/4 de pulgada. Este aluminio es conocido por su buena resistencia mecánica y a la corrosión, además de su soldabilidad aceptable.",
+        "pregunta": "Plantee el procedimiento para llevar a cabo el proceso de soldadura.",
+        "datos": {
+          "material": "Aluminio 6061-T6",
+          "espesor_pulg": 0.25,
+          "aplicacion": "Chasis de remolque ultraliviano"
         },
-        "procedimiento": "GMAW con gas de protección de helio, por ser especial para aleaciones de alta conductividad térmica. Técnica de rocío pulsado porque el espesor es mayor de 1/8\" y permite soldar en cualquier posición. Electrodo positivo y metal base negativo."
-      },
-      "figura_ref": 7
-    }
+        "figura_ref": 7,
+        "respuesta_estudiante": "OFW: No aplica para aluminio; SMAW: Quizás (solo emergencia); GMAW: Puede ser. GMAW con gas de protección de helio, por ser especial para aleaciones de alta conductividad térmica. Técnica de rocío pulsado porque el espesor es mayor de 1/8\" y permite soldar en cualquier posición. Electrodo positivo y metal base negativo.",
+        "solucion": {
+          "respuesta": "GMAW (MIG) con corriente continua electrodo positivo (DCEP), gas argón (o argón-helio), alambre de aluminio ER4043 o ER5356 y transferencia por rocío pulsado, con limpieza estricta del óxido y una WPS calificada.",
+          "pasos": [
+            "Descarte de procesos: OFW (oxiacetileno) no se recomienda; el curso deja el aluminio como tarea porque su óxido refractario (Al₂O₃ funde a unos 2050 °C y el aluminio a 660 °C) exige fundentes y da mala calidad. SMAW se puede usar en aluminio (SMAW lám. 16), pero da escoria corrosiva y baja calidad: solo para reparaciones. GMAW suelda todas las aleaciones comerciales, en todas las posiciones y con alta productividad (GMAW lám. 17–20).",
+            "Polaridad: DCEP, siempre en GMAW (lám. 29). En aluminio además produce acción de limpieza: rompe la película de óxido.",
+            "Gas: argón 100 % como base, porque es el más usado y da un arco estable. Se puede usar una mezcla argón-helio (por ejemplo 75/25) para más aporte de calor, ya que el aluminio conduce mucho el calor (lám. 46). El helio puro no se usa en GMAW de aluminio porque el arco se vuelve inestable.",
+            "Transferencia: 1/4\" = 6.35 mm, mayor de 1/8\". El rocío es para piezas de más de 1/8\" pero se hace en posición plana. Un chasis tiene juntas en varias posiciones, así que conviene ROCÍO PULSADO: igual que el rocío pero en todas las posiciones (lám. 41).",
+            "Material de aporte: ER4043 (Al-5Si), que resiste el agrietamiento en caliente del 6061, o ER5356 (Al-5Mg) si se necesita más resistencia. Nunca se suelda el 6061 sin aporte, porque se agrieta.",
+            "Equipo: pistola spool-gun o sistema push-pull, funda (liner) de teflón y rodillos en U, porque el alambre de aluminio es blando y se enreda.",
+            "Preparación: desengrasar con acetona o alcohol, NUNCA con solventes clorados (forman fosgeno, Seguridad lám. 13). Cepillar con cepillo de acero inoxidable exclusivo para aluminio y soldar pronto. Uniones: filetes en las juntas en T del bastidor y bisel en V de 60° en los empalmes a tope de 1/4\".",
+            "Técnica: ángulo de empuje (soldadura directa) de 10–15°, que da mejor protección y limpieza en aluminio. Velocidad de avance alta y constante. No hace falta precalentar; si se precalienta, máximo unos 120 °C.",
+            "Diseño: la zona afectada por el calor pierde el temple T6 y queda con menos resistencia (aproximadamente un 30–40 % menos). Por eso las soldaduras se ubican fuera de las zonas de máximo esfuerzo o se sobredimensionan.",
+            "Calidad: redactar la WPS y calificarla con un PQR según AWS D1.2 (código estructural para aluminio). Inspeccionar con VT y PT (líquidos penetrantes).",
+            "Seguridad: ventilación o extracción de humos (el arco en aluminio con argón genera mucho ozono y radiación UV intensa) y careta con el filtro adecuado."
+          ],
+          "justificacion": "Un problema de «plantee el procedimiento» se califica por la secuencia completa: selección justificada del proceso, parámetros (polaridad, gas, transferencia, aporte), preparación, técnica, calidad y seguridad. Cada decisión debe ir con su porqué.",
+          "fuente": "GMAW, lám. 17–21, 29, 41, 46; SMAW, lám. 16; Oxiacetileno, lám. 39–40; Terminología, lám. 14–16; Seguridad, lám. 13.",
+          "contraste": "Buena respuesta: descarta bien los procesos y acierta en GMAW, DCEP y rocío pulsado (por más de 1/8\" y por la posición). Para la nota completa le faltó: el material de aporte (ER4043/5356), que el gas base es argón (el helio solo, o en mezcla, aporta calor), la limpieza del óxido, la técnica de empuje, la pérdida de resistencia T6 en la ZAC y la WPS/PQR."
+        }
+      }
+    ]
   },
   "notas_transcripcion": "Datos extraídos de 4 fotografías. Las calificaciones por ítem se infieren de las marcas del docente (✓, X, †); donde las marcas no son claras se indica 'ambigua'. El código de estudiante y algunas anotaciones manuscritas son de lectura dudosa.",
   "figuras": [
@@ -243,43 +433,80 @@
       "n": 1,
       "archivo": "figuras/fig_01_soplo_de_arco.jpg",
       "pagina": 1,
-      "descripcion": "Placa con electrodo, arco y cable de masa (pregunta de soplo de arco)"
+      "descripcion": "Placa con electrodo, arco y cable de masa (pregunta de soplo de arco)",
+      "detalle": "Placa en perspectiva con una junta longitudinal; arriba tres posiciones de la punta del electrodo y a la derecha la pinza del cable de masa (es la lámina 37 de SMAW). En el arco más alejado de la masa el arco se curva: eso es el soplo. La estudiante encerró en un círculo la esquina inferior derecha de la placa como lugar para la masa."
     },
     {
       "n": 2,
       "archivo": "figuras/fig_02_simbologia_ej1_marco_cuadrado.jpg",
       "pagina": 3,
-      "descripcion": "Simbología ej. 1: marco cuadrado sobre base y respuesta"
+      "descripcion": "Simbología ej. 1: marco cuadrado sobre base y respuesta",
+      "detalle": "Izquierda: vista frontal de un marco cuadrado (sección de tubo) apoyado sobre una base. Derecha: la vista en planta del marco con la respuesta dibujada (flecha, línea de referencia, triángulo de filete y círculo de todo alrededor)."
     },
     {
       "n": 3,
       "archivo": "figuras/fig_03_simbologia_ej2_junta_T_biseles.jpg",
       "pagina": 3,
-      "descripcion": "Simbología ej. 2: junta en T con biseles y filetes y respuesta"
+      "descripcion": "Simbología ej. 2: junta en T con biseles y filetes y respuesta",
+      "detalle": "Izquierda: sección de una junta en T; el ala es vertical y el alma horizontal llega desde la derecha. El alma tiene preparación en bisel por arriba y por abajo, y cada bisel lleva un filete de refuerzo (zonas sombreadas). Cotas: B (arriba), S (lado derecho, profundidad), E (izquierda, garganta de la ranura) y A (abajo, filete). Derecha: la T en vista con la respuesta: «(B)» bisel arriba, «S(E)» bisel y «(A)» filete abajo."
     },
     {
       "n": 4,
       "archivo": "figuras/fig_04_simbologia_ej3_filete_intermitente.jpg",
       "pagina": 3,
-      "descripcion": "Simbología ej. 3: filete intermitente y respuesta"
+      "descripcion": "Simbología ej. 3: filete intermitente y respuesta",
+      "detalle": "Vista en planta de una placa con alma: tres tramos de filete arriba y tres abajo, ENFRENTADOS (en cadena). Cotas inferiores 2 (longitud de tramo) y superiores 4 (paso). Rótulo «SOLDADURAS». A la derecha, la respuesta: filete a ambos lados «2-4» y un «(3)»."
     },
     {
       "n": 5,
       "archivo": "figuras/fig_05_simbologia_ej4_ranura_U_doble.jpg",
       "pagina": 3,
-      "descripcion": "Simbología ej. 4: ranura en U doble a 25° y respuesta"
+      "descripcion": "Simbología ej. 4: ranura en U doble a 25° y respuesta",
+      "detalle": "Sección de una junta a tope de dos placas gruesas con ranura en U a ambos lados (doble U, cordones sombreados). Ángulo de 25° arriba y abajo; a la izquierda la profundidad 2 por lado y a la derecha el tamaño de soldadura 2 1/8 por lado. A la derecha, la respuesta «2(2 1/8)» con U y 25° a ambos lados."
     },
     {
       "n": 6,
       "archivo": "figuras/fig_06_junta_de_esquina.jpg",
       "pagina": 4,
-      "descripcion": "Sección transversal de junta de esquina y símbolo dibujado"
+      "descripcion": "Sección transversal de junta de esquina y símbolo dibujado",
+      "detalle": "Izquierda: «SECCIÓN TRANSVERSAL DE LA SOLDADURA» de una junta de esquina; placa vertical a la izquierda y placa horizontal encima hacia la derecha. El cordón sombreado llena una preparación curva desde la cara superior y se prolonga como filete en el rincón interior. Derecha: la misma esquina con la flecha dibujada por la estudiante."
     },
     {
       "n": 7,
       "archivo": "figuras/fig_07_remolque_chasis.jpg",
       "pagina": 4,
-      "descripcion": "Foto del chasis del remolque ultraliviano"
+      "descripcion": "Foto del chasis del remolque ultraliviano",
+      "detalle": "Fotografía de un remolque liviano de un eje: bastidor rectangular de perfiles con travesaños, lanza triangular al frente con rueda jockey y dos ruedas laterales. Todas las uniones del bastidor son juntas en T y a tope entre perfiles: muchas quedan en posición horizontal, vertical o sobre cabeza."
+    },
+    {
+      "n": 8,
+      "archivo": "figuras/sol_02_marco_cuadrado.svg",
+      "tipo": "solucion",
+      "descripcion": "Solución ej. 1: filete lado flecha + círculo de soldadura todo alrededor"
+    },
+    {
+      "n": 9,
+      "archivo": "figuras/sol_03_junta_T_doble_bisel.svg",
+      "tipo": "solucion",
+      "descripcion": "Solución ej. 2: bisel + filete a ambos lados con flecha quebrada"
+    },
+    {
+      "n": 10,
+      "archivo": "figuras/sol_04_filete_intermitente.svg",
+      "tipo": "solucion",
+      "descripcion": "Solución ej. 3: filete intermitente en cadena 2-4 a ambos lados"
+    },
+    {
+      "n": 11,
+      "archivo": "figuras/sol_05_ranura_U_doble.svg",
+      "tipo": "solucion",
+      "descripcion": "Solución ej. 4: doble U 2(2 1/8) a 25°"
+    },
+    {
+      "n": 12,
+      "archivo": "figuras/sol_06_junta_esquina.svg",
+      "tipo": "solucion",
+      "descripcion": "Solución junta de esquina: J lado flecha + filete otro lado"
     }
   ]
 }

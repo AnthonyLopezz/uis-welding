@@ -390,7 +390,21 @@ def clean_table(table: list) -> list[list[str]]:
     return cleaned
 
 
-def save_raster(doc, xref: int, dest_stem: Path) -> tuple[str, str]:
+def placement_turn(transform) -> Image.Transpose | None:
+    """Giro con el que el PDF coloca la imagen en la página (matriz a,b,c,d); None si va derecha.
+
+    extract_image() devuelve los píxeles crudos: sin esto, las láminas que el PDF pinta giradas
+    salen al revés (180°) o de lado (90°).
+    """
+    a, b, c, d = transform[:4]
+    if abs(a) < 1e-3 and abs(d) < 1e-3:   # antes que el 180°: a y d pueden venir como -0.0001
+        return Image.Transpose.ROTATE_270 if b > 0 else Image.Transpose.ROTATE_90
+    if a < 0 and d < 0:
+        return Image.Transpose.ROTATE_180
+    return None
+
+
+def save_raster(doc, xref: int, dest_stem: Path, transform=None) -> tuple[str, str]:
     info = doc.extract_image(xref)
     ext = info["ext"] or "png"
     raw = dest_stem.with_suffix("." + ext)
@@ -408,6 +422,9 @@ def save_raster(doc, xref: int, dest_stem: Path) -> tuple[str, str]:
             raw = dest_stem.with_suffix(".png")
             raw.write_bytes(pix.tobytes("png"))
             ext = "png"
+    turn = placement_turn(transform) if transform else None
+    if turn is not None:
+        image = image.transpose(turn)
     webp = dest_stem.with_suffix(".webp")
     image.save(webp, "WEBP", quality=82)
     return ext, webp.name
@@ -709,6 +726,8 @@ def extract_document(pdf_path: Path, spec: dict, alts: dict, report: dict) -> di
             xref = item["xref"]
             bbox = [round(v, 1) for v in item["bbox"]]
             w, h = int(item["width"]), int(item["height"])
+            if placement_turn(item["transform"]) in (Image.Transpose.ROTATE_90, Image.Transpose.ROTATE_270):
+                w, h = h, w
             base_label = slugify(title) if title else f"lamina-pagina-{page_no}"
             stem_name = f"{slug}-p{page_no:02d}-{base_label}"
             if xref in saved_xref:
@@ -722,7 +741,7 @@ def extract_document(pdf_path: Path, spec: dict, alts: dict, report: dict) -> di
                     stem = img_dir / f"{stem_name}-{n}"
                     n += 1
                 try:
-                    ext, webp_name = save_raster(doc, xref, stem)
+                    ext, webp_name = save_raster(doc, xref, stem, item["transform"])
                 except Exception as exc:
                     report["errors"].append(
                         {"file": pdf_path.name, "page": page_no, "image": image_id, "error": str(exc)}

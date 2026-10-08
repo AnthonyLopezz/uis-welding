@@ -47,7 +47,7 @@ export function ImageFigure({ image, showGuide = true }: { image: ContentImage; 
       )}
       <figcaption>
         {image.description ?? image.alt}
-        <span className="figure__page"> · Lámina {image.page}</span>
+        {image.page > 0 && <span className="figure__page"> · Lámina {image.page}</span>}
       </figcaption>
       {showGuide && image.labels.length > 0 && (
         <aside className="observe">

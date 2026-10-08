@@ -1,0 +1,319 @@
+{
+  "encabezado": {
+    "institucion": "Universidad Industrial de Santander (UIS)",
+    "escuela": "EIMCM - Escuela de Ingeniería Metalúrgica y Ciencia de los Materiales",
+    "programa": "Ingeniería Metalúrgica",
+    "asignatura": "Soldadura",
+    "codigo_asignatura": "27178",
+    "titulo": "Simulacro Parcial 1. Seguridad, terminología y simbología en soldadura, procesos SMAW, GMAW y oxiacetileno",
+    "fecha_manuscrita": "Simulacro",
+    "tipo": "simulacro",
+    "nota_maxima": 5.0,
+    "instrucciones": "Simulacro con la misma estructura y peso del Parcial 1 (Teoría 2.0 + Ejercicios 3.0). Resuelve sin mirar la clave; en los ejercicios escribe el proceso paso a paso. Cada respuesta trae su justificación y la lámina del curso donde se estudia.",
+    "temas": [
+      "Unidad 2 · Seguridad en soldadura",
+      "Unidad 3 · Terminología",
+      "Unidad 4 · Simbología AWS A2.4",
+      "Proceso SMAW",
+      "Proceso GMAW",
+      "Proceso oxiacetileno (OFW)"
+    ],
+    "nota_clave": "Cada pregunta trae la clave, por qué es verdadera o falsa (o por qué cada distractor no es la respuesta) y la lámina del curso. Las preguntas copian las trampas típicas del Parcial 1: cifras cambiadas, términos invertidos y opciones casi correctas."
+  },
+  "parte_1_teoria": {
+    "valor": 2.0,
+    "verdadero_falso": [
+      {
+        "n": 1,
+        "tema": "Unidad 2 · Seguridad en soldadura",
+        "enunciado": "Los deslumbramientos ocasionales producidos por mirar el arco eléctrico sin protección causan ceguera permanente.",
+        "solucion": {
+          "respuesta": "F",
+          "justificacion": "La lámina dice lo contrario: los deslumbramientos ocasionales NO producen ceguera, pero deben evitarse (causan inflamación dolorosa de la córnea, el «ojo de arco»). El daño serio viene de la exposición repetida y de las quemaduras de piel por radiación infrarroja y ultravioleta.",
+          "fuente": "Seguridad, lám. 6–7.",
+          "contraste": "La trampa es la palabra «permanente». Si te equivocaste, recuerda: ocasional → no hay ceguera, pero sí lesión; repetido → daño acumulativo."
+        }
+      },
+      {
+        "n": 2,
+        "tema": "Proceso SMAW",
+        "enunciado": "En SMAW, el voltaje de circuito abierto suele estar entre 50 y 80 V, mientras que el voltaje de operación (arco encendido) fluctúa entre 17 y 40 V.",
+        "solucion": {
+          "respuesta": "V",
+          "justificacion": "El voltaje de circuito abierto se mide entre electrodo y tierra sin corriente: 50–80 V. Al encender el arco el voltaje cae al de operación, que depende del electrodo, la polaridad, la longitud del arco y el tipo de corriente: 17–40 V. Ambas cifras coinciden con las láminas.",
+          "fuente": "SMAW, lám. 41–42.",
+          "contraste": "No lo confundas con el voltaje de la red (120–575 V), que es la trampa de la pregunta 3 del Parcial 1."
+        }
+      },
+      {
+        "n": 3,
+        "tema": "Proceso GMAW",
+        "enunciado": "En GMAW se puede usar indistintamente corriente continua electrodo negativo (DCEN) o electrodo positivo (DCEP), según el espesor de la pieza.",
+        "solucion": {
+          "respuesta": "F",
+          "justificacion": "En GMAW SIEMPRE se usa corriente continua electrodo positivo (DCEP/DCRP). La transferencia de metal lleva iones positivos que deben viajar del polo positivo (el alambre) al negativo (la pieza). El espesor se maneja con la velocidad del alambre, el voltaje y el modo de transferencia, no con la polaridad.",
+          "fuente": "GMAW, lám. 25 y 29.",
+          "contraste": "En SMAW sí se elige entre AC, DCEN y DCEP; en GMAW no. Esa diferencia entre procesos es una pregunta típica."
+        }
+      },
+      {
+        "n": 4,
+        "tema": "Proceso oxiacetileno (OFW)",
+        "enunciado": "El regulador de acetileno nunca debe ajustarse por encima de 15 lb/pulg², porque a mayor presión puede producirse una disociación explosiva del gas.",
+        "solucion": {
+          "respuesta": "V",
+          "justificacion": "Es literal de la lámina. Por encima de unas 15 psi el acetileno libre se vuelve inestable y puede descomponerse en forma explosiva aun sin oxígeno. Por eso el acetileno va disuelto en acetona dentro del cilindro y la válvula se abre como máximo giro y medio.",
+          "fuente": "Oxiacetileno, lám. 15–16.",
+          "contraste": "Cifras relacionadas que suelen cambiar en las preguntas: cilindro de acetileno unas 225 psi, cilindro de oxígeno unas 2250 psi, purga del oxígeno a unas 6 psi."
+        }
+      },
+      {
+        "n": 5,
+        "tema": "Unidad 3 · Terminología",
+        "enunciado": "La posición 5G corresponde a tubería horizontal fija (sin rotar) y abarca soldadura plana, vertical y sobre cabeza en el mismo cordón.",
+        "solucion": {
+          "respuesta": "V",
+          "justificacion": "En 5G el tubo está horizontal e inmóvil: el soldador recorre la circunferencia pasando por plana (arriba), vertical (los lados) y sobre cabeza (abajo). En cambio, 1G es el tubo horizontal que se ROTA, 2G el tubo vertical fijo y 6G el tubo inclinado 45° fijo.",
+          "fuente": "Terminología, lám. 35.",
+          "contraste": "La trampa habitual es confundir 5G (horizontal fijo) con 1G (horizontal rotando)."
+        }
+      },
+      {
+        "n": 6,
+        "tema": "Proceso GMAW",
+        "enunciado": "El argón es el gas más usado en GMAW por su alta conductividad térmica y porque es diez veces más liviano que el helio.",
+        "solucion": {
+          "respuesta": "F",
+          "justificacion": "Tiene dos errores. (1) El argón tiene BAJA conductividad del calor; el buen conductor es el helio. (2) El argón es diez veces más PESADO que el helio, por eso cubre mejor el charco. Basta un dato falso para que la afirmación sea falsa.",
+          "fuente": "GMAW, lám. 46.",
+          "contraste": "Truco de examen: las afirmaciones con dos datos suelen tener uno bueno y uno malo. Verifica cada dato por separado."
+        }
+      }
+    ],
+    "pregunta_abierta": {
+      "titulo": "Tipos de llama oxiacetilénica",
+      "tema": "Proceso oxiacetileno (OFW)",
+      "enunciado": "Observe las tres llamas A, B y C. Identifique cada una (carburante/reductora, neutra u oxidante) y diga qué la distingue a simple vista. ¿Cuál usaría para soldar acero al carbono y por qué? Escriba la reacción primaria y la reacción global de la llama neutra.",
+      "figura_ref": 1,
+      "solucion": {
+        "respuesta": "A = carburante (reductora), B = neutra, C = oxidante. Para acero al carbono se usa la llama NEUTRA (B).",
+        "pasos": [
+          "A, llama CARBURANTE: además del cono interno tiene un PENACHO o pluma intermedia blanquecina (la zona amarilla). Hay exceso de acetileno y el carbono libre carbura el acero.",
+          "B, llama NEUTRA: el cono interno es nítido, redondeado y de bordes bien definidos, sin pluma. Se obtiene abriendo el oxígeno hasta que desaparece el borde aserrado (lám. 18–19). La relación en el soplete es 1:1.",
+          "C, llama OXIDANTE: el cono interno es más corto y puntiagudo y la llama suena más fuerte (silbido). Hay exceso de oxígeno, que oxida el charco y produce chispas y porosidad.",
+          "Para acero al carbono se usa la neutra, porque ni añade carbono (que endurece y fragiliza) ni oxida el metal fundido.",
+          "Reacción primaria (cono interno, oxígeno del cilindro): C₂H₂ + O₂ → 2 CO + H₂.",
+          "Reacción secundaria (envoltura, oxígeno del aire): 2 CO + H₂ + 1.5 O₂ → 2 CO₂ + H₂O.",
+          "Reacción global: C₂H₂ + 2.5 O₂ → 2 CO₂ + H₂O. Balance de oxígeno: 5 átomos a cada lado ✓."
+        ],
+        "justificacion": "Esta pregunta corrige el error del Parcial 1: la relación 2.5:1 es GLOBAL; del cilindro sale solo 1 mol de O₂ por mol de acetileno y los otros 1.5 los toma la llama del aire.",
+        "fuente": "Oxiacetileno, lám. 18–23."
+      }
+    },
+    "seleccion_multiple": [
+      {
+        "n": 1,
+        "tema": "Unidad 3 · Terminología",
+        "enunciado": "¿Qué documento contiene la serie de instrucciones (amperaje, voltaje, metal de aporte, gas, etc.) que, al seguirse, producen una soldadura sana?",
+        "opciones": {
+          "A": "Registro de calificación del procedimiento (PQR)",
+          "B": "Especificación del procedimiento de soldadura (WPS)",
+          "C": "Código AWS D1.1",
+          "D": "Certificado de calificación del soldador"
+        },
+        "solucion": {
+          "respuesta": "B",
+          "justificacion": "La WPS es la «receta»: la serie de instrucciones que, al seguirse, producen una soldadura sana, normalmente escrita según un código. El PQR es la prueba documentada de que esa receta funciona.",
+          "opciones": {
+            "A": "El PQR registra los parámetros y resultados de las probetas: califica a la WPS, pero no es la instrucción de trabajo.",
+            "B": "Correcta.",
+            "C": "AWS D1.1 es un código (reglas generales para acero estructural), no un procedimiento específico.",
+            "D": "Ese certificado califica a la PERSONA, no al procedimiento."
+          },
+          "fuente": "Terminología, lám. 14–16."
+        }
+      },
+      {
+        "n": 2,
+        "tema": "Unidad 3 · Terminología",
+        "enunciado": "Una soldadura de filete en la que el eje del cordón es horizontal y una de las chapas está en posición vertical se designa, según AWS, como:",
+        "opciones": { "A": "1F", "B": "2F", "C": "2G", "D": "3F" },
+        "solucion": {
+          "respuesta": "B",
+          "justificacion": "Es filete (letra F) en posición horizontal (número 2): 2F (UNE: PB). La G se reserva para soldaduras de ranura o a tope.",
+          "opciones": {
+            "A": "1F es filete en posición plana (acunada, con las chapas a 45°).",
+            "B": "Correcta.",
+            "C": "2G es posición horizontal pero en junta A TOPE (ranura), no filete.",
+            "D": "3F es filete en posición vertical (ambas chapas verticales)."
+          },
+          "fuente": "Terminología, lám. 30–31."
+        }
+      },
+      {
+        "n": 3,
+        "tema": "Unidad 3 · Terminología",
+        "enunciado": "Una empresa va a construir un gasoducto de acero. ¿Qué código es el más apropiado?",
+        "opciones": { "A": "ASME Sección IX", "B": "AWS D1.1", "C": "API 1104", "D": "ANSI/AWS A2.4" },
+        "solucion": {
+          "respuesta": "C",
+          "justificacion": "API 1104 (American Petroleum Institute) es el código para conductos: oleoductos y gasoductos.",
+          "opciones": {
+            "A": "ASME Sección IX es para recipientes de presión y componentes nucleares (la respuesta del Parcial 1).",
+            "B": "AWS D1.1 es para puentes, edificios y acero estructural.",
+            "C": "Correcta.",
+            "D": "AWS A2.4 es la norma de SÍMBOLOS de soldadura y ensayos no destructivos, no un código de fabricación."
+          },
+          "fuente": "Terminología, lám. 13; Simbología, lám. 3."
+        }
+      },
+      {
+        "n": 4,
+        "tema": "Proceso oxiacetileno (OFW)",
+        "enunciado": "En la combustión completa del propano (C₃H₈) con oxígeno, ¿qué relación molar O₂ : C₃H₈ se requiere? Establezca la ecuación.",
+        "opciones": { "A": "2.5 : 1", "B": "5 : 1", "C": "3 : 1", "D": "1 : 5" },
+        "solucion": {
+          "respuesta": "B",
+          "justificacion": "C₃H₈ + 5 O₂ → 3 CO₂ + 4 H₂O. Balance: C 3 = 3; H 8 = 4×2; O 5×2 = 10 = 3×2 + 4 ✓. Se necesitan 5 moles de O₂ por cada mol de propano.",
+          "opciones": {
+            "A": "2.5 : 1 es la relación del ACETILENO (C₂H₂), no la del propano.",
+            "B": "Correcta.",
+            "C": "3 : 1 sale de igualar los carbonos y olvidarse del hidrógeno.",
+            "D": "1 : 5 es la relación invertida."
+          },
+          "fuente": "Oxiacetileno, lám. 23 (método) y lám. 32 y 42 (propano)."
+        }
+      },
+      {
+        "n": 5,
+        "tema": "Proceso GMAW",
+        "enunciado": "Se requiere soldar con GMAW placas de 1/4\" en TODAS las posiciones, con altas tasas de deposición y prácticamente sin salpicaduras. ¿Qué modo de transferencia es el adecuado?",
+        "opciones": { "A": "Cortocircuito", "B": "Globular", "C": "Rocío", "D": "Rocío pulsado" },
+        "solucion": {
+          "respuesta": "D",
+          "justificacion": "El rocío pulsado es igual que el rocío (alta deposición, sin salpicaduras, excelente penetración, para piezas de más de 1/8\"), pero la fuente da pulsos que bajan el aporte de calor promedio y permite soldar en todas las posiciones.",
+          "opciones": {
+            "A": "El cortocircuito sirve en todas las posiciones, pero tiene baja deposición y poca penetración (para calibres delgados).",
+            "B": "La globular produce salpicaduras y queda limitada a plana/horizontal.",
+            "C": "El rocío cumple en deposición y salpicaduras, pero generalmente se hace solo en posición plana.",
+            "D": "Correcta."
+          },
+          "fuente": "GMAW, lám. 36 y 41."
+        }
+      }
+    ]
+  },
+  "parte_2_ejercicios": {
+    "valor": 3.0,
+    "simbologia": {
+      "instruccion": "Establezca la simbología AWS A2.4 correspondiente a cada figura (flecha, línea de referencia, símbolos y cotas).",
+      "ejercicios": [
+        {
+          "n": 1,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "descripcion": "Tubo soldado sobre una placa base con un filete de 1/4\" en todo el contorno; la soldadura se ejecuta en obra durante el montaje.",
+          "figura_ref": 2,
+          "solucion": {
+            "respuesta": "Triángulo de filete DEBAJO de la línea (lado flecha) con «1/4» a su izquierda, CÍRCULO de todo alrededor y BANDERA rellena de soldadura de campo en la unión de la flecha con la línea de referencia.",
+            "justificacion": "Tres informaciones, tres elementos: tipo y tamaño (filete 1/4), recorrido (todo el contorno → círculo) y lugar (en obra → bandera). Variante del ejercicio 1 del Parcial 1 con la bandera añadida.",
+            "fuente": "Simbología, lám. 5, 8 y 15.",
+            "figura_ref": 7
+          }
+        },
+        {
+          "n": 2,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "descripcion": "Junta a tope en V sencilla a 60°, profundidad de preparación 3/8\", abertura de raíz 1/8\" y penetración completa visible en la raíz (lado opuesto).",
+          "figura_ref": 3,
+          "solucion": {
+            "respuesta": "Símbolo en V DEBAJO de la línea (lado flecha) con «3/8» a la izquierda, «1/8» dentro de la V (abertura de raíz) y «60°» debajo del símbolo; SEMICÍRCULO RELLENO encima de la línea (otro lado) = penetración completa.",
+            "justificacion": "Cada cota tiene su lugar fijo: profundidad/tamaño a la izquierda, abertura de raíz dentro del símbolo y ángulo de ranura junto a él. El semicírculo relleno se dibuja en el lado opuesto a la soldadura de ranura e indica 100 % de penetración visible.",
+            "fuente": "Simbología, lám. 6, 8, 19 y 22–26.",
+            "figura_ref": 8
+          }
+        },
+        {
+          "n": 3,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "descripcion": "Junta en T con filetes intermitentes de 1/4\" a ambos lados del alma: tramos de 2\" con paso de 5\", ALTERNADOS de un lado respecto al otro.",
+          "figura_ref": 4,
+          "solucion": {
+            "respuesta": "Filete a ambos lados con los triángulos DESPLAZADOS (no enfrentados), «1/4» a la izquierda de cada uno y «2-5» a la derecha de cada uno.",
+            "justificacion": "Si los tramos están alternados el intermitente es ESCALONADO y los triángulos se dibujan corridos. Compara con el ejercicio 3 del Parcial 1 (en cadena, triángulos alineados). El formato es tamaño ◺ longitud-paso, con el paso medido de centro a centro.",
+            "fuente": "Simbología, lám. 6 y 15–17.",
+            "figura_ref": 9
+          }
+        },
+        {
+          "n": 4,
+          "tema": "Unidad 4 · Simbología AWS A2.4",
+          "descripcion": "Junta en T: el alma de 1\" se bisela a 45° por ambos lados con profundidad de 3/8\" por lado; los cordones quedan esmerilados a ras.",
+          "figura_ref": 5,
+          "solucion": {
+            "respuesta": "Bisel a AMBOS lados (doble bisel o «K») con «3/8» a la izquierda y «45°» en cada lado; raya horizontal de contorno plano con la letra «G» sobre cada bisel; flecha QUEBRADA apuntando al alma.",
+            "justificacion": "El bisel se dibuja con el cateto vertical a la izquierda. Como solo el alma se prepara, la flecha se quiebra hacia ella. El contorno plano es una raya paralela a la línea, y la letra indica el método de acabado: G = esmerilado, M = maquinado, H = martillado.",
+            "fuente": "Simbología, lám. 4, 9, 14 y 20.",
+            "figura_ref": 10
+          }
+        }
+      ]
+    },
+    "problemas": [
+      {
+        "titulo": "Cálculo: consumo de gases en llama neutra",
+        "tema": "Proceso oxiacetileno (OFW)",
+        "enunciado": "En una jornada de soldadura oxiacetilénica con llama neutra se consumen 500 L de acetileno medidos en condiciones normales (0 °C, 1 atm).",
+        "pregunta": "Calcule: a) moles de acetileno; b) moles y volumen TOTAL de oxígeno que exige la combustión; c) cuánto oxígeno sale del cilindro y cuánto se toma del aire; d) volumen de aire necesario (20 % O₂ en volumen); e) volumen de CO₂ producido. Datos: volumen molar en CN = 22.4 L/mol.",
+        "solucion": {
+          "respuesta": "a) 22.32 mol C₂H₂; b) 55.80 mol = 1250 L O₂; c) 500 L del cilindro y 750 L del aire; d) 3750 L de aire; e) 1000 L de CO₂.",
+          "pasos": [
+            "Ecuación global: C₂H₂ + 2.5 O₂ → 2 CO₂ + H₂O.",
+            "a) n(C₂H₂) = 500 L ÷ 22.4 L/mol = 22.32 mol.",
+            "b) n(O₂) total = 2.5 × 22.32 = 55.80 mol → V = 55.80 × 22.4 = 1250 L. Atajo: en gases a igual P y T la relación molar es la relación de volúmenes, así que 2.5 × 500 L = 1250 L.",
+            "c) Reacción primaria C₂H₂ + O₂ → 2 CO + H₂: del cilindro sale 1 volumen de O₂ por volumen de acetileno, o sea 500 L. El resto viene del aire: 1250 − 500 = 750 L (reacción secundaria 2 CO + H₂ + 1.5 O₂).",
+            "d) V(aire) = 750 L ÷ 0.20 = 3750 L.",
+            "e) V(CO₂) = 2 × 500 = 1000 L (44.64 mol). Además se forman 22.32 mol de H₂O.",
+            "Comprobación: O₂ total = 2.5 × C₂H₂ → 1250 / 500 = 2.5 ✓."
+          ],
+          "justificacion": "Es el mismo tipo de ejercicio de la lámina 42 (propano). Lo que se califica es la ecuación balanceada, usar la relación molar y diferenciar el oxígeno del cilindro (1:1) del total (2.5:1).",
+          "fuente": "Oxiacetileno, lám. 23 y 42."
+        }
+      },
+      {
+        "titulo": "Problema: empalme de viga de puente en sitio",
+        "tema": "Proceso SMAW · selección de proceso",
+        "enunciado": "Se debe empalmar en sitio una viga nueva de acero A36 a una viga existente de un puente. Alas y alma de 1/2\". Las juntas quedan en posición vertical (3G) y sobre cabeza (4G), hay viento de unos 25 km/h y en la madrugada el acero está a 12 °C.",
+        "pregunta": "Seleccione y justifique el proceso, el código, la polaridad, el electrodo, las condiciones de trabajo y las medidas de seguridad.",
+        "figura_ref": 6,
+        "solucion": {
+          "respuesta": "SMAW con electrodo de bajo hidrógeno E7018 (raíz opcional con E6010), en DCEP, bajo AWS D1.1, con precalentamiento por estar el acero a menos de 18 °C, juntas en doble V y una WPS/PQR calificada en 3G y 4G.",
+          "pasos": [
+            "Descarte: GMAW queda limitado a días despejados y sin viento (lám. 23), porque el viento barre el gas de protección. OFW no es económico en piezas gruesas (lám. 37). SMAW resiste mejor el viento, el equipo es portátil y suelda en todas las posiciones (SMAW lám. 19).",
+            "Código: AWS D1.1, para puentes, edificios y acero estructural (Terminología lám. 13). En la práctica los puentes en EE. UU. usan AWS D1.5, derivado del D1.1.",
+            "WPS calificada con su PQR, y soldadores calificados en 3G y 4G.",
+            "Electrodo y polaridad: E7018 de bajo hidrógeno en DCEP, porque da buena estabilidad del arco (lám. 33) y evita la fisuración por hidrógeno en una estructura crítica. Si la raíz se hace con E6010, también en DCEP.",
+            "Condiciones: el acero a 12 °C está por debajo de 18 °C, así que hay que PRECALENTAR (SMAW lám. 26). No se suelda si llueve, si hay tormenta de arena, etc.",
+            "Junta: con 1/2\" de espesor, ranura en doble V (o V con respaldo) y varias pasadas.",
+            "Soplo de arco: en CC y en una estructura grande el campo magnético es asimétrico. Se controla ubicando la masa hacia donde avanza la soldadura, con arco corto y, si hace falta, con CA.",
+            "Seguridad: retirar los combustibles y poner mantas ignífugas (lám. 8–9), mantener secos los guantes y el equipo (riesgo eléctrico, lám. 5), usar protección UV/IR y arnés para el trabajo en altura.",
+            "Inspección: VT de todos los cordones y UT o RT en las ranuras de penetración completa (símbolos de ensayos, Simbología lám. 12)."
+          ],
+          "justificacion": "Es el «problema del remolque» al revés: allí el material (aluminio) decidía el proceso; aquí deciden las condiciones de campo (viento, posición y temperatura). Siempre justifica el proceso descartando los otros con datos de las láminas.",
+          "fuente": "SMAW, lám. 19, 26, 33, 37–38; GMAW, lám. 23; Oxiacetileno, lám. 37; Terminología, lám. 13–16; Seguridad, lám. 5–9."
+        }
+      }
+    ]
+  },
+  "figuras": [
+    { "n": 1, "archivo": "figuras/fig_01_tipos_de_llama.svg", "descripcion": "Tres llamas oxiacetilénicas A, B y C", "detalle": "Tres llamas saliendo de la boquilla, vistas de lado. A: cono interno blanco + pluma intermedia amarilla larga + envoltura azul. B: cono interno corto, redondeado y nítido, sin pluma. C: cono interno muy corto y puntiagudo." },
+    { "n": 2, "archivo": "figuras/fig_02_tubo_sobre_placa.svg", "descripcion": "Tubo sobre placa base, filete todo alrededor en obra", "detalle": "Elevación: tubo vertical apoyado sobre una placa, con filetes (triángulos grises) a ambos lados del tubo. Planta: el círculo del tubo con un anillo gris continuo, es decir, el filete recorre todo el contorno." },
+    { "n": 3, "archivo": "figuras/fig_03_v_sencilla.svg", "descripcion": "Junta a tope en V sencilla 60°", "detalle": "Sección de dos placas a tope con ranura en V de 60° abierta hacia arriba, profundidad de preparación 3/8 (cota a la izquierda), abertura de raíz 1/8 (cota inferior). El cordón llena la V y en la cara inferior asoma un refuerzo oscuro: penetración completa." },
+    { "n": 4, "archivo": "figuras/fig_04_filete_escalonado.svg", "descripcion": "Filete intermitente escalonado en junta T", "detalle": "Planta de un alma entre dos líneas. Tres tramos de filete arriba y tres abajo, ALTERNADOS (los de abajo quedan en los huecos de los de arriba). Cotas: longitud 2 y paso 5 de centro a centro." },
+    { "n": 5, "archivo": "figuras/fig_05_T_doble_bisel.svg", "descripcion": "Junta en T con alma en doble bisel", "detalle": "Sección: ala vertical a la izquierda y alma horizontal que llega desde la derecha con sus dos aristas biseladas a 45° (cuñas grises arriba y abajo). Raya gruesa sobre cada cordón: superficie esmerilada a ras." },
+    { "n": 6, "archivo": "figuras/fig_06_empalme_viga.svg", "descripcion": "Empalme de viga de puente en sitio", "detalle": "Viga en I vista de lado: a la izquierda la viga existente, a la derecha la nueva, y una línea roja discontinua marca la junta de empalme que se suelda en sitio. Pie de figura: espesores de 1/2\", posiciones 3G y 4G y viento de unos 25 km/h." },
+    { "n": 7, "archivo": "figuras/sol_02_tubo_placa.svg", "tipo": "solucion", "descripcion": "Solución: filete 1/4 todo alrededor + soldadura de campo" },
+    { "n": 8, "archivo": "figuras/sol_03_v_sencilla.svg", "tipo": "solucion", "descripcion": "Solución: V 3/8, abertura 1/8, 60°, penetración completa" },
+    { "n": 9, "archivo": "figuras/sol_04_filete_escalonado.svg", "tipo": "solucion", "descripcion": "Solución: filete 1/4 escalonado 2-5 a ambos lados" },
+    { "n": 10, "archivo": "figuras/sol_05_T_doble_bisel.svg", "tipo": "solucion", "descripcion": "Solución: doble bisel 3/8 a 45° con contorno esmerilado G" }
+  ]
+}
